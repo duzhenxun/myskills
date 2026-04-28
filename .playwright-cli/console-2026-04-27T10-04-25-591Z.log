@@ -1,0 +1,4 @@
+[     625ms] [ERROR] The Content Security Policy directive 'upgrade-insecure-requests' is ignored when delivered in a report-only policy. @ https://www.douyin.com/jingxuan?modal_id=7632657462063140130:0
+[     636ms] [LOG] init slardar @ https://www.douyin.com/jingxuan?modal_id=7632657462063140130:21
+[     637ms] [LOG] init slardar success @ https://www.douyin.com/jingxuan?modal_id=7632657462063140130:101
+[     876ms] [WARNING] [SDK] 1777284266466        0 already inited @ https://lf3-short.ibytedapm.com/slardar/fe/sdk-web/browser.cn.js?bid=douyin_web&globalName=Slardar:0

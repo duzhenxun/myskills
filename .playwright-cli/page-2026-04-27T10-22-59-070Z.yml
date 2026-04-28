@@ -1,0 +1,1157 @@
+- generic [ref=e1]:
+  - button "开启读屏标签" [ref=e2]
+  - generic: 读屏标签已关闭
+  - generic [ref=e4]:
+    - generic [ref=e6]:
+      - link [ref=e7] [cursor=pointer]:
+        - /url: //www.douyin.com/jingxuan
+      - generic [ref=e12]:
+        - generic [ref=e13]:
+          - generic [ref=e15]:
+            - link "精选" [ref=e19] [cursor=pointer]:
+              - /url: https://www.douyin.com/jingxuan?from_nav=1
+              - generic [ref=e22]: 精选
+            - link "推荐" [ref=e27] [cursor=pointer]:
+              - /url: https://www.douyin.com/?recommend=1&from_nav=1
+              - generic [ref=e30]: 推荐
+            - link "搜索" [ref=e35] [cursor=pointer]:
+              - /url: https://www.douyin.com/aisearch?from_nav=1
+              - generic [ref=e38]: 搜索
+            - link "关注" [ref=e44] [cursor=pointer]:
+              - /url: https://www.douyin.com/follow?from_nav=1
+              - generic [ref=e47]: 关注
+            - link "朋友 35" [ref=e53] [cursor=pointer]:
+              - /url: https://www.douyin.com/friend?from_nav=1
+              - generic [ref=e56]: 朋友
+              - generic [ref=e58]: "35"
+            - link "我的" [ref=e62] [cursor=pointer]:
+              - /url: https://www.douyin.com/user/self?from_nav=1
+              - generic [ref=e65]: 我的
+            - link "直播" [ref=e72] [cursor=pointer]:
+              - /url: https://live.douyin.com/?from_nav=1
+              - generic [ref=e75]: 直播
+            - link "放映厅" [ref=e80] [cursor=pointer]:
+              - /url: https://www.douyin.com/vs?from_nav=1
+              - generic [ref=e83]: 放映厅
+            - link "短剧" [ref=e88] [cursor=pointer]:
+              - /url: https://www.douyin.com/series?from_nav=1
+              - generic [ref=e91]: 短剧
+          - generic [ref=e94] [cursor=pointer]:
+            - img [ref=e95]
+            - generic [ref=e96]:
+              - img [ref=e97]
+              - img [ref=e99]
+            - generic [ref=e104]: 手机随时看更方便
+            - generic [ref=e106]: 下载 APP
+          - generic [ref=e108]:
+            - img [ref=e111] [cursor=pointer]
+            - img [ref=e115] [cursor=pointer]
+            - img [ref=e119] [cursor=pointer]
+            - img [ref=e1055] [cursor=pointer]:
+              - img [ref=e1056]
+        - contentinfo [ref=e122]:
+          - generic [ref=e123]:
+            - generic [ref=e124]:
+              - generic [ref=e126]: 2026 © 抖音
+              - link "京ICP备16016397号-3" [ref=e128] [cursor=pointer]:
+                - /url: https://beian.miit.gov.cn/
+              - link "icon京公网安备 11000002002046号" [ref=e130] [cursor=pointer]:
+                - /url: http://www.beian.gov.cn/portal/registerSystemInfo
+                - img "icon" [ref=e131]
+                - text: 京公网安备 11000002002046号
+              - link "广播电视节目制作经营许可证" [ref=e133] [cursor=pointer]:
+                - /url: https://lf3-static.bytednsdoc.com/obj/eden-cn/ild_jw_upfbvk_lm/ljhwZthlaukjlkulzlp/license/jiemuzhizuojingying.jpg
+              - link "京B2-20170846" [ref=e135] [cursor=pointer]:
+                - /url: https://lf3-static.bytednsdoc.com/obj/eden-cn/ild_jw_upfbvk_lm/ljhwZthlaukjlkulzlp/license/zengzhixuke.jpg
+              - link "网络文化许可证-京网文-（2025）0181-061号" [ref=e137] [cursor=pointer]:
+                - /url: https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/20250519-201253.jpeg
+              - generic [ref=e139]: 互联网宗教信息服务许可证 京（2025）0000017
+              - generic [ref=e141]: 药品医疗器械网络信息服务备案 （京）网药械信息备字（2023）第00570号
+              - generic [ref=e143]: 互联网新闻信息服务许可证 11220230001
+            - generic [ref=e145]:
+              - link "网络谣言曝光台" [ref=e147] [cursor=pointer]:
+                - /url: https://www.piyao.org.cn/yybgt/index.htm
+              - link "网上有害信息举报" [ref=e149] [cursor=pointer]:
+                - /url: https://www.12377.cn/
+              - generic [ref=e151]: 违法和不良信息举报 400-140-2108
+              - generic [ref=e153]: 算法推荐专项举报 sfjubao@bytedance.com
+              - generic [ref=e155]: 网络内容从业人员违法违规行为举报 feedback@douyin.com
+              - generic [ref=e157]: 体育饭圈专项举报 tyfq@bytedance.com
+            - generic [ref=e159]:
+              - link "广告投放" [ref=e161] [cursor=pointer]:
+                - /url: https://www.oceanengine.com/resource/douyin
+              - link "用户服务协议" [ref=e163] [cursor=pointer]:
+                - /url: https://www.douyin.com/agreements/?id=6773906068725565448
+              - link "隐私政策" [ref=e165] [cursor=pointer]:
+                - /url: https://www.douyin.com/agreements/?id=6773901168964798477
+              - link "账号找回" [ref=e167] [cursor=pointer]:
+                - /url: https://www.douyin.com/recovery_account/
+              - link "联系我们" [ref=e169] [cursor=pointer]:
+                - /url: https://www.douyin.com/aboutus/
+              - link "加入我们" [ref=e171] [cursor=pointer]:
+                - /url: https://www.douyin.com/aboutus/
+              - link "营业执照" [ref=e173] [cursor=pointer]:
+                - /url: https://www.douyin.com/business_license/
+              - link "友情链接" [ref=e175] [cursor=pointer]:
+                - /url: https://www.douyin.com/friend_links
+              - link "站点地图" [ref=e177] [cursor=pointer]:
+                - /url: https://www.douyin.com/htmlmap/hotauthor_0_1
+              - link "下载抖音" [ref=e179] [cursor=pointer]:
+                - /url: https://www.douyin.com/downloadpage/pc
+              - link "抖音电商" [ref=e181] [cursor=pointer]:
+                - /url: https://mix.jinritemai.com/falcon/mix_page/index.html
+    - generic [ref=e182]:
+      - banner [ref=e185]:
+        - generic [ref=e187]:
+          - generic [ref=e191]:
+            - textbox "搜索你感兴趣的内容" [ref=e193]
+            - button "搜索" [ref=e195] [cursor=pointer]:
+              - img [ref=e196]
+              - generic [ref=e198]: 搜索
+          - generic [ref=e202]:
+            - generic [ref=e207] [cursor=pointer]:
+              - img [ref=e209]:
+                - img [ref=e210]
+              - paragraph [ref=e212]: 充钻石
+            - link "客户端" [ref=e217] [cursor=pointer]:
+              - /url: https://www.douyin.com/download/pc/obj/douyin-pc-web/douyin-pc-client/7044145585217083655/releases/344418764/7.7.0/darwin-universal/douyin-v7.7.0-darwin-universal.dmg
+              - generic [ref=e219]:
+                - img [ref=e221]:
+                  - img [ref=e222]
+                - paragraph [ref=e225]: 客户端
+            - generic [ref=e229] [cursor=pointer]:
+              - img [ref=e231]:
+                - img [ref=e232]
+              - generic [ref=e234]: 壁纸
+            - list [ref=e235]:
+              - listitem [ref=e237]:
+                - generic [ref=e240] [cursor=pointer]:
+                  - img [ref=e242]:
+                    - img [ref=e243]
+                  - paragraph [ref=e246]: 通知
+            - list [ref=e248]:
+              - listitem [ref=e250]:
+                - generic [ref=e252]:
+                  - generic [ref=e253] [cursor=pointer]:
+                    - img [ref=e255]:
+                      - img [ref=e256]
+                    - paragraph [ref=e260]: 私信
+                  - generic [ref=e956] [cursor=pointer]: "82"
+            - generic [ref=e264] [cursor=pointer]:
+              - img [ref=e266]:
+                - img [ref=e267]
+              - paragraph [ref=e269]: 投稿
+            - link [ref=e272] [cursor=pointer]:
+              - /url: //www.douyin.com/user/self
+              - listitem [ref=e273]
+      - generic:
+        - generic:
+          - generic:
+            - img [ref=e276] [cursor=pointer]
+            - generic [ref=e278]:
+              - generic [ref=e279]:
+                - generic [ref=e281]: deepseek v4
+                - textbox [ref=e282]
+              - button "搜索" [ref=e283] [cursor=pointer]:
+                - img [ref=e284]
+                - generic [ref=e286]: 搜索
+          - generic [ref=e290]:
+            - generic [ref=e292]:
+              - generic [ref=e295]:
+                - generic [ref=e297]:
+                  - generic [ref=e298]:
+                    - img [ref=e301] [cursor=pointer]:
+                      - img [ref=e302]
+                    - generic [ref=e305] [cursor=pointer]:
+                      - generic [ref=e306]: 00:07
+                      - generic [ref=e307]: /
+                      - generic [ref=e308]: 21:05
+                    - generic [ref=e310] [cursor=pointer]:
+                      - generic [ref=e312]: 第1章：引言
+                      - generic [ref=e314]:
+                        - generic [ref=e315]: 下一章
+                        - img [ref=e316]
+                    - generic [ref=e319]:
+                      - img [ref=e322] [cursor=pointer]:
+                        - img [ref=e323]
+                      - img [ref=e327]:
+                        - img [ref=e328] [cursor=pointer]
+                      - generic [ref=e330]:
+                        - generic [ref=e331]:
+                          - img [ref=e333]
+                          - textbox "发一条弹幕吧" [ref=e957]
+                        - generic [ref=e339] [cursor=pointer]: 发送
+                  - generic [ref=e351]:
+                    - img [ref=e354] [cursor=pointer]:
+                      - img [ref=e355]
+                    - img [ref=e359] [cursor=pointer]:
+                      - img [ref=e360]
+                    - img [ref=e364] [cursor=pointer]:
+                      - img [ref=e365]
+                    - img [ref=e371] [cursor=pointer]
+                    - generic [ref=e374] [cursor=pointer]: 倍速
+                    - generic [ref=e377] [cursor=pointer]: 智能
+                    - generic [ref=e380] [cursor=pointer]:
+                      - button [ref=e381]
+                      - generic [ref=e382]: 清屏
+                    - generic [ref=e385] [cursor=pointer]:
+                      - button [ref=e386]
+                      - generic [ref=e387]: 连播
+                - generic [ref=e389]:
+                  - img [ref=e394] [cursor=pointer]
+                  - generic [ref=e397]:
+                    - generic [ref=e399]:
+                      - link [ref=e400] [cursor=pointer]:
+                        - /url: //www.douyin.com/user/MS4wLjABAAAAx8SaSX63Ylhq7rPgnIvodorVOfJ5uOGrfp6pVTSMaEo
+                        - listitem [ref=e402]
+                      - img [ref=e403] [cursor=pointer]:
+                        - img [ref=e404]
+                    - generic [ref=e410] [cursor=pointer]:
+                      - img [ref=e412]:
+                        - img [ref=e413]
+                      - generic [ref=e415]: 6.1万
+                    - generic [ref=e417] [cursor=pointer]:
+                      - img [ref=e419]:
+                        - img [ref=e420]
+                      - generic [ref=e422]: "3177"
+                    - generic [ref=e423]:
+                      - img [ref=e425]:
+                        - img [ref=e426]
+                      - generic [ref=e428]: 1.0万
+                    - generic [ref=e430]:
+                      - img [ref=e433]:
+                        - img [ref=e434]
+                      - generic [ref=e436]: "3357"
+                    - generic [ref=e438] [cursor=pointer]:
+                      - img [ref=e439]:
+                        - img [ref=e440]
+                      - generic [ref=e442]: 听抖音
+                    - img [ref=e444] [cursor=pointer]
+                - generic:
+                  - generic [ref=e1060] [cursor=pointer]:
+                    - img [ref=e1062]
+                    - generic [ref=e1063]:
+                      - generic [ref=e1064]: 小手笔记
+                      - text: 推荐
+                  - generic [ref=e455]:
+                    - generic [ref=e1065]:
+                      - generic [ref=e1072]: "@卢克文工作室"
+                      - generic [ref=e1073]: · 1天前
+                    - generic [ref=e1074] [cursor=pointer]:
+                      - generic [ref=e1075]: DeepSeek-V4问世，中美AI竞争的格局要变了
+                      - generic [ref=e1079]:
+                        - link "#科技" [ref=e1081]:
+                          - /url: //www.douyin.com/search/%E7%A7%91%E6%8A%80?aweme_id=7632657462063140130&enter_from=discover&gid=7632657462063140130&source=pc_click_hashtag_feed
+                        - link "#deepseek" [ref=e1086]:
+                          - /url: //www.douyin.com/search/deepseek?aweme_id=7632657462063140130&enter_from=discover&gid=7632657462063140130&source=pc_click_hashtag_feed
+                        - link "#AI" [ref=e1091]:
+                          - /url: //www.douyin.com/search/AI?aweme_id=7632657462063140130&enter_from=discover&gid=7632657462063140130&source=pc_click_hashtag_feed
+                        - link "#零基础看懂全球" [ref=e1096]:
+                          - /url: //www.douyin.com/search/%E9%9B%B6%E5%9F%BA%E7%A1%80%E7%9C%8B%E6%87%82%E5%85%A8%E7%90%83?aweme_id=7632657462063140130&enter_from=discover&gid=7632657462063140130&source=pc_click_hashtag_feed
+                        - link "#全球创作者计划" [ref=e1101]:
+                          - /url: //www.douyin.com/search/%E5%85%A8%E7%90%83%E5%88%9B%E4%BD%9C%E8%80%85%E8%AE%A1%E5%88%92?aweme_id=7632657462063140130&enter_from=discover&gid=7632657462063140130&source=pc_click_hashtag_feed
+                    - generic [ref=e497] [cursor=pointer]:
+                      - img [ref=e500]
+                      - generic [ref=e505]: 热榜TOP8： 一条视频看懂DeepSeek V4
+                    - link "作者声明：内容为转载信息" [ref=e1103]:
+                      - /url: undefined
+                      - img [ref=e1104]
+                      - generic [ref=e1105]: 作者声明：内容为转载信息
+              - generic [ref=e960]:
+                - generic [ref=e961]:
+                  - tablist [ref=e963]:
+                    - tab "详情" [ref=e964] [cursor=pointer]
+                    - tab "TA的作品" [ref=e965] [cursor=pointer]
+                    - tab "评论" [active] [selected] [ref=e966]
+                    - tab "问AI" [ref=e967] [cursor=pointer]
+                    - tab "相关推荐" [ref=e968] [cursor=pointer]
+                    - tab "热点" [ref=e969] [cursor=pointer]
+                  - img [ref=e971] [cursor=pointer]
+                - generic [ref=e1107]:
+                  - generic [ref=e1109]:
+                    - generic [ref=e1111]:
+                      - generic [ref=e1112]: 大家都在搜：
+                      - link "deepseek v4" [ref=e1116] [cursor=pointer]:
+                        - /url: //www.douyin.com/search/deepseek%20v4?aweme_id=7632657462063140130&enter_from=discover&gid=7632657462063140130&source=comment_related_search
+                        - generic [ref=e1117]: deepseek v4
+                        - img [ref=e1118]
+                    - generic [ref=e1121]: 全部评论(3177)
+                  - generic [ref=e1122]:
+                    - generic [ref=e1124]:
+                      - link "🌈柯柯🐠🌈头像" [ref=e1127] [cursor=pointer]:
+                        - /url: //www.douyin.com/user/MS4wLjABAAAANpVtZHcPRkUAQhtAlqno92FKRG0Og7ysvuIN66di9Bo
+                        - listitem [ref=e1128]:
+                          - img "🌈柯柯🐠🌈头像" [ref=e1129]
+                      - generic [ref=e1130]:
+                        - generic [ref=e1131]:
+                          - generic [ref=e1132]:
+                            - link "🌈柯柯🐠🌈" [ref=e1135] [cursor=pointer]:
+                              - /url: //www.douyin.com/user/MS4wLjABAAAANpVtZHcPRkUAQhtAlqno92FKRG0Og7ysvuIN66di9Bo
+                              - generic [ref=e1142]:
+                                - img "🌈" [ref=e1143]
+                                - text: 柯柯
+                                - img "🐠" [ref=e1144]
+                                - img "🌈" [ref=e1145]
+                            - generic [ref=e1147]: ...
+                          - generic [ref=e1151]:
+                            - generic [ref=e1154]: 我只知道国内没有能媲美
+                            - link "claude" [ref=e1156] [cursor=pointer]:
+                              - /url: //www.douyin.com/search/claude?aweme_id=7632657462063140130&enter_from=discover&gid=7632657462063140130&source=comment_named_entity_search
+                              - text: claude
+                              - img [ref=e1157]
+                            - generic [ref=e1161]: 的
+                          - generic [ref=e1162]: 1天前·上海
+                          - generic [ref=e1164]:
+                            - generic [ref=e1165]:
+                              - paragraph [ref=e1166] [cursor=pointer]:
+                                - img [ref=e1167]
+                                - generic [ref=e1169]: "8"
+                              - paragraph [ref=e1170] [cursor=pointer]:
+                                - img [ref=e1171]
+                            - generic [ref=e1174] [cursor=pointer]:
+                              - img [ref=e1175]
+                              - generic [ref=e1177]: 分享
+                            - generic [ref=e1179] [cursor=pointer]:
+                              - img [ref=e1180]
+                              - generic [ref=e1182]: 回复
+                        - button "展开23条回复" [ref=e1183]:
+                          - generic [ref=e1185] [cursor=pointer]:
+                            - generic [ref=e1186]: 展开23条回复
+                            - img [ref=e1187]:
+                              - img [ref=e1188]
+                    - generic [ref=e1191]:
+                      - link "奔波尔霸头像" [ref=e1194] [cursor=pointer]:
+                        - /url: //www.douyin.com/user/MS4wLjABAAAAxqUxYDiZD8lbYAWrpVUrm1ED754IK05TFAtZ3RfvTxRMSUHXb51xdGcgP63tp56t
+                        - listitem [ref=e1195]:
+                          - img "奔波尔霸头像" [ref=e1196]
+                      - generic [ref=e1197]:
+                        - generic [ref=e1198]:
+                          - generic [ref=e1199]:
+                            - link "奔波尔霸" [ref=e1202] [cursor=pointer]:
+                              - /url: //www.douyin.com/user/MS4wLjABAAAAxqUxYDiZD8lbYAWrpVUrm1ED754IK05TFAtZ3RfvTxRMSUHXb51xdGcgP63tp56t
+                              - generic [ref=e1208]: 奔波尔霸
+                            - generic [ref=e1210]: ...
+                          - generic [ref=e1214]:
+                            - link "昇腾950" [ref=e1216] [cursor=pointer]:
+                              - /url: //www.douyin.com/search/%E6%98%87%E8%85%BE950?aweme_id=7632657462063140130&enter_from=discover&gid=7632657462063140130&source=comment_named_entity_search
+                              - text: 昇腾950
+                              - img [ref=e1217]
+                            - generic [ref=e1221]: ，老黄的天塌了！哈哈哈哈
+                          - generic [ref=e1222]: 1天前·新疆
+                          - generic [ref=e1224]:
+                            - generic [ref=e1225]:
+                              - paragraph [ref=e1226] [cursor=pointer]:
+                                - img [ref=e1227]
+                                - generic [ref=e1229]: "223"
+                              - paragraph [ref=e1230] [cursor=pointer]:
+                                - img [ref=e1231]
+                            - generic [ref=e1234] [cursor=pointer]:
+                              - img [ref=e1235]
+                              - generic [ref=e1237]: 分享
+                            - generic [ref=e1239] [cursor=pointer]:
+                              - img [ref=e1240]
+                              - generic [ref=e1242]: 回复
+                        - button "展开18条回复" [ref=e1243]:
+                          - generic [ref=e1245] [cursor=pointer]:
+                            - generic [ref=e1246]: 展开18条回复
+                            - img [ref=e1247]:
+                              - img [ref=e1248]
+                    - generic [ref=e1251]:
+                      - link "瘦哥哥头像" [ref=e1254] [cursor=pointer]:
+                        - /url: //www.douyin.com/user/MS4wLjABAAAAM92M4DK7RtQ-Npv5typlSjI0bR2-vsjUDK-GdU4HA8g
+                        - listitem [ref=e1255]:
+                          - img "瘦哥哥头像" [ref=e1256]
+                      - generic [ref=e1257]:
+                        - generic [ref=e1258]:
+                          - generic [ref=e1259]:
+                            - link "瘦哥哥" [ref=e1262] [cursor=pointer]:
+                              - /url: //www.douyin.com/user/MS4wLjABAAAAM92M4DK7RtQ-Npv5typlSjI0bR2-vsjUDK-GdU4HA8g
+                              - generic [ref=e1268]: 瘦哥哥
+                            - generic [ref=e1270]: ...
+                          - generic [ref=e1277]: 快点降价吧，烧不起token了……
+                          - generic [ref=e1278]: 1天前·云南
+                          - generic [ref=e1280]:
+                            - generic [ref=e1281]:
+                              - paragraph [ref=e1282] [cursor=pointer]:
+                                - img [ref=e1283]
+                                - generic [ref=e1285]: "1"
+                              - paragraph [ref=e1286] [cursor=pointer]:
+                                - img [ref=e1287]
+                            - generic [ref=e1290] [cursor=pointer]:
+                              - img [ref=e1291]
+                              - generic [ref=e1293]: 分享
+                            - generic [ref=e1295] [cursor=pointer]:
+                              - img [ref=e1296]
+                              - generic [ref=e1298]: 回复
+                        - button "展开2条回复" [ref=e1299]:
+                          - generic [ref=e1301] [cursor=pointer]:
+                            - generic [ref=e1302]: 展开2条回复
+                            - img [ref=e1303]:
+                              - img [ref=e1304]
+                    - generic [ref=e1307]:
+                      - link "豪头像" [ref=e1310] [cursor=pointer]:
+                        - /url: //www.douyin.com/user/MS4wLjABAAAAKgO2Slz8u3u0f4vV7vrtsq-7CdmD2--kCX1p2D3d8B76V0PahTTd0Liym1zjXpkX
+                        - listitem [ref=e1311]:
+                          - img "豪头像" [ref=e1312]
+                      - generic [ref=e1313]:
+                        - generic [ref=e1314]:
+                          - generic [ref=e1315]:
+                            - link "豪" [ref=e1318] [cursor=pointer]:
+                              - /url: //www.douyin.com/user/MS4wLjABAAAAKgO2Slz8u3u0f4vV7vrtsq-7CdmD2--kCX1p2D3d8B76V0PahTTd0Liym1zjXpkX
+                              - generic [ref=e1324]: 豪
+                            - generic [ref=e1326]: ...
+                          - generic [ref=e1333]:
+                            - text: 国内有媲美nanobanana的AI吗？
+                            - img "[杀马特]" [ref=e1334]
+                          - generic [ref=e1335]: 1天前·河南
+                          - generic [ref=e1337]:
+                            - generic [ref=e1338]:
+                              - paragraph [ref=e1339] [cursor=pointer]:
+                                - img [ref=e1340]
+                                - generic [ref=e1342]: "2"
+                              - paragraph [ref=e1343] [cursor=pointer]:
+                                - img [ref=e1344]
+                            - generic [ref=e1347] [cursor=pointer]:
+                              - img [ref=e1348]
+                              - generic [ref=e1350]: 分享
+                            - generic [ref=e1352] [cursor=pointer]:
+                              - img [ref=e1353]
+                              - generic [ref=e1355]: 回复
+                        - button "展开5条回复" [ref=e1356]:
+                          - generic [ref=e1358] [cursor=pointer]:
+                            - generic [ref=e1359]: 展开5条回复
+                            - img [ref=e1360]:
+                              - img [ref=e1361]
+                    - generic [ref=e1367]:
+                      - generic [ref=e1368]:
+                        - generic [ref=e1369]:
+                          - link "🌟52赫兹⭐️无忧" [ref=e1372] [cursor=pointer]:
+                            - /url: //www.douyin.com/user/MS4wLjABAAAAX1br5uqHPyvVk7qxC4HonYkam3s-6_IH3ndSSQn1FxM
+                            - generic [ref=e1379]:
+                              - img "🌟" [ref=e1380]
+                              - text: 52赫兹
+                              - img "⭐️" [ref=e1381]
+                              - text: 无忧
+                          - generic [ref=e1383]: ...
+                        - generic [ref=e1390]:
+                          - text: 我能说deepseek完全没有chatgpt好用吗
+                          - img "[看]" [ref=e1391]
+                        - generic [ref=e1392]: 1天前·印度
+                        - generic [ref=e1394]:
+                          - generic [ref=e1395]:
+                            - paragraph [ref=e1396] [cursor=pointer]:
+                              - img [ref=e1397]
+                              - generic [ref=e1399]: "21"
+                            - paragraph [ref=e1400] [cursor=pointer]:
+                              - img [ref=e1401]
+                          - generic [ref=e1404] [cursor=pointer]:
+                            - img [ref=e1405]
+                            - generic [ref=e1407]: 分享
+                          - generic [ref=e1409] [cursor=pointer]:
+                            - img [ref=e1410]
+                            - generic [ref=e1412]: 回复
+                      - generic [ref=e1413]:
+                        - generic [ref=e1418]:
+                          - generic [ref=e1419]:
+                            - link "不知道用什么名字" [ref=e1422] [cursor=pointer]:
+                              - /url: //www.douyin.com/user/MS4wLjABAAAAMFXt4T-VYyYBfjuxN8PETlHrvKJbQqbg2ahVSlLIWsQ
+                              - generic [ref=e1428]: 不知道用什么名字
+                            - generic [ref=e1430]: ...
+                          - generic [ref=e1437]: 即使不好用也是自己家的
+                          - generic [ref=e1438]: 1天前·吉林
+                          - generic [ref=e1440]:
+                            - generic [ref=e1441]:
+                              - paragraph [ref=e1442] [cursor=pointer]:
+                                - img [ref=e1443]
+                                - generic [ref=e1445]: "93"
+                              - paragraph [ref=e1446] [cursor=pointer]:
+                                - img [ref=e1447]
+                            - generic [ref=e1450] [cursor=pointer]:
+                              - img [ref=e1451]
+                              - generic [ref=e1453]: 分享
+                            - generic [ref=e1455] [cursor=pointer]:
+                              - img [ref=e1456]
+                              - generic [ref=e1458]: 回复
+                        - button "展开54条回复" [ref=e1459]:
+                          - generic [ref=e1461] [cursor=pointer]:
+                            - generic [ref=e1462]: 展开54条回复
+                            - img [ref=e1463]:
+                              - img [ref=e1464]
+                    - generic [ref=e1471]:
+                      - generic [ref=e1472]:
+                        - link "碧空远影" [ref=e1475] [cursor=pointer]:
+                          - /url: //www.douyin.com/user/MS4wLjABAAAAoz3DHsKpYJbm6pdRRzMT6veme-N0l9cHm-qRhE5ajeA
+                          - generic [ref=e1481]: 碧空远影
+                        - generic [ref=e1483]: ...
+                      - generic [ref=e1490]:
+                        - text: 华为昇腾，全球AI的另一种选择
+                        - img "[赞]" [ref=e1491]
+                      - generic [ref=e1492]: 8小时前·广东
+                      - generic [ref=e1494]:
+                        - generic [ref=e1495]:
+                          - paragraph [ref=e1496] [cursor=pointer]:
+                            - img [ref=e1497]
+                            - generic [ref=e1499]: "2"
+                          - paragraph [ref=e1500] [cursor=pointer]:
+                            - img [ref=e1501]
+                        - generic [ref=e1504] [cursor=pointer]:
+                          - img [ref=e1505]
+                          - generic [ref=e1507]: 分享
+                        - generic [ref=e1509] [cursor=pointer]:
+                          - img [ref=e1510]
+                          - generic [ref=e1512]: 回复
+                    - generic [ref=e1517]:
+                      - generic [ref=e1518]:
+                        - generic [ref=e1519]:
+                          - link "巩义租房二手房" [ref=e1522] [cursor=pointer]:
+                            - /url: //www.douyin.com/user/MS4wLjABAAAAOC0ZCyBGVsSk7-xTuN-0WDOwNxVkopBUO4cOunSRHu4Sg2alDRC0PTKmtm0WNpEn
+                            - generic [ref=e1528]: 巩义租房二手房
+                          - generic [ref=e1530]: ...
+                        - generic [ref=e1537]: 国产光刻机什么时候才能突破呢
+                        - generic [ref=e1538]: 5小时前·河南
+                        - generic [ref=e1540]:
+                          - generic [ref=e1541]:
+                            - paragraph [ref=e1542] [cursor=pointer]:
+                              - img [ref=e1543]
+                              - generic [ref=e1545]: "1"
+                            - paragraph [ref=e1546] [cursor=pointer]:
+                              - img [ref=e1547]
+                          - generic [ref=e1550] [cursor=pointer]:
+                            - img [ref=e1551]
+                            - generic [ref=e1553]: 分享
+                          - generic [ref=e1555] [cursor=pointer]:
+                            - img [ref=e1556]
+                            - generic [ref=e1558]: 回复
+                      - button "展开1条回复" [ref=e1559]:
+                        - generic [ref=e1561] [cursor=pointer]:
+                          - generic [ref=e1562]: 展开1条回复
+                          - img [ref=e1563]:
+                            - img [ref=e1564]
+                    - generic [ref=e1570]:
+                      - generic [ref=e1571]:
+                        - generic [ref=e1572]:
+                          - link "Artemis" [ref=e1575] [cursor=pointer]:
+                            - /url: //www.douyin.com/user/MS4wLjABAAAAunOa50IpIujPgTq2-ntWMwUe5BgnYrEbXmJd3blIy3xDXQuOrp8FCZsV3eWtj19x
+                            - generic [ref=e1581]: Artemis
+                          - generic [ref=e1583]: ...
+                        - generic [ref=e1590]: 充了10块钱试了，完全不及预期，塞了几道25年IMO的题，几乎全错，而且不支持图片识别，唉，看来完全无法替代claude
+                        - generic [ref=e1591]: 1天前·四川
+                        - generic [ref=e1593]:
+                          - generic [ref=e1594]:
+                            - paragraph [ref=e1595] [cursor=pointer]:
+                              - img [ref=e1596]
+                              - generic [ref=e1598]: "0"
+                            - paragraph [ref=e1599] [cursor=pointer]:
+                              - img [ref=e1600]
+                          - generic [ref=e1603] [cursor=pointer]:
+                            - img [ref=e1604]
+                            - generic [ref=e1606]: 分享
+                          - generic [ref=e1608] [cursor=pointer]:
+                            - img [ref=e1609]
+                            - generic [ref=e1611]: 回复
+                      - button "展开4条回复" [ref=e1612]:
+                        - generic [ref=e1614] [cursor=pointer]:
+                          - generic [ref=e1615]: 展开4条回复
+                          - img [ref=e1616]:
+                            - img [ref=e1617]
+                    - generic [ref=e1623]:
+                      - generic [ref=e1624]:
+                        - generic [ref=e1625]:
+                          - link "慧致易生科学育儿" [ref=e1628] [cursor=pointer]:
+                            - /url: //www.douyin.com/user/MS4wLjABAAAABQ2KGxLioRdAO0-8PuaMFI4klvzACOIgbm1ikCMe2bI
+                            - generic [ref=e1634]: 慧致易生科学育儿
+                          - generic [ref=e1636]: ...
+                        - generic [ref=e1640]:
+                          - link "@张晋博士讲抽动" [ref=e1642] [cursor=pointer]:
+                            - /url: //www.douyin.com/user/MS4wLjABAAAAFyiaQjAf-hbRuhCeE_PntUCAWzP7EMLl8aD245SdeWg
+                          - generic [ref=e1645]: 按这么说做视频要便宜了
+                        - generic [ref=e1646]: 6小时前·北京
+                        - generic [ref=e1648]:
+                          - generic [ref=e1649]:
+                            - paragraph [ref=e1650] [cursor=pointer]:
+                              - img [ref=e1651]
+                              - generic [ref=e1653]: "0"
+                            - paragraph [ref=e1654] [cursor=pointer]:
+                              - img [ref=e1655]
+                          - generic [ref=e1658] [cursor=pointer]:
+                            - img [ref=e1659]
+                            - generic [ref=e1661]: 分享
+                          - generic [ref=e1663] [cursor=pointer]:
+                            - img [ref=e1664]
+                            - generic [ref=e1666]: 回复
+                      - button "展开1条回复" [ref=e1667]:
+                        - generic [ref=e1669] [cursor=pointer]:
+                          - generic [ref=e1670]: 展开1条回复
+                          - img [ref=e1671]:
+                            - img [ref=e1672]
+                    - generic [ref=e1678]:
+                      - generic [ref=e1679]:
+                        - generic [ref=e1680]:
+                          - link "哈囉" [ref=e1683] [cursor=pointer]:
+                            - /url: //www.douyin.com/user/MS4wLjABAAAAZD8BH96JeAuG7CxUtighLxgURstqnl2JlQg8l-M4tr1YteHQDj9CgHWhZyBkEaJB
+                            - generic [ref=e1689]: 哈囉
+                          - generic [ref=e1691]: ...
+                        - generic [ref=e1696]:
+                          - generic [ref=e1698]: 每當國內的公司推出個好一點的產品，總是有很多人噴口水！
+                          - generic [ref=e1700]: 就像手拿蘋果手機的人，它的功能都會用？只是顯擺而已。
+                          - generic [ref=e1702]: 真正的科技人是不會出現在評論區的。
+                          - generic [ref=e1704]: 我的手機有ds,豆包，千問，對於我已經夠用了！因為我就是一個普通人，外國的月亮圓時代已經過去啦！
+                          - generic [ref=e1706]: 中國加油！
+                        - generic [ref=e1707]: 1天前·中国台湾
+                        - generic [ref=e1709]:
+                          - generic [ref=e1710]:
+                            - paragraph [ref=e1711] [cursor=pointer]:
+                              - img [ref=e1712]
+                              - generic [ref=e1714]: "452"
+                            - paragraph [ref=e1715] [cursor=pointer]:
+                              - img [ref=e1716]
+                          - generic [ref=e1719] [cursor=pointer]:
+                            - img [ref=e1720]
+                            - generic [ref=e1722]: 分享
+                          - generic [ref=e1724] [cursor=pointer]:
+                            - img [ref=e1725]
+                            - generic [ref=e1727]: 回复
+                      - button "展开24条回复" [ref=e1728]:
+                        - generic [ref=e1730] [cursor=pointer]:
+                          - generic [ref=e1731]: 展开24条回复
+                          - img [ref=e1732]:
+                            - img [ref=e1733]
+                    - generic [ref=e1736]: 加载中
+                  - generic [ref=e1739]:
+                    - generic [ref=e1740]: 留下你的精彩评论吧
+                    - generic [ref=e1742]:
+                      - img [ref=e1744] [cursor=pointer]
+                      - img [ref=e1747] [cursor=pointer]
+                      - img [ref=e1750] [cursor=pointer]
+              - generic:
+                - generic:
+                  - generic:
+                    - generic [ref=e512]:
+                      - generic [ref=e514]: 章节要点
+                      - img
+                    - generic:
+                      - generic [ref=e516]: DeepSeek-V4预览版发布，其技术特点包括1.6万亿参数的旗舰款V4-Pro、1M Token上下文长度、MoE架构、CSA和HCA设计。V4价格便宜，采用国产GPU，实现软硬件适配，打破对英伟达的路径依赖。这一突破影响中美AI竞争格局，推动国产大模型发展，为全球AI产业带来新的可能性。
+                      - generic:
+                        - generic [ref=e517] [cursor=pointer]:
+                          - generic:
+                            - generic [ref=e518]: 00:01
+                            - generic: 引言
+                        - generic [ref=e519] [cursor=pointer]:
+                          - generic:
+                            - img [ref=e521]
+                            - generic [ref=e523]: 00:29
+                            - generic: 技术特点
+                          - generic [ref=e524]:
+                            - paragraph: DeepSeek-V4发布两个版本，旗舰款V4-Pro总参数量达1.6T，采用MoE架构，推理效率高，能耗降低。
+                        - generic [ref=e525] [cursor=pointer]:
+                          - generic:
+                            - img [ref=e527]
+                            - generic [ref=e529]: 01:55
+                            - generic: 上下文长度
+                          - generic [ref=e530]:
+                            - paragraph: DeepSeek-V4将1M Token上下文长度作为标配，采用CSA和HCA设计，降低计算量和KVCache占用。
+                        - generic [ref=e531] [cursor=pointer]:
+                          - generic:
+                            - img [ref=e533]
+                            - generic [ref=e535]: 04:36
+                            - generic: 价格优势
+                          - generic [ref=e536]:
+                            - paragraph: DeepSeek-V4价格便宜，输入价格0.2元/百万Token，输出2元/百万Token，仅为西方同等水平闭源模型的十几分之一。
+                        - generic [ref=e537] [cursor=pointer]:
+                          - generic:
+                            - img [ref=e539]
+                            - generic [ref=e541]: 07:25
+                            - generic: 国产GPU突破
+                          - generic [ref=e542]:
+                            - paragraph: DeepSeek-V4采用国产GPU，华为950超节点，实现软硬件适配，打破对英伟达的路径依赖。
+                        - generic [ref=e543] [cursor=pointer]:
+                          - generic:
+                            - img [ref=e545]
+                            - generic [ref=e547]: 12:18
+                            - generic: 对中美AI竞争格局的影响
+                          - generic [ref=e548]:
+                            - paragraph: DeepSeek-V4影响中美AI竞争格局，推动国产大模型发展，打破美国AI霸权。
+                        - generic [ref=e549] [cursor=pointer]:
+                          - generic:
+                            - img [ref=e551]
+                            - generic [ref=e553]: 18:36
+                            - generic: DeepSeek的态度
+                          - generic [ref=e554]:
+                            - paragraph: DeepSeek专注技术问题，不被舆论左右，持续投入技术路线，期待未来突破。
+              - img [ref=e556]
+            - generic [ref=e559]:
+              - generic [ref=e562]:
+                - generic [ref=e564]:
+                  - generic [ref=e565]:
+                    - img [ref=e568] [cursor=pointer]:
+                      - img [ref=e569]
+                    - generic [ref=e571] [cursor=pointer]:
+                      - generic [ref=e572]: 00:00
+                      - generic [ref=e573]: /
+                      - generic [ref=e574]: 10:42
+                  - generic [ref=e579]:
+                    - img [ref=e582] [cursor=pointer]:
+                      - img [ref=e583]
+                    - img [ref=e587] [cursor=pointer]:
+                      - img [ref=e588]
+                    - img [ref=e592] [cursor=pointer]:
+                      - img [ref=e593]
+                    - img [ref=e599] [cursor=pointer]
+                    - generic [ref=e602] [cursor=pointer]: 倍速
+                    - generic [ref=e605] [cursor=pointer]: 智能
+                    - generic [ref=e608] [cursor=pointer]:
+                      - button [ref=e609]
+                      - generic [ref=e610]: 清屏
+                    - generic [ref=e613] [cursor=pointer]:
+                      - button [ref=e614]
+                      - generic [ref=e615]: 连播
+                - generic [ref=e617]:
+                  - img [ref=e622] [cursor=pointer]
+                  - generic [ref=e625]:
+                    - generic [ref=e627]:
+                      - link [ref=e628] [cursor=pointer]:
+                        - /url: //www.douyin.com/user/MS4wLjABAAAAYhJDGSuzkIry3vG5ugd9f0dK6o0cItZEL2jyjM21IlRGc_JEv4KETvLHR51UzYEo
+                        - listitem [ref=e630]
+                      - img [ref=e631] [cursor=pointer]:
+                        - img [ref=e632]
+                    - generic [ref=e638] [cursor=pointer]:
+                      - img [ref=e640]:
+                        - img [ref=e641]
+                      - generic [ref=e643]: 1.8万
+                    - generic [ref=e645] [cursor=pointer]:
+                      - img [ref=e647]:
+                        - img [ref=e648]
+                      - generic [ref=e650]: "1564"
+                    - generic [ref=e651]:
+                      - img [ref=e653]:
+                        - img [ref=e654]
+                      - generic [ref=e656]: "5129"
+                    - generic [ref=e658]:
+                      - img [ref=e661]:
+                        - img [ref=e662]
+                      - generic [ref=e664]: "2515"
+                    - generic [ref=e666] [cursor=pointer]:
+                      - img [ref=e667]:
+                        - img [ref=e668]
+                      - generic [ref=e670]: 听抖音
+                    - img [ref=e672] [cursor=pointer]
+                - generic:
+                  - img
+                - generic [ref=e676]:
+                  - generic [ref=e1752]:
+                    - generic [ref=e1759]: "@liliMozi"
+                    - generic [ref=e1760]: · 1天前
+                  - generic [ref=e1765] [cursor=pointer]:
+                    - generic [ref=e1768]: 一个视频通俗讲懂 DeepSeek V4，以及它意味着什么。
+                    - link "#AI新星计划" [ref=e1770]:
+                      - /url: //www.douyin.com/search/AI%E6%96%B0%E6%98%9F%E8%AE%A1%E5%88%92?aweme_id=7632656766441934130&enter_from=discover&gid=7632656766441934130&source=pc_click_hashtag_feed
+                    - link "#DeepSeek" [ref=e1775]:
+                      - /url: //www.douyin.com/search/DeepSeek?aweme_id=7632656766441934130&enter_from=discover&gid=7632656766441934130&source=pc_click_hashtag_feed
+                    - link "#AI" [ref=e1780]:
+                      - /url: //www.douyin.com/search/AI?aweme_id=7632656766441934130&enter_from=discover&gid=7632656766441934130&source=pc_click_hashtag_feed
+                    - link "#人工智能" [ref=e1785]:
+                      - /url: //www.douyin.com/search/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD?aweme_id=7632656766441934130&enter_from=discover&gid=7632656766441934130&source=pc_click_hashtag_feed
+                  - generic [ref=e712] [cursor=pointer]:
+                    - img [ref=e715]
+                    - generic [ref=e720]: 热榜TOP8： 一条视频看懂DeepSeek V4
+              - img [ref=e724]
+      - generic [ref=e737]:
+        - tablist [ref=e738]:
+          - tab "全部" [selected] [ref=e739]
+          - tab "公开课" [ref=e740] [cursor=pointer]
+          - tab "知识" [ref=e741] [cursor=pointer]
+          - tab "体育" [ref=e742] [cursor=pointer]
+          - tab "影视" [ref=e743] [cursor=pointer]
+          - tab "音乐" [ref=e744] [cursor=pointer]
+          - tab "游戏" [ref=e745] [cursor=pointer]
+          - tab "二次元" [ref=e746] [cursor=pointer]
+          - tab "美食" [ref=e747] [cursor=pointer]
+          - tab "汽车" [ref=e748] [cursor=pointer]
+          - tab "生活vlog" [ref=e749] [cursor=pointer]
+          - tab "旅行" [ref=e750] [cursor=pointer]
+          - tab "小剧场" [ref=e751] [cursor=pointer]
+          - tab "三农" [ref=e752] [cursor=pointer]
+          - tab "动物" [ref=e753] [cursor=pointer]
+          - tab "亲子" [ref=e754] [cursor=pointer]
+          - tab "美妆穿搭" [ref=e755] [cursor=pointer]
+        - tabpanel "全部" [ref=e757]:
+          - generic [ref=e763]:
+            - generic [ref=e766] [cursor=pointer]:
+              - generic [ref=e768]:
+                - 'img "2026最新高分电影《人工情报》大结局来啦 #悬疑 #了不起的精讲团 #影视解说 #新片速递 #人工情报" [ref=e770]'
+                - generic [ref=e773]:
+                  - generic [ref=e774]: 18:49
+                  - generic [ref=e775]:
+                    - img [ref=e776]:
+                      - img [ref=e777]
+                    - generic [ref=e779]: 1.1万
+              - generic [ref=e781]:
+                - generic [ref=e782]: "2026最新高分电影《人工情报》大结局来啦 #悬疑 #了不起的精讲团 #影视解说 #新片速递 #人工情报"
+                - generic [ref=e784]:
+                  - generic [ref=e785]: "@郭郭剧场"
+                  - generic [ref=e786]: · 4月1日
+            - generic [ref=e789] [cursor=pointer]:
+              - generic [ref=e791]:
+                - 'img "法国爆笑喜剧，为了救奶奶，特工跨境办案 #电影三日玩命作 #喜剧电影" [ref=e793]'
+                - generic [ref=e796]:
+                  - generic [ref=e797]: 23:46
+                  - generic [ref=e798]:
+                    - img [ref=e1023]:
+                      - img [ref=e1024]
+                    - generic [ref=e799]: 39.1万
+              - generic [ref=e801]:
+                - generic [ref=e802]: "法国爆笑喜剧，为了救奶奶，特工跨境办案 #电影三日玩命作 #喜剧电影"
+                - generic [ref=e804]:
+                  - generic [ref=e805]: "@猛虎电影"
+                  - generic [ref=e806]: · 3月23日
+            - generic [ref=e809] [cursor=pointer]:
+              - generic [ref=e811]:
+                - 'img "老挝 \"华人\" 最大聚集区，晚上8点后别出门 ！ #我是俊杰 #海外生活 #人间观察记录 #全球创作者计划" [ref=e813]'
+                - generic [ref=e816]:
+                  - generic [ref=e817]: 05:30
+                  - generic [ref=e818]:
+                    - img [ref=e1027]:
+                      - img [ref=e1028]
+                    - generic [ref=e819]: 2.0万
+              - generic [ref=e821]:
+                - generic [ref=e822]: "老挝 \"华人\" 最大聚集区，晚上8点后别出门 ！ #我是俊杰 #海外生活 #人间观察记录 #全球创作者计划"
+                - generic [ref=e824]:
+                  - generic [ref=e825]: "@哦！俊杰"
+                  - generic [ref=e826]: · 4月10日
+            - generic [ref=e829] [cursor=pointer]:
+              - generic [ref=e831]:
+                - 'img "生意太好被房东“夺舍”，老板娘砸百万买下隔壁店铺硬刚 #餐饮创业#餐饮#快招#勇哥餐饮创业说#餐饮选址" [ref=e833]'
+                - generic [ref=e836]:
+                  - generic [ref=e837]: 10:24
+                  - generic [ref=e838]:
+                    - img [ref=e1031]:
+                      - img [ref=e1032]
+                    - generic [ref=e839]: "3552"
+              - generic [ref=e841]:
+                - generic [ref=e842]: "生意太好被房东“夺舍”，老板娘砸百万买下隔壁店铺硬刚 #餐饮创业#餐饮#快招#勇哥餐饮创业说#餐饮选址"
+                - generic [ref=e844]:
+                  - generic [ref=e845]: "@餐饮避坑指南"
+                  - generic [ref=e846]: · 2天前
+            - generic [ref=e849] [cursor=pointer]:
+              - generic [ref=e851]:
+                - 'img "住深圳湾一号的劳斯莱斯车主都是做什么工作的？ #周星辰说车 #记录真实生活 #创业 #深圳湾一号 #劳斯莱斯古思特 @李潇潇Mera" [ref=e853]'
+                - generic [ref=e856]:
+                  - generic [ref=e857]: 04:48
+                  - generic [ref=e858]:
+                    - img [ref=e1035]:
+                      - img [ref=e1036]
+                    - generic [ref=e859]: 1.7万
+              - generic [ref=e861]:
+                - generic [ref=e862]: "住深圳湾一号的劳斯莱斯车主都是做什么工作的？ #周星辰说车 #记录真实生活 #创业 #深圳湾一号 #劳斯莱斯古思特 @李潇潇Mera"
+                - generic [ref=e864]:
+                  - generic [ref=e865]: "@周星辰说车"
+                  - generic [ref=e866]: · 4月4日
+            - generic [ref=e869] [cursor=pointer]:
+              - generic [ref=e871]:
+                - img "越南生活记录#越南生活" [ref=e873]
+                - generic [ref=e876]:
+                  - generic [ref=e877]: 09:59
+                  - generic [ref=e878]:
+                    - img [ref=e1039]:
+                      - img [ref=e1040]
+                    - generic [ref=e879]: 1.0万
+              - generic [ref=e881]:
+                - generic [ref=e882]: 越南生活记录#越南生活
+                - generic [ref=e884]:
+                  - generic [ref=e885]: "@川S在越南"
+                  - generic [ref=e886]: · 4月2日
+            - generic [ref=e889] [cursor=pointer]:
+              - generic [ref=e891]:
+                - 'img "如果许下愿望就能成真，你愿意付出什么代价？最新韩剧夺命许愿 #韩剧 #惊悚 #新片速递 #了不起的精讲团 #青年创作者成长计划" [ref=e893]'
+                - generic [ref=e896]:
+                  - generic [ref=e897]: 13:32
+                  - generic [ref=e898]:
+                    - img [ref=e1043]:
+                      - img [ref=e1044]
+                    - generic [ref=e899]: 3.9万
+              - generic [ref=e901]:
+                - generic [ref=e902]: "如果许下愿望就能成真，你愿意付出什么代价？最新韩剧夺命许愿 #韩剧 #惊悚 #新片速递 #了不起的精讲团 #青年创作者成长计划"
+                - generic [ref=e904]:
+                  - generic [ref=e905]: "@郭郭剧场"
+                  - generic [ref=e906]: · 2天前
+            - generic [ref=e909] [cursor=pointer]:
+              - generic [ref=e911]:
+                - 'img "【深度讲解】被父亲一耳光扇出南非，他凭什么想带人类移民火星？ （上）#马斯克 #人物故事 #励志 #深度解析" [ref=e913]'
+                - generic [ref=e916]:
+                  - generic [ref=e917]: 09:15
+                  - generic [ref=e918]:
+                    - img [ref=e1047]:
+                      - img [ref=e1048]
+                    - generic [ref=e919]: 12.3万
+              - generic [ref=e921]:
+                - generic [ref=e922]: "【深度讲解】被父亲一耳光扇出南非，他凭什么想带人类移民火星？ （上）#马斯克 #人物故事 #励志 #深度解析"
+                - generic [ref=e924]:
+                  - generic [ref=e925]: "@小XIANG说"
+                  - generic [ref=e926]: · 3月7日
+            - generic [ref=e929] [cursor=pointer]:
+              - generic [ref=e931]:
+                - 'img "点赞收藏吧，总有一天用得上 #泰国旅行攻略 #泰国旅行攻略自由行 #泰国6日游 #沙美岛 #曼谷水上市场" [ref=e933]'
+                - generic [ref=e936]:
+                  - generic [ref=e937]: 10:24
+                  - generic [ref=e938]:
+                    - img [ref=e1051]:
+                      - img [ref=e1052]
+                    - generic [ref=e939]: "9717"
+              - generic [ref=e941]:
+                - generic [ref=e942]: "点赞收藏吧，总有一天用得上 #泰国旅行攻略 #泰国旅行攻略自由行 #泰国6日游 #沙美岛 #曼谷水上市场"
+                - generic [ref=e944]:
+                  - generic [ref=e945]: "@聪哥｜不旅行"
+                  - generic [ref=e946]: · 4月12日
+            - generic [ref=e1797] [cursor=pointer]:
+              - generic [ref=e1799]:
+                - 'img "小佳：潮汕私生女的19年，4次轻生到自我救赎 小佳，旅行义工。四次求死未遂后，她终于明白烂牌也能慢慢打。19岁的小佳，天生被贴上早夭命格、私生女的标签，13岁确诊重度抑郁，吞安眠药、喝农药、头孢配白酒、上吊，四次奔赴死亡都被命运拉回；原生家庭的暴力与冷漠，精神病院的两个月煎熬，九年义务教育都险些没能读完，却成了她挣脱泥沼的铠甲。她16岁独自北漂，分不清地铁和高铁，打最底层的工，住38元一晚的青旅，用脚步丈量世界，在颠沛中治愈自己，更想让同频的人看见：人生从不是定数，绝境里总有光。从求死到求生，她重塑了自己的人生故事。第900位讲述者，小佳，旅行义工。 #凉子 #访谈 #女性 #人生 #治愈" [ref=e1801]'
+                - generic [ref=e1804]:
+                  - generic [ref=e1805]: 28:42
+                  - generic [ref=e1806]:
+                    - img [ref=e1807]:
+                      - img [ref=e1808]
+                    - generic [ref=e1810]: 9.8万
+              - generic [ref=e1812]:
+                - generic [ref=e1813]: "小佳：潮汕私生女的19年，4次轻生到自我救赎 小佳，旅行义工。四次求死未遂后，她终于明白烂牌也能慢慢打。19岁的小佳，天生被贴上早夭命格、私生女的标签，13岁确诊重度抑郁，吞安眠药、喝农药、头孢配白酒、上吊，四次奔赴死亡都被命运拉回；原生家庭的暴力与冷漠，精神病院的两个月煎熬，九年义务教育都险些没能读完，却成了她挣脱泥沼的铠甲。她16岁独自北漂，分不清地铁和高铁，打最底层的工，住38元一晚的青旅，用脚步丈量世界，在颠沛中治愈自己，更想让同频的人看见：人生从不是定数，绝境里总有光。从求死到求生，她重塑了自己的人生故事。第900位讲述者，小佳，旅行义工。 #凉子 #访谈 #女性 #人生 #治愈"
+                - generic [ref=e1815]:
+                  - generic [ref=e1816]: "@凉子访谈录"
+                  - generic [ref=e1817]: · 3月12日
+            - generic [ref=e1820] [cursor=pointer]:
+              - generic [ref=e1822]:
+                - 'img "一个男人用80年证明，苦难才是最完整的人生！ #抖音精选 #了不起的精讲团 #影视经典补完计划 #影视万字精讲" [ref=e1824]'
+                - generic [ref=e1827]:
+                  - generic [ref=e1828]: 27:24
+                  - generic [ref=e1829]:
+                    - img [ref=e1830]:
+                      - img [ref=e1831]
+                    - generic [ref=e1833]: 5.2万
+              - generic [ref=e1835]:
+                - generic [ref=e1836]: "一个男人用80年证明，苦难才是最完整的人生！ #抖音精选 #了不起的精讲团 #影视经典补完计划 #影视万字精讲"
+                - generic [ref=e1838]:
+                  - generic [ref=e1839]: "@伦帝电影说"
+                  - generic [ref=e1840]: · 3月23日
+            - generic [ref=e1843] [cursor=pointer]:
+              - generic [ref=e1845]:
+                - 'img "龙虾🦞大战爱马仕🐎（一） 本期我就测一个最基础的问题： 联网搜索。 第一轮不做任何优化，直接默认配置开跑： 查一下 iPhone 17 在中国的价格。 结果是—— ✅ Hermes：答对了，但跑了5分钟 ⚠️ 龙虾：也答对了，但跑了7分钟，token 还烧得我头皮发麻 说白了，这一轮没有赢家。 因为对普通用户来说，“能答对”根本不够，慢、贵、低效，本身就是翻车。 第二轮我开始针对国内环境动手： Hermes 尽量避开 Google 龙虾接上 SearXNG 然后它俩终于像样了。 尤其龙虾，优化前后几乎像两个产品： ✅ 优化前：海外搜索+反爬+疯狂 fetch，低效到离谱 ✅ 优化后：速度起来了，推荐结果也更准了，token 消耗直接被打下来了 所以这期实测给我的最大感受就是： AI Agent 真不是装完就能用，环境不对再强的模型也得翻车 #hermesagent #ai智能体 #ai测评 #llm #openclaw" [ref=e1847]'
+                - generic [ref=e1850]:
+                  - generic [ref=e1851]: 03:29
+                  - generic [ref=e1852]:
+                    - img [ref=e1853]:
+                      - img [ref=e1854]
+                    - generic [ref=e1856]: "4440"
+              - generic [ref=e1858]:
+                - generic [ref=e1859]: "龙虾🦞大战爱马仕🐎（一） 本期我就测一个最基础的问题： 联网搜索。 第一轮不做任何优化，直接默认配置开跑： 查一下 iPhone 17 在中国的价格。 结果是—— ✅ Hermes：答对了，但跑了5分钟 ⚠️ 龙虾：也答对了，但跑了7分钟，token 还烧得我头皮发麻 说白了，这一轮没有赢家。 因为对普通用户来说，“能答对”根本不够，慢、贵、低效，本身就是翻车。 第二轮我开始针对国内环境动手： Hermes 尽量避开 Google 龙虾接上 SearXNG 然后它俩终于像样了。 尤其龙虾，优化前后几乎像两个产品： ✅ 优化前：海外搜索+反爬+疯狂 fetch，低效到离谱 ✅ 优化后：速度起来了，推荐结果也更准了，token 消耗直接被打下来了 所以这期实测给我的最大感受就是： AI Agent 真不是装完就能用，环境不对再强的模型也得翻车 #hermesagent #ai智能体 #ai测评 #llm #openclaw"
+                - generic [ref=e1860]:
+                  - generic [ref=e1862]: "@碳基生物退役指南"
+                  - generic [ref=e1864]: 你的关注
+            - generic [ref=e1867] [cursor=pointer]:
+              - generic [ref=e1869]:
+                - 'img "三大外卖平台极致算法下的真相，全国上千万的骑手谁来为他们保驾护航？#美团外卖 #饿了么 #京东 #算法 #行业大揭秘" [ref=e1871]'
+                - generic [ref=e1874]:
+                  - generic [ref=e1875]: 25:38
+                  - generic [ref=e1876]:
+                    - img [ref=e1877]:
+                      - img [ref=e1878]
+                    - generic [ref=e1880]: 3.7万
+              - generic [ref=e1882]:
+                - generic [ref=e1883]: "三大外卖平台极致算法下的真相，全国上千万的骑手谁来为他们保驾护航？#美团外卖 #饿了么 #京东 #算法 #行业大揭秘"
+                - generic [ref=e1885]:
+                  - generic [ref=e1886]: "@啵啵茶水间"
+                  - generic [ref=e1887]: · 4月15日
+            - generic [ref=e1890] [cursor=pointer]:
+              - generic [ref=e1892]:
+                - 'img "贾国龙卸任西贝CEO，是认错还是另有原因？ 从一开始的正面硬刚，到现在主动卸任CEO，历经200多天的拉锯战，西贝亏损6个亿，150家门店关停，辞退员工4000多名，重新换帅的西贝是否能涅槃重生？#西贝 #贾国龙 #餐饮 #零距离看懂财经 #掘金计划2026" [ref=e1894]'
+                - generic [ref=e1897]:
+                  - generic [ref=e1898]: 24:17
+                  - generic [ref=e1899]:
+                    - img [ref=e1900]:
+                      - img [ref=e1901]
+                    - generic [ref=e1903]: "8040"
+              - generic [ref=e1905]:
+                - generic [ref=e1906]: "贾国龙卸任西贝CEO，是认错还是另有原因？ 从一开始的正面硬刚，到现在主动卸任CEO，历经200多天的拉锯战，西贝亏损6个亿，150家门店关停，辞退员工4000多名，重新换帅的西贝是否能涅槃重生？#西贝 #贾国龙 #餐饮 #零距离看懂财经 #掘金计划2026"
+                - generic [ref=e1908]:
+                  - generic [ref=e1909]: "@知鱼品牌茶水间"
+                  - generic [ref=e1910]: · 3月10日
+            - generic [ref=e1913] [cursor=pointer]:
+              - generic [ref=e1915]:
+                - img "（完整版）当我看清每个人内心的标签后，才知道人性有多恐怖" [ref=e1917]
+                - generic [ref=e1920]:
+                  - generic [ref=e1921]: 28:00
+                  - generic [ref=e1922]:
+                    - img [ref=e1923]:
+                      - img [ref=e1924]
+                    - generic [ref=e1926]: 8.6万
+              - generic [ref=e1928]:
+                - generic [ref=e1929]: （完整版）当我看清每个人内心的标签后，才知道人性有多恐怖
+                - generic [ref=e1931]:
+                  - generic [ref=e1932]: "@老D悬疑"
+                  - generic [ref=e1933]: · 5天前
+            - generic [ref=e1936] [cursor=pointer]:
+              - generic [ref=e1938]:
+                - 'img "一天见了太多离谱事 去了一趟越南，从胡志明一路南下到湄公河三角洲。 本来以为就是个普通景区，结果遇到很多离谱的东西： 一个“只吃椰子”的教派遗迹 九根龙柱的奇怪建筑 便宜到怀疑人生的水果市场 有些地方真的 离谱，但上头。 #嵩祺探长 #玩转经纬 #越南 #越南旅游 @觉木" [ref=e1940]'
+                - generic [ref=e1943]:
+                  - generic [ref=e1944]: 29:09
+                  - generic [ref=e1945]:
+                    - img [ref=e1946]:
+                      - img [ref=e1947]
+                    - generic [ref=e1949]: 1.3万
+              - generic [ref=e1951]:
+                - generic [ref=e1952]: "一天见了太多离谱事 去了一趟越南，从胡志明一路南下到湄公河三角洲。 本来以为就是个普通景区，结果遇到很多离谱的东西： 一个“只吃椰子”的教派遗迹 九根龙柱的奇怪建筑 便宜到怀疑人生的水果市场 有些地方真的 离谱，但上头。 #嵩祺探长 #玩转经纬 #越南 #越南旅游 @觉木"
+                - generic [ref=e1954]:
+                  - generic [ref=e1955]: "@嵩祺探长"
+                  - generic [ref=e1956]: · 3月12日
+            - generic [ref=e1959] [cursor=pointer]:
+              - generic [ref=e1961]:
+                - 'img "中华民国政府究竟欠了溥仪多少钱？ 今天咱们谈谈清帝退位与《清室优待条件》，以及中华民国政府究竟欠了溥仪多少钱？ #溥仪 #中华民国欠溥仪多少钱 #清室优待条件 @老王特爱聊短视频" [ref=e1963]'
+                - generic [ref=e1966]:
+                  - generic [ref=e1967]: 23:15
+                  - generic [ref=e1968]:
+                    - img [ref=e1969]:
+                      - img [ref=e1970]
+                    - generic [ref=e1972]: "6144"
+              - generic [ref=e1974]:
+                - generic [ref=e1975]: "中华民国政府究竟欠了溥仪多少钱？ 今天咱们谈谈清帝退位与《清室优待条件》，以及中华民国政府究竟欠了溥仪多少钱？ #溥仪 #中华民国欠溥仪多少钱 #清室优待条件 @老王特爱聊短视频"
+                - generic [ref=e1977]:
+                  - generic [ref=e1978]: "@老王特爱聊"
+                  - generic [ref=e1979]: · 2月26日
+            - generic [ref=e1982] [cursor=pointer]:
+              - generic [ref=e1984]:
+                - 'img "第一次和父母来美国，大开眼界 #vlog十亿流量扶持计划 #vlog日常 #海外 #美国旅游 #日常vlog" [ref=e1986]'
+                - generic [ref=e1989]:
+                  - generic [ref=e1990]: 05:57
+                  - generic [ref=e1991]:
+                    - img [ref=e1992]:
+                      - img [ref=e1993]
+                    - generic [ref=e1995]: 17.0万
+              - generic [ref=e1997]:
+                - generic [ref=e1998]: "第一次和父母来美国，大开眼界 #vlog十亿流量扶持计划 #vlog日常 #海外 #美国旅游 #日常vlog"
+                - generic [ref=e2000]:
+                  - generic [ref=e2001]: "@拉宏（开学版）"
+                  - generic [ref=e2002]: · 3月14日
+            - generic [ref=e2005] [cursor=pointer]:
+              - generic [ref=e2007]:
+                - 'img "第11期：帽子哥在成都看中超比赛，直呼被vip座位骗了 #外国人来中国 #中国旅行 #旅行vlog #外国人在中国 #成都蓉城" [ref=e2009]'
+                - generic [ref=e2012]:
+                  - generic [ref=e2013]: 27:20
+                  - generic [ref=e2014]:
+                    - img [ref=e2015]:
+                      - img [ref=e2016]
+                    - generic [ref=e2018]: 1.2万
+              - generic [ref=e2020]:
+                - generic [ref=e2021]: "第11期：帽子哥在成都看中超比赛，直呼被vip座位骗了 #外国人来中国 #中国旅行 #旅行vlog #外国人在中国 #成都蓉城"
+                - generic [ref=e2023]:
+                  - generic [ref=e2024]: "@动动波"
+                  - generic [ref=e2025]: · 1月30日
+            - generic [ref=e2028] [cursor=pointer]:
+              - generic [ref=e2030]:
+                - 'img "埃及官方为何阻挠金字塔探测？地下藏着不敢说的秘密 #金字塔 #金字塔之谜 #未解之谜 #哄睡 #史前文明" [ref=e2032]'
+                - generic [ref=e2035]:
+                  - generic [ref=e2036]: 25:47
+                  - generic [ref=e2037]:
+                    - img [ref=e2038]:
+                      - img [ref=e2039]
+                    - generic [ref=e2041]: 6.6万
+              - generic [ref=e2043]:
+                - generic [ref=e2044]: "埃及官方为何阻挠金字塔探测？地下藏着不敢说的秘密 #金字塔 #金字塔之谜 #未解之谜 #哄睡 #史前文明"
+                - generic [ref=e2046]:
+                  - generic [ref=e2047]: "@老马哄睡宇宙"
+                  - generic [ref=e2048]: · 2月8日
+            - generic [ref=e2051] [cursor=pointer]:
+              - generic [ref=e2053]:
+                - 'img "最疯狂！最具想象力！NASA绝密核动力飞船项目，靠核爆起飞！ #猎户座计划 #核脉冲火箭 #核热火箭 #宇宙飞船 #戴森" [ref=e2055]'
+                - generic [ref=e2058]:
+                  - generic [ref=e2059]: 27:22
+                  - generic [ref=e2060]:
+                    - img [ref=e2061]:
+                      - img [ref=e2062]
+                    - generic [ref=e2064]: 3.7万
+              - generic [ref=e2066]:
+                - generic [ref=e2067]: "最疯狂！最具想象力！NASA绝密核动力飞船项目，靠核爆起飞！ #猎户座计划 #核脉冲火箭 #核热火箭 #宇宙飞船 #戴森"
+                - generic [ref=e2069]:
+                  - generic [ref=e2070]: "@空间一号"
+                  - generic [ref=e2071]: · 2月4日
+            - generic [ref=e2074] [cursor=pointer]:
+              - generic [ref=e2076]:
+                - 'img "《判狱无间》以罪寻仇，以身入局，权黑交织，一触即燃 #判狱无间 #抖音精选计划" [ref=e2078]'
+                - generic [ref=e2081]:
+                  - generic [ref=e2082]: 30:06
+                  - generic [ref=e2083]:
+                    - img [ref=e2084]:
+                      - img [ref=e2085]
+                    - generic [ref=e2087]: 3.4万
+              - generic [ref=e2089]:
+                - generic [ref=e2090]: "《判狱无间》以罪寻仇，以身入局，权黑交织，一触即燃 #判狱无间 #抖音精选计划"
+                - generic [ref=e2092]:
+                  - generic [ref=e2093]: "@秀才探影"
+                  - generic [ref=e2094]: · 6天前
+            - generic [ref=e2097] [cursor=pointer]:
+              - generic [ref=e2099]:
+                - 'img "凭啥越南不恨美法，反而恨“我们”？ #越南 #地缘政治" [ref=e2101]'
+                - generic [ref=e2104]:
+                  - generic [ref=e2105]: 04:42
+                  - generic [ref=e2106]:
+                    - img [ref=e2107]:
+                      - img [ref=e2108]
+                    - generic [ref=e2110]: "5642"
+              - generic [ref=e2112]:
+                - generic [ref=e2113]: "凭啥越南不恨美法，反而恨“我们”？ #越南 #地缘政治"
+                - generic [ref=e2115]:
+                  - generic [ref=e2116]: "@老胡说说"
+                  - generic [ref=e2117]: · 1天前
+            - generic [ref=e2120] [cursor=pointer]:
+              - generic [ref=e2122]:
+                - 'img "二战的前奏是怎么响起的？ 为什么一个「和会」，反而成了激化世界矛盾的导火索？ #二战 #经济 #独立思考 #德国 #凡尔赛条约" [ref=e2124]'
+                - generic [ref=e2127]:
+                  - generic [ref=e2128]: 26:14
+                  - generic [ref=e2129]:
+                    - img [ref=e2130]:
+                      - img [ref=e2131]
+                    - generic [ref=e2133]: 5.7万
+              - generic [ref=e2135]:
+                - generic [ref=e2136]: "二战的前奏是怎么响起的？ 为什么一个「和会」，反而成了激化世界矛盾的导火索？ #二战 #经济 #独立思考 #德国 #凡尔赛条约"
+                - generic [ref=e2138]:
+                  - generic [ref=e2139]: "@大时叔叔"
+                  - generic [ref=e2140]: · 1月29日
+            - generic [ref=e2143] [cursor=pointer]:
+              - generic [ref=e2145]:
+                - 'img "埃隆·马斯克的新型发动机已然终结电动汽车之战—无人预见此变局 #电动汽车 #买车 #买车那点事儿 #发动机 #掘金计划2026" [ref=e2147]'
+                - generic [ref=e2150]:
+                  - generic [ref=e2151]: 23:10
+                  - generic [ref=e2152]:
+                    - img [ref=e2153]:
+                      - img [ref=e2154]
+                    - generic [ref=e2156]: "1021"
+              - generic [ref=e2158]:
+                - generic [ref=e2159]: "埃隆·马斯克的新型发动机已然终结电动汽车之战—无人预见此变局 #电动汽车 #买车 #买车那点事儿 #发动机 #掘金计划2026"
+                - generic [ref=e2161]:
+                  - generic [ref=e2162]: "@火柴"
+                  - generic [ref=e2163]: · 3天前
+            - generic [ref=e2166] [cursor=pointer]:
+              - generic [ref=e2168]:
+                - 'img "“他怕儿子骂错了对象，更怕万达走错了方向。” #商业故事 #商业思维 #财经 #财经知识" [ref=e2170]'
+                - generic [ref=e2173]:
+                  - generic [ref=e2174]: 06:08
+                  - generic [ref=e2175]:
+                    - img [ref=e2176]:
+                      - img [ref=e2177]
+                    - generic [ref=e2179]: 4.6万
+              - generic [ref=e2181]:
+                - generic [ref=e2182]: "“他怕儿子骂错了对象，更怕万达走错了方向。” #商业故事 #商业思维 #财经 #财经知识"
+                - generic [ref=e2184]:
+                  - generic [ref=e2185]: "@成大器是我"
+                  - generic [ref=e2186]: · 3月22日
+            - generic [ref=e2189] [cursor=pointer]:
+              - generic [ref=e2191]:
+                - 'img "从地狱杀到宇宙尽头，把神佛全部碾碎！ #阿修罗之怒 #主机游戏 #单机游戏 #游戏解说 《阿修罗之怒》的弑神之路，爽到头皮发麻！阿修罗之怒全剧情解说" [ref=e2193]'
+                - generic [ref=e2196]:
+                  - generic [ref=e2197]: 27:50
+                  - generic [ref=e2198]:
+                    - img [ref=e2199]:
+                      - img [ref=e2200]
+                    - generic [ref=e2202]: 10.4万
+              - generic [ref=e2204]:
+                - generic [ref=e2205]: "从地狱杀到宇宙尽头，把神佛全部碾碎！ #阿修罗之怒 #主机游戏 #单机游戏 #游戏解说 《阿修罗之怒》的弑神之路，爽到头皮发麻！阿修罗之怒全剧情解说"
+                - generic [ref=e2207]:
+                  - generic [ref=e2208]: "@蛋说无妨"
+                  - generic [ref=e2209]: · 5天前
+  - img [ref=e953]

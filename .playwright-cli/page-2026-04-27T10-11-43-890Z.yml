@@ -1,0 +1,210 @@
+- generic [active] [ref=e1]:
+  - button "开启读屏标签" [ref=e183]
+  - generic: 读屏标签已关闭
+  - generic [ref=e3]:
+    - generic [ref=e5]:
+      - link [ref=e6] [cursor=pointer]:
+        - /url: //www.douyin.com/jingxuan
+      - generic [ref=e11]:
+        - generic [ref=e12]:
+          - generic [ref=e14]:
+            - link "精选" [ref=e18] [cursor=pointer]:
+              - /url: https://www.douyin.com/jingxuan?from_nav=1
+              - generic [ref=e21]: 精选
+            - link "推荐" [ref=e26] [cursor=pointer]:
+              - /url: https://www.douyin.com/?recommend=1&from_nav=1
+              - generic [ref=e29]: 推荐
+            - link "搜索" [ref=e34] [cursor=pointer]:
+              - /url: https://www.douyin.com/aisearch?from_nav=1
+              - generic [ref=e37]: 搜索
+            - link "关注" [ref=e43] [cursor=pointer]:
+              - /url: https://www.douyin.com/follow?from_nav=1
+              - generic [ref=e46]: 关注
+            - link "朋友 34" [ref=e185] [cursor=pointer]:
+              - /url: https://www.douyin.com/friend?from_nav=1
+              - generic [ref=e54]: 朋友
+              - generic [ref=e186]: "34"
+            - link "我的" [ref=e59] [cursor=pointer]:
+              - /url: https://www.douyin.com/user/self?from_nav=1
+              - generic [ref=e62]: 我的
+            - link "直播" [ref=e68] [cursor=pointer]:
+              - /url: https://live.douyin.com/?from_nav=1
+              - generic [ref=e71]: 直播
+            - link "放映厅" [ref=e76] [cursor=pointer]:
+              - /url: https://www.douyin.com/vs?from_nav=1
+              - generic [ref=e79]: 放映厅
+            - link "短剧" [ref=e84] [cursor=pointer]:
+              - /url: https://www.douyin.com/series?from_nav=1
+              - generic [ref=e87]: 短剧
+          - generic [ref=e189]:
+            - img [ref=e190]
+            - generic [ref=e191] [cursor=pointer]:
+              - img [ref=e192]
+              - generic [ref=e193]: 下载抖音精选
+          - generic [ref=e194]:
+            - img [ref=e197] [cursor=pointer]
+            - img [ref=e201] [cursor=pointer]
+            - img [ref=e205] [cursor=pointer]
+        - contentinfo [ref=e207]:
+          - generic [ref=e208]:
+            - generic [ref=e209]:
+              - generic [ref=e211]: 2026 © 抖音
+              - link "京ICP备16016397号-3" [ref=e213] [cursor=pointer]:
+                - /url: https://beian.miit.gov.cn/
+              - link "icon京公网安备 11000002002046号" [ref=e215] [cursor=pointer]:
+                - /url: http://www.beian.gov.cn/portal/registerSystemInfo
+                - img "icon" [ref=e216]
+                - text: 京公网安备 11000002002046号
+              - link "广播电视节目制作经营许可证" [ref=e218] [cursor=pointer]:
+                - /url: https://lf3-static.bytednsdoc.com/obj/eden-cn/ild_jw_upfbvk_lm/ljhwZthlaukjlkulzlp/license/jiemuzhizuojingying.jpg
+              - link "京B2-20170846" [ref=e220] [cursor=pointer]:
+                - /url: https://lf3-static.bytednsdoc.com/obj/eden-cn/ild_jw_upfbvk_lm/ljhwZthlaukjlkulzlp/license/zengzhixuke.jpg
+              - link "网络文化许可证-京网文-（2025）0181-061号" [ref=e222] [cursor=pointer]:
+                - /url: https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/20250519-201253.jpeg
+              - generic [ref=e224]: 互联网宗教信息服务许可证 京（2025）0000017
+              - generic [ref=e226]: 药品医疗器械网络信息服务备案 （京）网药械信息备字（2023）第00570号
+              - generic [ref=e228]: 互联网新闻信息服务许可证 11220230001
+            - generic [ref=e230]:
+              - link "网络谣言曝光台" [ref=e232] [cursor=pointer]:
+                - /url: https://www.piyao.org.cn/yybgt/index.htm
+              - link "网上有害信息举报" [ref=e234] [cursor=pointer]:
+                - /url: https://www.12377.cn/
+              - generic [ref=e236]: 违法和不良信息举报 400-140-2108
+              - generic [ref=e238]: 算法推荐专项举报 sfjubao@bytedance.com
+              - generic [ref=e240]: 网络内容从业人员违法违规行为举报 feedback@douyin.com
+              - generic [ref=e242]: 体育饭圈专项举报 tyfq@bytedance.com
+            - generic [ref=e244]:
+              - link "广告投放" [ref=e246] [cursor=pointer]:
+                - /url: https://www.oceanengine.com/resource/douyin
+              - link "用户服务协议" [ref=e248] [cursor=pointer]:
+                - /url: https://www.douyin.com/agreements/?id=6773906068725565448
+              - link "隐私政策" [ref=e250] [cursor=pointer]:
+                - /url: https://www.douyin.com/agreements/?id=6773901168964798477
+              - link "账号找回" [ref=e252] [cursor=pointer]:
+                - /url: https://www.douyin.com/recovery_account/
+              - link "联系我们" [ref=e254] [cursor=pointer]:
+                - /url: https://www.douyin.com/aboutus/
+              - link "加入我们" [ref=e256] [cursor=pointer]:
+                - /url: https://www.douyin.com/aboutus/
+              - link "营业执照" [ref=e258] [cursor=pointer]:
+                - /url: https://www.douyin.com/business_license/
+              - link "友情链接" [ref=e260] [cursor=pointer]:
+                - /url: https://www.douyin.com/friend_links
+              - link "站点地图" [ref=e262] [cursor=pointer]:
+                - /url: https://www.douyin.com/htmlmap/hotauthor_0_1
+              - link "下载抖音" [ref=e264] [cursor=pointer]:
+                - /url: https://www.douyin.com/downloadpage/pc
+              - link "抖音电商" [ref=e266] [cursor=pointer]:
+                - /url: https://mix.jinritemai.com/falcon/mix_page/index.html
+    - generic [ref=e104]:
+      - banner [ref=e107]:
+        - generic [ref=e109]:
+          - generic [ref=e113]:
+            - textbox "搜索你感兴趣的内容" [ref=e115]
+            - button "搜索" [ref=e117] [cursor=pointer]:
+              - img [ref=e118]
+              - generic [ref=e120]: 搜索
+          - generic [ref=e124]:
+            - generic [ref=e126] [cursor=pointer]:
+              - img [ref=e128]:
+                - img [ref=e129]
+              - paragraph [ref=e131]: 充钻石
+            - link "客户端" [ref=e136] [cursor=pointer]:
+              - /url: ""
+              - generic [ref=e138]:
+                - img [ref=e140]:
+                  - img [ref=e141]
+                - paragraph [ref=e144]: 客户端
+            - generic [ref=e146] [cursor=pointer]:
+              - img [ref=e148]:
+                - img [ref=e149]
+              - paragraph [ref=e151]: 壁纸
+            - list [ref=e152]:
+              - generic [ref=e155] [cursor=pointer]:
+                - img [ref=e157]:
+                  - img [ref=e158]
+                - paragraph [ref=e161]: 通知
+            - generic [ref=e165] [cursor=pointer]:
+              - img [ref=e167]:
+                - img [ref=e168]
+              - paragraph [ref=e170]: 投稿
+            - link [ref=e173] [cursor=pointer]:
+              - /url: //www.douyin.com/user/self
+              - listitem [ref=e174]
+      - generic [ref=e268]:
+        - generic [ref=e272]: 视频数据加载中
+        - contentinfo [ref=e273]:
+          - generic [ref=e274]:
+            - generic [ref=e275]:
+              - link "广告投放" [ref=e277] [cursor=pointer]:
+                - /url: https://www.oceanengine.com/resource/douyin
+              - link "用户服务协议" [ref=e279] [cursor=pointer]:
+                - /url: https://www.douyin.com/agreements/?id=6773906068725565448
+              - link "隐私政策" [ref=e281] [cursor=pointer]:
+                - /url: https://www.douyin.com/agreements/?id=6773901168964798477
+              - link "账号找回" [ref=e283] [cursor=pointer]:
+                - /url: https://www.douyin.com/recovery_account/
+              - link "联系我们" [ref=e285] [cursor=pointer]:
+                - /url: https://www.douyin.com/aboutus/
+              - link "加入我们" [ref=e287] [cursor=pointer]:
+                - /url: https://www.douyin.com/aboutus/
+              - link "营业执照" [ref=e289] [cursor=pointer]:
+                - /url: https://www.douyin.com/business_license/
+              - link "友情链接" [ref=e291] [cursor=pointer]:
+                - /url: https://www.douyin.com/friend_links
+              - link "站点地图" [ref=e293] [cursor=pointer]:
+                - /url: https://www.douyin.com/htmlmap/hotauthor_0_1
+              - link "下载抖音" [ref=e295] [cursor=pointer]:
+                - /url: https://www.douyin.com/downloadpage/pc
+              - link "抖音电商" [ref=e297] [cursor=pointer]:
+                - /url: https://mix.jinritemai.com/falcon/mix_page/index.html
+            - generic [ref=e298]:
+              - link "网络谣言曝光台 ｜" [ref=e300] [cursor=pointer]:
+                - /url: https://www.piyao.org.cn/yybgt/index.htm
+              - link "网上有害信息举报" [ref=e302] [cursor=pointer]:
+                - /url: https://www.12377.cn/
+              - generic [ref=e303]: ｜ 违法和不良信息举报：400-140-2108 ｜ 算法推荐专项举报：sfjubao@bytedance.com ｜ 网络内容从业人员违法违规行为举报：feedback@douyin.com | 体育饭圈专项举报：tyfq@bytedance.com
+            - generic [ref=e304]:
+              - link "京ICP备16016397号-3" [ref=e306] [cursor=pointer]:
+                - /url: https://beian.miit.gov.cn/
+              - link "｜ 广播电视节目制作经营许可证" [ref=e308] [cursor=pointer]:
+                - /url: https://lf3-static.bytednsdoc.com/obj/eden-cn/ild_jw_upfbvk_lm/ljhwZthlaukjlkulzlp/license/jiemuzhizuojingying.jpg
+              - link "｜ 京B2-20170846" [ref=e310] [cursor=pointer]:
+                - /url: https://lf3-static.bytednsdoc.com/obj/eden-cn/ild_jw_upfbvk_lm/ljhwZthlaukjlkulzlp/license/zengzhixuke.jpg
+              - link "｜ 网络文化许可证-京网文-（2025）0181-061号 ｜" [ref=e312] [cursor=pointer]:
+                - /url: https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/20250519-201253.jpeg
+              - generic [ref=e313]:
+                - img "icon" [ref=e314]
+                - link "京公网安备 11000002002046号" [ref=e315] [cursor=pointer]:
+                  - /url: http://www.beian.gov.cn/portal/registerSystemInfo
+              - generic [ref=e316]: ｜ 互联网宗教信息服务许可证 京（2025）0000017
+            - generic [ref=e317]:
+              - generic [ref=e319]: 热门：
+              - link "抖音音乐" [ref=e321] [cursor=pointer]:
+                - /url: https://www.douyin.com/jingxuan/music
+              - link "抖音官网" [ref=e323] [cursor=pointer]:
+                - /url: https://www.douyin.com/jingxuan
+              - link "小岩玉器" [ref=e325] [cursor=pointer]:
+                - /url: https://www.douyin.com/user/MS4wLjABAAAA3cT4o2KmmJp99aSSDXfO8_u-eB_JUGg1bAgy5LS2GxanaEy4FSkWQ1p9RpMlLrU1
+              - 'link "云南电子信息高级技工学校是重点公办院校，师资力量强不，管理方式可靠，学费公开透明，是许多农村家庭的不错选择 #云南电子信息高级技工学校 #电子信息李老师#考不上高中怎么办#家长必读#初三党" [ref=e327] [cursor=pointer]':
+                - /url: https://www.douyin.com/video/7633120671107644022
+              - link "南铁2025高考录取分数线" [ref=e329] [cursor=pointer]:
+                - /url: https://www.douyin.com/topic/7509859262819043362
+              - link "四川高考588分能上什么大学" [ref=e331] [cursor=pointer]:
+                - /url: https://www.douyin.com/shipin/7509892876818696219
+              - link "山西临汾高考语文作文" [ref=e333] [cursor=pointer]:
+                - /url: https://www.douyin.com/search/%E5%B1%B1%E8%A5%BF%E4%B8%B4%E6%B1%BE%E9%AB%98%E8%80%83%E8%AF%AD%E6%96%87%E4%BD%9C%E6%96%87
+              - link "丹东专项整治教师收受礼品礼金" [ref=e335] [cursor=pointer]:
+                - /url: https://www.douyin.com/video/7593743860896849851?source=Baiduspider
+              - 'link "#米小圈上学记 #看看小故事学点新知识 #3-6岁儿童睡前故事推荐 #教育 #育儿" [ref=e337] [cursor=pointer]':
+                - /url: https://www.douyin.com/video/7225210184493305091?source=Baiduspider
+              - 'link "今天和大家分享这款红糖糖酥饼的详细做法，有喜欢的一起来做吧#纯手工制作美食 #糖酥饼" [ref=e339] [cursor=pointer]':
+                - /url: https://www.douyin.com/video/7308634911991155995?source=Baiduspider
+              - 'link "我们既然决定了要这个小伙子，就要一起努力把事情干好 #成都二手车 #国鑫长顺二手车" [ref=e341] [cursor=pointer]':
+                - /url: https://www.douyin.com/video/7361005522167860543?source=Baiduspider-sdc
+              - 'link "英国Graham贵涵LS8/1搭配德国八度OCTAVE V80SE胆机感受一下经典中的经典，甜美的气质无与伦比！#怀旧情怀 #自由向往 #怀旧经典 #感谢支持和关注我的朋友 #你可能不认识我但你一定听过我的歌" [ref=e343] [cursor=pointer]':
+                - /url: https://www.douyin.com/video/7535857764612279612?source=Baiduspider
+              - link "舌尖上的美味。感谢抖音平台的大力支持。油炸糖糕。非常好吃，喜欢的家人可以试做一下爱家人，爱热门。" [ref=e345] [cursor=pointer]:
+                - /url: https://www.douyin.com/video/6997242572162780431?source=Baiduspider
+              - 'link "有人会让你有莫名的熟悉感吗……#蛋仔派对 #蛋仔派对精灵之声赛季 #蛋仔派对皮肤 #奇奇怪怪的蛋仔玩法 #eggy蛋仔派对" [ref=e347] [cursor=pointer]':
+                - /url: https://www.douyin.com/video/7216319819321314575?source=Baiduspider-sdc

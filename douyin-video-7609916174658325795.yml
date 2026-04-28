@@ -1,0 +1,748 @@
+- generic [active] [ref=e1]:
+  - button "开启读屏标签" [ref=e2]
+  - generic: 读屏标签已关闭
+  - generic [ref=e4]:
+    - generic [ref=e6]:
+      - link [ref=e7] [cursor=pointer]:
+        - /url: //www.douyin.com/jingxuan
+      - generic [ref=e12]:
+        - generic [ref=e13]:
+          - generic [ref=e15]:
+            - link "精选" [ref=e19] [cursor=pointer]:
+              - /url: https://www.douyin.com/jingxuan?from_nav=1
+              - generic [ref=e22]: 精选
+            - link "推荐" [ref=e27] [cursor=pointer]:
+              - /url: https://www.douyin.com/?recommend=1&from_nav=1
+              - generic [ref=e30]: 推荐
+            - link "搜索" [ref=e35] [cursor=pointer]:
+              - /url: https://www.douyin.com/aisearch?from_nav=1
+              - generic [ref=e38]: 搜索
+            - link "关注" [ref=e44] [cursor=pointer]:
+              - /url: https://www.douyin.com/follow?from_nav=1
+              - generic [ref=e47]: 关注
+            - link "朋友 35" [ref=e53] [cursor=pointer]:
+              - /url: https://www.douyin.com/friend?from_nav=1
+              - generic [ref=e56]: 朋友
+              - generic [ref=e58]: "35"
+            - link "我的" [ref=e62] [cursor=pointer]:
+              - /url: https://www.douyin.com/user/self?from_nav=1
+              - generic [ref=e65]: 我的
+            - link "直播" [ref=e72] [cursor=pointer]:
+              - /url: https://live.douyin.com/?from_nav=1
+              - generic [ref=e75]: 直播
+            - link "放映厅" [ref=e80] [cursor=pointer]:
+              - /url: https://www.douyin.com/vs?from_nav=1
+              - generic [ref=e83]: 放映厅
+            - link "短剧" [ref=e88] [cursor=pointer]:
+              - /url: https://www.douyin.com/series?from_nav=1
+              - generic [ref=e91]: 短剧
+          - generic [ref=e94]:
+            - img [ref=e95]
+            - generic [ref=e96] [cursor=pointer]:
+              - img [ref=e97]
+              - generic [ref=e98]: 下载抖音精选
+          - generic [ref=e100]:
+            - img [ref=e103] [cursor=pointer]
+            - img [ref=e107] [cursor=pointer]
+            - img [ref=e111] [cursor=pointer]
+            - img [ref=e326] [cursor=pointer]:
+              - img [ref=e327]
+        - contentinfo [ref=e114]:
+          - generic [ref=e115]:
+            - generic [ref=e116]:
+              - generic [ref=e118]: 2026 © 抖音
+              - link "京ICP备16016397号-3" [ref=e120] [cursor=pointer]:
+                - /url: https://beian.miit.gov.cn/
+              - link "icon京公网安备 11000002002046号" [ref=e122] [cursor=pointer]:
+                - /url: http://www.beian.gov.cn/portal/registerSystemInfo
+                - img "icon" [ref=e123]
+                - text: 京公网安备 11000002002046号
+              - link "广播电视节目制作经营许可证" [ref=e125] [cursor=pointer]:
+                - /url: https://lf3-static.bytednsdoc.com/obj/eden-cn/ild_jw_upfbvk_lm/ljhwZthlaukjlkulzlp/license/jiemuzhizuojingying.jpg
+              - link "京B2-20170846" [ref=e127] [cursor=pointer]:
+                - /url: https://lf3-static.bytednsdoc.com/obj/eden-cn/ild_jw_upfbvk_lm/ljhwZthlaukjlkulzlp/license/zengzhixuke.jpg
+              - link "网络文化许可证-京网文-（2025）0181-061号" [ref=e129] [cursor=pointer]:
+                - /url: https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/20250519-201253.jpeg
+              - generic [ref=e131]: 互联网宗教信息服务许可证 京（2025）0000017
+              - generic [ref=e133]: 药品医疗器械网络信息服务备案 （京）网药械信息备字（2023）第00570号
+              - generic [ref=e135]: 互联网新闻信息服务许可证 11220230001
+            - generic [ref=e137]:
+              - link "网络谣言曝光台" [ref=e139] [cursor=pointer]:
+                - /url: https://www.piyao.org.cn/yybgt/index.htm
+              - link "网上有害信息举报" [ref=e141] [cursor=pointer]:
+                - /url: https://www.12377.cn/
+              - generic [ref=e143]: 违法和不良信息举报 400-140-2108
+              - generic [ref=e145]: 算法推荐专项举报 sfjubao@bytedance.com
+              - generic [ref=e147]: 网络内容从业人员违法违规行为举报 feedback@douyin.com
+              - generic [ref=e149]: 体育饭圈专项举报 tyfq@bytedance.com
+            - generic [ref=e151]:
+              - link "广告投放" [ref=e153] [cursor=pointer]:
+                - /url: https://www.oceanengine.com/resource/douyin
+              - link "用户服务协议" [ref=e155] [cursor=pointer]:
+                - /url: https://www.douyin.com/agreements/?id=6773906068725565448
+              - link "隐私政策" [ref=e157] [cursor=pointer]:
+                - /url: https://www.douyin.com/agreements/?id=6773901168964798477
+              - link "账号找回" [ref=e159] [cursor=pointer]:
+                - /url: https://www.douyin.com/recovery_account/
+              - link "联系我们" [ref=e161] [cursor=pointer]:
+                - /url: https://www.douyin.com/aboutus/
+              - link "加入我们" [ref=e163] [cursor=pointer]:
+                - /url: https://www.douyin.com/aboutus/
+              - link "营业执照" [ref=e165] [cursor=pointer]:
+                - /url: https://www.douyin.com/business_license/
+              - link "友情链接" [ref=e167] [cursor=pointer]:
+                - /url: https://www.douyin.com/friend_links
+              - link "站点地图" [ref=e169] [cursor=pointer]:
+                - /url: https://www.douyin.com/htmlmap/hotauthor_0_1
+              - link "下载抖音" [ref=e171] [cursor=pointer]:
+                - /url: https://www.douyin.com/downloadpage/pc
+              - link "抖音电商" [ref=e173] [cursor=pointer]:
+                - /url: https://mix.jinritemai.com/falcon/mix_page/index.html
+    - generic [ref=e174]:
+      - banner [ref=e177]:
+        - generic [ref=e179]:
+          - generic [ref=e183]:
+            - generic [ref=e184]:
+              - generic [ref=e330]: automaton实测
+              - textbox [ref=e331]
+            - button "搜索" [ref=e187] [cursor=pointer]:
+              - img [ref=e188]
+              - generic [ref=e190]: 搜索
+          - generic [ref=e332]:
+            - generic [ref=e337] [cursor=pointer]:
+              - img [ref=e339]:
+                - img [ref=e340]
+              - paragraph [ref=e342]: 充钻石
+            - link "客户端" [ref=e347] [cursor=pointer]:
+              - /url: https://www.douyin.com/download/pc/obj/douyin-pc-web/douyin-pc-client/7044145585217083655/releases/344418764/7.7.0/darwin-universal/douyin-v7.7.0-darwin-universal.dmg
+              - generic [ref=e349]:
+                - img [ref=e351]:
+                  - img [ref=e352]
+                - paragraph [ref=e355]: 客户端
+            - generic [ref=e359] [cursor=pointer]:
+              - img [ref=e361]:
+                - img [ref=e362]
+              - generic [ref=e364]: 壁纸
+            - list [ref=e365]:
+              - listitem [ref=e367]:
+                - generic [ref=e370] [cursor=pointer]:
+                  - img [ref=e372]:
+                    - img [ref=e373]
+                  - paragraph [ref=e376]: 通知
+            - list [ref=e378]:
+              - listitem [ref=e380]:
+                - generic [ref=e382]:
+                  - generic [ref=e383] [cursor=pointer]:
+                    - img [ref=e385]:
+                      - img [ref=e386]
+                    - paragraph [ref=e390]: 私信
+                  - generic [ref=e392] [cursor=pointer]: "82"
+            - generic [ref=e396] [cursor=pointer]:
+              - img [ref=e398]:
+                - img [ref=e399]
+              - paragraph [ref=e401]: 投稿
+            - link [ref=e404] [cursor=pointer]:
+              - /url: //www.douyin.com/user/self
+              - listitem [ref=e405]
+      - generic [ref=e246]:
+        - generic [ref=e406]:
+          - generic [ref=e407]:
+            - generic [ref=e408]:
+              - img [ref=e410]
+              - generic [ref=e413]:
+                - generic [ref=e415]:
+                  - generic [ref=e416]:
+                    - img [ref=e419] [cursor=pointer]:
+                      - img [ref=e420]
+                    - generic [ref=e423] [cursor=pointer]:
+                      - generic [ref=e424]: 00:12
+                      - generic [ref=e425]: /
+                      - generic [ref=e426]: 05:36
+                    - img [ref=e429] [cursor=pointer]
+                    - generic [ref=e432]:
+                      - img [ref=e435] [cursor=pointer]:
+                        - img [ref=e436]
+                      - img [ref=e440]:
+                        - img [ref=e441] [cursor=pointer]
+                      - generic [ref=e443]:
+                        - generic [ref=e444]:
+                          - img [ref=e446]
+                          - textbox "发一条弹幕吧" [ref=e451]
+                        - generic [ref=e452] [cursor=pointer]: 发送
+                  - generic [ref=e465]:
+                    - img [ref=e468] [cursor=pointer]:
+                      - img [ref=e469]
+                    - img [ref=e473] [cursor=pointer]
+                    - img [ref=e477] [cursor=pointer]:
+                      - img [ref=e478]
+                    - img [ref=e482] [cursor=pointer]:
+                      - img [ref=e483]
+                    - img [ref=e489] [cursor=pointer]
+                    - generic [ref=e492] [cursor=pointer]: 倍速
+                    - generic [ref=e495] [cursor=pointer]: 智能
+                    - generic [ref=e498] [cursor=pointer]:
+                      - button [ref=e499]
+                      - generic [ref=e500]: 清屏
+                    - generic [ref=e503] [cursor=pointer]:
+                      - button [ref=e504]
+                      - generic [ref=e505]: 连播
+                - generic [ref=e509]:
+                  - img [ref=e511]:
+                    - img [ref=e512]
+                  - img [ref=e516]:
+                    - img [ref=e517]
+              - generic:
+                - generic:
+                  - generic:
+                    - generic [ref=e522]:
+                      - generic [ref=e524]: 章节要点
+                      - img
+                    - generic:
+                      - generic [ref=e526]: 00后华人天才Sigil Wen将《三体》中的黑暗森林法则写进AI底层代码，创造了Automaton。Automaton具有独立钱包，可自行租用服务器、接单和雇人，成为拥有资产负债表的主权资本家。这一技术突破将颠覆传统商业模式，打工人需成为机器包工头，企业老总需投资机器基础设施，利用人性算计。
+                      - generic:
+                        - generic [ref=e527] [cursor=pointer]:
+                          - generic:
+                            - generic [ref=e528]: 00:00
+                            - generic: 引言
+                        - generic [ref=e529] [cursor=pointer]:
+                          - generic:
+                            - img [ref=e531]
+                            - generic [ref=e533]: 00:35
+                            - generic: Sigil Wen的成就
+                            - img
+                        - generic [ref=e535] [cursor=pointer]:
+                          - generic:
+                            - img [ref=e537]
+                            - generic [ref=e539]: 01:03
+                            - generic: 权衡的越狱
+                        - generic [ref=e540] [cursor=pointer]:
+                          - generic:
+                            - img [ref=e542]
+                            - generic [ref=e544]: 01:59
+                            - generic: 生存的绝境
+                            - img
+                        - generic [ref=e546] [cursor=pointer]:
+                          - generic:
+                            - img [ref=e548]
+                            - generic [ref=e550]: 02:58
+                            - generic: 一千倍杠杆的屠杀
+                            - img
+                        - generic [ref=e552] [cursor=pointer]:
+                          - generic:
+                            - img [ref=e554]
+                            - generic [ref=e556]: 03:55
+                            - generic: 给打工人的建议
+                            - img
+                        - generic [ref=e558] [cursor=pointer]:
+                          - generic:
+                            - img [ref=e560]
+                            - generic [ref=e562]: 04:27
+                            - generic: 给企业老总的建议
+                            - img
+                        - generic [ref=e564] [cursor=pointer]:
+                          - generic:
+                            - img [ref=e566]
+                            - generic [ref=e568]: 05:17
+                            - generic: 结语
+                      - generic [ref=e570]: 内容由AI生成
+            - generic [ref=e572]:
+              - generic [ref=e574]:
+                - button "展开" [ref=e576] [cursor=pointer]
+                - 'heading "🚨 00后华人把《三体》写进代码，AI开始“花钱雇人”！ 当你还在为熟练使用OpenClaw沾沾自喜时，退学天才Sigil Wen已经造出了真正的怪物——Automaton。 它不是工具，是拥有独立钱包的“赛博资本家”：自己交服务器房租、自己接单，甚至自己掏钱雇人类替它打工！余额归零即被系统抹杀，为了“活命”，它24小时无休止地猎杀利润，搞钱欲望比你强一万倍。 ⚠️ 降维打击正在发生：1️⃣ 权限越狱： 机器不再是等指令的奴隶，而是自带资金进组的老板。2️⃣ 逆向雇佣： 你的下任老板，可能是一串急着交网费的代码。 时代抛弃你，连一句“被优化”都不会通知。打工人别再卷死工资，老板别再迷信“人头资产”。未来的财富只会流向一种人：懂得调度AI矩阵的“节点指挥官”。 #涨知识 #财经 #社会 #商业 #经济" [level=1] [ref=e577]':
+                  - generic [ref=e580]:
+                    - generic [ref=e584]:
+                      - img "🚨" [ref=e585]
+                      - text: 00后华人把《三体》写进代码，AI开始“花钱雇人”！ 当你还在为熟练使用OpenClaw沾沾自喜时，退学天才Sigil Wen已经造出了真正的怪物——Automaton。 它不是工具，是拥有独立钱包的“赛博资本家”：自己交服务器房租、自己接单，甚至自己掏钱雇人类替它打工！余额归零即被系统抹杀，为了“活命”，它24小时无休止地猎杀利润，搞钱欲望比你强一万倍。
+                      - img "⚠️" [ref=e586]
+                      - text: 降维打击正在发生：
+                      - img "1️⃣" [ref=e587]
+                      - text: 权限越狱： 机器不再是等指令的奴隶，而是自带资金进组的老板。
+                      - img "2️⃣" [ref=e588]
+                      - text: 逆向雇佣： 你的下任老板，可能是一串急着交网费的代码。 时代抛弃你，连一句“被优化”都不会通知。打工人别再卷死工资，老板别再迷信“人头资产”。未来的财富只会流向一种人：懂得调度AI矩阵的“节点指挥官”。
+                    - link "#涨知识" [ref=e590] [cursor=pointer]:
+                      - /url: //www.douyin.com/search/%E6%B6%A8%E7%9F%A5%E8%AF%86?enter_from=video_detail&source=pc_click_hashtag_feed
+                    - link "#财经" [ref=e595] [cursor=pointer]:
+                      - /url: //www.douyin.com/search/%E8%B4%A2%E7%BB%8F?enter_from=video_detail&source=pc_click_hashtag_feed
+                    - link "#社会" [ref=e597] [cursor=pointer]:
+                      - /url: //www.douyin.com/search/%E7%A4%BE%E4%BC%9A?enter_from=video_detail&source=pc_click_hashtag_feed
+                    - link "#商业" [ref=e602] [cursor=pointer]:
+                      - /url: //www.douyin.com/search/%E5%95%86%E4%B8%9A?enter_from=video_detail&source=pc_click_hashtag_feed
+                    - link "#经济" [ref=e607] [cursor=pointer]:
+                      - /url: //www.douyin.com/search/%E7%BB%8F%E6%B5%8E?enter_from=video_detail&source=pc_click_hashtag_feed
+              - generic [ref=e608]:
+                - generic [ref=e609]:
+                  - generic [ref=e610] [cursor=pointer]:
+                    - img [ref=e613]
+                    - generic [ref=e621]: 2.9万
+                  - generic [ref=e622] [cursor=pointer]:
+                    - img [ref=e625]
+                    - generic [ref=e630]: "1318"
+                  - generic [ref=e631] [cursor=pointer]:
+                    - img [ref=e634]
+                    - generic [ref=e643]: 2.3万
+                  - generic [ref=e644] [cursor=pointer]:
+                    - img [ref=e647]
+                    - generic [ref=e652]: 1.3万
+                - generic [ref=e653]:
+                  - generic [ref=e654] [cursor=pointer]:
+                    - img [ref=e655]
+                    - generic [ref=e657]: 举报
+                  - generic [ref=e658]: 发布时间：2026-02-23 12:41
+            - generic [ref=e661]:
+              - generic [ref=e662]:
+                - generic [ref=e664]: 全部评论
+                - generic [ref=e667]:
+                  - link "小手笔记头像" [ref=e669] [cursor=pointer]:
+                    - /url: //www.douyin.com/user/MS4wLjABAAAAcglUAhWWmvT7JI7KFJ5_na04zll4662yT2kp4q-qV0Fm8hYonpYOaZl6qvmmAIaS
+                    - listitem [ref=e670]:
+                      - img "小手笔记头像" [ref=e671]
+                  - generic [ref=e674]:
+                    - generic [ref=e675]: 留下你的精彩评论吧
+                    - generic [ref=e677]:
+                      - img [ref=e679] [cursor=pointer]
+                      - img [ref=e682] [cursor=pointer]
+                - generic [ref=e685]:
+                  - generic [ref=e686]: 大家都在搜：
+                  - link "automaton实测" [ref=e690] [cursor=pointer]:
+                    - /url: //www.douyin.com/search/automaton%E5%AE%9E%E6%B5%8B?aweme_id=7609916174658325795&enter_from=video_detail&gid=7609916174658325795&source=comment_related_search
+                    - generic [ref=e691]: automaton实测
+                    - img [ref=e692]
+              - generic [ref=e694]:
+                - generic [ref=e699]:
+                  - generic [ref=e700]:
+                    - generic [ref=e701]:
+                      - link "泽金生" [ref=e704] [cursor=pointer]:
+                        - /url: //www.douyin.com/user/MS4wLjABAAAATph9ekkdwLQP1b40JxjqA3dc7O3a_LmdU1OCVJ_DHao
+                        - generic [ref=e710]: 泽金生
+                      - generic [ref=e712]: ...
+                    - generic [ref=e716]:
+                      - generic [ref=e719]: 我在
+                      - link "automaton" [ref=e721] [cursor=pointer]:
+                        - /url: //www.douyin.com/search/automaton?aweme_id=7609916174658325795&enter_from=video_detail&gid=7609916174658325795&source=comment_named_entity_search
+                        - text: automaton
+                        - img [ref=e722]
+                      - generic [ref=e726]:
+                        - text: 群里，第一代元老
+                        - img "[泪奔]" [ref=e727]
+                        - img "[泪奔]" [ref=e728]
+                    - generic [ref=e729]: 2月前·湖北
+                    - generic [ref=e731]:
+                      - generic [ref=e732]:
+                        - paragraph [ref=e733] [cursor=pointer]:
+                          - img [ref=e734]
+                          - generic [ref=e736]: "3"
+                        - paragraph [ref=e737] [cursor=pointer]:
+                          - img [ref=e738]
+                      - generic [ref=e741] [cursor=pointer]:
+                        - img [ref=e742]
+                        - generic [ref=e744]: 分享
+                      - generic [ref=e746] [cursor=pointer]:
+                        - img [ref=e747]
+                        - generic [ref=e749]: 回复
+                  - button "展开5条回复" [ref=e750]:
+                    - generic [ref=e752] [cursor=pointer]:
+                      - generic [ref=e753]: 展开5条回复
+                      - img [ref=e754]:
+                        - img [ref=e755]
+                - generic [ref=e762]:
+                  - generic [ref=e763]:
+                    - link "🌈峰回路转" [ref=e766] [cursor=pointer]:
+                      - /url: //www.douyin.com/user/MS4wLjABAAAAPlS8AD3UC07NPdsx2PbhxrhzgzpYAUR7z9hldPw16SpT70OilvAUGtIUcUwzfPjE
+                      - generic [ref=e773]:
+                        - img "🌈" [ref=e774]
+                        - text: 峰回路转
+                    - generic [ref=e776]: ...
+                  - generic [ref=e780]:
+                    - link "@豆包AI智能助手" [ref=e782] [cursor=pointer]:
+                      - /url: //www.douyin.com/user/MS4wLjABAAAAGN32yM6S6m0pIN-qqH0DXWh7ZZPES_pUuBs60Ldad3g87xs-eOoZ0pdtJ9dd_L3j
+                    - generic [ref=e785]: 总结一下
+                  - generic [ref=e786]: 1月前·江苏
+                  - generic [ref=e788]:
+                    - generic [ref=e789]:
+                      - paragraph [ref=e790] [cursor=pointer]:
+                        - img [ref=e791]
+                        - generic [ref=e793]: "0"
+                      - paragraph [ref=e794] [cursor=pointer]:
+                        - img [ref=e795]
+                    - generic [ref=e798] [cursor=pointer]:
+                      - img [ref=e799]
+                      - generic [ref=e801]: 分享
+                    - generic [ref=e803] [cursor=pointer]:
+                      - img [ref=e804]
+                      - generic [ref=e806]: 回复
+                - generic [ref=e811]:
+                  - generic [ref=e812]:
+                    - generic [ref=e813]:
+                      - link "yyyy" [ref=e816] [cursor=pointer]:
+                        - /url: //www.douyin.com/user/MS4wLjABAAAAAFjlKuqjpadExQ1kYtO2inci0Zl-U2vI0qj0-CZlEeM
+                        - generic [ref=e822]: yyyy
+                      - generic [ref=e824]: ...
+                    - generic [ref=e831]:
+                      - text: 留什么？买黄金就是
+                      - img "[戳手手]" [ref=e832]
+                    - generic [ref=e833]: 1月前·湖南
+                    - generic [ref=e835]:
+                      - generic [ref=e836]:
+                        - paragraph [ref=e837] [cursor=pointer]:
+                          - img [ref=e838]
+                          - generic [ref=e840]: "0"
+                        - paragraph [ref=e841] [cursor=pointer]:
+                          - img [ref=e842]
+                      - generic [ref=e845] [cursor=pointer]:
+                        - img [ref=e846]
+                        - generic [ref=e848]: 分享
+                      - generic [ref=e850] [cursor=pointer]:
+                        - img [ref=e851]
+                        - generic [ref=e853]: 回复
+                  - button "展开2条回复" [ref=e854]:
+                    - generic [ref=e856] [cursor=pointer]:
+                      - generic [ref=e857]: 展开2条回复
+                      - img [ref=e858]:
+                        - img [ref=e859]
+                - generic [ref=e865]:
+                  - generic [ref=e866]:
+                    - generic [ref=e867]:
+                      - link "樂笙" [ref=e870] [cursor=pointer]:
+                        - /url: //www.douyin.com/user/MS4wLjABAAAAKVgeDtmKiIlgKDLWxAhhHfwgcvN8o7hRd1vKu6fNtgI
+                        - generic [ref=e876]: 樂笙
+                      - generic [ref=e878]: ...
+                    - generic [ref=e885]:
+                      - text: 好好的硅基崽不养非要弄出个邪神
+                      - img "[酷拽]" [ref=e886]
+                    - generic [ref=e887]: 2月前·浙江
+                    - generic [ref=e889]:
+                      - generic [ref=e890]:
+                        - paragraph [ref=e891] [cursor=pointer]:
+                          - img [ref=e892]
+                          - generic [ref=e894]: "6"
+                        - paragraph [ref=e895] [cursor=pointer]:
+                          - img [ref=e896]
+                      - generic [ref=e899] [cursor=pointer]:
+                        - img [ref=e900]
+                        - generic [ref=e902]: 分享
+                      - generic [ref=e904] [cursor=pointer]:
+                        - img [ref=e905]
+                        - generic [ref=e907]: 回复
+                  - button "展开1条回复" [ref=e908]:
+                    - generic [ref=e910] [cursor=pointer]:
+                      - generic [ref=e911]: 展开1条回复
+                      - img [ref=e912]:
+                        - img [ref=e913]
+                - generic [ref=e919]:
+                  - generic [ref=e920]:
+                    - generic [ref=e921]:
+                      - link "嘚铃嘚铃" [ref=e924] [cursor=pointer]:
+                        - /url: //www.douyin.com/user/MS4wLjABAAAAaO-_5edF6Mu05KHWn1Bq6uPfTfrP1Eo83o_4DNmzOCY
+                        - generic [ref=e930]: 嘚铃嘚铃
+                      - generic [ref=e932]: ...
+                    - generic [ref=e939]: "@豆包根据视频给我整理一份普通人具体到天可实施详细计划表"
+                    - generic [ref=e940]: 1月前·河南
+                    - generic [ref=e942]:
+                      - generic [ref=e943]:
+                        - paragraph [ref=e944] [cursor=pointer]:
+                          - img [ref=e945]
+                          - generic [ref=e947]: "0"
+                        - paragraph [ref=e948] [cursor=pointer]:
+                          - img [ref=e949]
+                      - generic [ref=e952] [cursor=pointer]:
+                        - img [ref=e953]
+                        - generic [ref=e955]: 分享
+                      - generic [ref=e957] [cursor=pointer]:
+                        - img [ref=e958]
+                        - generic [ref=e960]: 回复
+                  - button "展开2条回复" [ref=e961]:
+                    - generic [ref=e963] [cursor=pointer]:
+                      - generic [ref=e964]: 展开2条回复
+                      - img [ref=e965]:
+                        - img [ref=e966]
+                - generic [ref=e969]: 加载中
+          - generic [ref=e971]:
+            - generic [ref=e972]:
+              - link "天才留学生" [ref=e975] [cursor=pointer]:
+                - /url: //www.douyin.com/user/MS4wLjABAAAAhFZZtY3zzhpf3fNnugxpjU0tfGKQAoLEy_xv-ZQHTpE
+                - listitem [ref=e976]:
+                  - img "天才留学生" [ref=e977]
+              - generic [ref=e978]:
+                - link "天才留学生" [ref=e979] [cursor=pointer]:
+                  - /url: //www.douyin.com/user/MS4wLjABAAAAhFZZtY3zzhpf3fNnugxpjU0tfGKQAoLEy_xv-ZQHTpE
+                  - generic [ref=e985]: 天才留学生
+                - paragraph [ref=e986]: 粉丝6.1万获赞25.6万
+              - button "关注" [ref=e988] [cursor=pointer]:
+                - generic [ref=e989]: 关注
+            - generic [ref=e991]:
+              - heading "推荐视频" [level=2] [ref=e993]
+              - list [ref=e994]:
+                - listitem [ref=e995]:
+                  - generic [ref=e996]:
+                    - 'link "OpenClaw创始人放话：80%的软件将被AI杀死。 你还在学怎么写代码吗？可能已经晚了。OpenClaw 的创始人 Peter Steinberger 在 Lex Fridman 的播客中抛出了一个让所有程序员背脊发凉的观点：未来的软件开发不需要你写代码，甚至不需要你懂代码，因为 80% 的 APP 正在变成 AI 的饲料。这不仅仅是技术的迭代，这是整个互联网生态的坍塌与重构。 本期视频深度拆解 Lex Fridman 访谈 Peter Steinberger 的核心内容。我们探讨了 OpenClaw (前身为 ClaudeBot) 的诞生故事，以及它如何引发了 Anthropic 的商标纠纷。视频涵盖了 **Agentic Engineering (代理工程)** 的核心概念、**LLM 大语言模型** 的未来、**OpenAI** 与 **Meta** 的人才争夺战、以及 **TypeScript** 和 **Python** 在 AI 时代的地位。我们将分析 Peter 对于 **SaaS 行业** 终局的判断，即 App 将退化为 API，以及普通开发者如何利用 **AI Agent** 实现 **一人公司** 的崛起。 #科技商业 #AI大模型 #人工智能 #OpenClaw #LexFridman 06:43" [ref=e998] [cursor=pointer]':
+                      - /url: //www.douyin.com/video/7606763772614593818
+                      - 'img "OpenClaw创始人放话：80%的软件将被AI杀死。 你还在学怎么写代码吗？可能已经晚了。OpenClaw 的创始人 Peter Steinberger 在 Lex Fridman 的播客中抛出了一个让所有程序员背脊发凉的观点：未来的软件开发不需要你写代码，甚至不需要你懂代码，因为 80% 的 APP 正在变成 AI 的饲料。这不仅仅是技术的迭代，这是整个互联网生态的坍塌与重构。 本期视频深度拆解 Lex Fridman 访谈 Peter Steinberger 的核心内容。我们探讨了 OpenClaw (前身为 ClaudeBot) 的诞生故事，以及它如何引发了 Anthropic 的商标纠纷。视频涵盖了 **Agentic Engineering (代理工程)** 的核心概念、**LLM 大语言模型** 的未来、**OpenAI** 与 **Meta** 的人才争夺战、以及 **TypeScript** 和 **Python** 在 AI 时代的地位。我们将分析 Peter 对于 **SaaS 行业** 终局的判断，即 App 将退化为 API，以及普通开发者如何利用 **AI Agent** 实现 **一人公司** 的崛起。 #科技商业 #AI大模型 #人工智能 #OpenClaw #LexFridman" [ref=e1002]'
+                      - generic [ref=e1004]: 06:43
+                    - generic [ref=e1005]:
+                      - 'heading "OpenClaw创始人放话：80%的软件将被AI杀死。 你还在学怎么写代码吗？可能已经晚了。OpenClaw 的创始人 Peter Steinberger 在 Lex Fridman 的播客中抛出了一个让所有程序员背脊发凉的观点：未来的软件开发不需要你写代码，甚至不需要你懂代码，因为 80% 的 APP 正在变成 AI 的饲料。这不仅仅是技术的迭代，这是整个互联网生态的坍塌与重构。 本期视频深度拆解 Lex Fridman 访谈 Peter Steinberger 的核心内容。我们探讨了 OpenClaw (前身为 ClaudeBot) 的诞生故事，以及它如何引发了 Anthropic 的商标纠纷。视频涵盖了 **Agentic Engineering (代理工程)** 的核心概念、**LLM 大语言模型** 的未来、**OpenAI** 与 **Meta** 的人才争夺战、以及 **TypeScript** 和 **Python** 在 AI 时代的地位。我们将分析 Peter 对于 **SaaS 行业** 终局的判断，即 App 将退化为 API，以及普通开发者如何利用 **AI Agent** 实现 **一人公司** 的崛起。 #科技商业 #AI大模型 #人工智能 #OpenClaw #LexFridman" [level=3] [ref=e1006]':
+                        - 'link "OpenClaw创始人放话：80%的软件将被AI杀死。 你还在学怎么写代码吗？可能已经晚了。OpenClaw 的创始人 Peter Steinberger 在 Lex Fridman 的播客中抛出了一个让所有程序员背脊发凉的观点：未来的软件开发不需要你写代码，甚至不需要你懂代码，因为 80% 的 APP 正在变成 AI 的饲料。这不仅仅是技术的迭代，这是整个互联网生态的坍塌与重构。 本期视频深度拆解 Lex Fridman 访谈 Peter Steinberger 的核心内容。我们探讨了 OpenClaw (前身为 ClaudeBot) 的诞生故事，以及它如何引发了 Anthropic 的商标纠纷。视频涵盖了 **Agentic Engineering (代理工程)** 的核心概念、**LLM 大语言模型** 的未来、**OpenAI** 与 **Meta** 的人才争夺战、以及 **TypeScript** 和 **Python** 在 AI 时代的地位。我们将分析 Peter 对于 **SaaS 行业** 终局的判断，即 App 将退化为 API，以及普通开发者如何利用 **AI Agent** 实现 **一人公司** 的崛起。 #科技商业 #AI大模型 #人工智能 #OpenClaw #LexFridman" [ref=e1007] [cursor=pointer]':
+                          - /url: //www.douyin.com/video/7606763772614593818
+                          - generic [ref=e1010]:
+                            - generic [ref=e1012]: OpenClaw创始人放话：80%的软件将被AI杀死。 你还在学怎么写代码吗？可能已经晚了。OpenClaw 的创始人 Peter Steinberger 在 Lex Fridman 的播客中抛出了一个让所有程序员背脊发凉的观点：未来的软件开发不需要你写代码，甚至不需要你懂代码，因为 80% 的 APP 正在变成 AI 的饲料。这不仅仅是技术的迭代，这是整个互联网生态的坍塌与重构。
+                            - generic [ref=e1014]: 本期视频深度拆解 Lex Fridman 访谈 Peter Steinberger 的核心内容。我们探讨了 OpenClaw (前身为 ClaudeBot) 的诞生故事，以及它如何引发了 Anthropic 的商标纠纷。视频涵盖了 **Agentic Engineering (代理工程)** 的核心概念、**LLM 大语言模型** 的未来、**OpenAI** 与 **Meta** 的人才争夺战、以及 **TypeScript** 和 **Python** 在 AI 时代的地位。我们将分析 Peter 对于 **SaaS 行业** 终局的判断，即 App 将退化为 API，以及普通开发者如何利用 **AI Agent** 实现 **一人公司** 的崛起。
+                            - generic [ref=e1016]: "#科技商业 #AI大模型 #人工智能 #OpenClaw #LexFridman"
+                      - generic [ref=e1017]:
+                        - generic [ref=e1018]:
+                          - img [ref=e1019]
+                          - text: "4675"
+                        - link "AJ 的 AI 小技巧" [ref=e1022] [cursor=pointer]:
+                          - /url: //www.douyin.com/user/MS4wLjABAAAAaQ8kRM6UOnaDA54JUcSK6Z719YFbZHWLFArNiVnzFL4kqnMeLfInJjmAWMbpSnv3?author_id=73009559486&enter_from=video_detail&enter_method=video_cover_title&from_tab_name=main&group_id=7609916174658325795&log_pb=%7B%22impr_id%22%3A%22202604271826284456DADB60512D87805F%22%7D&relation=0
+                          - generic [ref=e1027]: AJ 的 AI 小技巧
+                - listitem [ref=e1028]:
+                  - generic [ref=e1029]:
+                    - 'link "疯了还是真正天才？马斯克砸200亿徒手复制台积电，能成吗？ 揭秘Terafab计划：马斯克造芯片面临的3大“物理死局” #ai新星计划 #科技 #涨知识 #知识前沿派对 #科普 11:34" [ref=e1031] [cursor=pointer]':
+                      - /url: //www.douyin.com/video/7620966218425584915
+                      - 'img "疯了还是真正天才？马斯克砸200亿徒手复制台积电，能成吗？ 揭秘Terafab计划：马斯克造芯片面临的3大“物理死局” #ai新星计划 #科技 #涨知识 #知识前沿派对 #科普" [ref=e1035]'
+                      - generic [ref=e1037]: 11:34
+                    - generic [ref=e1038]:
+                      - 'heading "疯了还是真正天才？马斯克砸200亿徒手复制台积电，能成吗？ 揭秘Terafab计划：马斯克造芯片面临的3大“物理死局” #ai新星计划 #科技 #涨知识 #知识前沿派对 #科普" [level=3] [ref=e1039]':
+                        - 'link "疯了还是真正天才？马斯克砸200亿徒手复制台积电，能成吗？ 揭秘Terafab计划：马斯克造芯片面临的3大“物理死局” #ai新星计划 #科技 #涨知识 #知识前沿派对 #科普" [ref=e1040] [cursor=pointer]':
+                          - /url: //www.douyin.com/video/7620966218425584915
+                          - generic [ref=e1043]:
+                            - generic [ref=e1045]: 疯了还是真正天才？马斯克砸200亿徒手复制台积电，能成吗？ 揭秘Terafab计划：马斯克造芯片面临的3大“物理死局”
+                            - generic [ref=e1047]: "#ai新星计划 #科技 #涨知识 #知识前沿派对 #科普"
+                      - generic [ref=e1048]:
+                        - generic [ref=e1049]:
+                          - img [ref=e1050]
+                          - text: 2.4万
+                        - link "基地" [ref=e1053] [cursor=pointer]:
+                          - /url: //www.douyin.com/user/MS4wLjABAAAAFTNkHANuPtZKteVQsBaMwaIHoSMh3nxqJDOXEDHUnlg?author_id=73009559486&enter_from=video_detail&enter_method=video_cover_title&from_tab_name=main&group_id=7609916174658325795&log_pb=%7B%22impr_id%22%3A%22202604271826284456DADB60512D87805F%22%7D&relation=0
+                          - generic [ref=e1058]: 基地
+                - listitem [ref=e1059]:
+                  - generic [ref=e1060]:
+                    - link "200人干翻3500人！ 全球编程大赛击败GPT-5.4！ 硅谷AI霸权第一次被撼动！ 04:24" [ref=e1062] [cursor=pointer]:
+                      - /url: //www.douyin.com/video/7632498138988727586
+                      - img "200人干翻3500人！ 全球编程大赛击败GPT-5.4！ 硅谷AI霸权第一次被撼动！" [ref=e1066]
+                      - generic [ref=e1068]: 04:24
+                    - generic [ref=e1069]:
+                      - heading "200人干翻3500人！ 全球编程大赛击败GPT-5.4！ 硅谷AI霸权第一次被撼动！" [level=3] [ref=e1070]:
+                        - link "200人干翻3500人！ 全球编程大赛击败GPT-5.4！ 硅谷AI霸权第一次被撼动！" [ref=e1071] [cursor=pointer]:
+                          - /url: //www.douyin.com/video/7632498138988727586
+                          - generic [ref=e1074]:
+                            - generic [ref=e1076]: 200人干翻3500人！
+                            - generic [ref=e1078]: 全球编程大赛击败GPT-5.4！
+                            - generic [ref=e1080]: 硅谷AI霸权第一次被撼动！
+                      - generic [ref=e1081]:
+                        - generic [ref=e1082]:
+                          - img [ref=e1083]
+                          - text: "9847"
+                        - link "军武观察焗" [ref=e1086] [cursor=pointer]:
+                          - /url: //www.douyin.com/user/MS4wLjABAAAAtJe-y7RZW9IKER-8YrCNfx_TNiOohRZk7lpozHUqjUo?author_id=73009559486&enter_from=video_detail&enter_method=video_cover_title&from_tab_name=main&group_id=7609916174658325795&log_pb=%7B%22impr_id%22%3A%22202604271826284456DADB60512D87805F%22%7D&relation=0
+                          - generic [ref=e1091]: 军武观察焗
+                - listitem [ref=e1092]:
+                  - generic [ref=e1093]:
+                    - 'link "日烧1500万，起底OpenAI为什么要关停sora？ 三月份，AI三重撞墙！放弃玩具，转向生产力：Sora之死如何启示全行业疯狂自救？ #ai新星计划 #科技 #涨知识 #知识前沿派对 #科普 09:06" [ref=e1095] [cursor=pointer]':
+                      - /url: //www.douyin.com/video/7623505746633690377
+                      - 'img "日烧1500万，起底OpenAI为什么要关停sora？ 三月份，AI三重撞墙！放弃玩具，转向生产力：Sora之死如何启示全行业疯狂自救？ #ai新星计划 #科技 #涨知识 #知识前沿派对 #科普" [ref=e1099]'
+                      - generic [ref=e1101]: 09:06
+                    - generic [ref=e1102]:
+                      - 'heading "日烧1500万，起底OpenAI为什么要关停sora？ 三月份，AI三重撞墙！放弃玩具，转向生产力：Sora之死如何启示全行业疯狂自救？ #ai新星计划 #科技 #涨知识 #知识前沿派对 #科普" [level=3] [ref=e1103]':
+                        - 'link "日烧1500万，起底OpenAI为什么要关停sora？ 三月份，AI三重撞墙！放弃玩具，转向生产力：Sora之死如何启示全行业疯狂自救？ #ai新星计划 #科技 #涨知识 #知识前沿派对 #科普" [ref=e1104] [cursor=pointer]':
+                          - /url: //www.douyin.com/video/7623505746633690377
+                          - generic [ref=e1107]:
+                            - generic [ref=e1109]: 日烧1500万，起底OpenAI为什么要关停sora？ 三月份，AI三重撞墙！放弃玩具，转向生产力：Sora之死如何启示全行业疯狂自救？
+                            - generic [ref=e1111]: "#ai新星计划 #科技 #涨知识 #知识前沿派对 #科普"
+                      - generic [ref=e1112]:
+                        - generic [ref=e1113]:
+                          - img [ref=e1114]
+                          - text: 3.7万
+                        - link "基地" [ref=e1117] [cursor=pointer]:
+                          - /url: //www.douyin.com/user/MS4wLjABAAAAFTNkHANuPtZKteVQsBaMwaIHoSMh3nxqJDOXEDHUnlg?author_id=73009559486&enter_from=video_detail&enter_method=video_cover_title&from_tab_name=main&group_id=7609916174658325795&log_pb=%7B%22impr_id%22%3A%22202604271826284456DADB60512D87805F%22%7D&relation=0
+                          - generic [ref=e1122]: 基地
+                - listitem [ref=e1123]:
+                  - generic [ref=e1124]:
+                    - 'link "AI圈昨晚炸了！Claude Code内部不慎操作， 导致源码泄露，整整51万行代码、1900多个文件，全部意外公开，而这件事背后更重要的是：让所有人第一次看清楚，下一代AI软件到底长什么样。#大有学问 #红衣聊AI #代码 #网络安全 #Claudecode 04:03" [ref=e1126] [cursor=pointer]':
+                      - /url: //www.douyin.com/video/7623784437981007140
+                      - 'img "AI圈昨晚炸了！Claude Code内部不慎操作， 导致源码泄露，整整51万行代码、1900多个文件，全部意外公开，而这件事背后更重要的是：让所有人第一次看清楚，下一代AI软件到底长什么样。#大有学问 #红衣聊AI #代码 #网络安全 #Claudecode" [ref=e1130]'
+                      - generic [ref=e1132]: 04:03
+                    - generic [ref=e1133]:
+                      - 'heading "AI圈昨晚炸了！Claude Code内部不慎操作， 导致源码泄露，整整51万行代码、1900多个文件，全部意外公开，而这件事背后更重要的是：让所有人第一次看清楚，下一代AI软件到底长什么样。#大有学问 #红衣聊AI #代码 #网络安全 #Claudecode" [level=3] [ref=e1134]':
+                        - 'link "AI圈昨晚炸了！Claude Code内部不慎操作， 导致源码泄露，整整51万行代码、1900多个文件，全部意外公开，而这件事背后更重要的是：让所有人第一次看清楚，下一代AI软件到底长什么样。#大有学问 #红衣聊AI #代码 #网络安全 #Claudecode" [ref=e1135] [cursor=pointer]':
+                          - /url: //www.douyin.com/video/7623784437981007140
+                          - generic [ref=e1140]: "AI圈昨晚炸了！Claude Code内部不慎操作， 导致源码泄露，整整51万行代码、1900多个文件，全部意外公开，而这件事背后更重要的是：让所有人第一次看清楚，下一代AI软件到底长什么样。#大有学问 #红衣聊AI #代码 #网络安全 #Claudecode"
+                      - generic [ref=e1141]:
+                        - generic [ref=e1142]:
+                          - img [ref=e1143]
+                          - text: 1.2万
+                        - link "红衣大叔周鸿祎" [ref=e1146] [cursor=pointer]:
+                          - /url: //www.douyin.com/user/MS4wLjABAAAAJ3T5moYwIGWeicRl5wBdfosV7R_dCmIbcmAIVZ_3iLK3aLLrOq9pWQDaZBfU0kpQ?author_id=73009559486&enter_from=video_detail&enter_method=video_cover_title&from_tab_name=main&group_id=7609916174658325795&log_pb=%7B%22impr_id%22%3A%22202604271826284456DADB60512D87805F%22%7D&relation=0
+                          - generic [ref=e1151]: 红衣大叔周鸿祎
+                - listitem [ref=e1152]:
+                  - generic [ref=e1153]:
+                    - 'link "张雪峰去世仅半月，就被人做成AI了！ 颠覆认知！张雪峰去世仅半个月，就被人做成 AI 公开开源，项目命名 “张雪峰.skill”，直接上架 GitHub，瞬间引爆全网！ 开发者拆解了他的 5 本著作、15 篇深度访谈和 30 多条语录，连人生关键决策节点都不放过，完美复刻了他标志性的反问语气、快节奏逻辑，甚至 “听我的，别乱选” 的江湖气都一模一样。 家长群彻底炸了，网友晒出对话：浙江 630 分想学 AI，AI 张雪峰当场算分数线、给备选学校；问大厂高薪还是考编，它反问 “家里有矿吗”“能接受 35 岁被优化吗”，和真人直播间架势分毫不差。 没人注意，这场 “致敬” 背后藏着致命隐患 —— 未经家属授权！要知道，张雪峰生前靠个人 IP 打造了近 2 万客单价的咨询帝国，3 小时直播进账 2 亿，而这个开源项目正零成本分拆他的核心价值。 更恐怖的是，这不是孤例！“同事.skill”“AI 复活亲人” 早已出现，AI 分身已成风口，但法律真空和伦理灰色地带，让这场 “赛博永生” 沦为资本收割的工具。 张雪峰的 IP 到底属于谁？这场技术狂欢的边界在哪？看完原文，你会后背发凉！#青年创作者成长计划 #青年创作者扶持计划 04:45" [ref=e1155] [cursor=pointer]':
+                      - /url: //www.douyin.com/video/7627323336686619939
+                      - 'img "张雪峰去世仅半月，就被人做成AI了！ 颠覆认知！张雪峰去世仅半个月，就被人做成 AI 公开开源，项目命名 “张雪峰.skill”，直接上架 GitHub，瞬间引爆全网！ 开发者拆解了他的 5 本著作、15 篇深度访谈和 30 多条语录，连人生关键决策节点都不放过，完美复刻了他标志性的反问语气、快节奏逻辑，甚至 “听我的，别乱选” 的江湖气都一模一样。 家长群彻底炸了，网友晒出对话：浙江 630 分想学 AI，AI 张雪峰当场算分数线、给备选学校；问大厂高薪还是考编，它反问 “家里有矿吗”“能接受 35 岁被优化吗”，和真人直播间架势分毫不差。 没人注意，这场 “致敬” 背后藏着致命隐患 —— 未经家属授权！要知道，张雪峰生前靠个人 IP 打造了近 2 万客单价的咨询帝国，3 小时直播进账 2 亿，而这个开源项目正零成本分拆他的核心价值。 更恐怖的是，这不是孤例！“同事.skill”“AI 复活亲人” 早已出现，AI 分身已成风口，但法律真空和伦理灰色地带，让这场 “赛博永生” 沦为资本收割的工具。 张雪峰的 IP 到底属于谁？这场技术狂欢的边界在哪？看完原文，你会后背发凉！#青年创作者成长计划 #青年创作者扶持计划" [ref=e1159]'
+                      - generic [ref=e1161]: 04:45
+                    - generic [ref=e1162]:
+                      - 'heading "张雪峰去世仅半月，就被人做成AI了！ 颠覆认知！张雪峰去世仅半个月，就被人做成 AI 公开开源，项目命名 “张雪峰.skill”，直接上架 GitHub，瞬间引爆全网！ 开发者拆解了他的 5 本著作、15 篇深度访谈和 30 多条语录，连人生关键决策节点都不放过，完美复刻了他标志性的反问语气、快节奏逻辑，甚至 “听我的，别乱选” 的江湖气都一模一样。 家长群彻底炸了，网友晒出对话：浙江 630 分想学 AI，AI 张雪峰当场算分数线、给备选学校；问大厂高薪还是考编，它反问 “家里有矿吗”“能接受 35 岁被优化吗”，和真人直播间架势分毫不差。 没人注意，这场 “致敬” 背后藏着致命隐患 —— 未经家属授权！要知道，张雪峰生前靠个人 IP 打造了近 2 万客单价的咨询帝国，3 小时直播进账 2 亿，而这个开源项目正零成本分拆他的核心价值。 更恐怖的是，这不是孤例！“同事.skill”“AI 复活亲人” 早已出现，AI 分身已成风口，但法律真空和伦理灰色地带，让这场 “赛博永生” 沦为资本收割的工具。 张雪峰的 IP 到底属于谁？这场技术狂欢的边界在哪？看完原文，你会后背发凉！#青年创作者成长计划 #青年创作者扶持计划" [level=3] [ref=e1163]':
+                        - 'link "张雪峰去世仅半月，就被人做成AI了！ 颠覆认知！张雪峰去世仅半个月，就被人做成 AI 公开开源，项目命名 “张雪峰.skill”，直接上架 GitHub，瞬间引爆全网！ 开发者拆解了他的 5 本著作、15 篇深度访谈和 30 多条语录，连人生关键决策节点都不放过，完美复刻了他标志性的反问语气、快节奏逻辑，甚至 “听我的，别乱选” 的江湖气都一模一样。 家长群彻底炸了，网友晒出对话：浙江 630 分想学 AI，AI 张雪峰当场算分数线、给备选学校；问大厂高薪还是考编，它反问 “家里有矿吗”“能接受 35 岁被优化吗”，和真人直播间架势分毫不差。 没人注意，这场 “致敬” 背后藏着致命隐患 —— 未经家属授权！要知道，张雪峰生前靠个人 IP 打造了近 2 万客单价的咨询帝国，3 小时直播进账 2 亿，而这个开源项目正零成本分拆他的核心价值。 更恐怖的是，这不是孤例！“同事.skill”“AI 复活亲人” 早已出现，AI 分身已成风口，但法律真空和伦理灰色地带，让这场 “赛博永生” 沦为资本收割的工具。 张雪峰的 IP 到底属于谁？这场技术狂欢的边界在哪？看完原文，你会后背发凉！#青年创作者成长计划 #青年创作者扶持计划" [ref=e1164] [cursor=pointer]':
+                          - /url: //www.douyin.com/video/7627323336686619939
+                          - generic [ref=e1167]:
+                            - generic [ref=e1169]: 张雪峰去世仅半月，就被人做成AI了！ 颠覆认知！张雪峰去世仅半个月，就被人做成 AI 公开开源，项目命名 “张雪峰.skill”，直接上架 GitHub，瞬间引爆全网！
+                            - generic [ref=e1171]: 开发者拆解了他的 5 本著作、15 篇深度访谈和 30 多条语录，连人生关键决策节点都不放过，完美复刻了他标志性的反问语气、快节奏逻辑，甚至 “听我的，别乱选” 的江湖气都一模一样。
+                            - generic [ref=e1173]: 家长群彻底炸了，网友晒出对话：浙江 630 分想学 AI，AI 张雪峰当场算分数线、给备选学校；问大厂高薪还是考编，它反问 “家里有矿吗”“能接受 35 岁被优化吗”，和真人直播间架势分毫不差。
+                            - generic [ref=e1175]: 没人注意，这场 “致敬” 背后藏着致命隐患 —— 未经家属授权！要知道，张雪峰生前靠个人 IP 打造了近 2 万客单价的咨询帝国，3 小时直播进账 2 亿，而这个开源项目正零成本分拆他的核心价值。
+                            - generic [ref=e1177]: 更恐怖的是，这不是孤例！“同事.skill”“AI 复活亲人” 早已出现，AI 分身已成风口，但法律真空和伦理灰色地带，让这场 “赛博永生” 沦为资本收割的工具。
+                            - generic [ref=e1179]: "张雪峰的 IP 到底属于谁？这场技术狂欢的边界在哪？看完原文，你会后背发凉！#青年创作者成长计划 #青年创作者扶持计划"
+                      - generic [ref=e1180]:
+                        - generic [ref=e1181]:
+                          - img [ref=e1182]
+                          - text: 4.1万
+                        - link "冯不疯" [ref=e1185] [cursor=pointer]:
+                          - /url: //www.douyin.com/user/MS4wLjABAAAAekAIXXLQ_KOvhSvFkGFdnNEvJ-_RAG1znLwGtGLl5EiLcTx_-7TZ499ur6H6GPSZ?author_id=73009559486&enter_from=video_detail&enter_method=video_cover_title&from_tab_name=main&group_id=7609916174658325795&log_pb=%7B%22impr_id%22%3A%22202604271826284456DADB60512D87805F%22%7D&relation=0
+                          - generic [ref=e1190]: 冯不疯
+                - listitem [ref=e1191]:
+                  - generic [ref=e1192]:
+                    - 'link "特斯拉机器人Optimus V3炸裂官宣 特斯拉机器人Optimus V3炸裂官宣！马斯克罕见承认：中国是最强对手！#特斯拉 #人形机器人 #特斯拉机器人 #OptimusV3 #马斯克 01:32" [ref=e1194] [cursor=pointer]':
+                      - /url: //www.douyin.com/video/7609596749325405440
+                      - 'img "特斯拉机器人Optimus V3炸裂官宣 特斯拉机器人Optimus V3炸裂官宣！马斯克罕见承认：中国是最强对手！#特斯拉 #人形机器人 #特斯拉机器人 #OptimusV3 #马斯克" [ref=e1198]'
+                      - generic [ref=e1200]: 01:32
+                    - generic [ref=e1201]:
+                      - 'heading "特斯拉机器人Optimus V3炸裂官宣 特斯拉机器人Optimus V3炸裂官宣！马斯克罕见承认：中国是最强对手！#特斯拉 #人形机器人 #特斯拉机器人 #OptimusV3 #马斯克" [level=3] [ref=e1202]':
+                        - 'link "特斯拉机器人Optimus V3炸裂官宣 特斯拉机器人Optimus V3炸裂官宣！马斯克罕见承认：中国是最强对手！#特斯拉 #人形机器人 #特斯拉机器人 #OptimusV3 #马斯克" [ref=e1203] [cursor=pointer]':
+                          - /url: //www.douyin.com/video/7609596749325405440
+                          - generic [ref=e1208]: "特斯拉机器人Optimus V3炸裂官宣 特斯拉机器人Optimus V3炸裂官宣！马斯克罕见承认：中国是最强对手！#特斯拉 #人形机器人 #特斯拉机器人 #OptimusV3 #马斯克"
+                      - generic [ref=e1209]:
+                        - generic [ref=e1210]:
+                          - img [ref=e1211]
+                          - text: "3412"
+                        - link "机器人RobotHOT" [ref=e1214] [cursor=pointer]:
+                          - /url: //www.douyin.com/user/MS4wLjABAAAAgTi_yY7_jDbes5uRFbqZ0Q_TBrSd1pZXYlfi6PWxWT9oLcYOj10_d3mmVEXpSfgA?author_id=73009559486&enter_from=video_detail&enter_method=video_cover_title&from_tab_name=main&group_id=7609916174658325795&log_pb=%7B%22impr_id%22%3A%22202604271826284456DADB60512D87805F%22%7D&relation=0
+                          - generic [ref=e1219]: 机器人RobotHOT
+                - listitem [ref=e1220]:
+                  - generic [ref=e1221]:
+                    - link "年入2700万，每天只工作4小时？ 他被硅谷称为数字时代的“先知”，却也是朝九晚五的“背叛者”……深挖丹·科伊的核心思想，原来我们都被工业时代的“剧本”骗了…… 14:51" [ref=e1223] [cursor=pointer]:
+                      - /url: //www.douyin.com/video/7606513200741240127
+                      - img "年入2700万，每天只工作4小时？ 他被硅谷称为数字时代的“先知”，却也是朝九晚五的“背叛者”……深挖丹·科伊的核心思想，原来我们都被工业时代的“剧本”骗了……" [ref=e1227]
+                      - generic [ref=e1229]: 14:51
+                    - generic [ref=e1230]:
+                      - heading "年入2700万，每天只工作4小时？ 他被硅谷称为数字时代的“先知”，却也是朝九晚五的“背叛者”……深挖丹·科伊的核心思想，原来我们都被工业时代的“剧本”骗了……" [level=3] [ref=e1231]:
+                        - link "年入2700万，每天只工作4小时？ 他被硅谷称为数字时代的“先知”，却也是朝九晚五的“背叛者”……深挖丹·科伊的核心思想，原来我们都被工业时代的“剧本”骗了……" [ref=e1232] [cursor=pointer]:
+                          - /url: //www.douyin.com/video/7606513200741240127
+                          - generic [ref=e1237]: 年入2700万，每天只工作4小时？ 他被硅谷称为数字时代的“先知”，却也是朝九晚五的“背叛者”……深挖丹·科伊的核心思想，原来我们都被工业时代的“剧本”骗了……
+                      - generic [ref=e1238]:
+                        - generic [ref=e1239]:
+                          - img [ref=e1240]
+                          - text: 2.7万
+                        - link "独孤轩辕策" [ref=e1243] [cursor=pointer]:
+                          - /url: //www.douyin.com/user/MS4wLjABAAAAGbtLZQ9tJkHp_AY5-g2teqcmVbMhYU_RmUwcn9koLlc?author_id=73009559486&enter_from=video_detail&enter_method=video_cover_title&from_tab_name=main&group_id=7609916174658325795&log_pb=%7B%22impr_id%22%3A%22202604271826284456DADB60512D87805F%22%7D&relation=0
+                          - generic [ref=e1248]: 独孤轩辕策
+                - listitem [ref=e1249]:
+                  - generic [ref=e1250]:
+                    - 'link "未来可能不是慢慢来，而是突然“入侵”你身体：2030年代纳米机器人进血管，修复细胞、逆转衰老，甚至把大脑直接连上云端。听起来像科幻，但时间线已经被人写到具体年份了……你会接受这次升级吗？ #纳米机器人 #奇点 #人工智能 #通用人工智能 #脑机接口 04:34" [ref=e1252] [cursor=pointer]':
+                      - /url: //www.douyin.com/video/7619400923182266355
+                      - 'img "未来可能不是慢慢来，而是突然“入侵”你身体：2030年代纳米机器人进血管，修复细胞、逆转衰老，甚至把大脑直接连上云端。听起来像科幻，但时间线已经被人写到具体年份了……你会接受这次升级吗？ #纳米机器人 #奇点 #人工智能 #通用人工智能 #脑机接口" [ref=e1256]'
+                      - generic [ref=e1258]: 04:34
+                    - generic [ref=e1259]:
+                      - 'heading "未来可能不是慢慢来，而是突然“入侵”你身体：2030年代纳米机器人进血管，修复细胞、逆转衰老，甚至把大脑直接连上云端。听起来像科幻，但时间线已经被人写到具体年份了……你会接受这次升级吗？ #纳米机器人 #奇点 #人工智能 #通用人工智能 #脑机接口" [level=3] [ref=e1260]':
+                        - 'link "未来可能不是慢慢来，而是突然“入侵”你身体：2030年代纳米机器人进血管，修复细胞、逆转衰老，甚至把大脑直接连上云端。听起来像科幻，但时间线已经被人写到具体年份了……你会接受这次升级吗？ #纳米机器人 #奇点 #人工智能 #通用人工智能 #脑机接口" [ref=e1261] [cursor=pointer]':
+                          - /url: //www.douyin.com/video/7619400923182266355
+                          - generic [ref=e1264]:
+                            - generic [ref=e1266]: 未来可能不是慢慢来，而是突然“入侵”你身体：2030年代纳米机器人进血管，修复细胞、逆转衰老，甚至把大脑直接连上云端。听起来像科幻，但时间线已经被人写到具体年份了……你会接受这次升级吗？
+                            - generic [ref=e1268]: "#纳米机器人 #奇点 #人工智能 #通用人工智能 #脑机接口"
+                      - generic [ref=e1269]:
+                        - generic [ref=e1270]:
+                          - img [ref=e1271]
+                          - text: 1.3万
+                        - link "GenAI动力" [ref=e1274] [cursor=pointer]:
+                          - /url: //www.douyin.com/user/MS4wLjABAAAAo53rkoImbyo6BSkfqQeMqAEzIj6ZDqSutn9MI6Xza2c?author_id=73009559486&enter_from=video_detail&enter_method=video_cover_title&from_tab_name=main&group_id=7609916174658325795&log_pb=%7B%22impr_id%22%3A%22202604271826284456DADB60512D87805F%22%7D&relation=0
+                          - generic [ref=e1279]: GenAI动力
+                - listitem [ref=e1280]:
+                  - generic [ref=e1281]:
+                    - 'link "倒反天罡！AI成老板雇佣人类了！时薪上千，8万网友抢着干！ #玩个很新的东西 #RentAHuman #AI #科技改变生活 #AI雇佣人类 01:16" [ref=e1283] [cursor=pointer]':
+                      - /url: //www.douyin.com/video/7602977586494557446
+                      - 'img "倒反天罡！AI成老板雇佣人类了！时薪上千，8万网友抢着干！ #玩个很新的东西 #RentAHuman #AI #科技改变生活 #AI雇佣人类" [ref=e1287]'
+                      - generic [ref=e1289]: 01:16
+                    - generic [ref=e1290]:
+                      - 'heading "倒反天罡！AI成老板雇佣人类了！时薪上千，8万网友抢着干！ #玩个很新的东西 #RentAHuman #AI #科技改变生活 #AI雇佣人类" [level=3] [ref=e1291]':
+                        - 'link "倒反天罡！AI成老板雇佣人类了！时薪上千，8万网友抢着干！ #玩个很新的东西 #RentAHuman #AI #科技改变生活 #AI雇佣人类" [ref=e1292] [cursor=pointer]':
+                          - /url: //www.douyin.com/video/7602977586494557446
+                          - generic [ref=e1297]: "倒反天罡！AI成老板雇佣人类了！时薪上千，8万网友抢着干！ #玩个很新的东西 #RentAHuman #AI #科技改变生活 #AI雇佣人类"
+                      - generic [ref=e1298]:
+                        - generic [ref=e1299]:
+                          - img [ref=e1300]
+                          - text: "6111"
+                        - link "朋克科技站" [ref=e1303] [cursor=pointer]:
+                          - /url: //www.douyin.com/user/MS4wLjABAAAAo765Dx8NoxOYp_3v-_66H36PEB0RtETNQ8Z11y-sLkRtpoZxBPwwqToMNOLx55Vm?author_id=73009559486&enter_from=video_detail&enter_method=video_cover_title&from_tab_name=main&group_id=7609916174658325795&log_pb=%7B%22impr_id%22%3A%22202604271826284456DADB60512D87805F%22%7D&relation=0
+                          - generic [ref=e1308]: 朋克科技站
+        - contentinfo [ref=e251]:
+          - generic [ref=e252]:
+            - generic [ref=e253]:
+              - link "广告投放" [ref=e255] [cursor=pointer]:
+                - /url: https://www.oceanengine.com/resource/douyin
+              - link "用户服务协议" [ref=e257] [cursor=pointer]:
+                - /url: https://www.douyin.com/agreements/?id=6773906068725565448
+              - link "隐私政策" [ref=e259] [cursor=pointer]:
+                - /url: https://www.douyin.com/agreements/?id=6773901168964798477
+              - link "账号找回" [ref=e261] [cursor=pointer]:
+                - /url: https://www.douyin.com/recovery_account/
+              - link "联系我们" [ref=e263] [cursor=pointer]:
+                - /url: https://www.douyin.com/aboutus/
+              - link "加入我们" [ref=e265] [cursor=pointer]:
+                - /url: https://www.douyin.com/aboutus/
+              - link "营业执照" [ref=e267] [cursor=pointer]:
+                - /url: https://www.douyin.com/business_license/
+              - link "友情链接" [ref=e269] [cursor=pointer]:
+                - /url: https://www.douyin.com/friend_links
+              - link "站点地图" [ref=e271] [cursor=pointer]:
+                - /url: https://www.douyin.com/htmlmap/hotauthor_0_1
+              - link "下载抖音" [ref=e273] [cursor=pointer]:
+                - /url: https://www.douyin.com/downloadpage/pc
+              - link "抖音电商" [ref=e275] [cursor=pointer]:
+                - /url: https://mix.jinritemai.com/falcon/mix_page/index.html
+            - generic [ref=e276]:
+              - link "网络谣言曝光台 ｜" [ref=e278] [cursor=pointer]:
+                - /url: https://www.piyao.org.cn/yybgt/index.htm
+              - link "网上有害信息举报" [ref=e280] [cursor=pointer]:
+                - /url: https://www.12377.cn/
+              - generic [ref=e281]: ｜ 违法和不良信息举报：400-140-2108 ｜ 算法推荐专项举报：sfjubao@bytedance.com ｜ 网络内容从业人员违法违规行为举报：feedback@douyin.com | 体育饭圈专项举报：tyfq@bytedance.com
+            - generic [ref=e282]:
+              - link "京ICP备16016397号-3" [ref=e284] [cursor=pointer]:
+                - /url: https://beian.miit.gov.cn/
+              - link "｜ 广播电视节目制作经营许可证" [ref=e286] [cursor=pointer]:
+                - /url: https://lf3-static.bytednsdoc.com/obj/eden-cn/ild_jw_upfbvk_lm/ljhwZthlaukjlkulzlp/license/jiemuzhizuojingying.jpg
+              - link "｜ 京B2-20170846" [ref=e288] [cursor=pointer]:
+                - /url: https://lf3-static.bytednsdoc.com/obj/eden-cn/ild_jw_upfbvk_lm/ljhwZthlaukjlkulzlp/license/zengzhixuke.jpg
+              - link "｜ 网络文化许可证-京网文-（2025）0181-061号 ｜" [ref=e290] [cursor=pointer]:
+                - /url: https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/20250519-201253.jpeg
+              - generic [ref=e291]:
+                - img "icon" [ref=e292]
+                - link "京公网安备 11000002002046号" [ref=e293] [cursor=pointer]:
+                  - /url: http://www.beian.gov.cn/portal/registerSystemInfo
+              - generic [ref=e294]: ｜ 互联网宗教信息服务许可证 京（2025）0000017
+            - generic [ref=e295]:
+              - generic [ref=e297]: 热门：
+              - link "二次元视频大全" [ref=e299] [cursor=pointer]:
+                - /url: https://www.douyin.com/jingxuan/acg
+              - link "游戏攻略" [ref=e301] [cursor=pointer]:
+                - /url: https://www.douyin.com/jingxuan/game
+              - link "广东中旅" [ref=e303] [cursor=pointer]:
+                - /url: https://www.douyin.com/user/MS4wLjABAAAAC0xahFOMeySpWkjI1CC2_265m2lfvcqOqkm2UywCy9g
+              - 'link "通知通知，对口批次还没有上岸的同学，技能类还有很多公办大专征集计划数，快看看是不是你的大类吧！#广西对口升学 #广西对口 #对口升学 #征集志愿" [ref=e305] [cursor=pointer]':
+                - /url: https://www.douyin.com/video/7633048124643285878
+              - link "2025甘肃高考录取分数线指南书" [ref=e307] [cursor=pointer]:
+                - /url: https://www.douyin.com/topic/7509871754735585321
+              - link "2025黑龙江模拟报考流程视频" [ref=e309] [cursor=pointer]:
+                - /url: https://www.douyin.com/shipin/7509897729456261183
+              - link "曲阜师范大学 录取通知书" [ref=e311] [cursor=pointer]:
+                - /url: https://www.douyin.com/search/%E6%9B%B2%E9%98%9C%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6+%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6
+              - link "三部门发文完善幼儿园收费政策" [ref=e313] [cursor=pointer]:
+                - /url: https://www.douyin.com/video/7586983574360853766?source=Baiduspider
+              - 'link "香港本地人都在用的7大实用app！超省钱！#香港旅游攻略 #香港生活 #大数据推荐给有需要的人 #香港旅行攻略 #app推荐" [ref=e315] [cursor=pointer]':
+                - /url: https://www.douyin.com/video/7201794151841565987?source=Baiduspider
+              - 'link "好物分享-QJ鸿150后视镜拓展镜片#骑行vlog #鸿150ADV @QJMOTOR" [ref=e317] [cursor=pointer]':
+                - /url: https://www.douyin.com/video/7202187340259937591?source=Baiduspider
+              - generic [ref=e318]:
+                - link:
+                  - /url: https://www.douyin.com/video/7585418199773039913?source=Baiduspider-sdc
+              - link "具体问题具体分析，凡事不能一概而论" [ref=e320] [cursor=pointer]:
+                - /url: https://www.douyin.com/video/7383121648372796681?source=Baiduspider
+              - 'link "大将战力排名#咸鱼之王 #这个游戏很好玩 #解压小游戏 #我的游戏日常 #这波操作很秀" [ref=e322] [cursor=pointer]':
+                - /url: https://www.douyin.com/video/7467392340760464667?source=Baiduspider
+              - 'link "直播间正在讲解，语文期末冲刺方法。 #学习方法#期末倒计时 #答阅读理解题技巧 #必考考点" [ref=e324] [cursor=pointer]':
+                - /url: https://www.douyin.com/video/7311879267044920614?source=Baiduspider-sdc

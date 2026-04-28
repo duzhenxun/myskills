@@ -1,0 +1,127 @@
+- generic [ref=e4]:
+  - complementary [ref=e6]:
+    - generic [ref=e7]:
+      - generic [ref=e8]: "*五一"
+      - menu [ref=e9]:
+        - menuitem "名单管理(或主播类型)" [ref=e10] [cursor=pointer]:
+          - generic [ref=e11]: 名单管理(或主播类型)
+        - menuitem "统计-资源下发" [ref=e12] [cursor=pointer]:
+          - generic [ref=e13]: 统计-资源下发
+        - menuitem "基础积分查询" [ref=e14] [cursor=pointer]:
+          - generic [ref=e15]: 基础积分查询
+        - menuitem "测-互动券数量" [ref=e16] [cursor=pointer]:
+          - generic [ref=e17]: 测-互动券数量
+        - menuitem "测-Cron脚本" [ref=e18] [cursor=pointer]:
+          - generic [ref=e19]: 测-Cron脚本
+        - menuitem "测-公聊" [ref=e20] [cursor=pointer]:
+          - generic [ref=e21]: 测-公聊
+        - menuitem "测-进出房" [ref=e22] [cursor=pointer]:
+          - generic [ref=e23]: 测-进出房
+        - menuitem "测-道具" [ref=e24] [cursor=pointer]:
+          - generic [ref=e25]: 测-道具
+        - menuitem "测-礼物" [ref=e26] [cursor=pointer]:
+          - generic [ref=e27]: 测-礼物
+        - menuitem "数据导入工具" [ref=e28] [cursor=pointer]:
+          - generic [ref=e29]: 数据导入工具
+  - generic [ref=e30]:
+    - banner [ref=e31]:
+      - generic [ref=e32]:
+        - 'generic "icon: menu-fold" [ref=e34] [cursor=pointer]':
+          - img [ref=e35]
+        - menu [ref=e38]:
+          - menuitem "home 研发工具" [ref=e39] [cursor=pointer]:
+            - img "home" [ref=e40]:
+              - img [ref=e41]
+            - link "研发工具" [ref=e44]:
+              - /url: /react/tools/activity-data-query/index.html?module_name=act_base&month=200001
+          - menuitem "bug 测试工具" [ref=e45] [cursor=pointer]:
+            - img "bug" [ref=e46]:
+              - img [ref=e47]
+            - link "测试工具" [ref=e51]:
+              - /url: /react/tools/activity-data-query/index.html?module_name=act_test&month=200001
+          - menuitem "interaction 互动工具" [ref=e52] [cursor=pointer]:
+            - img "interaction" [ref=e53]:
+              - img [ref=e54]
+            - link "互动工具" [ref=e57]:
+              - /url: /react/tools/activity-data-query/index.html?module_name=act_draw&month=200001
+          - menuitem "edit 配置工具" [ref=e58] [cursor=pointer]:
+            - img "edit" [ref=e59]:
+              - img [ref=e60]
+            - link "配置工具" [ref=e63]:
+              - /url: https://testqaboc.inke.cn/react/tools/xslx-ultra/index.html
+          - menuitem "rocket 资源统计" [ref=e64] [cursor=pointer]:
+            - img "rocket" [ref=e65]:
+              - img [ref=e66]
+            - link "资源统计" [ref=e69]:
+              - /url: https://testqaboc.inke.cn/react/tools/data-resource-delivery/index.html?result=12&selectType=1
+          - menuitem "shake 阿拉丁" [ref=e70] [cursor=pointer]:
+            - img "shake" [ref=e71]:
+              - img [ref=e72]
+            - link "阿拉丁" [ref=e75]:
+              - /url: https://testaladdin.inke.cn/manage-mt/treasure-chest
+          - menuitem "menu 其他" [ref=e76] [cursor=pointer]:
+            - img "menu" [ref=e77]:
+              - img [ref=e78]
+            - text: 其他
+          - menuitem [disabled]:
+            - img:
+              - img
+        - img "expand" [ref=e80] [cursor=pointer]:
+          - img [ref=e81]
+        - img "setting" [ref=e83] [cursor=pointer]:
+          - img [ref=e84]
+        - generic [ref=e86]: duzhenxun
+    - main [ref=e87]:
+      - generic [ref=e89]:
+        - tablist [ref=e90]:
+          - generic [ref=e93] [cursor=pointer]:
+            - tab "名单管理(或主播类型)" [selected] [ref=e94]
+            - button "remove" [ref=e95]:
+              - img "close-circle" [ref=e96]:
+                - img [ref=e97]
+        - tabpanel "名单管理(或主播类型)" [ref=e102]:
+          - generic [ref=e103]:
+            - generic [ref=e105]:
+              - generic [ref=e106]:
+                - generic [ref=e107]:
+                  - generic [ref=e108]: "操作:"
+                  - generic [ref=e112] [cursor=pointer]:
+                    - generic [ref=e113]:
+                      - combobox "操作:" [ref=e115]
+                      - generic "1、查询" [ref=e116]
+                    - generic:
+                      - img:
+                        - img
+                - generic [ref=e117]:
+                  - generic [ref=e118]: "uid:"
+                  - textbox "uid:" [ref=e124]:
+                    - /placeholder: 多个用英文逗号分隔
+                - generic [ref=e126]:
+                  - generic [ref=e127]: "设置分数:"
+                  - textbox "设置分数:" [ref=e133]:
+                    - /placeholder: 默认1
+                    - text: "1"
+                - generic [ref=e135]:
+                  - generic [ref=e136]: "导入时清空数据:"
+                  - generic [ref=e140] [cursor=pointer]:
+                    - generic [ref=e141]:
+                      - combobox "导入时清空数据:" [ref=e143]
+                      - generic "1、覆盖" [ref=e144]
+                    - generic:
+                      - img:
+                        - img
+                - generic [ref=e145]:
+                  - generic [ref=e146]: "名单类型(默认不动):"
+                  - textbox "名单类型(默认不动):" [ref=e152]:
+                    - /placeholder: 默认用1(问研发)
+                    - text: "1"
+                - generic [ref=e154]:
+                  - generic [ref=e155]: "页码:"
+                  - textbox "页码:" [ref=e161]:
+                    - /placeholder: 请输入页数
+              - generic [ref=e163]:
+                - button "导 出" [ref=e164] [cursor=pointer]:
+                  - generic [ref=e165]: 导 出
+                - button "查 询" [ref=e166] [cursor=pointer]:
+                  - generic [ref=e167]: 查 询
+            - img [ref=e171]
