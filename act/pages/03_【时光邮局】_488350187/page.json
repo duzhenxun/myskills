@@ -1,0 +1,261 @@
+{
+  "id": "488350187",
+  "type": "page",
+  "status": "current",
+  "title": "【时光邮局】",
+  "space": {
+    "id": 3571713,
+    "key": "xueyuan",
+    "name": "映客直播业务",
+    "type": "global",
+    "_links": {
+      "webui": "/display/xueyuan",
+      "self": "https://wiki.inkept.cn/rest/api/space/xueyuan"
+    },
+    "_expandable": {
+      "metadata": "",
+      "icon": "",
+      "description": "",
+      "retentionPolicy": "",
+      "homepage": "/rest/api/content/320866330"
+    }
+  },
+  "version": {
+    "by": {
+      "type": "known",
+      "username": "maxiaona",
+      "userKey": "8aef97167d450205017db1d1e6df008b",
+      "profilePicture": {
+        "path": "/images/icons/profilepics/default.svg",
+        "width": 48,
+        "height": 48,
+        "isDefault": true
+      },
+      "displayName": "马晓娜",
+      "_links": {
+        "self": "https://wiki.inkept.cn/rest/api/user?key=8aef97167d450205017db1d1e6df008b"
+      },
+      "_expandable": {
+        "status": ""
+      }
+    },
+    "when": "2026-03-19T20:09:20.000+08:00",
+    "message": "",
+    "number": 1,
+    "minorEdit": false,
+    "hidden": false,
+    "_links": {
+      "self": "https://wiki.inkept.cn/rest/experimental/content/488350187/version/1"
+    },
+    "_expandable": {
+      "content": "/rest/api/content/488350187"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "320866330",
+      "type": "page",
+      "status": "current",
+      "title": "映客直播业务",
+      "extensions": {
+        "position": "none"
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=320866330",
+        "edit": "/pages/resumedraft.action?draftId=320866330&draftShareId=d5d92a4f-fb15-4a51-8bd6-16333cb6f165",
+        "tinyui": "/x/GgggEw",
+        "self": "https://wiki.inkept.cn/rest/api/content/320866330"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/320866330/child",
+        "restrictions": "/rest/api/content/320866330/restriction/byOperation",
+        "history": "/rest/api/content/320866330/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/320866330/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    },
+    {
+      "id": "326510548",
+      "type": "page",
+      "status": "current",
+      "title": "直播业务线-运营",
+      "extensions": {
+        "position": 2
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=326510548",
+        "edit": "/pages/resumedraft.action?draftId=326510548&draftShareId=0ea027df-6f8f-4663-bbd6-217ba023f41b",
+        "tinyui": "/x/1Cd2Ew",
+        "self": "https://wiki.inkept.cn/rest/api/content/326510548"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/326510548/child",
+        "restrictions": "/rest/api/content/326510548/restriction/byOperation",
+        "history": "/rest/api/content/326510548/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/326510548/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    },
+    {
+      "id": "331456836",
+      "type": "page",
+      "status": "current",
+      "title": "【活动组】",
+      "extensions": {
+        "position": 11
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=331456836",
+        "edit": "/pages/resumedraft.action?draftId=331456836",
+        "tinyui": "/x/RKHBEw",
+        "self": "https://wiki.inkept.cn/rest/api/content/331456836"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/331456836/child",
+        "restrictions": "/rest/api/content/331456836/restriction/byOperation",
+        "history": "/rest/api/content/331456836/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/331456836/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    },
+    {
+      "id": "452644191",
+      "type": "page",
+      "status": "current",
+      "title": "【2026营收运营活动】",
+      "extensions": {
+        "position": "none"
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=452644191",
+        "edit": "/pages/resumedraft.action?draftId=452644191&draftShareId=97d3197f-f0cd-4143-8fbf-d96b4892c680",
+        "tinyui": "/x/X836Gg",
+        "self": "https://wiki.inkept.cn/rest/api/content/452644191"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/452644191/child",
+        "restrictions": "/rest/api/content/452644191/restriction/byOperation",
+        "history": "/rest/api/content/452644191/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/452644191/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    },
+    {
+      "id": "478981918",
+      "type": "page",
+      "status": "current",
+      "title": "2026年3月份活动",
+      "extensions": {
+        "position": "none"
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=478981918",
+        "edit": "/pages/resumedraft.action?draftId=478981918&draftShareId=eb99f1fc-6661-4915-83e0-49b3a4c5a84b",
+        "tinyui": "/x/Hq_MH",
+        "self": "https://wiki.inkept.cn/rest/api/content/478981918"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/478981918/child",
+        "restrictions": "/rest/api/content/478981918/restriction/byOperation",
+        "history": "/rest/api/content/478981918/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/478981918/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    },
+    {
+      "id": "483790252",
+      "type": "page",
+      "status": "current",
+      "title": "3.23-3.26 云端小镇  时光邮局",
+      "extensions": {
+        "position": "none"
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=483790252",
+        "edit": "/pages/resumedraft.action?draftId=483790252&draftShareId=674454bb-c20a-4b1f-a499-69f33dfb9dbf",
+        "tinyui": "/x/rA3WH",
+        "self": "https://wiki.inkept.cn/rest/api/content/483790252"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/483790252/child",
+        "restrictions": "/rest/api/content/483790252/restriction/byOperation",
+        "history": "/rest/api/content/483790252/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/483790252/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    }
+  ],
+  "body": {
+    "storage": {
+      "value": "<p><br /></p><p><span>Hi all，<br />【时光邮局】活动将于3月23日00:00:00-3月26日23:59:59上线，现申请相关上线配置。<br /><br /><br />辛苦@叶导 审批，<br />辛苦@灿灿&nbsp;配置。<br /><br /><br />具体需求如下（资源图钉钉提供）：<br /><strong>一、活动中心</strong><br />标题：春日繁花盛宴<br />时间：3月23日00:00:00-3月27日23:59:59<br />色值：</span>linear-gradient(90deg, #5b240a 0%, #471b06 100%)</p><p><span><br /></span><span>位置：第一位，<strong><br /></strong><br /><strong>二、icon</strong><br />标题：春日繁花盛宴<br />文案：<span style=\"color: rgb(23,43,77);\">解锁得</span><span style=\"color: rgb(23,43,77);\">专属奖励</span><br />时间：3月23日00:00:00-3月26日23:59:59<br />类型：所有直播间<br />位置：第一位</span></p><p><br /></p><p><span><strong>三、首页banner</strong><br />时间：3月23日00:00:00-3月26日23:59:59<br />位置：第一位<br /><br /><strong>四、全站私信</strong><br />3月23日00:00:00<br />文案：【春日繁花盛宴】<span style=\"color: rgb(0,0,0);\">赠送活动专属礼物，帮助主播完成</span><span style=\"color: rgb(0,0,0);\">任务升级场景，解锁丰富奖励～</span></span></p><p><span><strong>五 、开屏</strong><br />时间：3月23日00:00:00-3月24日23:59:59</span></p><p><span>位置：第一位<br /></span></p><p><br /></p><p><span><strong>六、直播间icon</strong><br />时间：3月23日00:00:00-3月26日23:59:59</span></p><p><span>位置：第一位</span></p><p><span><br /><strong>七 、礼物墙</strong><br />标题：春日繁花<br />时间：3月23日00:00:00-3月26日23:59:59<br />所有专属礼物均配置礼物墙banner</span></p><table style=\"text-decoration: none;\"><tbody class=\"\"><tr class=\"\"><td style=\"text-align: center;\">名称</td><td style=\"text-align: center;\">价值</td><td style=\"text-align: center;\">礼物ID</td><td><br /></td><td>备注</td></tr><tr class=\"\"><td style=\"text-align: center;\">飞信传情</td><td style=\"text-align: center;\">10</td><td style=\"text-align: center;\">24268</td><td><a href=\"https://img.ikstatic.cn/MTc3MzkwNzEyNzYzOSMgNTUjcG5n.png\">https://img.ikstatic.cn/MTc3MzkwNzEyNzYzOSMgNTUjcG5n.png</a></td><td>【飞信传情】用户送给主播，主播获得1热力值，剩余参与飞信传情，最高可获得<span style=\"color: rgb(23,43,77);\">520</span>热力值礼物。</td></tr><tr class=\"\"><td style=\"text-align: center;\">长相思</td><td style=\"text-align: center;\">77</td><td style=\"text-align: center;\">24275</td><td><a href=\"https://img.ikstatic.cn/MTcyMjg0MDA0MTE1NiM4OTgjcG5n.png\">https://img.ikstatic.cn/MTcyMjg0MDA0MTE1NiM4OTgjcG5n.png</a></td><td><br /></td></tr><tr class=\"\"><td style=\"text-align: center;\">邮来心动</td><td style=\"text-align: center;\">200</td><td style=\"text-align: center;\">24269</td><td><a href=\"https://img.ikstatic.cn/MTc3MzkwNzE1NDQ4MiMgNjAjcG5n.png\">https://img.ikstatic.cn/MTc3MzkwNzE1NDQ4MiMgNjAjcG5n.png</a></td><td>【邮来心动】用户送给主播，主播获得5热力值，剩余参与邮来心动，最高可获得<span style=\"color: rgb(23,43,77);\">13140</span>热力值礼物。</td></tr><tr class=\"\"><td style=\"text-align: center;\">梦游仙镜</td><td style=\"text-align: center;\">520</td><td style=\"text-align: center;\">24276</td><td><a href=\"https://img.ikstatic.cn/MTc0MzA2MjgzMTIwMCMgNDgjcG5n.png\">https://img.ikstatic.cn/MTc0MzA2MjgzMTIwMCMgNDgjcG5n.png</a></td><td><br /></td></tr><tr class=\"\"><td style=\"text-align: center;\">灵蛇仙姬</td><td style=\"text-align: center;\">1314</td><td style=\"text-align: center;\">24277</td><td><a href=\"https://img.ikstatic.cn/MTc0MTIyODE2Mjc0MSM0MjQjcG5n.png\">https://img.ikstatic.cn/MTc0MTIyODE2Mjc0MSM0MjQjcG5n.png</a></td><td><br /></td></tr><tr class=\"\"><td style=\"text-align: center;\">潘多拉仙境</td><td style=\"text-align: center;\">5200</td><td style=\"text-align: center;\">24278</td><td><a href=\"https://img.ikstatic.cn/MTc0Nzk5NTUxMzM3MCMxMzQjcG5n.png\">https://img.ikstatic.cn/MTc0Nzk5NTUxMzM3MCMxMzQjcG5n.png</a></td><td><br /></td></tr><tr class=\"\"><td style=\"text-align: center;\">耶耶日记</td><td style=\"text-align: center;\">13140</td><td style=\"text-align: center;\">24279</td><td><a href=\"https://img.ikstatic.cn/MTc1Mzc3MTAyNDc5NyMgMzUjcG5n.png\">https://img.ikstatic.cn/MTc1Mzc3MTAyNDc5NyMgMzUjcG5n.png</a></td><td><br /></td></tr><tr class=\"\"><td style=\"text-align: center;\">爪爪联萌</td><td style=\"text-align: center;\">33440</td><td style=\"text-align: center;\">24280</td><td><a href=\"https://img.ikstatic.cn/MTc1Mzc3MTE2MzQxNCMzNzYjcG5n.png\">https://img.ikstatic.cn/MTc1Mzc3MTE2MzQxNCMzNzYjcG5n.png</a></td><td><br /></td></tr><tr class=\"\"><td style=\"text-align: center;\">沧澜绮梦</td><td style=\"text-align: center;\">99999</td><td style=\"text-align: center;\">24281</td><td><a href=\"https://img.ikstatic.cn/MTc0NTkwOTg3MTk0MSM1MDYjcG5n.png\">https://img.ikstatic.cn/MTc0NTkwOTg3MTk0MSM1MDYjcG5n.png</a></td><td><br /></td></tr></tbody></table><p><br /></p><p><span><strong><br />八、</strong><strong>称号链接更换</strong><br /><br />&nbsp;添加称号链接，修改上线时间及白名单配置修改为否</span></p><p><br /></p><p><span><br />链接见下方<br /><br /><strong>链接如下：<br /></strong>数据链接：<a href=\"https://actapi.busi.inke.cn/api/act/act202603/post_office/icon\" class=\"\">https://actapi.busi.inke.cn/api/act/act202603/post_office/icon</a><br /><br /></span></p><p class=\"p1\">Banner: <a href=\"https://boc.inke.cn/react/banner/202603/time-post-office/index.html?from=banner\">https://boc.inke.cn/react/banner/202603/time-post-office/index.html?from=banner</a></p><p class=\"p1\">直播间icon: <a href=\"https://boc.inke.cn/react/banner/202603/time-post-office/index.html?from=icon\">https://boc.inke.cn/react/banner/202603/time-post-office/index.html?from=icon</a></p><p class=\"p1\">金刚区: <a href=\"https://boc.inke.cn/react/banner/202603/time-post-office/index.html?from=kong\">https://boc.inke.cn/react/banner/202603/time-post-office/index.html?from=kong</a></p><p class=\"p1\">活动中心: <a href=\"https://boc.inke.cn/react/banner/202603/time-post-office/index.html?from=task\">https://boc.inke.cn/react/banner/202603/time-post-office/index.html?from=task</a></p><p class=\"p1\">私信: <a href=\"https://boc.inke.cn/react/banner/202603/time-post-office/index.html?from=msg\">https://boc.inke.cn/react/banner/202603/time-post-office/index.html?from=msg</a></p><p class=\"p1\">闪屏: <a href=\"https://boc.inke.cn/react/banner/202603/time-post-office/index.html?from=screen\">https://boc.inke.cn/react/banner/202603/time-post-office/index.html?from=screen</a></p><p class=\"p1\">Push: <a href=\"https://boc.inke.cn/react/banner/202603/time-post-office/index.html?from=push\">https://boc.inke.cn/react/banner/202603/time-post-office/index.html?from=push</a></p><p class=\"p1\">首页弹窗: <a href=\"https://boc.inke.cn/react/banner/202603/time-post-office/index.html?from=hallhot\">https://boc.inke.cn/react/banner/202603/time-post-office/index.html?from=hallhot</a></p><p class=\"p1\">站外: <a href=\"https://boc.inke.cn/react/banner/202603/time-post-office/index.html?from=other\">https://boc.inke.cn/react/banner/202603/time-post-office/index.html?from=other</a></p><p class=\"p1\">房间消息: <a href=\"https://boc.inke.cn/react/banner/202603/time-post-office/index.html?from=room_msg\">https://boc.inke.cn/react/banner/202603/time-post-office/index.html?from=room_msg</a></p><p class=\"p1\">我的页选项: <a href=\"https://boc.inke.cn/react/banner/202603/time-post-office/index.html?from=me\">https://boc.inke.cn/react/banner/202603/time-post-office/index.html?from=me</a></p><p class=\"p1\">直播间插件入口: <a href=\"https://boc.inke.cn/react/banner/202603/time-post-office/index.html?from=pluginik_halfdisplay=1&amp;half_screen=1\">https://boc.inke.cn/react/banner/202603/time-post-office/index.html?from=pluginik_halfdisplay=1&amp;half_screen=1</a></p><p class=\"p1\">礼物墙banner: <a href=\"https://boc.inke.cn/react/banner/202603/time-post-office/index.html?from=giftwall\">https://boc.inke.cn/react/banner/202603/time-post-office/index.html?from=giftwall</a></p><p class=\"p1\">广播页面: <a href=\"https://boc.inke.cn/react/banner/202603/time-post-office/index.html?from=broadcast\">https://boc.inke.cn/react/banner/202603/time-post-office/index.html?from=broadcast</a></p><p class=\"p1\">二维码: <a href=\"https://boc.inke.cn/react/banner/202603/time-post-office/index.html?from=qrcode\">https://boc.inke.cn/react/banner/202603/time-post-office/index.html?from=qrcode</a></p><p class=\"p1\">称号: <a href=\"https://boc.inke.cn/react/banner/202603/time-post-office/index.html?from=name\">https://boc.inke.cn/react/banner/202603/time-post-office/index.html?from=name</a></p><p class=\"p1\"><br /></p><p class=\"p1\"><br /></p><p class=\"p1\"><br /></p><p class=\"p1\">以上，如有问题及时沟通～</p><p class=\"p1\"><br /></p><p class=\"p1\"><br /></p><p class=\"p1\"><br /></p><p class=\"p1\"><br /></p><p class=\"p1\"><br /></p><p><br /></p>",
+      "representation": "storage",
+      "_expandable": {
+        "content": "/rest/api/content/488350187"
+      }
+    },
+    "_expandable": {
+      "editor": "",
+      "view": "",
+      "export_view": "",
+      "styled_view": "",
+      "anonymous_export_view": ""
+    }
+  },
+  "extensions": {
+    "position": "none"
+  },
+  "_links": {
+    "webui": "/pages/viewpage.action?pageId=488350187",
+    "edit": "/pages/resumedraft.action?draftId=488350187&draftShareId=f12f983e-222c-4e86-8ecd-4fa650cb663b",
+    "tinyui": "/x/66EbHQ",
+    "collection": "/rest/api/content",
+    "base": "https://wiki.inkept.cn",
+    "context": "",
+    "self": "https://wiki.inkept.cn/rest/api/content/488350187"
+  },
+  "_expandable": {
+    "container": "/rest/api/space/xueyuan",
+    "metadata": "",
+    "operations": "",
+    "children": "/rest/api/content/488350187/child",
+    "restrictions": "/rest/api/content/488350187/restriction/byOperation",
+    "history": "/rest/api/content/488350187/history",
+    "descendants": "/rest/api/content/488350187/descendant"
+  }
+}

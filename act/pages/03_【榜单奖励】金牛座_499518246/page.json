@@ -1,0 +1,261 @@
+{
+  "id": "499518246",
+  "type": "page",
+  "status": "current",
+  "title": "【榜单奖励】金牛座",
+  "space": {
+    "id": 3571713,
+    "key": "xueyuan",
+    "name": "映客直播业务",
+    "type": "global",
+    "_links": {
+      "webui": "/display/xueyuan",
+      "self": "https://wiki.inkept.cn/rest/api/space/xueyuan"
+    },
+    "_expandable": {
+      "metadata": "",
+      "icon": "",
+      "description": "",
+      "retentionPolicy": "",
+      "homepage": "/rest/api/content/320866330"
+    }
+  },
+  "version": {
+    "by": {
+      "type": "known",
+      "username": "chenziqi",
+      "userKey": "8aef08aa8de3822a018e35bdf3070081",
+      "profilePicture": {
+        "path": "/images/icons/profilepics/default.svg",
+        "width": 48,
+        "height": 48,
+        "isDefault": true
+      },
+      "displayName": "陈子琦",
+      "_links": {
+        "self": "https://wiki.inkept.cn/rest/api/user?key=8aef08aa8de3822a018e35bdf3070081"
+      },
+      "_expandable": {
+        "status": ""
+      }
+    },
+    "when": "2026-05-22T15:55:29.000+08:00",
+    "message": "",
+    "number": 2,
+    "minorEdit": false,
+    "hidden": false,
+    "_links": {
+      "self": "https://wiki.inkept.cn/rest/experimental/content/499518246/version/2"
+    },
+    "_expandable": {
+      "content": "/rest/api/content/499518246"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "320866330",
+      "type": "page",
+      "status": "current",
+      "title": "映客直播业务",
+      "extensions": {
+        "position": "none"
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=320866330",
+        "edit": "/pages/resumedraft.action?draftId=320866330&draftShareId=d5d92a4f-fb15-4a51-8bd6-16333cb6f165",
+        "tinyui": "/x/GgggEw",
+        "self": "https://wiki.inkept.cn/rest/api/content/320866330"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/320866330/child",
+        "restrictions": "/rest/api/content/320866330/restriction/byOperation",
+        "history": "/rest/api/content/320866330/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/320866330/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    },
+    {
+      "id": "326510548",
+      "type": "page",
+      "status": "current",
+      "title": "直播业务线-运营",
+      "extensions": {
+        "position": 2
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=326510548",
+        "edit": "/pages/resumedraft.action?draftId=326510548&draftShareId=0ea027df-6f8f-4663-bbd6-217ba023f41b",
+        "tinyui": "/x/1Cd2Ew",
+        "self": "https://wiki.inkept.cn/rest/api/content/326510548"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/326510548/child",
+        "restrictions": "/rest/api/content/326510548/restriction/byOperation",
+        "history": "/rest/api/content/326510548/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/326510548/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    },
+    {
+      "id": "331456836",
+      "type": "page",
+      "status": "current",
+      "title": "【活动组】",
+      "extensions": {
+        "position": 11
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=331456836",
+        "edit": "/pages/resumedraft.action?draftId=331456836",
+        "tinyui": "/x/RKHBEw",
+        "self": "https://wiki.inkept.cn/rest/api/content/331456836"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/331456836/child",
+        "restrictions": "/rest/api/content/331456836/restriction/byOperation",
+        "history": "/rest/api/content/331456836/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/331456836/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    },
+    {
+      "id": "452644191",
+      "type": "page",
+      "status": "current",
+      "title": "【2026营收运营活动】",
+      "extensions": {
+        "position": "none"
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=452644191",
+        "edit": "/pages/resumedraft.action?draftId=452644191&draftShareId=97d3197f-f0cd-4143-8fbf-d96b4892c680",
+        "tinyui": "/x/X836Gg",
+        "self": "https://wiki.inkept.cn/rest/api/content/452644191"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/452644191/child",
+        "restrictions": "/rest/api/content/452644191/restriction/byOperation",
+        "history": "/rest/api/content/452644191/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/452644191/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    },
+    {
+      "id": "488343729",
+      "type": "page",
+      "status": "current",
+      "title": "2026年5月份活动",
+      "extensions": {
+        "position": "none"
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=488343729",
+        "edit": "/pages/resumedraft.action?draftId=488343729&draftShareId=a59c298c-352d-4d86-b067-744efc521f4c",
+        "tinyui": "/x/sYgbHQ",
+        "self": "https://wiki.inkept.cn/rest/api/content/488343729"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/488343729/child",
+        "restrictions": "/rest/api/content/488343729/restriction/byOperation",
+        "history": "/rest/api/content/488343729/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/488343729/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    },
+    {
+      "id": "499518241",
+      "type": "page",
+      "status": "current",
+      "title": "5.11-5.15 守护十二星座-金牛座",
+      "extensions": {
+        "position": "none"
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=499518241",
+        "edit": "/pages/resumedraft.action?draftId=499518241",
+        "tinyui": "/x/IQvGHQ",
+        "self": "https://wiki.inkept.cn/rest/api/content/499518241"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/499518241/child",
+        "restrictions": "/rest/api/content/499518241/restriction/byOperation",
+        "history": "/rest/api/content/499518241/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/499518241/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    }
+  ],
+  "body": {
+    "storage": {
+      "value": "<p><a class=\"external-link\" style=\"text-decoration: none;\" href=\"https://boc.inke.cn/react/tools/activity-data-query/index.html?module_name=constellation&amp;month=202403\" rel=\"nofollow\">https://boc.inke.cn/react/tools/activity-data-query/index.html?module_name=constellation&amp;month=202403</a></p><p>Dear all，<br />&nbsp;<br />&ldquo;守护金牛座&rdquo;活动已于5月15日下线，现对活动榜单奖励发放。<br />&nbsp;<br />辛苦@叶导 审批；<br />辛苦@灿灿&nbsp;&nbsp;配置；<br />&nbsp;<br />一、榜单资源奖励明细如下：</p><table><colgroup class=\"\"><col class=\"\" style=\"width: 102.0pt;\" /> <col class=\"\" style=\"width: 65.0pt;\" /> <col class=\"\" style=\"width: 81.95pt;\" /> <col class=\"\" style=\"width: 65.25pt;\" /> <col class=\"\" style=\"width: 49.5pt;\" /> <col class=\"\" style=\"width: 63.5pt;\" /> <col class=\"\" style=\"width: 24.5pt;\" /> <col class=\"\" style=\"width: 49.5pt;\" /> <col class=\"\" style=\"width: 58.0pt;\" /> <col class=\"\" style=\"width: 45.5pt;\" /> <col class=\"\" style=\"width: 49.5pt;\" /> <col class=\"\" style=\"width: 58.0pt;\" /> <col class=\"\" style=\"width: 45.5pt;\" /> <col class=\"\" style=\"width: 49.5pt;\" /> <col class=\"\" style=\"width: 64.5pt;\" /> <col class=\"\" style=\"width: 45.5pt;\" /> <col class=\"\" style=\"width: 49.5pt;\" /> <col class=\"\" style=\"width: 58.0pt;\" /> <col class=\"\" style=\"width: 30.5pt;\" /> <col class=\"\" style=\"width: 49.5pt;\" /> <col class=\"\" style=\"width: 58.0pt;\" /> <col class=\"\" style=\"width: 30.5pt;\" /> <col class=\"\" style=\"width: 49.5pt;\" /> <col class=\"\" style=\"width: 64.5pt;\" /> <col class=\"\" style=\"width: 35.0pt;\" /> <col class=\"\" style=\"width: 49.5pt;\" /> <col class=\"\" style=\"width: 64.5pt;\" /> <col class=\"\" style=\"width: 35.0pt;\" /> </colgroup><tbody class=\"\"><tr class=\"\"><td>超秀卡*1张*5分钟</td><td><br /></td><td><br /></td><td>靓号</td><td><br /></td><td><br /></td><td><br /></td><td>金牛座代言人称号</td><td><br /></td><td><br /></td><td>守护金牛座直播间角标</td><td><br /></td><td><br /></td><td>金牛流光勋章</td><td>主播，守护金牛座获得，计数型</td><td><br /></td><td>金牛星河勋章</td><td>用户，守护金牛座获得，计数型</td><td><br /></td><td>守护星座发言波纹</td><td><br /></td><td><br /></td><td>守护星座上麦动效</td><td><br /></td><td><br /></td><td>金牛座公聊角标</td><td><br /></td><td><br /></td><td>金牛座公聊皮肤</td><td><br /></td></tr><tr class=\"\"><td><br /></td><td><br /></td><td><br /></td><td><br /></td><td><br /></td><td><br /></td><td><br /></td><td>资源id</td><td><br /></td><td><br /></td><td>资源id</td><td>更改名称后下发</td><td><br /></td><td>资源id</td><td><br /></td><td><br /></td><td><br /></td><td><br /></td><td><br /></td><td>资源id</td><td>2746</td><td><br /></td><td>资源id</td><td>2747</td><td><br /></td><td>资源id</td><td><br /></td><td><br /></td><td>资源id</td><td><br /></td></tr><tr class=\"\"><td>下发名单</td><td><br /></td><td><br /></td><td>下发名单</td><td>靓号</td><td>时长</td><td><br /></td><td>下发名单</td><td>时长</td><td><br /></td><td>下发名单</td><td>时长</td><td><br /></td><td>下发名单</td><td>时长</td><td><br /></td><td>下发名单</td><td>时长</td><td><br /></td><td>下发名单</td><td>时长</td><td><br /></td><td>下发名单</td><td>时长</td><td><br /></td><td>下发名单</td><td>时长</td><td><br /></td><td>下发名单</td><td>时长</td></tr><tr class=\"\"><td>762892128</td><td>*1张*5分钟</td><td><br /></td><td>769473717</td><td>待提供</td><td>15</td><td><br /></td><td>762892128</td><td>21</td><td><br /></td><td>762892128</td><td>7</td><td><br /></td><td>762892128</td><td>永久</td><td><br /></td><td>2726786</td><td>永久</td><td><br /></td><td>769473717</td><td>7</td><td><br /></td><td>769473717</td><td>7</td><td><br /></td><td>2726786</td><td>7</td><td><br /></td><td>2726786</td><td>7</td></tr><tr class=\"\"><td><br /></td><td><br /></td><td><br /></td><td>754567423</td><td>待提供</td><td>15</td><td><br /></td><td>769473717</td><td>21</td><td><br /></td><td>701355737</td><td>5</td><td><br /></td><td>701355737</td><td>永久</td><td><br /></td><td>771781557</td><td>永久</td><td><br /></td><td>754567423</td><td>5</td><td><br /></td><td>754567423</td><td>5</td><td><br /></td><td>771781557</td><td>5</td><td><br /></td><td>771781557</td><td>5</td></tr><tr class=\"\"><td><br /></td><td><br /></td><td><br /></td><td>776672012</td><td>待提供</td><td>15</td><td><br /></td><td><br /></td><td><br /></td><td><br /></td><td>757247065</td><td>5</td><td><br /></td><td>757247065</td><td>永久</td><td><br /></td><td>776568774</td><td>永久</td><td><br /></td><td>776672012</td><td>5</td><td><br /></td><td>776672012</td><td>5</td><td><br /></td><td>776568774</td><td>5</td><td><br /></td><td>776568774</td><td>5</td></tr><tr class=\"\"><td><br /></td><td><br /></td><td><br /></td><td><br /></td><td><br /></td><td><br /></td><td><br /></td><td><br /></td><td><br /></td><td><br /></td><td>766912746</td><td>3</td><td><br /></td><td>766912746</td><td>永久</td><td><br /></td><td>60183130</td><td>永久</td><td><br /></td><td>777682039</td><td>3</td><td><br /></td><td>777682039</td><td>3</td><td><br /></td><td>60183130</td><td>3</td><td><br /></td><td>60183130</td><td>3</td></tr><tr class=\"\"><td><br /></td><td><br /></td><td><br /></td><td><br /></td><td><br /></td><td><br /></td><td><br /></td><td><br /></td><td><br /></td><td><br /></td><td>5172761</td><td>3</td><td><br /></td><td>5172761</td><td>永久</td><td><br /></td><td>761572128</td><td>永久</td><td><br /></td><td>776210404</td><td>3</td><td><br /></td><td>776210404</td><td>3</td><td><br /></td><td>761572128</td><td>3</td><td><br /></td><td>761572128</td><td>3</td></tr><tr class=\"\"><td><br /></td><td><br /></td><td><br /></td><td><br /></td><td><br /></td><td><br /></td><td><br /></td><td><br /></td><td><br /></td><td><br /></td><td>384613713</td><td>1</td><td><br /></td><td>769473717</td><td>永久</td><td><br /></td><td>778141987</td><td>永久</td><td><br /></td><td>768806794</td><td>1</td><td><br /></td><td>768806794</td><td>1</td><td><br /></td><td>778141987</td><td>1</td><td><br /></td><td>778141987</td><td>1</td></tr><tr class=\"\"><td><br /></td><td><br /></td><td><br /></td><td><br /></td><td><br /></td><td><br /></td><td><br /></td><td><br /></td><td><br /></td><td><br /></td><td>47867683</td><td>1</td><td><br /></td><td>754567423</td><td>永久</td><td><br /></td><td>759574438</td><td>永久</td><td><br /></td><td>754739291</td><td>1</td><td><br /></td><td>754739291</td><td>1</td><td><br /></td><td>759574438</td><td>1</td><td><br /></td><td>759574438</td><td>1</td></tr><tr class=\"\"><td><br /></td><td><br /></td><td><br /></td><td><br /></td><td><br /></td><td><br /></td><td><br /></td><td><br /></td><td><br /></td><td><br /></td><td>725924499</td><td>1</td><td><br /></td><td>776672012</td><td>永久</td><td><br /></td><td>749206791</td><td>永久</td><td><br /></td><td>704412289</td><td>1</td><td><br /></td><td>704412289</td><td>1</td><td><br /></td><td>749206791</td><td>1</td><td><br /></td><td>749206791</td><td>1</td></tr><tr class=\"\"><td><br /></td><td><br /></td><td><br /></td><td><br /></td><td><br /></td><td><br /></td><td><br /></td><td><br /></td><td><br /></td><td><br /></td><td>739312847</td><td>1</td><td><br /></td><td>777682039</td><td>永久</td><td><br /></td><td>764066456</td><td>永久</td><td><br /></td><td>755638536</td><td>1</td><td><br /></td><td>755638536</td><td>1</td><td><br /></td><td>764066456</td><td>1</td><td><br /></td><td>764066456</td><td>1</td></tr><tr class=\"\"><td><br /></td><td><br /></td><td><br /></td><td><br /></td><td><br /></td><td><br /></td><td><br /></td><td><br /></td><td><br /></td><td><br /></td><td>753555371</td><td>1</td><td><br /></td><td>776210404</td><td>永久</td><td><br /></td><td>700352367</td><td>永久</td><td><br /></td><td>770756382</td><td>1</td><td><br /></td><td>770756382</td><td>1</td><td><br /></td><td>700352367</td><td>1</td><td><br /></td><td>700352367</td><td>1</td></tr></tbody></table><p class=\"auto-cursor-target\">以上，如有问题及时沟通～</p>",
+      "representation": "storage",
+      "_expandable": {
+        "content": "/rest/api/content/499518246"
+      }
+    },
+    "_expandable": {
+      "editor": "",
+      "view": "",
+      "export_view": "",
+      "styled_view": "",
+      "anonymous_export_view": ""
+    }
+  },
+  "extensions": {
+    "position": "none"
+  },
+  "_links": {
+    "webui": "/pages/viewpage.action?pageId=499518246",
+    "edit": "/pages/resumedraft.action?draftId=499518246",
+    "tinyui": "/x/JgvGHQ",
+    "collection": "/rest/api/content",
+    "base": "https://wiki.inkept.cn",
+    "context": "",
+    "self": "https://wiki.inkept.cn/rest/api/content/499518246"
+  },
+  "_expandable": {
+    "container": "/rest/api/space/xueyuan",
+    "metadata": "",
+    "operations": "",
+    "children": "/rest/api/content/499518246/child",
+    "restrictions": "/rest/api/content/499518246/restriction/byOperation",
+    "history": "/rest/api/content/499518246/history",
+    "descendants": "/rest/api/content/499518246/descendant"
+  }
+}

@@ -1,0 +1,317 @@
+{
+  "id": "483795282",
+  "type": "page",
+  "status": "current",
+  "title": "年后打卡奖励",
+  "space": {
+    "id": 3571713,
+    "key": "xueyuan",
+    "name": "映客直播业务",
+    "type": "global",
+    "_links": {
+      "webui": "/display/xueyuan",
+      "self": "https://wiki.inkept.cn/rest/api/space/xueyuan"
+    },
+    "_expandable": {
+      "metadata": "",
+      "icon": "",
+      "description": "",
+      "retentionPolicy": "",
+      "homepage": "/rest/api/content/320866330"
+    }
+  },
+  "version": {
+    "by": {
+      "type": "known",
+      "username": "chenziqi",
+      "userKey": "8aef08aa8de3822a018e35bdf3070081",
+      "profilePicture": {
+        "path": "/images/icons/profilepics/default.svg",
+        "width": 48,
+        "height": 48,
+        "isDefault": true
+      },
+      "displayName": "陈子琦",
+      "_links": {
+        "self": "https://wiki.inkept.cn/rest/api/user?key=8aef08aa8de3822a018e35bdf3070081"
+      },
+      "_expandable": {
+        "status": ""
+      }
+    },
+    "when": "2026-03-04T18:22:47.000+08:00",
+    "message": "",
+    "number": 2,
+    "minorEdit": false,
+    "hidden": false,
+    "_links": {
+      "self": "https://wiki.inkept.cn/rest/experimental/content/483795282/version/2"
+    },
+    "_expandable": {
+      "content": "/rest/api/content/483795282"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "320866330",
+      "type": "page",
+      "status": "current",
+      "title": "映客直播业务",
+      "extensions": {
+        "position": "none"
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=320866330",
+        "edit": "/pages/resumedraft.action?draftId=320866330&draftShareId=d5d92a4f-fb15-4a51-8bd6-16333cb6f165",
+        "tinyui": "/x/GgggEw",
+        "self": "https://wiki.inkept.cn/rest/api/content/320866330"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/320866330/child",
+        "restrictions": "/rest/api/content/320866330/restriction/byOperation",
+        "history": "/rest/api/content/320866330/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/320866330/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    },
+    {
+      "id": "326510548",
+      "type": "page",
+      "status": "current",
+      "title": "直播业务线-运营",
+      "extensions": {
+        "position": 2
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=326510548",
+        "edit": "/pages/resumedraft.action?draftId=326510548&draftShareId=0ea027df-6f8f-4663-bbd6-217ba023f41b",
+        "tinyui": "/x/1Cd2Ew",
+        "self": "https://wiki.inkept.cn/rest/api/content/326510548"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/326510548/child",
+        "restrictions": "/rest/api/content/326510548/restriction/byOperation",
+        "history": "/rest/api/content/326510548/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/326510548/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    },
+    {
+      "id": "331456836",
+      "type": "page",
+      "status": "current",
+      "title": "【活动组】",
+      "extensions": {
+        "position": 11
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=331456836",
+        "edit": "/pages/resumedraft.action?draftId=331456836",
+        "tinyui": "/x/RKHBEw",
+        "self": "https://wiki.inkept.cn/rest/api/content/331456836"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/331456836/child",
+        "restrictions": "/rest/api/content/331456836/restriction/byOperation",
+        "history": "/rest/api/content/331456836/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/331456836/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    },
+    {
+      "id": "452644191",
+      "type": "page",
+      "status": "current",
+      "title": "【2026营收运营活动】",
+      "extensions": {
+        "position": "none"
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=452644191",
+        "edit": "/pages/resumedraft.action?draftId=452644191&draftShareId=97d3197f-f0cd-4143-8fbf-d96b4892c680",
+        "tinyui": "/x/X836Gg",
+        "self": "https://wiki.inkept.cn/rest/api/content/452644191"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/452644191/child",
+        "restrictions": "/rest/api/content/452644191/restriction/byOperation",
+        "history": "/rest/api/content/452644191/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/452644191/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    },
+    {
+      "id": "462598884",
+      "type": "page",
+      "status": "current",
+      "title": "2026年2月份活动",
+      "extensions": {
+        "position": "none"
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=462598884",
+        "edit": "/pages/resumedraft.action?draftId=462598884&draftShareId=744b2fa4-aa8c-4445-a22d-8439470cf97f",
+        "tinyui": "/x/5LKSGw",
+        "self": "https://wiki.inkept.cn/rest/api/content/462598884"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/462598884/child",
+        "restrictions": "/rest/api/content/462598884/restriction/byOperation",
+        "history": "/rest/api/content/462598884/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/462598884/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    },
+    {
+      "id": "462598896",
+      "type": "page",
+      "status": "current",
+      "title": "2026年春节",
+      "extensions": {
+        "position": "none"
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=462598896",
+        "edit": "/pages/resumedraft.action?draftId=462598896&draftShareId=101ce755-9d84-4b49-b3df-53c8b06ae19c",
+        "tinyui": "/x/8LKSGw",
+        "self": "https://wiki.inkept.cn/rest/api/content/462598896"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/462598896/child",
+        "restrictions": "/rest/api/content/462598896/restriction/byOperation",
+        "history": "/rest/api/content/462598896/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/462598896/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    },
+    {
+      "id": "476553571",
+      "type": "page",
+      "status": "current",
+      "title": "主播嘉宾春节玩法",
+      "extensions": {
+        "position": "none"
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=476553571",
+        "edit": "/pages/resumedraft.action?draftId=476553571&draftShareId=824952e1-c79b-4a90-89d0-4def4fdbcf26",
+        "tinyui": "/x/Y6FnH",
+        "self": "https://wiki.inkept.cn/rest/api/content/476553571"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/476553571/child",
+        "restrictions": "/rest/api/content/476553571/restriction/byOperation",
+        "history": "/rest/api/content/476553571/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/476553571/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    },
+    {
+      "id": "483885294",
+      "type": "page",
+      "status": "current",
+      "title": "映币下发",
+      "extensions": {
+        "position": "none"
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=483885294",
+        "edit": "/pages/resumedraft.action?draftId=483885294&draftShareId=bfe01e0d-2fea-4f40-a2e4-40974d92ff21",
+        "tinyui": "/x/7oDXH",
+        "self": "https://wiki.inkept.cn/rest/api/content/483885294"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/483885294/child",
+        "restrictions": "/rest/api/content/483885294/restriction/byOperation",
+        "history": "/rest/api/content/483885294/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/483885294/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    }
+  ],
+  "body": {
+    "storage": {
+      "value": "<p>Hi all，&nbsp;</p><p><span style=\"color: rgb(23,43,77);\">【福马迎春送财运】活动已于2月16日上线</span>，现申请春节年后累计打卡玩法主播映币奖励下发。</p><p><br /></p><p>今日申请下发映币奖励共<strong>778841映币</strong>，折合人民币<strong>31153.64元</strong>，下发人数<strong>811人</strong><strong>。</strong></p><p>辛苦@叶导 确认审批，</p><p>辛苦@成武 确认核对。</p><p><br /></p><p><strong>具体奖励领取情况如下：</strong></p><p><strong>整体数据：</strong></p><p>【实际】春节年中全勤打卡玩法获得映币奖励的主播共计<strong>811</strong><strong>人</strong>，合计获得映币奖励<strong>778841</strong><strong>映币</strong>，折合人民币<strong>31153.64</strong><strong>元。</strong></p><p>【预期】预期日均覆盖<strong>448人</strong>，合计获得映币奖励<strong>822508映币</strong>，折合人民币<strong>32900元</strong>。</p><p class=\"auto-cursor-target\"><br /></p><table class=\"relative-table\" style=\"width: 32.8054%;\"><colgroup class=\"\"><col style=\"width: 17.1064%;\" /><col class=\"\" style=\"width: 18.6758%;\" /><col class=\"\" style=\"width: 10.0441%;\" /><col class=\"\" style=\"width: 15.8509%;\" /><col class=\"\" style=\"width: 18.205%;\" /><col class=\"\" style=\"width: 19.9313%;\" /></colgroup><tbody class=\"\"><tr class=\"\"><td>可解锁比例</td><td>打卡天数</td><td>人数</td><td>存金库</td><td>可结算收益</td><td>可结算人民币</td></tr><tr class=\"\"><td rowspan=\"2\">10%</td><td>1</td><td>73</td><td>9087</td><td>843</td><td>33.72</td></tr><tr class=\"\"><td>2</td><td>77</td><td>18046</td><td>1739</td><td>69.56</td></tr><tr class=\"\"><td rowspan=\"2\">30%</td><td>3</td><td>79</td><td>43648</td><td>13073</td><td>522.92</td></tr><tr class=\"\"><td>4</td><td>73</td><td>46176</td><td>13815</td><td>552.6</td></tr><tr class=\"\"><td rowspan=\"2\">70%</td><td>5</td><td>92</td><td>60386</td><td>42229</td><td>1689.16</td></tr><tr class=\"\"><td>6</td><td>94</td><td>104843</td><td>73331</td><td>2933.24</td></tr><tr class=\"\"><td rowspan=\"2\">100%</td><td>7</td><td>116</td><td>163733</td><td>163733</td><td>6549.32</td></tr><tr class=\"\"><td>8</td><td>207</td><td>470078</td><td>470078</td><td>18803.12</td></tr><tr class=\"\"><td><br /></td><td>总计</td><td>811</td><td>915997</td><td>778841</td><td>31153.64</td></tr></tbody></table><p><br /></p><p><span>以上，如有问题随时沟通。</span></p><p>感谢。</p>",
+      "representation": "storage",
+      "_expandable": {
+        "content": "/rest/api/content/483795282"
+      }
+    },
+    "_expandable": {
+      "editor": "",
+      "view": "",
+      "export_view": "",
+      "styled_view": "",
+      "anonymous_export_view": ""
+    }
+  },
+  "extensions": {
+    "position": "none"
+  },
+  "_links": {
+    "webui": "/pages/viewpage.action?pageId=483795282",
+    "edit": "/pages/resumedraft.action?draftId=483795282&draftShareId=17828040-c666-4340-90ea-bbdd0dbba334",
+    "tinyui": "/x/UiHWH",
+    "collection": "/rest/api/content",
+    "base": "https://wiki.inkept.cn",
+    "context": "",
+    "self": "https://wiki.inkept.cn/rest/api/content/483795282"
+  },
+  "_expandable": {
+    "container": "/rest/api/space/xueyuan",
+    "metadata": "",
+    "operations": "",
+    "children": "/rest/api/content/483795282/child",
+    "restrictions": "/rest/api/content/483795282/restriction/byOperation",
+    "history": "/rest/api/content/483795282/history",
+    "descendants": "/rest/api/content/483795282/descendant"
+  }
+}

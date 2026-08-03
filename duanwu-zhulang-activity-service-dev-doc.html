@@ -1,0 +1,288 @@
+<h1>端午逐浪后端开发文档（inke.activity.service 落地版）</h1>
+
+<h2>1. 背景与目标</h2>
+<p>需求页面：6.17-6.19 端午逐浪。</p>
+<p>代码仓库：/Users/dds/go/src/git.inke.cn/opd/activitys/inke.activity.service。</p>
+<p>活动时间：2026-06-17 00:00:00 至 2026-06-19 23:59:59。</p>
+<p>核心目标：在活动服务内完成端午逐浪活动的活动页接口、充值得次数、逐浪互动、龙舟等级、6 月 19 日任务、赛程宝匣、映宝抽奖与运营自测能力。</p>
+
+<h2>2. 仓库规范结论</h2>
+<ul>
+  <li>必须遵守仓库根目录 AGENTS.md：活动开发先按 docs/activity-dev-scenarios.md 识别场景，再按 docs/activity-scenarios/ 下对应流程实现。</li>
+  <li>本活动涉及场景：创建活动代码、Draw 互动、Kafka、用户任务、Cron/榜单奖励式定时发奖。</li>
+  <li>实现链路统一按“过滤 -&gt; 计算 -&gt; 发奖 -&gt; 日志”推进。</li>
+  <li>奖励下发统一复用 sendPrize -&gt; formatPrize -&gt; ResourcePrize。</li>
+  <li>Kafka 消费先做活动时间、用户资格、资源/事件过滤，再做次数、任务、发奖和日志。</li>
+  <li>c.JSON 返回最外层字段使用小驼峰。</li>
+  <li>新增 Kafka Handler 后，需要在 internal.go 的 iTestWeb 增加测试 case。</li>
+</ul>
+
+<h2>3. 建议活动骨架</h2>
+<p>建议模块名：act202606_duanwu_zhulang。</p>
+<p>建议目录：act/2026/act202606/act202606_duanwu_zhulang/。</p>
+<p>创建活动代码应按 docs/activity-scenarios/09-gen-code.md 执行。因为开发人员 -u 和业务模块 -m 需要用户确认，开发前不要直接手填默认值直跑 create_activity.sh。建议使用菜单入口：</p>
+<pre>bash ".cursor/skills/inke-activity-gen-code/scripts/create_activity_menu.sh"</pre>
+<p>建议选择的业务模块：</p>
+<ul>
+  <li>server_draw：承载逐浪互动、机会扣减、随机奖励、互动记录。</li>
+  <li>server_user_task：承载 6 月 19 日签到、观看、发言任务的任务状态与发奖逻辑。</li>
+  <li>server_icon：如前端需要活动入口 icon、进度卡、状态卡，可复用 icon 场景。</li>
+  <li>server_rank_prize：如映宝幸运席按 cron/榜单奖励模板组织，可选择；否则在 cron.go 单独写一次性抽奖任务。</li>
+</ul>
+<p>建议 Kafka 类型：</p>
+<ul>
+  <li>4_recharge：充值满 2998 元发逐浪机会。</li>
+  <li>3_room_in_out：观看直播间 15 分钟任务。</li>
+  <li>5_chat：直播间发言“超R过端午,装扮免费领”任务。</li>
+</ul>
+<p>建议 cron：需要生成 cron.go，用于活动结束后的映宝抽奖、结束清理、发奖补偿。</p>
+
+<h2>4. 文件职责拆分</h2>
+<table>
+  <tbody>
+    <tr>
+      <th>文件</th>
+      <th>职责</th>
+    </tr>
+    <tr>
+      <td>model.go</td>
+      <td>定义 ModuleName、Redis key、配置 key、任务 key、龙舟等级常量、事件来源常量。</td>
+    </tr>
+    <tr>
+      <td>route.go</td>
+      <td>注册对外接口和内部自测/配置接口。</td>
+    </tr>
+    <tr>
+      <td>server.go</td>
+      <td>活动首页、福利领取、任务查询、任务领奖、奖励记录等普通 HTTP 接口。</td>
+    </tr>
+    <tr>
+      <td>server_draw.go</td>
+      <td>逐浪互动接口，完成登录校验、资格校验、防刷锁、扣次数、随机奖励、龙舟与赛程推进。</td>
+    </tr>
+    <tr>
+      <td>server_user_task.go</td>
+      <td>6 月 19 日签到/观看/发言任务，可复用 userTask 场景的 setUserTaskScore、setUserTask 或按活动状态做轻量封装。</td>
+    </tr>
+    <tr>
+      <td>kafka.go</td>
+      <td>处理充值、进出房/观看、聊天事件，按活动时间与资格过滤后更新次数和任务进度。</td>
+    </tr>
+    <tr>
+      <td>cron.go</td>
+      <td>活动结束后的映宝抽奖、结束清理、失败发奖补偿，所有任务加锁保证只执行一次。</td>
+    </tr>
+    <tr>
+      <td>service.go</td>
+      <td>公共业务方法：sendPrize、formatPrize、资格判断、次数读写、龙舟等级计算、宝匣计算、任务状态读写。</td>
+    </tr>
+    <tr>
+      <td>internal.go</td>
+      <td>内部配置页、iTestWeb、iBaseScore、iCronJob、recoverData，用于测试充值/观看/发言/逐浪/抽奖。</td>
+    </tr>
+    <tr>
+      <td>config.json</td>
+      <td>活动配置：活动基础信息、奖池、福利、龙舟等级、任务、宝匣、资源 ID、文案和权重。</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2>5. model.go 建议常量</h2>
+<pre>const (
+    ModuleName = "act202606_duanwu_zhulang"
+
+    KeyUserQualified        = "user_qualified"              // 参与资格
+    KeyUserChance           = "user_chance"                 // 可用逐浪机会
+    KeyUserWaveCount        = "user_wave_count"             // 活动期累计逐浪次数
+    KeyUserWaveCountDay     = "user_wave_count:date:%s"     // 每日逐浪次数
+    KeyUserDistance         = "user_distance"               // 6 月 19 日累计前进米数
+    KeyUserBoxCount         = "user_box_count"              // 已触发宝匣数量
+    KeyUserRechargeDay      = "user_recharge:date:%s"       // 每日有效充值金额
+    KeyUserRechargeChanceDay = "user_recharge_chance:date:%s" // 每日充值已兑换次数
+    KeyUserFreeBenefitDay   = "user_free_benefit:date:%s"   // 每日免费福利领取
+    KeyUserTaskDay          = "user_task:date:%s"           // 6 月 19 日任务状态
+    KeyLuckyCandidate       = "lucky_candidate"             // 映宝抽奖候选池
+    KeyLuckyWinner          = "lucky_winner"                // 映宝中奖名单
+
+    TaskSign  = "sign"
+    TaskWatch = "watch_15min"
+    TaskChat  = "chat_keyword"
+)</pre>
+<p>如果 member 超过 1 或需要排序查询，优先使用 act.Dao.SetZSetScore 系列方法；简单用户状态可用 zset 分值记录时间、次数或状态值。</p>
+
+<h2>6. config.json 建议配置</h2>
+<ul>
+  <li>source_type、source_type_key：奖励和账户流水来源。</li>
+  <li>join_recharge_threshold：40000，表示累充门槛。</li>
+  <li>wave_pay_amount：2998，表示每充值 2998 元获得 1 次逐浪机会。</li>
+  <li>free_benefit_prize：每日首次进入活动页二选一福利资源。</li>
+  <li>draw_prize_pool：逐浪随机奖池，包含 prize_id、prize_type、resource_id、duration、num、gold、prize_bili、img、private_msg。</li>
+  <li>boat_level_conf：青竹 1-5 次/10 米，破浪 6-10 次/20 米，锦麟 11 次及以上/30 米。</li>
+  <li>box_conf：首次 50 米触发一次，后续每 100 米触发一次。</li>
+  <li>task_conf：6 月 19 日签到、观看 15 分钟、发言关键词任务，每个任务奖励 1 次逐浪机会。</li>
+  <li>lucky_prize：映宝奖励配置，抽取 5 名。</li>
+</ul>
+<p>资源待补齐：端午逐浪头像框、端午逐浪公聊皮肤、端午逐浪进房座驾的 resource_id、时长、图片和私信文案。</p>
+
+<h2>7. 对外接口设计</h2>
+<table>
+  <tbody>
+    <tr>
+      <th>接口</th>
+      <th>建议文件</th>
+      <th>说明</th>
+    </tr>
+    <tr>
+      <td>GET index</td>
+      <td>server.go</td>
+      <td>活动首页聚合：serverTime、actStatus、isQualified、freeBenefitStatus、chanceNum、rechargeToday、waveCount、boatInfo、distanceInfo、taskInfo、luckyInfo。</td>
+    </tr>
+    <tr>
+      <td>POST/GET claimFreeBenefit</td>
+      <td>server.go</td>
+      <td>每日免费福利二选一领取。校验登录、活动时间、资格、当日未领取、防刷锁，发放背包资源。</td>
+    </tr>
+    <tr>
+      <td>POST/GET drawPrize 或 wave</td>
+      <td>server_draw.go</td>
+      <td>执行逐浪。扣 1 次机会，随机发奖，累计逐浪次数，更新龙舟等级；6 月 19 日增加前进米数并触发宝匣。</td>
+    </tr>
+    <tr>
+      <td>GET tasks</td>
+      <td>server_user_task.go/server.go</td>
+      <td>查询 6 月 19 日任务完成状态：签到、观看 15 分钟、直播间发言。</td>
+    </tr>
+    <tr>
+      <td>POST/GET taskSign</td>
+      <td>server_user_task.go/server.go</td>
+      <td>6 月 19 日进入活动页签到任务，完成后增加 1 次逐浪机会。</td>
+    </tr>
+    <tr>
+      <td>GET rewardLog</td>
+      <td>server.go</td>
+      <td>查询用户福利、逐浪、宝匣、映宝奖励记录。如已有通用 drawPrizeLog 可复用。</td>
+    </tr>
+  </tbody>
+</table>
+<p>所有登录态接口先 act.Srv.InitUid，再用 act.Srv.IsSessionValid 校验 sid。对外返回奖品配置时清理 Prize、PrizeShow 或敏感权重字段。</p>
+
+<h2>8. 核心业务流程</h2>
+
+<h3>8.1 用户资格</h3>
+<ul>
+  <li>活动仅限累充 4W 以上用户参与。</li>
+  <li>资格来源可采用导入名单、查询充值累计服务或 Kafka 预计算，需产品确认“累充 4W”的统计周期。</li>
+  <li>service.go 提供 getActUser(ctx, uid) 或 isQualified(ctx, uid)，首页和所有写接口必须复用同一个资格判断。</li>
+</ul>
+
+<h3>8.2 每日免费福利</h3>
+<ul>
+  <li>首页返回当日是否展示福利弹窗。</li>
+  <li>claimFreeBenefit 入参携带 prizeId 或 benefitType，仅允许二选一。</li>
+  <li>Redis key 使用 KeyUserFreeBenefitDay 按 date 隔离；同一天重复领取直接返回错误。</li>
+  <li>发奖调用 svc.sendPrize(ctx, uid, uid, uid, prizeArr, 1)。</li>
+  <li>写业务日志和 AddBigDataLog，LogName 建议 freeBenefitClaim。</li>
+</ul>
+
+<h3>8.3 充值得逐浪机会</h3>
+<ul>
+  <li>在 kafka.go 增加 RechargeHandle，消费 4_recharge。</li>
+  <li>过滤顺序：活动时间 -&gt; 有效充值类型 -&gt; 用户资格 -&gt; 订单去重 -&gt; 金额计算。</li>
+  <li>只统计钻石、贵族币、小账房充值，不统计贵族开通及续费。具体字段需按 RechargeEventMsg 的来源字段确认。</li>
+  <li>按自然日累计有效充值金额，每满 2998 元增加 1 次机会；当日剩余未满 2998 的进度日切清空。</li>
+  <li>机会增加写 KeyUserChance，同时记录 chance log 或大数据日志，来源标记 recharge。</li>
+  <li>RechargeHandle 需要在 internal.go 的 iTestWeb 配置 Kafka_4_recharge 测试入口，并支持 recoverData 修复。</li>
+</ul>
+
+<h3>8.4 逐浪互动</h3>
+<ul>
+  <li>按 Draw 场景实现，接口名可使用 drawPrize 或 wave，术语对外可叫逐浪，代码注释统一使用“互动”。</li>
+  <li>接口校验：活动时间、登录态、黑名单/资格、可用机会、uid 防刷锁。</li>
+  <li>扣减机会后根据 draw_prize_pool 随机奖励，发奖走 sendPrize -&gt; formatPrize -&gt; ResourcePrize。</li>
+  <li>成功后累计 KeyUserWaveCount 和 KeyUserWaveCountDay。</li>
+  <li>根据累计逐浪次数计算龙舟等级：1-5 青竹，6-10 破浪，11+ 锦麟。</li>
+  <li>如果 6 月 19 日逐浪，则按当前龙舟等级增加距离，并调用宝匣触发逻辑。</li>
+  <li>失败路径需考虑扣次数后的补偿或在扣减与发奖之间用锁保证可恢复。</li>
+</ul>
+
+<h3>8.5 龙舟等级与赛程宝匣</h3>
+<ul>
+  <li>service.go 提供 calcBoatLevel(waveCount) 和 calcDistanceAdd(level)。</li>
+  <li>6 月 17 日、6 月 18 日只累计逐浪次数和发奖，不累计 distance。</li>
+  <li>6 月 19 日每次逐浪按等级增加米数：青竹 10 米、破浪 20 米、锦麟 30 米。</li>
+  <li>首次达到 50 米自动获得 1 次活动次数；后续每增加到下一个 100 米阈值再获得 1 次。</li>
+  <li>宝匣奖励如果就是“增加逐浪机会”，则直接增加 KeyUserChance；如果另有奖品，需走 sendPrize。</li>
+  <li>首页返回 currentLevel、unlockedLevels、distance、openedBoxCount、nextBoxDistance。</li>
+</ul>
+
+<h3>8.6 6 月 19 日任务</h3>
+<ul>
+  <li>任务仅在 2026-06-19 生效。</li>
+  <li>签到任务：taskSign 接口完成，给 1 次逐浪机会。</li>
+  <li>观看任务：RoomInOutHandle 或观看时长事件累计，达到 15 分钟给 1 次逐浪机会。</li>
+  <li>发言任务：ChatHandle 过滤关键词“超R过端午,装扮免费领”，匹配后给 1 次逐浪机会。</li>
+  <li>每个任务每个用户最多发 1 次机会。锁 key 建议包含 uid、date、taskKey。</li>
+  <li>首页和 tasks 接口返回 taskStatus，前端文案“直播间发言”需要可复制。</li>
+</ul>
+
+<h3>8.7 映宝幸运席</h3>
+<ul>
+  <li>活动结束后由 cron.go 执行一次性抽奖任务。</li>
+  <li>候选人：6 月 19 日当天至少参与过 3 次逐浪的用户，即 KeyUserWaveCountDay(date=2026-06-19) &gt;= 3。</li>
+  <li>随机抽取 5 名用户，中奖名单写 KeyLuckyWinner，并发放映宝奖励。</li>
+  <li>job 需要检查结束时间、小时窗口、全局锁，避免重复抽奖和重复发奖。</li>
+  <li>internal.go 增加 iCronJob 入口，非线上环境可手动触发抽奖验证。</li>
+</ul>
+
+<h2>9. 内部接口与自测</h2>
+<ul>
+  <li>interface_conf：展示活动标题、基础集合查询、Kafka 测试入口、cron 测试入口。</li>
+  <li>iBaseScore：支持查询 KeyUserChance、KeyUserWaveCount、KeyUserDistance、KeyUserTaskDay、KeyLuckyWinner 等。</li>
+  <li>iTestWeb：至少支持 Kafka_4_recharge、3_room_in_out、5_chat 的模拟消息；逐浪接口可增加一个直接调用 case。</li>
+  <li>iCronJob：支持手动触发映宝抽奖、失败发奖补偿。</li>
+  <li>recoverData：充值、观看、发言事件需要按日志文件重放时，复用对应 Handler。</li>
+</ul>
+
+<h2>10. 日志与大数据</h2>
+<ul>
+  <li>每个写操作都需要 logging.Info/Error 记录 ActLog，包含 uid、date、source、before/after、err。</li>
+  <li>关键行为写 utils.AddBigDataLog：freeBenefitClaim、rechargeChanceAdd、waveDraw、boxOpen、taskFinish、luckyDraw。</li>
+  <li>非线上环境可按场景需要接 DingTaskFinish 或测试通知。</li>
+  <li>充值、任务、抽奖失败要保留可恢复字段：订单号、uid、taskKey、businessId、prizeId、orderId。</li>
+</ul>
+
+<h2>11. 幂等与并发</h2>
+<ul>
+  <li>claimFreeBenefit：lock:claimFreeBenefit:{uid}:{date}。</li>
+  <li>wave：lock:wave:{uid}，避免并发扣次数。</li>
+  <li>充值订单：按订单号或消息唯一 ID 去重。</li>
+  <li>任务完成：lock:task:{uid}:{date}:{taskKey}，并检查任务状态。</li>
+  <li>宝匣触发：按 openedBoxCount 与 distance 计算新增宝匣数，避免重复发同一个阈值。</li>
+  <li>映宝抽奖：lock:jobLuckyDraw，一次性执行，中奖名单存在时不重复抽。</li>
+</ul>
+
+<h2>12. 待确认事项</h2>
+<ul>
+  <li>累充 4W 以上的统计周期和数据源：历史累计、活动开始前累计、还是实时累计。</li>
+  <li>充值事件中如何区分钻石、贵族币、小账房充值，以及如何排除贵族开通/续费。</li>
+  <li>资源表中“静态/动态”福利名称不一致，需要确认最终资源 ID。</li>
+  <li>逐浪随机奖池、权重、是否有保底、是否有库存限制。</li>
+  <li>宝匣“自动获得一次活动次数”是否明确等于 +1 次逐浪机会。</li>
+  <li>观看 15 分钟任务是否限定直播间，是否要求连续观看。</li>
+  <li>发言任务是否精确匹配标点，是否限定直播间，是否允许重复消息。</li>
+  <li>映宝中奖名单是否需要前端展示或后台导出。</li>
+</ul>
+
+<h2>13. 提测检查清单</h2>
+<ul>
+  <li>活动时间外所有写接口不可操作，活动结束后 cron 不重复执行。</li>
+  <li>无资格用户不能领取福利、不能得机会、不能逐浪、不能完成任务领奖。</li>
+  <li>同一天免费福利只能领取一次，二选一后不可更换。</li>
+  <li>充值 2998/5996/未满 2998 的次数计算正确，日切未满进度清空，已得机会保留到活动结束。</li>
+  <li>逐浪扣次数、发奖、累计次数、龙舟等级、日志链路完整。</li>
+  <li>6 月 17 日和 6 月 18 日不累计赛程米数，6 月 19 日才累计米数和宝匣。</li>
+  <li>6 月 19 日三个任务各只发一次机会。</li>
+  <li>6 月 19 日逐浪次数不足 3 的用户不进入映宝候选池。</li>
+  <li>iTestWeb 能模拟充值、观看、发言和 cron 抽奖。</li>
+  <li>所有发奖都能通过日志定位到业务来源和幂等流水。</li>
+</ul>

@@ -1,0 +1,19 @@
+"authored_date","name","message","author_name","merged"
+"2020-04-07 20:42:59","feature/amis_v1.0","优化","lin",true
+"2022-04-18 19:32:33","feature/child_role","修复user_list问题","youjunxin",true
+"2021-11-24 16:59:08","feature/es","将uid改为字符串类型","zhangxiaodong",false
+"2025-01-07 15:07:52","feature/fix_hot","修复超大后台目录模块过多，编辑丢失问题","songhepeng",true
+"2020-05-13 16:42:03","feature/hotfix-initsys","Merge branch 'feature/hotfix-initsys' into 'master'","yangyun.zhang",true
+"2023-01-30 18:48:39","feature/isp_add_aws_us","用户中台增加aws-us支持","youjunxin",true
+"2019-05-10 15:44:47","feature/op_log","增加操作日志ES索引配置","lin",true
+"2019-04-27 12:08:26","feature/system_init","rbac支持钉钉审批系统权限","lin",true
+"2021-09-18 17:15:15","fix/utime_bug","登录不执行utime更新","zhangxiaodong",true
+"2021-11-12 17:25:18","gray","Merge branch 'feature/es' into 'gray'","zhangxiaodong",false
+"2022-05-07 12:34:10","hotfix/add_aws_isp","增加亚马逊新加坡ISP配置","youjunxin",true
+"2022-08-02 14:48:42","ip_query","update ip query class name","youjunxin",true
+"2025-01-07 15:15:47","master","Merge branch 'feature/fix_hot' into 'master'","罗自永",false
+"2022-04-18 19:32:33","outer_test","修复user_list问题","youjunxin",false
+"2025-07-10 17:41:19","test","sso域名","luoziyong",false
+"2020-12-08 10:26:56","testqa","Merge branch 'master' into testqa","lin",false
+"2022-08-02 16:48:19","user_disable_new","update user_disable_new","youjunxin",true
+"2021-09-26 14:39:38","zhangxiaodong","测试判断条件","zhangxiaodong",true

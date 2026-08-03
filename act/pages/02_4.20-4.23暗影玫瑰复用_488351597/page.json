@@ -1,0 +1,233 @@
+{
+  "id": "488351597",
+  "type": "page",
+  "status": "current",
+  "title": "4.20-4.23暗影玫瑰复用",
+  "space": {
+    "id": 3571713,
+    "key": "xueyuan",
+    "name": "映客直播业务",
+    "type": "global",
+    "_links": {
+      "webui": "/display/xueyuan",
+      "self": "https://wiki.inkept.cn/rest/api/space/xueyuan"
+    },
+    "_expandable": {
+      "metadata": "",
+      "icon": "",
+      "description": "",
+      "retentionPolicy": "",
+      "homepage": "/rest/api/content/320866330"
+    }
+  },
+  "version": {
+    "by": {
+      "type": "known",
+      "username": "maxiaona",
+      "userKey": "8aef97167d450205017db1d1e6df008b",
+      "profilePicture": {
+        "path": "/images/icons/profilepics/default.svg",
+        "width": 48,
+        "height": 48,
+        "isDefault": true
+      },
+      "displayName": "马晓娜",
+      "_links": {
+        "self": "https://wiki.inkept.cn/rest/api/user?key=8aef97167d450205017db1d1e6df008b"
+      },
+      "_expandable": {
+        "status": ""
+      }
+    },
+    "when": "2026-04-21T15:25:16.000+08:00",
+    "message": "",
+    "number": 11,
+    "minorEdit": false,
+    "hidden": false,
+    "_links": {
+      "self": "https://wiki.inkept.cn/rest/experimental/content/488351597/version/11"
+    },
+    "_expandable": {
+      "content": "/rest/api/content/488351597"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "320866330",
+      "type": "page",
+      "status": "current",
+      "title": "映客直播业务",
+      "extensions": {
+        "position": "none"
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=320866330",
+        "edit": "/pages/resumedraft.action?draftId=320866330&draftShareId=d5d92a4f-fb15-4a51-8bd6-16333cb6f165",
+        "tinyui": "/x/GgggEw",
+        "self": "https://wiki.inkept.cn/rest/api/content/320866330"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/320866330/child",
+        "restrictions": "/rest/api/content/320866330/restriction/byOperation",
+        "history": "/rest/api/content/320866330/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/320866330/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    },
+    {
+      "id": "326510548",
+      "type": "page",
+      "status": "current",
+      "title": "直播业务线-运营",
+      "extensions": {
+        "position": 2
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=326510548",
+        "edit": "/pages/resumedraft.action?draftId=326510548&draftShareId=0ea027df-6f8f-4663-bbd6-217ba023f41b",
+        "tinyui": "/x/1Cd2Ew",
+        "self": "https://wiki.inkept.cn/rest/api/content/326510548"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/326510548/child",
+        "restrictions": "/rest/api/content/326510548/restriction/byOperation",
+        "history": "/rest/api/content/326510548/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/326510548/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    },
+    {
+      "id": "331456836",
+      "type": "page",
+      "status": "current",
+      "title": "【活动组】",
+      "extensions": {
+        "position": 11
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=331456836",
+        "edit": "/pages/resumedraft.action?draftId=331456836",
+        "tinyui": "/x/RKHBEw",
+        "self": "https://wiki.inkept.cn/rest/api/content/331456836"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/331456836/child",
+        "restrictions": "/rest/api/content/331456836/restriction/byOperation",
+        "history": "/rest/api/content/331456836/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/331456836/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    },
+    {
+      "id": "452644191",
+      "type": "page",
+      "status": "current",
+      "title": "【2026营收运营活动】",
+      "extensions": {
+        "position": "none"
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=452644191",
+        "edit": "/pages/resumedraft.action?draftId=452644191&draftShareId=97d3197f-f0cd-4143-8fbf-d96b4892c680",
+        "tinyui": "/x/X836Gg",
+        "self": "https://wiki.inkept.cn/rest/api/content/452644191"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/452644191/child",
+        "restrictions": "/rest/api/content/452644191/restriction/byOperation",
+        "history": "/rest/api/content/452644191/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/452644191/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    },
+    {
+      "id": "483798763",
+      "type": "page",
+      "status": "current",
+      "title": "2026年4月份活动",
+      "extensions": {
+        "position": "none"
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=483798763",
+        "edit": "/pages/resumedraft.action?draftId=483798763&draftShareId=2571b8de-8fd1-438d-8dcd-f9e8a4a0d0a6",
+        "tinyui": "/x/6y7WH",
+        "self": "https://wiki.inkept.cn/rest/api/content/483798763"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/483798763/child",
+        "restrictions": "/rest/api/content/483798763/restriction/byOperation",
+        "history": "/rest/api/content/483798763/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/483798763/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    }
+  ],
+  "body": {
+    "storage": {
+      "value": "<p><strong>改规则：</strong></p><p class=\"p1\"><a href=\"https://betaboc.inke.cn/react/tools/page-config-pro/index.html?url=https://betaboc.inke.cn/react/banner/202504/shadow-rose/index.html\">https://betaboc.inke.cn/react/tools/page-config-pro/index.html?url=https://betaboc.inke.cn/react/banner/202504/shadow-rose/index.html</a></p><table class=\"wrapped\" style=\"text-decoration: none;\"><tbody class=\"\"><tr class=\"\"><td style=\"text-align: left;\" colspan=\"1\" rowspan=\"9\">礼物墙礼物</td><td style=\"text-align: left;\">礼物名</td><td style=\"text-align: left;\">价格（钻）</td><td style=\"text-align: left;\">礼物ID</td><td style=\"text-align: left;\">url</td></tr><tr class=\"\"><td style=\"text-align: left;\">等你下课</td><td style=\"text-align: left;\">10</td><td style=\"text-align: left;\">24493</td><td style=\"text-align: left;\"><a href=\"https://img.ikstatic.cn/MTc1MTI2NjUzNTM1OCM5NjAjcG5n.png\">https://img.ikstatic.cn/MTc1MTI2NjUzNTM1OCM5NjAjcG5n.png</a></td></tr><tr class=\"\"><td style=\"text-align: left;\">萌喵之恋</td><td style=\"text-align: left;\">99</td><td style=\"text-align: left;\">24494</td><td style=\"text-align: left;\"><a href=\"https://img.ikstatic.cn/MTc2NTk0MTQ3NTM4NSMzOTYjcG5n.png\">https://img.ikstatic.cn/MTc2NTk0MTQ3NTM4NSMzOTYjcG5n.png</a></td></tr><tr class=\"\"><td style=\"text-align: left;\">弦上青春</td><td style=\"text-align: left;\">520</td><td style=\"text-align: left;\">24495</td><td style=\"text-align: left;\"><a href=\"https://img.ikstatic.cn/MTc2MTAxNzk5ODQwMiM2ODQjcG5n.png\">https://img.ikstatic.cn/MTc2MTAxNzk5ODQwMiM2ODQjcG5n.png</a></td></tr><tr class=\"\"><td style=\"text-align: left;\">池畔情牵</td><td style=\"text-align: left;\">1314</td><td style=\"text-align: left;\">24496</td><td style=\"text-align: left;\"><a href=\"https://img.ikstatic.cn/MTczNDMyOTczMTAyMCM1NzgjcG5n.png\">https://img.ikstatic.cn/MTczNDMyOTczMTAyMCM1NzgjcG5n.png</a></td></tr><tr class=\"\"><td style=\"text-align: left;\">泛舟湖上</td><td style=\"text-align: left;\">5200</td><td style=\"text-align: left;\">24497</td><td style=\"text-align: left;\"><a href=\"https://img.ikstatic.cn/MTc0NTczNjU1MzQ0NSM0ODMjcG5n.png\">https://img.ikstatic.cn/MTc0NTczNjU1MzQ0NSM0ODMjcG5n.png</a></td></tr><tr class=\"\"><td style=\"text-align: left;\">游弋惊鸿</td><td style=\"text-align: left;\">10000</td><td style=\"text-align: left;\">24498</td><td style=\"text-align: left;\"><a href=\"https://img.ikstatic.cn/MTc0MjM2ODIxMTgwOSM2MzQjcG5n.png\">https://img.ikstatic.cn/MTc0MjM2ODIxMTgwOSM2MzQjcG5n.png</a></td></tr><tr class=\"\"><td style=\"text-align: left;\">烟海缠绵</td><td style=\"text-align: left;\">52000</td><td style=\"text-align: left;\">24499</td><td style=\"text-align: left;\"><a href=\"https://img.ikstatic.cn/MTczNDMzMDYyMDMzNCMxNDIjcG5n.png\">https://img.ikstatic.cn/MTczNDMzMDYyMDMzNCMxNDIjcG5n.png</a></td></tr><tr class=\"\"><td style=\"text-align: left;\">时代传奇</td><td style=\"text-align: left;\">99999</td><td style=\"text-align: left;\">24500</td><td style=\"text-align: left;\"><a href=\"https://img.ikstatic.cn/MTc2NTk0MTc2NzM3NSMgMjYjcG5n.png\">https://img.ikstatic.cn/MTc2NTk0MTc2NzM3NSMgMjYjcG5n.png</a></td></tr></tbody></table><p class=\"p1\"><br /></p><p class=\"p1\"><br /></p><p class=\"p1\"><br /></p><p><strong>一、活动目标：</strong></p><p>活动消耗达到4000万钻石</p><p><strong>二、活动时间</strong></p><p>2025年4月20日00:00:00-4月23日23:59:59（<strong>所有玩法统计时间均为北京时间GMT+8:00</strong>）</p><p><strong>数据统计维度：</strong></p><ul><li>个人主播收礼（主播）：仅统计普通视频直播间、公共直播间、PK送礼和友聊送礼渠道，其他送礼方式均不计入统计。</li><li>嘉宾收礼：厅主及厅内嘉宾4人视频，6人视频，9人音频房间收礼的专属礼物收入，其余方式均不计入统计。<strong>谁收算谁的。</strong></li></ul><p><strong>三、活动框架：</strong></p><p><ac:image ac:height=\"400\"><ri:attachment ri:filename=\"E2F7B5D9-8E87-4cb0-971F-9396EE8D9D91.png\" /></ac:image></p><p><strong>原型：</strong><a href=\"https://modao.cc/proto/SvXjqaUtstomw7hM5BtfDp/sharing?view_mode=read_only&amp;screen=rbpUgSromHecHLtLK\">https://modao.cc/proto/SvXjqaUtstomw7hM5BtfDp/sharing?view_mode=read_only&amp;screen=rbpUgSromHecHLtLK</a> #暗影玫瑰-分享</p><p class=\"auto-cursor-target\"><br /></p><p><br /></p><p><br /></p><p><br /></p><p><strong>四、玩法详情：</strong></p><p><strong>用户玩法：</strong></p><ul><li>核心玩法：用户送出任一活动专属礼物即可解锁一个随机身份【暗影猎人】或【野玫瑰】，开启概率各有50%，即可开启对应角色的玩法。第一次解锁送礼的分也统计进入用户角色任务。</li><li>更换角色：用户需完成任一角色的任务五<strong>（收礼达到5200钻）</strong>才可获得更换角色的机会，<strong>更换角色后积分不清零，采取积分继承值</strong>。<strong>一旦收礼满5200钻，后续可以无条件无限次更换角色，不做限制。</strong></li></ul><p><br /></p><ul><li>暗影的邀约：用户解锁暗影猎人身份后，累计送礼钻石数，获得对应阶段的资源奖励。奖励由研发实时下发。</li><li><strong>从活动开始至活动最后一刻，累计为单个主播送礼达15w钻，触发全站画面广播。（1V1的送礼曝光任务）---更换角色后，曝光任务暂停，积分保留，进度暂停，直至换回该身份后，才可继续做。</strong></li><li><strong>文案：暗影猎人用户昵称与主播昵称，荣膺全境之巅，共执暗夜权柄</strong></li><li><strong>id：216</strong></li></ul><p><br /></p><ul><li>野玫瑰的反击：用户解锁野玫瑰身份后，累计送礼钻石数，获得对应阶段的资源奖励。奖励由研发实时下发。</li><li><strong>每小时送礼最多的用户可带领其送礼最多的主播抢占icon双头像位（有保底 需大于1w钻，才能占领双头像1h）---更换角色后，曝光任务暂停，积分保留，进度暂停，直至换回该身份后，才可继续做。</strong></li></ul><p><br /></p><ul><li>镜中对决：晚上19点-2点，开启全站【暗影猎人】与【野玫瑰】的对决时刻，每小时根据全站双方送礼的积分，获胜方TOP3登上活动头图第一包厢位，TOP10页面轮播展示，获胜身份<s>全体用户</s><strong>（改为TOP100）</strong>得称号等资源奖励（整体算出来，资源获得时间控制在15天内）。每轮对决积分清零。中途有用户更换角色，<strong>更换角色后积分不清零</strong>，为所在角色贡献的分不清零。</li><li>晚上3点-19点，活动页面展示昨天每轮TOP1的用户主播双头像信息。</li></ul><table class=\"wrapped\"><tbody class=\"\"><tr class=\"\"><td>关卡</td><td>任务值</td><td>资源类型</td><td>资源名称</td><td>资源id</td><td>时长</td><td>数量</td><td>私信内容</td></tr><tr class=\"\"><td>task_key</td><td>score_total</td><td>prize_type</td><td>prize_name</td><td>resource_id</td><td>duration</td><td>num</td><td>private_msg</td></tr><tr class=\"\"><td>1</td><td>999</td><td>背包资源</td><td>暗影猎人公聊皮肤</td><td>7189</td><td>1</td><td><br /></td><td>【暗影玫瑰】觉醒吧，被命运之丝选中的暗影执政官，暗影圣堂已为您点亮第一盏永恒明焰，享有暗影猎人公聊皮肤*1天之特权</td></tr><tr class=\"\"><td>2</td><td>1314</td><td>背包资源</td><td>暗影猎人麦序框</td><td>7181</td><td>1</td><td><br /></td><td>【暗影玫瑰】觉醒吧，被命运之丝选中的暗影执政官，暗影圣堂已为您点亮第二盏永恒明焰，享有暗影猎人麦序框*1天之特权</td></tr><tr class=\"\"><td>3</td><td>3344</td><td>背包资源</td><td>暗影猎人头像框</td><td>7177</td><td>1</td><td><br /></td><td>【暗影玫瑰】觉醒吧，被命运之丝选中的暗影执政官，暗影圣堂已为您点亮第三盏永恒明焰，享有暗影猎人头像框*1天之特权</td></tr><tr class=\"\"><td>4</td><td>5200</td><td>称号</td><td>暗影猎人称号</td><td>1740</td><td>1</td><td><br /></td><td>【暗影玫瑰】觉醒吧，被命运之丝选中的暗影执政官，暗影圣堂已为您点亮第四盏永恒明焰，享有暗影猎人称号*1天之特权</td></tr><tr class=\"\"><td>5</td><td>6666</td><td>上麦动效</td><td>暗影猎人上麦动效</td><td>7183</td><td>1</td><td><br /></td><td>【暗影玫瑰】觉醒吧，被命运之丝选中的暗影执政官，暗影圣堂已为您点亮第五盏永恒明焰，享有暗影猎人上麦动效*1天之特权</td></tr><tr class=\"\"><td>6</td><td>9999</td><td>发言波纹</td><td>暗影猎人发言波纹</td><td>7185</td><td>1</td><td><br /></td><td>【暗影玫瑰】觉醒吧，被命运之丝选中的暗影执政官，暗影圣堂已为您点亮第六盏永恒明焰，享有暗影猎人发言波纹*1天之特权</td></tr><tr class=\"\"><td>7</td><td>13140</td><td>背包资源</td><td>暗影猎人主页挂件</td><td>6855</td><td>1</td><td><br /></td><td>【暗影玫瑰】觉醒吧，被命运之丝选中的暗影执政官，暗影圣堂已为您点亮第七盏永恒明焰，享有暗影猎人主页挂件*1天之特权</td></tr><tr class=\"\"><td>8</td><td>33440</td><td>背包资源</td><td>暗影猎人主页浮屏</td><td>6857</td><td>1</td><td><br /></td><td>【暗影玫瑰】觉醒吧，被命运之丝选中的暗影执政官，暗影圣堂已为您点亮第八盏永恒明焰，享有暗影猎人主页浮屏*1天之特权</td></tr><tr class=\"\"><td>9</td><td>52000</td><td>背包资源</td><td>暗影猎人半屏座驾</td><td>7186</td><td>1</td><td><br /></td><td>【暗影玫瑰】觉醒吧，被命运之丝选中的暗影执政官，暗影圣堂已为您点亮第九盏永恒明焰，享有暗影猎人半屏座驾*1天之特权</td></tr></tbody></table><p class=\"auto-cursor-target\"><br /></p><table class=\"wrapped\"><tbody class=\"\"><tr class=\"\"><td>关卡</td><td>任务值</td><td>资源类型</td><td>资源名称</td><td>资源id</td><td>时长</td><td>数量</td><td>私信内容</td></tr><tr class=\"\"><td>task_key</td><td>score_total</td><td>prize_type</td><td>prize_name</td><td>resource_id</td><td>duration</td><td>num</td><td>private_msg</td></tr><tr class=\"\"><td>1</td><td>999</td><td>背包资源</td><td>野玫瑰公聊皮肤</td><td>7188</td><td>1</td><td><br /></td><td>【暗影玫瑰】奉永夜花园之谕：您已成功通过&lsquo;野玫瑰试炼&middot;第一华章&rsquo;，特此授予野玫瑰公聊皮肤*1天之特权</td></tr><tr class=\"\"><td>2</td><td>1314</td><td>背包资源</td><td>野玫瑰麦序框</td><td>7178</td><td>1</td><td><br /></td><td>【暗影玫瑰】奉永夜花园之谕：您已成功通过&lsquo;野玫瑰试炼&middot;第二华章&rsquo;，特此授予野玫瑰麦序框*1天之特权</td></tr><tr class=\"\"><td>3</td><td>3344</td><td>背包资源</td><td>野玫瑰头像框</td><td>7174</td><td>1</td><td><br /></td><td>【暗影玫瑰】奉永夜花园之谕：您已成功通过&lsquo;野玫瑰试炼&middot;第三华章&rsquo;，特此授予野玫瑰头像框*1天之特权</td></tr><tr class=\"\"><td>4</td><td>5200</td><td>称号</td><td>野玫瑰称号</td><td>1746</td><td>1</td><td><br /></td><td>【暗影玫瑰】奉永夜花园之谕：您已成功通过&lsquo;野玫瑰试炼&middot;第四华章&rsquo;，特此授予野玫瑰称号*1天之特权</td></tr><tr class=\"\"><td>5</td><td>6666</td><td>上麦动效</td><td>野玫瑰上麦动效</td><td>7182</td><td>1</td><td><br /></td><td>【暗影玫瑰】奉永夜花园之谕：您已成功通过&lsquo;野玫瑰试炼&middot;第五华章&rsquo;，特此授予野玫瑰上麦动效*1天之特权</td></tr><tr class=\"\"><td>6</td><td>9999</td><td>发言波纹</td><td>野玫瑰发言波纹</td><td>7184</td><td>1</td><td><br /></td><td>【暗影玫瑰】奉永夜花园之谕：您已成功通过&lsquo;野玫瑰试炼&middot;第六华章&rsquo;，特此授予野玫瑰<strong>发言波纹肤</strong>*1天之特权</td></tr><tr class=\"\"><td>7</td><td>13140</td><td>背包资源</td><td>野玫瑰主页挂件</td><td>6856</td><td>1</td><td><br /></td><td>【暗影玫瑰】奉永夜花园之谕：您已成功通过&lsquo;野玫瑰试炼&middot;第七华章&rsquo;，特此授予野玫瑰主页挂件*1天之特权</td></tr><tr class=\"\"><td>8</td><td>33440</td><td>背包资源</td><td><p class=\"p1\"><span style=\"color: rgb(255,0,0);\">黑胶名伶<span style=\"letter-spacing: 0.0px;\">主页浮屏</span></span></p></td><td>6858</td><td>1</td><td><br /></td><td>【暗影玫瑰】奉永夜花园之谕：您已成功通过&lsquo;野玫瑰试炼&middot;第八华章&rsquo;，特此授予<span style=\"color: rgb(255,0,0);\">黑胶名伶<span>主页浮屏</span></span>*1天之特权</td></tr><tr class=\"\"><td>9</td><td>52000</td><td>背包资源</td><td>野玫瑰资料卡浮屏</td><td>7187</td><td>1</td><td><br /></td><td>【暗影玫瑰】奉永夜花园之谕：您已成功通过&lsquo;野玫瑰试炼&middot;第九华章&rsquo;，特此授予野玫瑰资料卡*1天之特权</td></tr></tbody></table><p class=\"auto-cursor-target\"><br /></p><table class=\"wrapped\"><tbody class=\"\"><tr class=\"\"><td>排名</td><td>资源类型</td><td>资源名称</td><td>资源id</td><td>时长</td><td>数量</td><td>私信内容</td></tr><tr class=\"\"><td>rank</td><td>prize_type</td><td>prize_name</td><td>resource_id</td><td>duration</td><td>num</td><td>private_msg</td></tr><tr class=\"\"><td>1_100</td><td>背包资源</td><td>镜中对决公聊皮肤</td><td>6863</td><td>3600</td><td><br /></td><td>【暗影玫瑰】恭喜宝宝在今晚的镜中对决中成为获胜方，获得镜中对决公聊皮肤*1H、镜中对决头像框*1H、镜中对决发言波纹*1H奖励，快去看看吧～</td></tr><tr class=\"\"><td><br /></td><td>背包资源</td><td>镜中对决头像框</td><td>714</td><td>3600</td><td><br /></td><td><br /></td></tr><tr class=\"\"><td><br /></td><td>背包资源</td><td>镜中对决发言波纹</td><td>3700</td><td>3600</td><td><br /></td><td><br /></td></tr></tbody></table><p><br /></p><p><br /></p><p><strong>主播玩法：</strong></p><p>玩法统计时间：2025年3月25日00:00:00-3月28日23:59:59&nbsp;&nbsp;</p><p>玩法逻辑：</p><ul><li><p>累计主播每日收礼钻石数，达到不同阶段即可获得奖励，每日清空1次。</p></li><li>注：在派对房间（4/6/9）奖励及统计与普通直播间进行区分，任务数值不进行混合统计，奖励也不同。</li></ul><p class=\"auto-cursor-target\"><br /></p><table class=\"wrapped\"><tbody class=\"\"><tr class=\"\"><td>关卡</td><td>任务值</td><td>资源类型</td><td>资源名称</td><td>资源id</td><td>时长</td><td>数量</td><td>私信内容</td></tr><tr class=\"\"><td>task_key</td><td>score_total</td><td>prize_type</td><td>prize_name</td><td>resource_id</td><td>duration</td><td>num</td><td>private_msg</td></tr><tr class=\"\"><td>1</td><td>1000</td><td>背包资源</td><td>暗影玫瑰PK背景</td><td>170</td><td>3</td><td><br /></td><td>【暗影玫瑰】恭喜宝宝完成主播任务一，获得暗影玫瑰PK背景*3天，奖励已下发，快去查看吧～</td></tr><tr class=\"\"><td>2</td><td>3000</td><td>背包资源</td><td>暗影玫瑰头像框</td><td>7176</td><td>3</td><td><br /></td><td>【暗影玫瑰】恭喜宝宝完成主播任务二，获得暗影玫瑰头像框*3天，奖励已下发，快去查看吧～</td></tr><tr class=\"\"><td>3</td><td>5000</td><td>称号</td><td>暗影玫瑰称号</td><td>1741</td><td>3</td><td><br /></td><td>【暗影玫瑰】恭喜宝宝完成主播任务三，获得暗影玫瑰称号*3天，奖励已下发，快去查看吧～</td></tr><tr class=\"\"><td>4</td><td>8000</td><td>背包资源</td><td>暗影玫瑰主页挂件</td><td>5524</td><td>1</td><td><br /></td><td>【暗影玫瑰】恭喜宝宝完成主播任务四，获得暗影玫瑰主页挂件*1天，奖励已下发，快去查看吧～</td></tr><tr class=\"\"><td>5</td><td>10000</td><td>背包资源</td><td>暗影玫瑰主页浮屏</td><td>5523</td><td>1</td><td><br /></td><td>【暗影玫瑰】恭喜宝宝完成主播任务五，获得暗影玫瑰主页浮屏*1天，奖励已下发，快去查看吧～</td></tr><tr class=\"\"><td>无尽任务</td><td>100000</td><td><br /></td><td>全站悬浮公聊</td><td><br /></td><td><br /></td><td>1</td><td>【暗影玫瑰】从此刻起，主播昵称与风共舞，与夜同生，古老的荒野低语您的真名，您的盛放将铭刻于永恒之庭的传说。</td></tr></tbody></table><p class=\"auto-cursor-target\"><br /></p><table class=\"wrapped\"><tbody class=\"\"><tr class=\"\"><td>关卡</td><td>任务值</td><td>资源类型</td><td>资源名称</td><td>资源id</td><td>时长</td><td>数量</td><td>私信内容</td></tr><tr class=\"\"><td>task_key</td><td>score_total</td><td>prize_type</td><td>prize_name</td><td>resource_id</td><td>duration</td><td>num</td><td>private_msg</td></tr><tr class=\"\"><td>1</td><td>1000</td><td>背包资源</td><td>暗影玫瑰派对背景</td><td>381</td><td>3</td><td><br /></td><td>【暗影玫瑰】恭喜宝宝完成派对嘉宾任务一，获得暗影玫瑰派对背景*3天，奖励已下发，快去查看吧～</td></tr><tr class=\"\"><td>2</td><td>3000</td><td>背包资源</td><td>暗影玫瑰麦序框</td><td>7180</td><td>3</td><td><br /></td><td>【暗影玫瑰】恭喜宝宝完成派对嘉宾任务二，获得暗影玫瑰麦序框*3天，奖励已下发，快去查看吧～</td></tr><tr class=\"\"><td>3</td><td>5000</td><td>称号</td><td>暗影玫瑰称号</td><td>1741</td><td>3</td><td><br /></td><td>【暗影玫瑰】恭喜宝宝完成派对嘉宾任务三，获得暗影玫瑰称号*3天，奖励已下发，快去查看吧～</td></tr><tr class=\"\"><td>4</td><td>8000</td><td>背包资源</td><td>暗影玫瑰主页挂件</td><td>5524</td><td>1</td><td><br /></td><td>【暗影玫瑰】恭喜宝宝完成派对嘉宾任务四，获得暗影玫瑰主页挂件*1天，奖励已下发，快去查看吧～</td></tr><tr class=\"\"><td>5</td><td>10000</td><td>背包资源</td><td>暗影玫瑰主页浮屏</td><td>5523</td><td>1</td><td><br /></td><td>【暗影玫瑰】恭喜宝宝完成派对嘉宾任务五，获得暗影玫瑰主页浮屏*1天，奖励已下发，快去查看吧～</td></tr><tr class=\"\"><td>无尽任务</td><td>100000</td><td><br /></td><td>全站悬浮公聊</td><td><br /></td><td><br /></td><td>1</td><td>【暗影玫瑰】从此刻起，主播昵称与风共舞，与夜同生，古老的荒野低语您的真名，您的盛放将铭刻于永恒之庭的传说。</td></tr></tbody></table><p><br /></p><p><br /></p><p><span style=\"color: rgb(255,0,0);\"><strong>4.22-4.23限时玩法</strong></span></p><ul><li>4月22日-4月23日，用户送不同价位的礼物，<strong>累计送礼钻石数，得对应的暗影宝藏</strong>（血色玫瑰/破碎面具/传奇红宝石）</li><li><strong>限制：所有资源奖励最多可获得15天（所有资源奖励最多可获得15次）</strong></li></ul><table class=\"relative-table wrapped\" style=\"width: 72.7513%;\"><colgroup class=\"\"><col class=\"\" style=\"width: 26.4764%;\" /><col class=\"\" style=\"width: 26.4764%;\" /><col style=\"width: 26.4764%;\" /><col style=\"width: 20.5654%;\" /></colgroup><tbody class=\"\"><tr class=\"\"><th><br /></th><th><span style=\"color: rgb(0,0,0);\">礼物价格</span></th><th><span style=\"color: rgb(0,0,0);\"><br /></span></th><th><span style=\"color: rgb(0,0,0);\">宝藏类型</span></th></tr><tr class=\"\"><td rowspan=\"3\"><span style=\"color: rgb(0,0,0);\">24500,24499,24498</span></td><td><span style=\"color: rgb(0,0,0);\">99999</span></td><td><span style=\"color: rgb(0,0,0);\"><br /></span></td><td rowspan=\"3\"><span style=\"color: rgb(0,0,0);\">传奇红宝石---99999积分：半屏座驾*6h、送礼托盘*6h、称号*1天</span></td></tr><tr class=\"\"><td><span style=\"color: rgb(0,0,0);\">52000</span></td><td><span style=\"color: rgb(0,0,0);\"><br /></span></td></tr><tr class=\"\"><td><span style=\"color: rgb(0,0,0);\">10000</span></td><td><span style=\"color: rgb(0,0,0);\"><br /></span></td></tr><tr><td><span style=\"color: rgb(255,0,0);\">24508</span></td><td><span style=\"color: rgb(255,0,0);\">33440--</span></td><td>爪爪联萌</td><td><span style=\"color: rgb(0,0,0);\"><br /></span></td></tr><tr><td><span style=\"color: rgb(255,0,0);\">24507</span></td><td><span style=\"color: rgb(255,0,0);\">13140</span></td><td>窈窕佳人</td><td><span style=\"color: rgb(0,0,0);\"><br /></span></td></tr><tr class=\"\"><td rowspan=\"2\"><span style=\"color: rgb(0,0,0);\">24497,24496</span></td><td><span style=\"color: rgb(0,0,0);\">5200</span></td><td><span style=\"color: rgb(0,0,0);\"><br /></span></td><td rowspan=\"2\"><p><span style=\"color: rgb(0,0,0);\">血色玫瑰&mdash;29999积分：资料卡浮屏*3h、弹幕边框*3h、称号*1天</span></p></td></tr><tr class=\"\"><td><span style=\"color: rgb(0,0,0);\">1314</span></td><td><span style=\"color: rgb(0,0,0);\"><br /></span></td></tr><tr><td><span style=\"color: rgb(255,0,0);\">24506</span></td><td><span style=\"color: rgb(255,0,0);\">3344</span></td><td style=\"text-align: left;\">藤萝织梦</td><td><p><span style=\"color: rgb(0,0,0);\"><br /></span></p></td></tr><tr class=\"\"><td rowspan=\"3\"><span style=\"color: rgb(0,0,0);\">24493,24494,24495</span></td><td><span style=\"color: rgb(0,0,0);\">520</span></td><td><span style=\"color: rgb(0,0,0);\"><br /></span></td><td rowspan=\"3\"><span style=\"color: rgb(0,0,0);\">破碎面具---9999积分：座驾*3h、头像框*3h、称号*1天</span></td></tr><tr class=\"\"><td><span style=\"color: rgb(0,0,0);\">99</span></td><td><span style=\"color: rgb(0,0,0);\"><br /></span></td></tr><tr class=\"\"><td><span style=\"color: rgb(0,0,0);\">10</span></td><td><span style=\"color: rgb(0,0,0);\"><br /></span></td></tr><tr><td><span style=\"color: rgb(255,0,0);\">24505</span></td><td><span style=\"color: rgb(255,0,0);\">333</span></td><td>扑向你</td><td><span style=\"color: rgb(0,0,0);\"><br /></span></td></tr></tbody></table><p class=\"auto-cursor-target\"><br /></p><table class=\"wrapped\" style=\"text-decoration: none;\"><tbody class=\"\"><tr class=\"\"><td style=\"text-align: left;\" colspan=\"1\" rowspan=\"9\">礼物墙礼物</td><td style=\"text-align: left;\">礼物名</td><td style=\"text-align: left;\">价格（钻）</td><td style=\"text-align: left;\">礼物ID</td><td style=\"text-align: left;\">url</td></tr><tr class=\"\"><td style=\"text-align: left;\">等你下课</td><td style=\"text-align: left;\">10</td><td style=\"text-align: left;\">24493</td><td style=\"text-align: left;\"><a href=\"https://img.ikstatic.cn/MTc1MTI2NjUzNTM1OCM5NjAjcG5n.png\">https://img.ikstatic.cn/MTc1MTI2NjUzNTM1OCM5NjAjcG5n.png</a></td></tr><tr class=\"\"><td style=\"text-align: left;\">萌喵之恋</td><td style=\"text-align: left;\">99</td><td style=\"text-align: left;\">24494</td><td style=\"text-align: left;\"><a href=\"https://img.ikstatic.cn/MTc2NTk0MTQ3NTM4NSMzOTYjcG5n.png\">https://img.ikstatic.cn/MTc2NTk0MTQ3NTM4NSMzOTYjcG5n.png</a></td></tr><tr class=\"\"><td style=\"text-align: left;\">弦上青春</td><td style=\"text-align: left;\">520</td><td style=\"text-align: left;\">24495</td><td style=\"text-align: left;\"><a href=\"https://img.ikstatic.cn/MTc2MTAxNzk5ODQwMiM2ODQjcG5n.png\">https://img.ikstatic.cn/MTc2MTAxNzk5ODQwMiM2ODQjcG5n.png</a></td></tr><tr class=\"\"><td style=\"text-align: left;\">池畔情牵</td><td style=\"text-align: left;\">1314</td><td style=\"text-align: left;\">24496</td><td style=\"text-align: left;\"><a href=\"https://img.ikstatic.cn/MTczNDMyOTczMTAyMCM1NzgjcG5n.png\">https://img.ikstatic.cn/MTczNDMyOTczMTAyMCM1NzgjcG5n.png</a></td></tr><tr class=\"\"><td style=\"text-align: left;\">泛舟湖上</td><td style=\"text-align: left;\">5200</td><td style=\"text-align: left;\">24497</td><td style=\"text-align: left;\"><a href=\"https://img.ikstatic.cn/MTc0NTczNjU1MzQ0NSM0ODMjcG5n.png\">https://img.ikstatic.cn/MTc0NTczNjU1MzQ0NSM0ODMjcG5n.png</a></td></tr><tr class=\"\"><td style=\"text-align: left;\">游弋惊鸿</td><td style=\"text-align: left;\">10000</td><td style=\"text-align: left;\">24498</td><td style=\"text-align: left;\"><a href=\"https://img.ikstatic.cn/MTc0MjM2ODIxMTgwOSM2MzQjcG5n.png\">https://img.ikstatic.cn/MTc0MjM2ODIxMTgwOSM2MzQjcG5n.png</a></td></tr><tr class=\"\"><td style=\"text-align: left;\">烟海缠绵</td><td style=\"text-align: left;\">52000</td><td style=\"text-align: left;\">24499</td><td style=\"text-align: left;\"><a href=\"https://img.ikstatic.cn/MTczNDMzMDYyMDMzNCMxNDIjcG5n.png\">https://img.ikstatic.cn/MTczNDMzMDYyMDMzNCMxNDIjcG5n.png</a></td></tr><tr class=\"\"><td style=\"text-align: left;\">时代传奇</td><td style=\"text-align: left;\">99999</td><td style=\"text-align: left;\">24500</td><td style=\"text-align: left;\"><a href=\"https://img.ikstatic.cn/MTc2NTk0MTc2NzM3NSMgMjYjcG5n.png\">https://img.ikstatic.cn/MTc2NTk0MTc2NzM3NSMgMjYjcG5n.png</a></td></tr></tbody></table><p class=\"auto-cursor-target\"><br /></p><table class=\"wrapped\"><tbody class=\"\"><tr class=\"\"><td>关卡</td><td>任务值</td><td>资源类型</td><td>资源名称</td><td>资源id</td><td>时长</td><td>数量</td><td>私信内容</td></tr><tr class=\"\"><td>task_key</td><td>score_total</td><td>prize_type</td><td>prize_name</td><td>resource_id</td><td>duration</td><td>num</td><td>private_msg</td></tr><tr class=\"\"><td>1</td><td>99999</td><td>背包资源</td><td>传奇红宝石半屏座驾</td><td>3634</td><td>21600</td><td><br /></td><td>【暗影玫瑰】恭喜宝宝完成传奇红宝石限时任务，获得传奇红宝石半屏座驾*6H、传奇红宝石送礼托盘*6H、传奇红宝石称号*1天奖励，快去看看吧～</td></tr><tr class=\"\"><td><br /></td><td><br /></td><td>背包资源</td><td>传奇红宝石送礼托盘</td><td>5902</td><td>21600</td><td><br /></td><td><br /></td></tr><tr class=\"\"><td><br /></td><td><br /></td><td>称号</td><td>传奇红宝石称号</td><td>1742</td><td>1</td><td><br /></td><td><br /></td></tr></tbody></table><p class=\"auto-cursor-target\"><br /></p><table class=\"wrapped\"><tbody class=\"\"><tr class=\"\"><td>关卡</td><td>任务值</td><td>资源类型</td><td>资源名称</td><td>资源id</td><td>时长</td><td>数量</td><td>私信内容</td></tr><tr class=\"\"><td>task_key</td><td>score_total</td><td>prize_type</td><td>prize_name</td><td>resource_id</td><td>duration</td><td>num</td><td>private_msg</td></tr><tr class=\"\"><td>1</td><td>29999</td><td>背包资源</td><td>血色玫瑰资料卡浮屏</td><td>3307</td><td>10800</td><td><br /></td><td>【暗影玫瑰】恭喜宝宝完成血色玫瑰限时任务，获得血色玫瑰资料卡浮屏*3H、血色玫瑰弹幕边框*3H、血色玫瑰称号*1天奖励，快去看看吧～</td></tr><tr class=\"\"><td><br /></td><td><br /></td><td>背包资源</td><td>血色玫瑰弹幕边框</td><td>2836</td><td>10800</td><td><br /></td><td><br /></td></tr><tr class=\"\"><td><br /></td><td><br /></td><td>称号</td><td>血色玫瑰称号</td><td>1745</td><td>1</td><td><br /></td><td><br /></td></tr></tbody></table><p class=\"auto-cursor-target\"><br /></p><table class=\"wrapped\"><tbody class=\"\"><tr class=\"\"><td>关卡</td><td>任务值</td><td>资源类型</td><td>资源名称</td><td>资源id</td><td>时长</td><td>数量</td><td>私信内容</td></tr><tr class=\"\"><td>task_key</td><td>score_total</td><td>prize_type</td><td>prize_name</td><td>resource_id</td><td>duration</td><td>num</td><td>private_msg</td></tr><tr class=\"\"><td>1</td><td>9999</td><td>背包资源</td><td>破碎面具进房座驾</td><td>1406</td><td>10800</td><td><br /></td><td>【暗影玫瑰】恭喜宝宝完成破碎面具限时任务，获得破碎面具进房座驾*3H、破碎面具头像框*3H、破碎面具称号*1天奖励，快去看看吧～</td></tr><tr class=\"\"><td><br /></td><td><br /></td><td>背包资源</td><td>破碎面具头像框</td><td>2187</td><td>10800</td><td><br /></td><td><br /></td></tr><tr class=\"\"><td><br /></td><td><br /></td><td>称号</td><td>破碎面具称号</td><td>1743</td><td>1</td><td><br /></td><td><br /></td></tr></tbody></table><p class=\"auto-cursor-target\"><br /></p><p><strong>日榜</strong></p><p>玩法统计时间：2025年3月25日00:00:00-3月28日23:59:59&nbsp;&nbsp;</p><p>玩法逻辑：</p><ul><li>活动期间，当红主播/新秀主播/派对嘉宾/用户每日累计收礼参与日榜争夺，根据榜单排名点亮奖励。</li><li>当红主播为近60天收礼大于等于70w，新秀主播为小于70w----统计普通视频直播间</li><li>派对嘉宾（含厅主）为白名单----统计469直播间。</li><li>奖励与私信由研发实时下发</li></ul><table class=\"wrapped\"><tbody class=\"\"><tr class=\"\"><td>排名</td><td>资源类型</td><td>资源名称</td><td>资源id</td><td>时长</td><td>数量</td><td>私信内容</td></tr><tr class=\"\"><td>rank</td><td>prize_type</td><td>prize_name</td><td>resource_id</td><td>duration</td><td>num</td><td>private_msg</td></tr><tr class=\"\"><td>1</td><td>称号</td><td>影蚀华章称号*5天</td><td>1747</td><td>5</td><td><br /></td><td>【暗影玫瑰】恭喜宝宝成为当红日榜TOP1，获得影蚀华章头像框*5天、影蚀华章称号*5天、热门推荐卡*3张、影蚀华章主页挂件*5天奖励，继续加油啊~</td></tr><tr class=\"\"><td><br /></td><td>头像框</td><td>影蚀华章头像框*5天</td><td>6853</td><td>5</td><td><br /></td><td><br /></td></tr><tr class=\"\"><td><br /></td><td>主页挂件</td><td>影蚀华章主页挂件*5天</td><td>4439</td><td>5</td><td><br /></td><td><br /></td></tr><tr class=\"\"><td><br /></td><td>推荐卡</td><td>热门推荐卡*3张</td><td>830</td><td><br /></td><td>3</td><td><br /></td></tr><tr class=\"\"><td>2_5</td><td>称号</td><td>影蚀华章称号*3天</td><td>1747</td><td>3</td><td><br /></td><td>【暗影玫瑰】恭喜宝宝成为当红日榜TOP5，获得影蚀华章头像框*3天、影蚀华章称号*3天、热门推荐卡*1张、影蚀华章主页挂件*3天奖励，继续加油啊~</td></tr><tr class=\"\"><td><br /></td><td>头像框</td><td>影蚀华章头像框*3天</td><td>6853</td><td>3</td><td><br /></td><td><br /></td></tr><tr class=\"\"><td><br /></td><td>主页挂件</td><td>影蚀华章主页挂件*3天</td><td>4439</td><td>3</td><td><br /></td><td><br /></td></tr><tr class=\"\"><td><br /></td><td>推荐卡</td><td>热门推荐卡*1张</td><td>830</td><td><br /></td><td>1</td><td><br /></td></tr><tr class=\"\"><td>6_10</td><td>称号</td><td>影蚀华章称号*2天</td><td>1747</td><td>2</td><td><br /></td><td>【暗影玫瑰】恭喜宝宝成为当红日榜TOP10，获得影蚀华章头像框*2天、影蚀华章称号*2天、影蚀华章主页挂件*2天奖励，继续加油啊~</td></tr><tr class=\"\"><td><br /></td><td>头像框</td><td>影蚀华章头像框*2天</td><td>6853</td><td>2</td><td><br /></td><td><br /></td></tr><tr class=\"\"><td><br /></td><td>主页挂件</td><td>影蚀华章主页挂件*2天</td><td>4439</td><td>2</td><td><br /></td><td><br /></td></tr></tbody></table><p class=\"auto-cursor-target\"><br /></p><table class=\"wrapped\"><tbody class=\"\"><tr class=\"\"><td>排名</td><td>资源类型</td><td>资源名称</td><td>资源id</td><td>时长</td><td>数量</td><td>私信内容</td></tr><tr class=\"\"><td>rank</td><td>prize_type</td><td>prize_name</td><td>resource_id</td><td>duration</td><td>num</td><td>private_msg</td></tr><tr class=\"\"><td>1</td><td>称号</td><td>影蚀华章称号*3天</td><td>1747</td><td>3</td><td><br /></td><td>【暗影玫瑰】恭喜宝宝成为新秀日榜TOP1，获得影蚀华章头像框*3天、影蚀华章称号*3天、热门推荐卡*1张、影蚀华章主页挂件*3天奖励，继续加油啊~</td></tr><tr class=\"\"><td><br /></td><td>头像框</td><td>影蚀华章头像框*3天</td><td>6853</td><td>3</td><td><br /></td><td><br /></td></tr><tr class=\"\"><td><br /></td><td>主页挂件</td><td>影蚀华章主页挂件*3天</td><td>4439</td><td>3</td><td><br /></td><td><br /></td></tr><tr class=\"\"><td><br /></td><td>推荐卡</td><td>热门推荐卡*1张</td><td>830</td><td><br /></td><td>1</td><td><br /></td></tr><tr class=\"\"><td>2_5</td><td>称号</td><td>影蚀华章称号*2天</td><td>1747</td><td>2</td><td><br /></td><td>【暗影玫瑰】】恭喜宝宝成为新秀日榜TOP5，获得影蚀华章头像框*2天、影蚀华章称号*2天、影蚀华章主页挂件*2天奖励，继续加油啊~</td></tr><tr class=\"\"><td><br /></td><td>头像框</td><td>影蚀华章头像框*2天</td><td>6853</td><td>2</td><td><br /></td><td><br /></td></tr><tr class=\"\"><td><br /></td><td>主页挂件</td><td>影蚀华章主页挂件*2天</td><td>4439</td><td>2</td><td><br /></td><td><br /></td></tr><tr class=\"\"><td>6_10</td><td>称号</td><td>影蚀华章称号*1天</td><td>1747</td><td>1</td><td><br /></td><td>【暗影玫瑰】】恭喜宝宝成为新秀日榜TOP10，获得影蚀华章头像框*1天、影蚀华章称号*1天、影蚀华章主页挂件*1天奖励，继续加油啊~</td></tr><tr class=\"\"><td><br /></td><td>头像框</td><td>影蚀华章头像框*1天</td><td>6853</td><td>1</td><td><br /></td><td><br /></td></tr><tr class=\"\"><td><br /></td><td>主页挂件</td><td>影蚀华章主页挂件*1天</td><td>4439</td><td>1</td><td><br /></td><td><br /></td></tr></tbody></table><p class=\"auto-cursor-target\"><br /></p><table class=\"wrapped\"><tbody class=\"\"><tr class=\"\"><td>排名</td><td>资源类型</td><td>资源名称</td><td>资源id</td><td>时长</td><td>数量</td><td>私信内容</td></tr><tr class=\"\"><td>rank</td><td>prize_type</td><td>prize_name</td><td>resource_id</td><td>duration</td><td>num</td><td>private_msg</td></tr><tr class=\"\"><td>1</td><td>称号</td><td>影蚀华章称号*5天</td><td>1747</td><td>5</td><td><br /></td><td>【暗影玫瑰】恭喜宝宝成为嘉宾日榜TOP1，获得影蚀华章麦序框*5天、影蚀华章称号*5天、影蚀华章主页挂件*5天、影蚀华章发言波纹*5天奖励，继续加油啊~</td></tr><tr class=\"\"><td><br /></td><td>麦序框</td><td>影蚀华章麦序框*5天</td><td>6854</td><td>5</td><td><br /></td><td><br /></td></tr><tr class=\"\"><td><br /></td><td>主页挂件</td><td>影蚀华章主页挂件*5天</td><td>4439</td><td>5</td><td><br /></td><td><br /></td></tr><tr class=\"\"><td><br /></td><td>发言波纹</td><td>影蚀华章发言波纹*5天</td><td>6859</td><td>5</td><td><br /></td><td><br /></td></tr><tr class=\"\"><td>2_5</td><td>称号</td><td>影蚀华章称号*3天</td><td>1747</td><td>3</td><td><br /></td><td>【暗影玫瑰】恭喜宝宝成为嘉宾日榜TOP5，获得影蚀华章麦序框*3天、影蚀华章称号*3天、影蚀华章主页挂件*3天、影蚀华章发言波纹*3天奖励，继续加油啊~</td></tr><tr class=\"\"><td><br /></td><td>麦序框</td><td>影蚀华章麦序框*3天</td><td>6854</td><td>3</td><td><br /></td><td><br /></td></tr><tr class=\"\"><td><br /></td><td>主页挂件</td><td>影蚀华章主页挂件*3天</td><td>4439</td><td>3</td><td><br /></td><td><br /></td></tr><tr class=\"\"><td><br /></td><td>发言波纹</td><td>影蚀华章发言波纹*3天</td><td>6859</td><td>3</td><td><br /></td><td><br /></td></tr><tr class=\"\"><td>6_10</td><td>称号</td><td>影蚀华章称号*2天</td><td>1747</td><td>2</td><td><br /></td><td>【暗影玫瑰】恭喜宝宝成为嘉宾日榜TOP10，获得影蚀华章麦序框*2天、影蚀华章称号*2天、影蚀华章主页挂件*2天奖励，继续加油啊~</td></tr><tr class=\"\"><td><br /></td><td>麦序框</td><td>影蚀华章麦序框*2天</td><td>6854</td><td>2</td><td><br /></td><td><br /></td></tr><tr class=\"\"><td><br /></td><td>主页挂件</td><td>影蚀华章主页挂件*2天</td><td>4439</td><td>2</td><td><br /></td><td><br /></td></tr></tbody></table><p class=\"auto-cursor-target\"><br /></p><table class=\"wrapped\"><tbody class=\"\"><tr class=\"\"><td>排名</td><td>资源类型</td><td>资源名称</td><td>资源id</td><td>时长</td><td>数量</td><td>私信内容</td></tr><tr class=\"\"><td>rank</td><td>prize_type</td><td>prize_name</td><td>resource_id</td><td>duration</td><td>num</td><td>private_msg</td></tr><tr class=\"\"><td>1</td><td>头像框</td><td>雾隐瑰刺头像框*5天</td><td>7175</td><td>5</td><td><br /></td><td>【暗影玫瑰】恭喜宝宝成为用户日榜TOP1，获得雾隐瑰刺头像框*5天，雾隐瑰刺麦序框*5天、雾隐瑰刺称号*5天、雾隐瑰刺主页挂件*5天、雾隐瑰刺资料卡浮屏*3天奖励，继续加油啊~</td></tr><tr class=\"\"><td><br /></td><td>麦序框</td><td>雾隐瑰刺麦序框*5天</td><td>7179</td><td>5</td><td><br /></td><td><br /></td></tr><tr class=\"\"><td><br /></td><td>称号</td><td>雾隐瑰刺称号*5天</td><td>1744</td><td>5</td><td><br /></td><td><br /></td></tr><tr class=\"\"><td><br /></td><td>主页挂件</td><td>雾隐瑰刺主页挂件*5天</td><td>4440</td><td>5</td><td><br /></td><td><br /></td></tr><tr class=\"\"><td><br /></td><td>资料卡浮屏</td><td>雾隐瑰刺资料卡浮屏*3天</td><td>5257</td><td>3</td><td><br /></td><td><br /></td></tr><tr class=\"\"><td>2_5</td><td>头像框</td><td>雾隐瑰刺头像框*3天</td><td>7175</td><td>3</td><td><br /></td><td>【暗影玫瑰】恭喜宝宝成为用户日榜TOP5，获得雾隐瑰刺头像框*3天，雾隐瑰刺麦序框*3天、雾隐瑰刺称号*3天、雾隐瑰刺主页挂件*3天奖励，继续加油啊~</td></tr><tr class=\"\"><td><br /></td><td>麦序框</td><td>雾隐瑰刺麦序框*3天</td><td>7179</td><td>3</td><td><br /></td><td><br /></td></tr><tr class=\"\"><td><br /></td><td>称号</td><td>雾隐瑰刺称号*3天</td><td>1744</td><td>3</td><td><br /></td><td><br /></td></tr><tr class=\"\"><td><br /></td><td>主页挂件</td><td>雾隐瑰刺主页挂件*3天</td><td>4440</td><td>3</td><td><br /></td><td><br /></td></tr><tr class=\"\"><td>6_10</td><td>头像框</td><td>雾隐瑰刺头像框*2天</td><td>7175</td><td>2</td><td><br /></td><td>【暗影玫瑰】恭喜宝宝成为用户日榜TOP10，获得雾隐瑰刺头像框*2天，雾隐瑰刺麦序框*2天、雾隐瑰刺称号*2天、雾隐瑰刺主页挂件*2天奖励，继续加油啊~</td></tr><tr class=\"\"><td><br /></td><td>麦序框</td><td>雾隐瑰刺麦序框*2天</td><td>7179</td><td>2</td><td><br /></td><td><br /></td></tr><tr class=\"\"><td><br /></td><td>称号</td><td>雾隐瑰刺称号*2天</td><td>1744</td><td>2</td><td><br /></td><td><br /></td></tr><tr class=\"\"><td><br /></td><td>主页挂件</td><td>雾隐瑰刺主页挂件*2天</td><td>4440</td><td>2</td><td><br /></td><td><br /></td></tr></tbody></table><p><br /></p><p><strong>五、icon逻辑</strong></p><p>A面：展示主播任务信息，具体展示信息为：关卡名称、关卡进度、关卡积分进度；</p><p>B面：展示主播日榜信息</p><p>C面：展示双头像信息</p><p><br /></p><p><br /></p><p><strong>六、运营查询工具</strong></p><p><br /></p><p><br /></p><p><strong>七、数据埋点与数据需求<br /></strong></p><p>数据提需<br />活动名称：暗影玫瑰<br />活动时间：4.25-4.28<br />活动研发：杜振训</p><p>具体需求：</p><p>1、专属礼物消耗：日期、礼物名称、礼物价格、消耗个数、消耗金额、区分派对/主播</p><p>2、主播专属礼物收礼数据：日期、层级、礼物名、收礼人数、收礼个数、收礼金额、区分派对/主播</p><p>3、用户专属礼物送礼数据：日期、层级、礼物名、送礼人数、送礼个数、送礼金额、区分派对/主播</p><p>4、用户切换角色数据：日期、层级、切换人数（去重）、切换次数</p><p>5、用户任务数据：日期、用户层级、用户角色、完成用户数（去重）、完成次数、轮次、关卡</p><p>6、完成暗影曝光的用户人数、次数、层级、单人触发的次数</p><p>7、完成玫瑰小时曝光的用户人数、次数、层级、单人触发的次数</p><p>8、活动期间，分24小时送礼消耗数据</p><p>9、主播任务数据：日期、主播层级、完成主播数（去重）、完成次数、关卡</p><p>10、限时玩法数据：三个场景奖励获得的用户的：分三个场景下、日期、层级、人数、次数</p><p>11、对对碰消耗数据：日期、场景、用户人数、次数、层级</p><p>12、资源位曝光pv、uv</p><p>专属礼物id：21325,21326,21327,21328,21329,21330,21331,21332,21333,21334,21335,21336,21337</p><p>对对碰礼物id：20996,20997,20999,21000,21015,21338,21016,21339,21003,21017,21340,21004,21136,21345,21341,21342,21343,21344,21347,21346</p><p><br /></p><p><br /></p><p><br /></p><p><br /></p><p><br /></p><p><br /></p><p><br /></p><p><br /></p><p><br /></p><p><br /></p>",
+      "representation": "storage",
+      "_expandable": {
+        "content": "/rest/api/content/488351597"
+      }
+    },
+    "_expandable": {
+      "editor": "",
+      "view": "",
+      "export_view": "",
+      "styled_view": "",
+      "anonymous_export_view": ""
+    }
+  },
+  "extensions": {
+    "position": "none"
+  },
+  "_links": {
+    "webui": "/pages/viewpage.action?pageId=488351597",
+    "edit": "/pages/resumedraft.action?draftId=488351597&draftShareId=571ae1a8-bd33-48c1-987b-0a03407b0913",
+    "tinyui": "/x/bacbHQ",
+    "collection": "/rest/api/content",
+    "base": "https://wiki.inkept.cn",
+    "context": "",
+    "self": "https://wiki.inkept.cn/rest/api/content/488351597"
+  },
+  "_expandable": {
+    "container": "/rest/api/space/xueyuan",
+    "metadata": "",
+    "operations": "",
+    "children": "/rest/api/content/488351597/child",
+    "restrictions": "/rest/api/content/488351597/restriction/byOperation",
+    "history": "/rest/api/content/488351597/history",
+    "descendants": "/rest/api/content/488351597/descendant"
+  }
+}

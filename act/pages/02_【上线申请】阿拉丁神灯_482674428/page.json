@@ -1,0 +1,233 @@
+{
+  "id": "482674428",
+  "type": "page",
+  "status": "current",
+  "title": "【上线申请】阿拉丁神灯",
+  "space": {
+    "id": 3571713,
+    "key": "xueyuan",
+    "name": "映客直播业务",
+    "type": "global",
+    "_links": {
+      "webui": "/display/xueyuan",
+      "self": "https://wiki.inkept.cn/rest/api/space/xueyuan"
+    },
+    "_expandable": {
+      "metadata": "",
+      "icon": "",
+      "description": "",
+      "retentionPolicy": "",
+      "homepage": "/rest/api/content/320866330"
+    }
+  },
+  "version": {
+    "by": {
+      "type": "known",
+      "username": "maxiaona",
+      "userKey": "8aef97167d450205017db1d1e6df008b",
+      "profilePicture": {
+        "path": "/images/icons/profilepics/default.svg",
+        "width": 48,
+        "height": 48,
+        "isDefault": true
+      },
+      "displayName": "马晓娜",
+      "_links": {
+        "self": "https://wiki.inkept.cn/rest/api/user?key=8aef97167d450205017db1d1e6df008b"
+      },
+      "_expandable": {
+        "status": ""
+      }
+    },
+    "when": "2026-02-09T16:54:48.000+08:00",
+    "message": "",
+    "number": 2,
+    "minorEdit": false,
+    "hidden": false,
+    "_links": {
+      "self": "https://wiki.inkept.cn/rest/experimental/content/482674428/version/2"
+    },
+    "_expandable": {
+      "content": "/rest/api/content/482674428"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "320866330",
+      "type": "page",
+      "status": "current",
+      "title": "映客直播业务",
+      "extensions": {
+        "position": "none"
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=320866330",
+        "edit": "/pages/resumedraft.action?draftId=320866330&draftShareId=d5d92a4f-fb15-4a51-8bd6-16333cb6f165",
+        "tinyui": "/x/GgggEw",
+        "self": "https://wiki.inkept.cn/rest/api/content/320866330"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/320866330/child",
+        "restrictions": "/rest/api/content/320866330/restriction/byOperation",
+        "history": "/rest/api/content/320866330/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/320866330/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    },
+    {
+      "id": "326510548",
+      "type": "page",
+      "status": "current",
+      "title": "直播业务线-运营",
+      "extensions": {
+        "position": 2
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=326510548",
+        "edit": "/pages/resumedraft.action?draftId=326510548&draftShareId=0ea027df-6f8f-4663-bbd6-217ba023f41b",
+        "tinyui": "/x/1Cd2Ew",
+        "self": "https://wiki.inkept.cn/rest/api/content/326510548"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/326510548/child",
+        "restrictions": "/rest/api/content/326510548/restriction/byOperation",
+        "history": "/rest/api/content/326510548/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/326510548/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    },
+    {
+      "id": "331456836",
+      "type": "page",
+      "status": "current",
+      "title": "【活动组】",
+      "extensions": {
+        "position": 11
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=331456836",
+        "edit": "/pages/resumedraft.action?draftId=331456836",
+        "tinyui": "/x/RKHBEw",
+        "self": "https://wiki.inkept.cn/rest/api/content/331456836"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/331456836/child",
+        "restrictions": "/rest/api/content/331456836/restriction/byOperation",
+        "history": "/rest/api/content/331456836/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/331456836/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    },
+    {
+      "id": "452644191",
+      "type": "page",
+      "status": "current",
+      "title": "【2026营收运营活动】",
+      "extensions": {
+        "position": "none"
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=452644191",
+        "edit": "/pages/resumedraft.action?draftId=452644191&draftShareId=97d3197f-f0cd-4143-8fbf-d96b4892c680",
+        "tinyui": "/x/X836Gg",
+        "self": "https://wiki.inkept.cn/rest/api/content/452644191"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/452644191/child",
+        "restrictions": "/rest/api/content/452644191/restriction/byOperation",
+        "history": "/rest/api/content/452644191/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/452644191/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    },
+    {
+      "id": "462598884",
+      "type": "page",
+      "status": "current",
+      "title": "2026年2月份活动",
+      "extensions": {
+        "position": "none"
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=462598884",
+        "edit": "/pages/resumedraft.action?draftId=462598884&draftShareId=744b2fa4-aa8c-4445-a22d-8439470cf97f",
+        "tinyui": "/x/5LKSGw",
+        "self": "https://wiki.inkept.cn/rest/api/content/462598884"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/462598884/child",
+        "restrictions": "/rest/api/content/462598884/restriction/byOperation",
+        "history": "/rest/api/content/462598884/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/462598884/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    }
+  ],
+  "body": {
+    "storage": {
+      "value": "<p><span>Hi all，</span><br /><span>【阿拉丁神灯】现申请相关资源及礼物配置，及上线申请。</span><br /><span>辛苦@叶导&nbsp;审批，&nbsp;</span><br /><span>辛苦@灿灿配置并返回相关id。</span></p><p><br /></p><p><strong>阿拉丁神灯</strong></p><table class=\"relative-table\" style=\"width: 1291.0px;\"><colgroup class=\"\"><col class=\"\" style=\"width: 67.0px;\" /><col class=\"\" style=\"width: 60.0px;\" /><col class=\"\" style=\"width: 88.0px;\" /><col class=\"\" style=\"width: 61.0px;\" /><col class=\"\" style=\"width: 187.0px;\" /><col class=\"\" style=\"width: 72.0px;\" /><col class=\"\" style=\"width: 324.0px;\" /><col class=\"\" style=\"width: 431.0px;\" /></colgroup><tbody class=\"\"><tr class=\"\"><td style=\"text-align: center;\">礼物名称</td><td style=\"text-align: center;\">礼物价值</td><td style=\"text-align: center;\">礼物id</td><td style=\"text-align: center;\">资源id</td><td style=\"text-align: left;\">备注</td><td style=\"text-align: left;\">描述</td><td style=\"text-align: left;\"><br /></td><td style=\"text-align: left;\">链接</td></tr><tr class=\"\"><td style=\"text-align: center;\">阿拉丁神灯</td><td style=\"text-align: center;\">20</td><td style=\"text-align: center;\">21991</td><td style=\"text-align: center;\"><br /></td><td style=\"text-align: left;\">主播获得1映币，标签，幸</td><td style=\"text-align: left;\">阿拉丁神灯，</td><td style=\"text-align: left;\">用户送给主播，主播获得1映币，剩余参与阿拉丁神灯魔法，最高可获得99999钻礼物。</td><td style=\"text-align: left;\"><a class=\"\" href=\"https://boc.inke.cn/react/banner/202506/alading-light/index.html?from=plugin&amp;ik_halfdisplay=1&amp;half_screen=1\">https://boc.inke.cn/react/banner/202506/alading-light/index.html?from=plugin&amp;ik_halfdisplay=1&amp;half_screen=1</a></td></tr></tbody></table><p><br /></p><p><br /></p><p class=\"auto-cursor-target\"><strong>上线时间：</strong></p><p class=\"auto-cursor-target\">2026年2月23日00:00:00-2月25日23:59:59</p><p class=\"auto-cursor-target\"><strong>位置：</strong></p><p class=\"auto-cursor-target\">推荐墙首页，</p><p class=\"auto-cursor-target\"><strong>上新气泡：</strong></p><p class=\"auto-cursor-target\"><span style=\"color: rgb(0,51,102);\"><span class=\"currentHitHighlight\">气泡</span>：活动礼物</span><span><br /></span><span>气泡</span><span>类型：默认</span><span><br /></span><span>定位礼物：阿拉灯神灯</span><span>（id：21991</span><span>）</span><span><br /></span><span>生效场景：所有</span><span><br /></span><span>生效人群：all</span><span><br /></span><span>生效批次：首次</span><span><br /></span><span>生效时间：2026年2月23日00:00:00-2月25日23:59:59</span><span><br /></span><span>优先级：1</span></p><p><span><strong>全站私信</strong></span><br /><span>2月23日00:10:00</span><br /><span>文案：【阿拉灯神灯】上线啦~最高可拆出99999热力值礼物，快来参与吧~</span></p><p class=\"auto-cursor-target\"><span><span style=\"color: rgb(23,43,77);\">以上，如有问题，及时沟通～​</span></span></p><p class=\"auto-cursor-target\"><br /></p><p class=\"auto-cursor-target\"><br /></p><p class=\"auto-cursor-target\"><br /></p><p class=\"auto-cursor-target\"><br /></p><p class=\"auto-cursor-target\"><br /></p><p class=\"auto-cursor-target\"><br /></p>",
+      "representation": "storage",
+      "_expandable": {
+        "content": "/rest/api/content/482674428"
+      }
+    },
+    "_expandable": {
+      "editor": "",
+      "view": "",
+      "export_view": "",
+      "styled_view": "",
+      "anonymous_export_view": ""
+    }
+  },
+  "extensions": {
+    "position": "none"
+  },
+  "_links": {
+    "webui": "/pages/viewpage.action?pageId=482674428",
+    "edit": "/pages/resumedraft.action?draftId=482674428&draftShareId=b666a6fb-ca96-4570-9384-ce5e9b2d522c",
+    "tinyui": "/x/-AbFH",
+    "collection": "/rest/api/content",
+    "base": "https://wiki.inkept.cn",
+    "context": "",
+    "self": "https://wiki.inkept.cn/rest/api/content/482674428"
+  },
+  "_expandable": {
+    "container": "/rest/api/space/xueyuan",
+    "metadata": "",
+    "operations": "",
+    "children": "/rest/api/content/482674428/child",
+    "restrictions": "/rest/api/content/482674428/restriction/byOperation",
+    "history": "/rest/api/content/482674428/history",
+    "descendants": "/rest/api/content/482674428/descendant"
+  }
+}

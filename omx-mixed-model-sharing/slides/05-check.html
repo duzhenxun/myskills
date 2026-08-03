@@ -1,0 +1,12 @@
+<!DOCTYPE html><html lang="zh-CN"><head><meta charset="UTF-8"><link rel="stylesheet" href="../shared/tokens.css"><title>环境校验</title></head><body>
+<div class="mast"><div class="mark"><span class="dot"></span>STEP 2</div><div>PRE-FLIGHT</div></div><div class="kicker">启动 Team 前的最小检查</div><h2>五条命令全部通过，再讨论混合编队</h2>
+<div class="grid2"><div><div class="code-title">CHECK BINARIES</div><div class="terminal"><span class="prompt">$</span> codex --version
+<span class="prompt">$</span> claude --version
+<span class="prompt">$</span> gemini --version
+<span class="prompt">$</span> tmux -V
+<span class="prompt">$</span> omx doctor</div></div><div class="panel"><h3>还要确认 PATH 没有漂移</h3><div class="terminal"><span class="prompt">$</span> command -v codex
+<span class="prompt">$</span> command -v claude
+<span class="prompt">$</span> command -v gemini
+<span class="prompt">$</span> command -v omx</div><p class="mini">全局 npm、nvm、Homebrew 混用时，最常见的问题不是“没安装”，而是 tmux 启动后的 PATH 指向另一套 Node 环境。</p></div></div>
+<div class="callout"><b>Team 运行前提：</b>在 Git 仓库中，并从附着的 tmux OMX CLI 会话启动；Codex App 外部不能直接拉起 Team panes。</div><div class="page">05 / 10</div></body></html>
+

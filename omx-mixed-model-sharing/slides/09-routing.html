@@ -1,0 +1,8 @@
+<!DOCTYPE html><html lang="zh-CN"><head><meta charset="UTF-8"><link rel="stylesheet" href="../shared/tokens.css"><title>角色与模型</title></head><body>
+<div class="mast"><div class="mark"><span class="dot"></span>ROUTING STRATEGY</div><div>ROLE ≠ CLI ≠ MODEL</div></div><div class="kicker">把三个概念分开，配置才不会乱</div><h2>角色决定怎么做，CLI 决定谁来做，模型参数决定用哪一档</h2>
+<table class="compare"><tr><th>层</th><th>负责什么</th><th>例子</th><th>建议</th></tr>
+<tr><td><b>Role</b></td><td>任务职责、行为约束、交付格式</td><td><code>executor</code> / <code>architect</code> / <code>verifier</code></td><td>按任务形状选，不按厂商选</td></tr>
+<tr><td><b>CLI</b></td><td>实际启动哪个本地 agent 程序</td><td><code>codex</code> / <code>claude</code> / <code>gemini</code></td><td>通过 <code>OMX_TEAM_WORKER_CLI_MAP</code> 指定</td></tr>
+<tr><td><b>Model</b></td><td>某个 CLI 内部使用的具体模型</td><td>由账号、CLI 配置和启动参数共同决定</td><td>先跑默认，再按当前 CLI 文档覆盖</td></tr></table>
+<div class="grid2"><div class="panel"><h3>推荐拆法</h3><p>实现 / 架构审阅 / 测试验证三条 lane，任务边界清晰且能相互校验。</p></div><div class="panel"><h3>不推荐拆法</h3><p>仅按“前端给 Gemini、后端给 Codex”硬绑定；仓库结构和任务风险往往比厂商标签更重要。</p></div></div><div class="page">09 / 10</div></body></html>
+

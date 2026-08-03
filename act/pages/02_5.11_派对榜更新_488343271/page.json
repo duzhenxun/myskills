@@ -1,0 +1,233 @@
+{
+  "id": "488343271",
+  "type": "page",
+  "status": "current",
+  "title": "5.11   派对榜更新",
+  "space": {
+    "id": 3571713,
+    "key": "xueyuan",
+    "name": "映客直播业务",
+    "type": "global",
+    "_links": {
+      "webui": "/display/xueyuan",
+      "self": "https://wiki.inkept.cn/rest/api/space/xueyuan"
+    },
+    "_expandable": {
+      "metadata": "",
+      "icon": "",
+      "description": "",
+      "retentionPolicy": "",
+      "homepage": "/rest/api/content/320866330"
+    }
+  },
+  "version": {
+    "by": {
+      "type": "known",
+      "username": "yeyusong",
+      "userKey": "8aef971660112e1f01610c33c52f0049",
+      "profilePicture": {
+        "path": "/images/icons/profilepics/default.svg",
+        "width": 48,
+        "height": 48,
+        "isDefault": true
+      },
+      "displayName": "叶玉松",
+      "_links": {
+        "self": "https://wiki.inkept.cn/rest/api/user?key=8aef971660112e1f01610c33c52f0049"
+      },
+      "_expandable": {
+        "status": ""
+      }
+    },
+    "when": "2026-06-03T18:17:48.000+08:00",
+    "message": "",
+    "number": 24,
+    "minorEdit": false,
+    "hidden": false,
+    "_links": {
+      "self": "https://wiki.inkept.cn/rest/experimental/content/488343271/version/24"
+    },
+    "_expandable": {
+      "content": "/rest/api/content/488343271"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "320866330",
+      "type": "page",
+      "status": "current",
+      "title": "映客直播业务",
+      "extensions": {
+        "position": "none"
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=320866330",
+        "edit": "/pages/resumedraft.action?draftId=320866330&draftShareId=d5d92a4f-fb15-4a51-8bd6-16333cb6f165",
+        "tinyui": "/x/GgggEw",
+        "self": "https://wiki.inkept.cn/rest/api/content/320866330"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/320866330/child",
+        "restrictions": "/rest/api/content/320866330/restriction/byOperation",
+        "history": "/rest/api/content/320866330/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/320866330/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    },
+    {
+      "id": "326510548",
+      "type": "page",
+      "status": "current",
+      "title": "直播业务线-运营",
+      "extensions": {
+        "position": 2
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=326510548",
+        "edit": "/pages/resumedraft.action?draftId=326510548&draftShareId=0ea027df-6f8f-4663-bbd6-217ba023f41b",
+        "tinyui": "/x/1Cd2Ew",
+        "self": "https://wiki.inkept.cn/rest/api/content/326510548"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/326510548/child",
+        "restrictions": "/rest/api/content/326510548/restriction/byOperation",
+        "history": "/rest/api/content/326510548/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/326510548/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    },
+    {
+      "id": "331456836",
+      "type": "page",
+      "status": "current",
+      "title": "【活动组】",
+      "extensions": {
+        "position": 11
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=331456836",
+        "edit": "/pages/resumedraft.action?draftId=331456836",
+        "tinyui": "/x/RKHBEw",
+        "self": "https://wiki.inkept.cn/rest/api/content/331456836"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/331456836/child",
+        "restrictions": "/rest/api/content/331456836/restriction/byOperation",
+        "history": "/rest/api/content/331456836/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/331456836/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    },
+    {
+      "id": "452644191",
+      "type": "page",
+      "status": "current",
+      "title": "【2026营收运营活动】",
+      "extensions": {
+        "position": "none"
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=452644191",
+        "edit": "/pages/resumedraft.action?draftId=452644191&draftShareId=97d3197f-f0cd-4143-8fbf-d96b4892c680",
+        "tinyui": "/x/X836Gg",
+        "self": "https://wiki.inkept.cn/rest/api/content/452644191"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/452644191/child",
+        "restrictions": "/rest/api/content/452644191/restriction/byOperation",
+        "history": "/rest/api/content/452644191/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/452644191/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    },
+    {
+      "id": "488343729",
+      "type": "page",
+      "status": "current",
+      "title": "2026年5月份活动",
+      "extensions": {
+        "position": "none"
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=488343729",
+        "edit": "/pages/resumedraft.action?draftId=488343729&draftShareId=a59c298c-352d-4d86-b067-744efc521f4c",
+        "tinyui": "/x/sYgbHQ",
+        "self": "https://wiki.inkept.cn/rest/api/content/488343729"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/488343729/child",
+        "restrictions": "/rest/api/content/488343729/restriction/byOperation",
+        "history": "/rest/api/content/488343729/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/488343729/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    }
+  ],
+  "body": {
+    "storage": {
+      "value": "<h3><strong>当前展示区域房间左上角、派对首页金刚区、活动中心</strong></h3><table class=\"wrapped\"><tbody class=\"\"><tr class=\"\"><td style=\"text-align: center;\">资源类型</td><td style=\"text-align: center;\">资源名称</td><td style=\"text-align: center;\">资源ID</td><td style=\"text-align: center;\">URL</td></tr><tr class=\"\"><td style=\"text-align: center;\">封面边框</td><td style=\"text-align: center;\">臻选派对封面边框</td><td style=\"text-align: center;\">18206</td><td style=\"text-align: center;\"><a href=\"https://img.ikstatic.cn/MTc4MDM4ODI3MzczMSM2NDYjcG5n.png\">https://img.ikstatic.cn/MTc4MDM4ODI3MzczMSM2NDYjcG5n.png</a></td></tr><tr class=\"\"><td style=\"text-align: center;\">直播间标签</td><td style=\"text-align: center;\">臻选派对直播间标签</td><td style=\"text-align: center;\">18207</td><td style=\"text-align: center;\"><a href=\"https://img.ikstatic.cn/MTc4MDM4ODMyNDM2OCM0MjMjcG5n.png\">https://img.ikstatic.cn/MTc4MDM4ODMyNDM2OCM0MjMjcG5n.png</a></td></tr><tr class=\"\"><td style=\"text-align: center;\">称号</td><td style=\"text-align: center;\">闪耀明星</td><td style=\"text-align: center;\">2307</td><td style=\"text-align: center;\"><a href=\"https://img.ikstatic.cn/MTc4MDM4ODQxMTI0MSM4MjIjcG5n.png\">https://img.ikstatic.cn/MTc4MDM4ODQxMTI0MSM4MjIjcG5n.png</a></td></tr><tr class=\"\"><td style=\"text-align: center;\">称号</td><td style=\"text-align: center;\">顶流玩家</td><td style=\"text-align: center;\">2308</td><td style=\"text-align: center;\"><a href=\"https://img.ikstatic.cn/MTc4MDM4ODUwMjc3MiM3MDkjcG5n.png\">https://img.ikstatic.cn/MTc4MDM4ODUwMjc3MiM3MDkjcG5n.png</a></td></tr><tr class=\"\"><td style=\"text-align: center;\">麦序框</td><td style=\"text-align: center;\">闪耀明星麦序框</td><td style=\"text-align: center;\">10418</td><td style=\"text-align: center;\"><a href=\"https://img.ikstatic.cn/MTc4MDM4ODUzOTg3MiMgNzkjcG5n.png\">https://img.ikstatic.cn/MTc4MDM4ODUzOTg3MiMgNzkjcG5n.png</a></td></tr><tr class=\"\"><td style=\"text-align: center;\">麦序框</td><td style=\"text-align: center;\">顶流玩家麦序框</td><td style=\"text-align: center;\">10419</td><td style=\"text-align: center;\"><a href=\"https://img.ikstatic.cn/MTc4MDM4ODU1MjI5OCM0ODMjcG5n.png\">https://img.ikstatic.cn/MTc4MDM4ODU1MjI5OCM0ODMjcG5n.png</a></td></tr><tr class=\"\"><td style=\"text-align: center;\">头像框</td><td style=\"text-align: center;\">顶流玩家头像框</td><td style=\"text-align: center;\">10420</td><td style=\"text-align: center;\"><a href=\"https://img.ikstatic.cn/MTc4MDM4ODU2NTU2MyM2ODYjcG5n.png\">https://img.ikstatic.cn/MTc4MDM4ODU2NTU2MyM2ODYjcG5n.png</a></td></tr><tr class=\"\"><td style=\"text-align: center;\">发言波纹</td><td style=\"text-align: center;\">闪耀明星发言波纹</td><td style=\"text-align: center;\">10421</td><td style=\"text-align: center;\"><a href=\"https://img.ikstatic.cn/MTc4MDM4ODg0NTA3NiMzMDAjcG5n.png\">https://img.ikstatic.cn/MTc4MDM4ODg0NTA3NiMzMDAjcG5n.png</a></td></tr><tr class=\"\"><td style=\"text-align: center;\">派对热门二key</td><td style=\"text-align: center;\"><br /></td><td style=\"text-align: center;\">004202606025T48Q</td><td style=\"text-align: center;\"><br /></td></tr><tr class=\"\"><td style=\"text-align: center;\">贵宾卡进房礼物画面</td><td><br /></td><td>5473</td><td><br /></td></tr><tr class=\"\"><td style=\"text-align: center;\">明星卡进房礼物画面</td><td><br /></td><td>5474</td><td><br /></td></tr></tbody></table><h3><strong>一、活动时间</strong></h3><p>长期在线</p><h3><strong>二、活动目标</strong></h3><p>在派对侧设置周榜单，稳定派对侧基础营收，同时完成对现有「派对之星」榜单的替换</p><h3><strong>三、活动背景</strong></h3><p>当前派对侧榜单为2019年上线，至今已使用7年，逻辑及奖励已不适用于当前，进行更新优化</p><h3>四、派对之星回顾</h3><p>派对之星榜单设置关系榜、最豪厅、最多金、最魅力、最热厅、最人气7个榜单，维度设置小时/日/周统计维度，核心奖励为麦序框、厅背景、直播间角标等，奖励覆盖周榜单TOP30，小时榜单日榜无奖励。</p><table class=\"wrapped\"><colgroup><col /><col /><col /></colgroup><tbody><tr><th style=\"text-align: center;\" scope=\"col\">榜单类型</th><th style=\"text-align: center;\" scope=\"col\">统计逻辑及面临群体</th><th style=\"text-align: center;\" scope=\"col\">核心奖励</th></tr><tr><td>关系榜</td><td style=\"text-align: center;\">派对厅榜，未查询到统计逻辑及来源</td><td style=\"text-align: center;\">麦序框</td></tr><tr><td>最豪厅</td><td>派对厅榜，赠送免费礼物、公聊、送礼等互动行为累积积分</td><td>背景、靓号、角标</td></tr><tr><td>最多金</td><td>用户榜，赠送免费礼物、公聊、送礼等互动行为累积积分</td><td style=\"text-align: center;\">麦序框</td></tr><tr><td>最魅力</td><td style=\"text-align: center;\">陪陪榜，赠送免费礼物、公聊、送礼等互动行为累积积分</td><td style=\"text-align: center;\">麦序框</td></tr><tr><td>最热厅</td><td style=\"text-align: center;\">派对厅榜，送礼人数累积积分，1个UID等于1分</td><td style=\"text-align: center;\">背景、靓号、角标</td></tr><tr><td>最人气</td><td style=\"text-align: center;\">陪陪榜，送礼人数累积积分，1个UID等于1分</td><td style=\"text-align: center;\">麦序框</td></tr></tbody></table><h3><strong>五、活动框架</strong></h3><p>缩减榜单维度，更聚焦在营收维度，更改奖励引起争夺</p><h3><ac:image ac:height=\"250\"><ri:attachment ri:filename=\"image-2026-3-11_19-54-32.png\" /></ac:image></h3><h3><strong>六、活动详情</strong></h3><p><strong>玩法时间：</strong>5 月 11 日 00:00:00 &ndash; 长期在线&nbsp; 统计时间：同玩法时间，数据统计以平台服务器时间为准，实时同步至前端展示</p><p><strong>玩法介绍：</strong><span style=\"color: rgb(50,50,50);\">设置派对厅榜单，派对区所有厅统计礼物收礼，依据排名周榜TOP3解锁对应奖励；设置派对陪陪榜单，派对区所有陪陪统计礼物收礼，依据排名周榜TOP3解锁对应奖励</span></p><p><strong>统计范围</strong>：派对区签约厅、签约陪陪</p><p><strong>展示逻辑：</strong>任何人通过任何渠道进入任何榜单均展示自身信息</p><hr /><p><strong>榜单类型与统计规则如下：</strong></p><p>需要调研直播间左上角&ndash;链接 逻辑&nbsp; 和运营对称</p><p><strong>1.派对厅榜单-臻选派对</strong></p><p><strong>统计对象</strong>：派对区签约厅</p><p><strong>签约逻辑：</strong>需联动后台处理，签约后的厅实时纳入统计--同礼物展馆处理逻辑，由 <span><strong>鹤鹏</strong> 处理，需留出手动添加白名单的口子，及黑名单去除逻辑</span></p><p><strong>统计逻辑：</strong>所有签约账号开厅（房主）即记为厅榜单，未开厅记为陪陪榜单，两者互斥，如果两个冲撞，以厅榜单优先。</p><p><strong>统计维度</strong>：全站礼物、活动礼物、免费小映、直播间参与公聊人数</p><table class=\"wrapped\"><thead><tr><th style=\"text-align: center;\">行为类型</th><th style=\"text-align: center;\">换算逻辑</th><th style=\"text-align: center;\">每日积分上限</th><th style=\"text-align: center;\">备注</th></tr></thead><tbody><tr><td style=\"text-align: center;\">全站礼物</td><td style=\"text-align: center;\"><p>1 钻 = 10 积分</p></td><td style=\"text-align: center;\">无</td><td style=\"text-align: center;\"><br /></td></tr><tr><td style=\"text-align: center;\">活动礼物</td><td style=\"text-align: center;\"><p>1 钻 = 15 积分</p></td><td style=\"text-align: center;\">无</td><td style=\"text-align: center;\">需联动基础产品后台、项目归属为活动礼物的记为活动礼物</td></tr><tr><td style=\"text-align: center;\">免费小映</td><td style=\"text-align: center;\"><p>1 个 = 1 积分</p></td><td style=\"text-align: center;\">100 分</td><td style=\"text-align: center;\"><br /></td></tr><tr><td>公聊人数</td><td>1 人 = 5 积分</td><td style=\"text-align: center;\">100 分</td><td>按照UID进行计算</td></tr></tbody></table><p><strong>周期</strong>：活动设置为周榜，统计时间为每自然周&nbsp; 周一00:00:00-周日23:59:59</p><p><strong>周期2：</strong>活动设置小时榜，统计时间为每自然天自然小时的统计，及H5榜单页面展示，不做奖励下发</p><p><strong>奖励下发</strong>：每周 周榜 <strong>TOP10</strong> 依据排名解锁对应奖励，奖励实时下发，并下发私信</p><p>热门有研发自动推，写好时间</p><p class=\"auto-cursor-target\"><br /></p><table class=\"relative-table wrapped\" style=\"width: 96.7626%;\"><colgroup><col style=\"width: 15.6258%;\" /><col style=\"width: 48.9609%;\" /><col style=\"width: 35.4133%;\" /></colgroup><tbody><tr><td style=\"text-align: center;\">排名</td><td style=\"text-align: center;\">派对厅奖励</td><td style=\"text-align: center;\">私信</td></tr><tr><td style=\"text-align: center;\">TOP1</td><td style=\"text-align: center;\"><p><strong>臻选派对封面边框*7天、周一/周二/周三连续3日每晚21:00-21:30派对热二、指定房间靓号-88888</strong></p></td><td style=\"text-align: center;\"><p><strong>【派对榜】恭喜您成为臻选派对周榜TOP-1，获得臻选派对封面边框*7天、周一/周二/周三连续3日每晚21:00-21:30派对热二、指定房间靓号-88888奖励，请注意查收，PS:房间靓号需开播状态下可下发成功，若未收到靓号，请联系运营！</strong></p></td></tr><tr><td style=\"text-align: center;\">TOP2</td><td style=\"text-align: center;\"><strong>臻选派对封面边框*5天、周一/周二连续2日每晚20:30-20:45派对热二、指定房间靓号-66666</strong></td><td style=\"text-align: center;\"><strong>【派对榜】恭喜您成为臻选派对周榜TOP-2，获得臻选派对封面边框*5天、周一/周二连续2日每晚20:30-20:45派对热二、指定房间靓号-66666奖励，请注意查收，PS:房间靓号需开播状态下可下发成功，若未收到靓号，请联系运营！</strong></td></tr><tr><td style=\"text-align: center;\">TOP3</td><td style=\"text-align: center;\"><strong>臻选派对封面边框*3天、周一晚20:15-20:30派对热二、指定房间靓号-55555</strong></td><td style=\"text-align: center;\"><strong>【派对榜】恭喜您成为臻选派对周榜TOP-3，获得臻选派对封面边框*3天、周一晚20:15-20:30派对热二、指定房间靓号-55555奖励，请注意查收，PS:房间靓号需开播状态下可下发成功，若未收到靓号，请联系运营！</strong></td></tr><tr><td style=\"text-align: center;\">TOP4-10</td><td style=\"text-align: center;\">臻选派对直播间标签*3天</td><td style=\"text-align: center;\"><strong>【派对榜】恭喜您成为臻选派对周榜TOP-10，获得臻选派对直播间标签*3天奖励，请注意查收</strong></td></tr></tbody></table><p><strong>2. 派对陪陪榜单--闪耀明星</strong></p><p><strong>统计对象</strong>：派对区签约陪陪</p><p><strong>签约逻辑：</strong>需联动后台处理，签约后的厅实时纳入统计--同礼物展馆处理逻辑，由 <span><strong>鹤鹏</strong> 处理，需留出手动添加白名单的口子，及黑名单去除逻辑</span></p><p><span><strong>统计逻辑：</strong>所有签约账号开厅即记为厅榜单，未开厅记为陪陪榜单，两者互斥，如果两个冲撞，以厅榜单优先。</span></p><p><strong>统计维度</strong>：全站礼物、活动礼物、免费小映、上麦时长</p><table class=\"relative-table wrapped\" style=\"width: 48.573%;\"><colgroup><col style=\"width: 10.5691%;\" /><col style=\"width: 22.0969%;\" /><col style=\"width: 14.4123%;\" /><col style=\"width: 52.8453%;\" /></colgroup><thead><tr><th style=\"text-align: center;\">行为类型</th><th style=\"text-align: center;\">换算逻辑</th><th style=\"text-align: center;\">每日积分上限</th><th style=\"text-align: center;\">备注</th></tr></thead><tbody><tr><td style=\"text-align: center;\">全站礼物</td><td style=\"text-align: center;\"><p>1 钻 = 10 积分</p></td><td style=\"text-align: center;\">无</td><td style=\"text-align: center;\"><br /></td></tr><tr><td style=\"text-align: center;\">活动礼物</td><td style=\"text-align: center;\"><p>1 钻 = 15 积分</p></td><td style=\"text-align: center;\">无</td><td style=\"text-align: center;\">需联动基础产品后台、项目归属为活动礼物的记为活动礼物</td></tr><tr><td style=\"text-align: center;\">免费小映</td><td style=\"text-align: center;\"><p>1 个 = 1 积分</p></td><td style=\"text-align: center;\">100 分</td><td style=\"text-align: center;\"><br /></td></tr><tr><td>上麦时长</td><td style=\"text-align: center;\">每 15 分钟 = 3 积分</td><td style=\"text-align: center;\">100 分</td><td><br /></td></tr></tbody></table><p><strong>周期</strong>：活动设置为周榜，统计时间为每自然周&nbsp; 周一00:00:00-周日23:59:59</p><p><strong>周期2：</strong>活动设置小时榜，统计时间为每自然天自然小时的统计，及H5榜单页面展示，不做奖励下发</p><p><strong>奖励下发</strong>：每周 周榜 <strong>TOP10</strong> 依据排名解锁对应奖励，奖励实时下发，并下发私信</p><table class=\"wrapped relative-table\" style=\"width: 77.9856%;\"><colgroup><col style=\"width: 7.10844%;\" /><col style=\"width: 36.373%;\" /><col style=\"width: 56.5185%;\" /></colgroup><tbody><tr><td style=\"text-align: center;\">排名</td><td style=\"text-align: center;\">嘉宾奖励</td><td style=\"text-align: center;\">私信</td></tr><tr><td style=\"text-align: center;\">TOP1</td><td style=\"text-align: center;\">闪耀明星麦序框*7天、闪耀明星称号*7天、闪耀明星发言波纹*7天</td><td style=\"text-align: center;\"><strong>【派对榜】恭喜您成为闪耀明星周榜TOP-1，获得闪耀明星麦序框*7天、闪耀明星称号*7天、闪耀明星发言波纹*7天奖励，请注意查收</strong></td></tr><tr><td style=\"text-align: center;\">TOP2</td><td style=\"text-align: center;\">闪耀明星麦序框*5天、闪耀明星称号*5天、闪耀明星发言波纹*5天</td><td style=\"text-align: center;\"><strong>【派对榜】恭喜您成为闪耀明星周榜TOP-2，获得闪耀明星麦序框*5天、闪耀明星称号*5天、闪耀明星发言波纹*5天奖励，请注意查收</strong></td></tr><tr><td style=\"text-align: center;\">TOP3</td><td style=\"text-align: center;\">闪耀明星麦序框*3天、闪耀明星称号*3天、闪耀明星发言波纹*3天</td><td style=\"text-align: center;\"><strong>【派对榜】恭喜您成为闪耀明星周榜TOP-3，获得闪耀明星麦序框*3天、闪耀明星称号*3天、闪耀明星发言波纹*3天奖励，请注意查收</strong></td></tr><tr><td style=\"text-align: center;\">TOP4-10</td><td style=\"text-align: center;\">闪耀明星麦序框*1天、闪耀明星称号*1天</td><td style=\"text-align: center;\"><strong>【派对榜】恭喜您成为闪耀明星周榜TOP-10，获得闪耀明星麦序框*1天、闪耀明星称号*1天奖励，请注意查收</strong></td></tr></tbody></table><p class=\"auto-cursor-target\"><br /></p><p><strong>2. 派对用户榜单-玩家</strong></p><p><strong>统计对象</strong>：派对区所有送礼用户</p><p><span><strong>统计逻辑：</strong>所有用户在派对区的送礼</span></p><p><strong>统计维度</strong>：全站礼物、活动礼物、免费小映</p><table class=\"relative-table wrapped\" style=\"width: 48.573%;\"><colgroup><col style=\"width: 10.5691%;\" /><col style=\"width: 22.0969%;\" /><col style=\"width: 14.4123%;\" /><col style=\"width: 52.8453%;\" /></colgroup><thead><tr><th style=\"text-align: center;\">行为类型</th><th style=\"text-align: center;\">换算逻辑</th><th style=\"text-align: center;\">每日积分上限</th><th style=\"text-align: center;\">备注</th></tr></thead><tbody><tr><td style=\"text-align: center;\">全站礼物</td><td style=\"text-align: center;\"><p>1 钻 = 10 积分</p></td><td style=\"text-align: center;\">无</td><td style=\"text-align: center;\"><br /></td></tr><tr><td style=\"text-align: center;\">活动礼物</td><td style=\"text-align: center;\"><p>1 钻 = 15 积分</p></td><td style=\"text-align: center;\">无</td><td style=\"text-align: center;\">需联动基础产品后台、项目归属为活动礼物的记为活动礼物</td></tr><tr><td style=\"text-align: center;\">免费小映</td><td style=\"text-align: center;\"><p>1 个 = 1 积分</p></td><td style=\"text-align: center;\">100 分</td><td style=\"text-align: center;\"><br /></td></tr><tr><td>发布公聊</td><td style=\"text-align: center;\">1 条 = 1 积分</td><td style=\"text-align: center;\">100 分</td><td><br /></td></tr></tbody></table><p><strong>周期</strong>：活动设置为周榜，统计时间为每自然周&nbsp; 周一00:00:00-周日23:59:59</p><p><strong>周期2：</strong>活动设置小时榜，统计时间为每自然天自然小时的统计，及H5榜单页面展示，不做奖励下发</p><p><strong>奖励下发</strong>：每周 周榜 <strong>TOP10</strong> 依据排名解锁对应奖励，奖励实时下发，并下发私信</p><table class=\"wrapped\"><colgroup><col /><col /><col /></colgroup><tbody><tr><td style=\"text-align: center;\">排名</td><td style=\"text-align: center;\">用户奖励</td><td style=\"text-align: center;\">私信</td></tr><tr><td style=\"text-align: center;\">TOP1</td><td style=\"text-align: center;\">顶流玩家麦序框*7天、顶流玩家头像框*7天、顶流玩家称号*7天</td><td style=\"text-align: center;\"><strong>【派对榜】恭喜您成为顶流玩家周榜TOP-1，获得顶流玩家麦序框*7天、顶流玩家头像框*7天、顶流玩家称号*7天奖励，请注意查收</strong></td></tr><tr><td style=\"text-align: center;\">TOP2</td><td style=\"text-align: center;\">顶流玩家麦序框*5天、顶流玩家头像框*5天、顶流玩家称号*5天</td><td style=\"text-align: center;\"><strong>【派对榜】恭喜您成为顶流玩家周榜TOP-2，获得顶流玩家麦序框*5天、顶流玩家头像框*5天、顶流玩家称号*5天奖励，请注意查收</strong></td></tr><tr><td style=\"text-align: center;\">TOP3</td><td style=\"text-align: center;\">顶流玩家麦序框*3天、顶流玩家头像框*3天、顶流玩家称号*3天</td><td style=\"text-align: center;\"><strong>【派对榜】恭喜您成为顶流玩家周榜TOP-3，获得顶流玩家麦序框*3天、顶流玩家头像框*3天、顶流玩家称号*3天奖励，请注意查收</strong></td></tr><tr><td style=\"text-align: center;\">TOP4-10</td><td style=\"text-align: center;\">顶流玩家麦序框*1天、顶流玩家头像框*1天</td><td style=\"text-align: center;\"><strong>【派对榜】恭喜您成为顶流玩家周榜TOP-10，获得顶流玩家麦序框*1天、顶流玩家头像框*1天奖励，请注意查收</strong></td></tr></tbody></table><p class=\"auto-cursor-target\"><br /></p><table class=\"wrapped\"><tbody class=\"\"><tr class=\"\"><td style=\"text-align: center;\">资源类型</td><td style=\"text-align: center;\">资源名称</td><td style=\"text-align: center;\">资源ID</td><td style=\"text-align: center;\">URL</td></tr><tr class=\"\"><td style=\"text-align: center;\">封面边框</td><td style=\"text-align: center;\">臻选派对封面边框</td><td style=\"text-align: center;\">18206</td><td style=\"text-align: center;\"><a href=\"https://img.ikstatic.cn/MTc4MDM4ODI3MzczMSM2NDYjcG5n.png\">https://img.ikstatic.cn/MTc4MDM4ODI3MzczMSM2NDYjcG5n.png</a></td></tr><tr class=\"\"><td style=\"text-align: center;\">直播间标签</td><td style=\"text-align: center;\">臻选派对直播间标签</td><td style=\"text-align: center;\">18207</td><td style=\"text-align: center;\"><a href=\"https://img.ikstatic.cn/MTc4MDM4ODMyNDM2OCM0MjMjcG5n.png\">https://img.ikstatic.cn/MTc4MDM4ODMyNDM2OCM0MjMjcG5n.png</a></td></tr><tr class=\"\"><td style=\"text-align: center;\">称号</td><td style=\"text-align: center;\">闪耀明星</td><td style=\"text-align: center;\">2307</td><td style=\"text-align: center;\"><a href=\"https://img.ikstatic.cn/MTc4MDM4ODQxMTI0MSM4MjIjcG5n.png\">https://img.ikstatic.cn/MTc4MDM4ODQxMTI0MSM4MjIjcG5n.png</a></td></tr><tr class=\"\"><td style=\"text-align: center;\">称号</td><td style=\"text-align: center;\">顶流玩家</td><td style=\"text-align: center;\">2308</td><td style=\"text-align: center;\"><a href=\"https://img.ikstatic.cn/MTc4MDM4ODUwMjc3MiM3MDkjcG5n.png\">https://img.ikstatic.cn/MTc4MDM4ODUwMjc3MiM3MDkjcG5n.png</a></td></tr><tr class=\"\"><td style=\"text-align: center;\">麦序框</td><td style=\"text-align: center;\">闪耀明星麦序框</td><td style=\"text-align: center;\">10418</td><td style=\"text-align: center;\"><a href=\"https://img.ikstatic.cn/MTc4MDM4ODUzOTg3MiMgNzkjcG5n.png\">https://img.ikstatic.cn/MTc4MDM4ODUzOTg3MiMgNzkjcG5n.png</a></td></tr><tr class=\"\"><td style=\"text-align: center;\">麦序框</td><td style=\"text-align: center;\">顶流玩家麦序框</td><td style=\"text-align: center;\">10419</td><td style=\"text-align: center;\"><a href=\"https://img.ikstatic.cn/MTc4MDM4ODU1MjI5OCM0ODMjcG5n.png\">https://img.ikstatic.cn/MTc4MDM4ODU1MjI5OCM0ODMjcG5n.png</a></td></tr><tr class=\"\"><td style=\"text-align: center;\">头像框</td><td style=\"text-align: center;\">顶流玩家头像框</td><td style=\"text-align: center;\">10420</td><td style=\"text-align: center;\"><a href=\"https://img.ikstatic.cn/MTc4MDM4ODU2NTU2MyM2ODYjcG5n.png\">https://img.ikstatic.cn/MTc4MDM4ODU2NTU2MyM2ODYjcG5n.png</a></td></tr><tr class=\"\"><td style=\"text-align: center;\">发言波纹</td><td style=\"text-align: center;\">闪耀明星发言波纹</td><td style=\"text-align: center;\">10421</td><td style=\"text-align: center;\"><a href=\"https://img.ikstatic.cn/MTc4MDM4ODg0NTA3NiMzMDAjcG5n.png\">https://img.ikstatic.cn/MTc4MDM4ODg0NTA3NiMzMDAjcG5n.png</a></td></tr><tr class=\"\"><td style=\"text-align: center;\">派对热门二key</td><td style=\"text-align: center;\"><br /></td><td style=\"text-align: center;\"><br /></td><td style=\"text-align: center;\">004202606025T48Q</td></tr><tr class=\"\"><td style=\"text-align: center;\">贵宾卡</td><td><br /></td><td>5473</td><td><br /></td></tr><tr class=\"\"><td style=\"text-align: center;\">明星卡</td><td><br /></td><td>5474</td><td><br /></td></tr></tbody></table><p class=\"auto-cursor-target\"><strong style=\"letter-spacing: 0.0px;\">名人堂逻辑</strong></p><p>每周厅TOP-1，陪陪榜单TOP-1进入名人堂进行展示，以月为单位，后续月份来临后，上一个月收起</p><p><strong>贵宾卡、明星卡逻辑</strong></p><p><span>派对榜单TOP10，为厅送礼最多的用户可获得该房间贵宾卡*1周，一周内进入房间享受该房间贵宾待遇，奖励结榜实时下发，同时下发私信。</span></p><table class=\"wrapped\"><colgroup><col /><col /></colgroup><tbody><tr><td style=\"text-align: center;\">奖励</td><td style=\"text-align: center;\">资源Id</td></tr><tr><td style=\"text-align: center;\">贵宾卡礼物画面</td><td style=\"text-align: center;\">5473</td></tr><tr><td style=\"text-align: center;\">贵宾进房提示</td><td style=\"text-align: center;\">欢迎房间昵称的贵宾卡持有者用户昵称进入房间~</td></tr></tbody></table><p><span>派对榜单TOP10，房间收礼最多的嘉宾可获得该房间明星卡*1周，1周内在房间享受该房间明星待遇，奖励结榜实时下发，同时下发私信。</span></p><p>房间明星卡奖励：</p><p>明星卡物画面：5474</p><table class=\"relative-table wrapped\" style=\"width: 36.7129%;\"><colgroup><col style=\"width: 28.3421%;\" /><col style=\"width: 71.5765%;\" /></colgroup><tbody><tr><td style=\"text-align: center;\">奖励</td><td style=\"text-align: center;\">资源Id</td></tr><tr><td style=\"text-align: center;\">明星专享进房提示</td><td style=\"text-align: center;\">文案：欢迎房间昵称的明星卡持有者主播昵称进入房间~</td></tr><tr><td style=\"text-align: center;\">明星专享上麦提示</td><td style=\"text-align: center;\">文案：本房间明星卡持有者主播昵称刚刚上麦~</td></tr></tbody></table><h3><strong>七、后续规划</strong></h3><p><strong>抢热门</strong></p><p><strong>后续考虑增设半小时榜单，半小时周期内厅收礼达到指定门槛，榜单TOP-3分别享受派对厅首页特殊热门展示</strong></p>",
+      "representation": "storage",
+      "_expandable": {
+        "content": "/rest/api/content/488343271"
+      }
+    },
+    "_expandable": {
+      "editor": "",
+      "view": "",
+      "export_view": "",
+      "styled_view": "",
+      "anonymous_export_view": ""
+    }
+  },
+  "extensions": {
+    "position": "none"
+  },
+  "_links": {
+    "webui": "/pages/viewpage.action?pageId=488343271",
+    "edit": "/pages/resumedraft.action?draftId=488343271&draftShareId=a2675b84-de23-4034-a3bc-6ef20de5b647",
+    "tinyui": "/x/54YbHQ",
+    "collection": "/rest/api/content",
+    "base": "https://wiki.inkept.cn",
+    "context": "",
+    "self": "https://wiki.inkept.cn/rest/api/content/488343271"
+  },
+  "_expandable": {
+    "container": "/rest/api/space/xueyuan",
+    "metadata": "",
+    "operations": "",
+    "children": "/rest/api/content/488343271/child",
+    "restrictions": "/rest/api/content/488343271/restriction/byOperation",
+    "history": "/rest/api/content/488343271/history",
+    "descendants": "/rest/api/content/488343271/descendant"
+  }
+}

@@ -1,0 +1,26 @@
+<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>First use</title><link rel="stylesheet" href="../shared/slides.css"></head><body>
+<article class="slide" aria-label="第一次使用 OMX">
+  <div class="masthead">OH-MY-CODEX / TECHNICAL SHARING</div><h1 class="slide-title">第一次使用，先跑一条最短的可信闭环</h1><div class="title-rule"></div>
+  <section class="content">
+    <div class="first-grid">
+      <section class="command-group"><div class="label">SHELL / 环境与调用链</div><pre class="code">codex --version
+
+omx doctor
+
+omx exec --skip-git-repo-check -C . \
+  "Reply with exactly OMX-EXEC-OK"
+
+omx --worktree=feat/demo --xhigh</pre></section>
+      <div class="arrow" aria-hidden="true"></div>
+      <section class="command-group conversation"><div class="label">CONVERSATION / 研发闭环</div><pre class="code">$deep-interview
+"澄清认证改造范围与验收"
+
+$ralplan
+"评审认证改造方案与风险"
+
+$ultragoal
+"按批准方案完成实现和验证"</pre></section>
+    </div>
+    <p class="first-close">验收闭环：命令可用 → 模型可调用 → 仓库可修改 → 测试有新鲜证据 → 状态可恢复</p>
+  </section><footer class="footer"><span class="source">先证明最短路径，再扩大到 Team 和长任务</span><span class="page">12</span></footer>
+</article><script src="../shared/slide.js"></script></body></html>

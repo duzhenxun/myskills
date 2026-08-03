@@ -1,0 +1,261 @@
+{
+  "id": "488346325",
+  "type": "page",
+  "status": "current",
+  "title": "【春日繁花盛宴】qa文档",
+  "space": {
+    "id": 3571713,
+    "key": "xueyuan",
+    "name": "映客直播业务",
+    "type": "global",
+    "_links": {
+      "webui": "/display/xueyuan",
+      "self": "https://wiki.inkept.cn/rest/api/space/xueyuan"
+    },
+    "_expandable": {
+      "metadata": "",
+      "icon": "",
+      "description": "",
+      "retentionPolicy": "",
+      "homepage": "/rest/api/content/320866330"
+    }
+  },
+  "version": {
+    "by": {
+      "type": "known",
+      "username": "maxiaona",
+      "userKey": "8aef97167d450205017db1d1e6df008b",
+      "profilePicture": {
+        "path": "/images/icons/profilepics/default.svg",
+        "width": 48,
+        "height": 48,
+        "isDefault": true
+      },
+      "displayName": "马晓娜",
+      "_links": {
+        "self": "https://wiki.inkept.cn/rest/api/user?key=8aef97167d450205017db1d1e6df008b"
+      },
+      "_expandable": {
+        "status": ""
+      }
+    },
+    "when": "2026-03-13T19:08:37.000+08:00",
+    "message": "",
+    "number": 1,
+    "minorEdit": false,
+    "hidden": false,
+    "_links": {
+      "self": "https://wiki.inkept.cn/rest/experimental/content/488346325/version/1"
+    },
+    "_expandable": {
+      "content": "/rest/api/content/488346325"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "320866330",
+      "type": "page",
+      "status": "current",
+      "title": "映客直播业务",
+      "extensions": {
+        "position": "none"
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=320866330",
+        "edit": "/pages/resumedraft.action?draftId=320866330&draftShareId=d5d92a4f-fb15-4a51-8bd6-16333cb6f165",
+        "tinyui": "/x/GgggEw",
+        "self": "https://wiki.inkept.cn/rest/api/content/320866330"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/320866330/child",
+        "restrictions": "/rest/api/content/320866330/restriction/byOperation",
+        "history": "/rest/api/content/320866330/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/320866330/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    },
+    {
+      "id": "326510548",
+      "type": "page",
+      "status": "current",
+      "title": "直播业务线-运营",
+      "extensions": {
+        "position": 2
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=326510548",
+        "edit": "/pages/resumedraft.action?draftId=326510548&draftShareId=0ea027df-6f8f-4663-bbd6-217ba023f41b",
+        "tinyui": "/x/1Cd2Ew",
+        "self": "https://wiki.inkept.cn/rest/api/content/326510548"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/326510548/child",
+        "restrictions": "/rest/api/content/326510548/restriction/byOperation",
+        "history": "/rest/api/content/326510548/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/326510548/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    },
+    {
+      "id": "331456836",
+      "type": "page",
+      "status": "current",
+      "title": "【活动组】",
+      "extensions": {
+        "position": 11
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=331456836",
+        "edit": "/pages/resumedraft.action?draftId=331456836",
+        "tinyui": "/x/RKHBEw",
+        "self": "https://wiki.inkept.cn/rest/api/content/331456836"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/331456836/child",
+        "restrictions": "/rest/api/content/331456836/restriction/byOperation",
+        "history": "/rest/api/content/331456836/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/331456836/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    },
+    {
+      "id": "452644191",
+      "type": "page",
+      "status": "current",
+      "title": "【2026营收运营活动】",
+      "extensions": {
+        "position": "none"
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=452644191",
+        "edit": "/pages/resumedraft.action?draftId=452644191&draftShareId=97d3197f-f0cd-4143-8fbf-d96b4892c680",
+        "tinyui": "/x/X836Gg",
+        "self": "https://wiki.inkept.cn/rest/api/content/452644191"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/452644191/child",
+        "restrictions": "/rest/api/content/452644191/restriction/byOperation",
+        "history": "/rest/api/content/452644191/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/452644191/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    },
+    {
+      "id": "478981918",
+      "type": "page",
+      "status": "current",
+      "title": "2026年3月份活动",
+      "extensions": {
+        "position": "none"
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=478981918",
+        "edit": "/pages/resumedraft.action?draftId=478981918&draftShareId=eb99f1fc-6661-4915-83e0-49b3a4c5a84b",
+        "tinyui": "/x/Hq_MH",
+        "self": "https://wiki.inkept.cn/rest/api/content/478981918"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/478981918/child",
+        "restrictions": "/rest/api/content/478981918/restriction/byOperation",
+        "history": "/rest/api/content/478981918/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/478981918/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    },
+    {
+      "id": "483790250",
+      "type": "page",
+      "status": "current",
+      "title": "3.14-3.18春日繁花盛宴",
+      "extensions": {
+        "position": "none"
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=483790250",
+        "edit": "/pages/resumedraft.action?draftId=483790250&draftShareId=59b05c65-21d1-4c42-a297-e2bd48b29b81",
+        "tinyui": "/x/qg3WH",
+        "self": "https://wiki.inkept.cn/rest/api/content/483790250"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/483790250/child",
+        "restrictions": "/rest/api/content/483790250/restriction/byOperation",
+        "history": "/rest/api/content/483790250/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/483790250/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    }
+  ],
+  "body": {
+    "storage": {
+      "value": "<p><span style=\"color: rgb(0,0,0);\"><strong>数据统计维度</strong></span></p><p><span style=\"color: rgb(0,0,0);\">数据统计维度</span><br /><span style=\"color: rgb(0,0,0);\">主播（主播礼）：仅统计普通视频直播间、公共直播间、PK送礼和友聊送礼渠道，其他送礼方式均不计入统计。</span><br /><span style=\"color: rgb(0,0,0);\">派对（嘉宾收礼）：厅主及厅内嘉宾4人视频，6人视频，9人音频房间收礼的专属礼物收入，其余方式均不计入统计。谁收算谁的。</span></p><p><strong><span style=\"color: rgb(0,0,0);\">1、主播玩法：</span></strong></p><p><span style=\"color: rgb(0,0,0);\"><strong>收礼任务玩法逻辑</strong>：</span></p><p><span style=\"color: rgb(50,50,50);\">活动期间，每次收礼达到21钻石即可获得1朵玫瑰花，累计次数达到对应阶段，解锁对应的曝光奖励，为活动期间累计循环任务</span></p><table><colgroup class=\"\"><col class=\"\" /><col class=\"\" /><col class=\"\" /></colgroup><tbody class=\"\"><tr class=\"\"><td>累计次数</td><td>成本</td><td>奖励</td></tr><tr class=\"\"><td>1888</td><td>39648</td><td>直播间画面+<span style=\"color: rgb(255,0,0);\">直播间公聊</span></td></tr><tr class=\"\"><td>2500</td><td>52500</td><td>全站弹幕+全站画面</td></tr></tbody></table><p>弹幕文案：【春日繁花盛宴】恭喜用户昵称携手主播昵称盛世花开，荣耀加冕。</p><p>直播间公聊：【春日繁花盛宴】恭喜用户昵称携手主播昵称盛世花开。&ndash;公聊文案不对，没有荣耀加冕。&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p><p><br /></p><p><span style=\"color: rgb(50,50,50);\"><strong>2、主播人数任务：</strong>活动设置主播被收礼人数打卡任务，收集不同人数达到不同阶段，解锁对应奖励，（打卡奖励任务区分主播/陪陪），为活动期间累计循环任务</span></p><p class=\"auto-cursor-target\"><br /></p><table><tbody class=\"\"><tr class=\"\"><td>主播收礼人数任务</td><td><br /></td><td><br /></td><td><br /></td></tr><tr class=\"\"><td>关卡</td><td>任务值</td><td>资源类型</td><td>资源名称</td></tr><tr class=\"\"><td>task_key</td><td>score_total</td><td>prize_type</td><td>prize_name</td></tr><tr class=\"\"><td>1</td><td>8</td><td>头像框</td><td>春日繁花头像框</td></tr><tr class=\"\"><td>2</td><td>20</td><td>称号</td><td>春日繁花称号</td></tr><tr class=\"\"><td>3</td><td>30</td><td>主页挂件1</td><td>春日繁花主页挂件</td></tr><tr class=\"\"><td>4</td><td>40</td><td>浮屏</td><td>春日繁花主页浮屏</td></tr></tbody></table><p class=\"auto-cursor-target\"><br /></p><table><tbody class=\"\"><tr class=\"\"><td>陪陪收礼人数任务</td><td><br /></td><td><br /></td><td><br /></td></tr><tr class=\"\"><td>关卡</td><td>任务值</td><td>资源类型</td><td>资源名称</td></tr><tr class=\"\"><td>task_key</td><td>score_total</td><td>prize_type</td><td>prize_name</td></tr><tr class=\"\"><td>1</td><td>10</td><td>麦序框</td><td>春日繁花麦序框</td></tr><tr class=\"\"><td>2</td><td>20</td><td>称号</td><td>春日繁花称号</td></tr><tr class=\"\"><td>3</td><td>30</td><td>主页挂件</td><td>春日繁花主页挂件</td></tr><tr class=\"\"><td>4</td><td>40</td><td>浮屏</td><td>春日繁花主页浮屏</td></tr></tbody></table><p><br /></p><p><br /></p><p><strong>3、用户贡献榜单</strong></p><ul><li><span style=\"color: rgb(50,50,50);\">主播完成日收礼任务达到第二阶段后，即可开启用户贡献榜单奖励，用户每日贡献达到TOP3即可获得奖励。</span><p class=\"p1\">需要消耗达到1000钻的</p></li></ul><table class=\"relative-table\" style=\"width: 19.3509%;\"><colgroup class=\"\"><col class=\"\" style=\"width: 19.1522%;\" /><col class=\"\" style=\"width: 32.7591%;\" /><col class=\"\" style=\"width: 48.0887%;\" /></colgroup><tbody class=\"\"><tr class=\"\"><td>排名</td><td>资源类型</td><td>资源名称</td></tr><tr class=\"\"><td>rank</td><td>prize_type</td><td>prize_name</td></tr><tr class=\"\"><td>1</td><td>头像框</td><td>花间闪耀头像框</td></tr><tr class=\"\"><td><br /></td><td>麦序框</td><td>花间闪耀麦序框</td></tr><tr class=\"\"><td><br /></td><td>称号</td><td>花间闪耀称号</td></tr><tr class=\"\"><td><br /></td><td>公聊皮肤</td><td>花间闪耀<span class=\"font2\">公聊皮肤</span></td></tr><tr class=\"\"><td><br /></td><td>公聊角标</td><td>花间闪耀公聊角标</td></tr><tr class=\"\"><td>2_3</td><td>头像框</td><td>花间闪耀头像框</td></tr><tr class=\"\"><td><br /></td><td>麦序框</td><td>花间闪耀麦序框</td></tr><tr class=\"\"><td><br /></td><td>称号</td><td>花间闪耀称号</td></tr><tr class=\"\"><td><br /></td><td>公聊角标</td><td>花间闪耀公聊角标</td></tr></tbody></table><p class=\"auto-cursor-target\"><br /></p><p><br /></p><p><strong>4、主播</strong><strong>日榜</strong></p><p><strong><span style=\"color: rgb(51,153,102);\">玩法逻辑：</span></strong></p><ul><li><span style=\"color: rgb(51,153,102);\"><span style=\"color: rgb(17,31,44);\">活动期间，当红主播/新秀主播/派对嘉宾每日累计收礼参与日榜争夺，根据榜单排名点亮奖励。</span></span></li><li><span style=\"color: rgb(51,153,102);\"><span style=\"color: rgb(17,31,44);\">当红主播为近60天收礼大于等于70w，新秀主播为小于70w----统计普通视频直播间</span></span></li><li><span style=\"color: rgb(51,153,102);\"><span style=\"color: rgb(17,31,44);\">派对嘉宾（含厅主）为白名单----统计469直播间。</span></span></li><li>奖励与私信由研发实时下发</li></ul><table class=\"relative-table\" style=\"width: 21.9067%;\"><colgroup class=\"\"><col class=\"\" style=\"width: 27.6877%;\" /><col class=\"\" style=\"width: 16.502%;\" /><col class=\"\" style=\"width: 55.8102%;\" /></colgroup><tbody class=\"\"><tr class=\"\"><td style=\"text-align: left;\">当红主播日榜</td><td style=\"text-align: left;\"><br /></td><td style=\"text-align: left;\"><br /></td></tr><tr class=\"\"><td style=\"text-align: left;\">排名</td><td style=\"text-align: left;\">资源类型</td><td style=\"text-align: left;\">资源名称</td></tr><tr class=\"\"><td style=\"text-align: left;\">rank</td><td style=\"text-align: left;\">prize_type</td><td style=\"text-align: left;\">prize_name</td></tr><tr class=\"\"><td style=\"text-align: left;\">1</td><td style=\"text-align: left;\">称号</td><td style=\"text-align: left;\">繁花加冕称号</td></tr><tr class=\"\"><td style=\"text-align: left;\"><br /></td><td style=\"text-align: left;\">挂件</td><td style=\"text-align: left;\">繁花加冕主页挂件</td></tr><tr class=\"\"><td style=\"text-align: left;\"><br /></td><td style=\"text-align: left;\">头像框</td><td style=\"text-align: left;\">繁花加冕动态头像框</td></tr><tr class=\"\"><td style=\"text-align: left;\"><br /></td><td style=\"text-align: left;\">热门卡</td><td style=\"text-align: left;\">热13推荐卡</td></tr><tr class=\"\"><td style=\"text-align: left;\">2_5</td><td style=\"text-align: left;\">称号</td><td style=\"text-align: left;\">繁花加冕称号</td></tr><tr class=\"\"><td style=\"text-align: left;\"><br /></td><td style=\"text-align: left;\">挂件</td><td style=\"text-align: left;\">繁花加冕主页挂件</td></tr><tr class=\"\"><td style=\"text-align: left;\"><br /></td><td style=\"text-align: left;\">头像框</td><td style=\"text-align: left;\">繁花加冕动态头像框</td></tr><tr class=\"\"><td style=\"text-align: left;\"><br /></td><td style=\"text-align: left;\">热门卡</td><td style=\"text-align: left;\">热13推荐卡</td></tr><tr class=\"\"><td style=\"text-align: left;\">6_10</td><td style=\"text-align: left;\">称号</td><td style=\"text-align: left;\">繁花加冕称号</td></tr><tr class=\"\"><td style=\"text-align: left;\"><br /></td><td style=\"text-align: left;\">挂件</td><td style=\"text-align: left;\">繁花加冕主页挂件</td></tr><tr class=\"\"><td style=\"text-align: left;\"><br /></td><td style=\"text-align: left;\">头像框</td><td style=\"text-align: left;\">繁花加冕动态头像框</td></tr><tr class=\"\"><td style=\"text-align: left;\">新秀主播日榜</td><td style=\"text-align: left;\"><br /></td><td style=\"text-align: left;\"><br /></td></tr><tr class=\"\"><td style=\"text-align: left;\">排名</td><td style=\"text-align: left;\">资源类型</td><td style=\"text-align: left;\">资源名称</td></tr><tr class=\"\"><td style=\"text-align: left;\">rank</td><td style=\"text-align: left;\">prize_type</td><td style=\"text-align: left;\">prize_name</td></tr><tr class=\"\"><td style=\"text-align: left;\">1</td><td style=\"text-align: left;\">称号</td><td style=\"text-align: left;\">繁花加冕称号</td></tr><tr class=\"\"><td style=\"text-align: left;\"><br /></td><td style=\"text-align: left;\">挂件</td><td style=\"text-align: left;\">繁花加冕主页挂件</td></tr><tr class=\"\"><td style=\"text-align: left;\"><br /></td><td style=\"text-align: left;\">头像框</td><td style=\"text-align: left;\">繁花加冕动态头像框</td></tr><tr class=\"\"><td style=\"text-align: left;\"><br /></td><td style=\"text-align: left;\">热门卡</td><td style=\"text-align: left;\">热13推荐卡</td></tr><tr class=\"\"><td style=\"text-align: left;\">2_5</td><td style=\"text-align: left;\">称号</td><td style=\"text-align: left;\">繁花加冕称号</td></tr><tr class=\"\"><td style=\"text-align: left;\"><br /></td><td style=\"text-align: left;\">挂件</td><td style=\"text-align: left;\">繁花加冕主页挂件</td></tr><tr class=\"\"><td style=\"text-align: left;\"><br /></td><td style=\"text-align: left;\">头像框</td><td style=\"text-align: left;\">繁花加冕动态头像框</td></tr><tr class=\"\"><td style=\"text-align: left;\">6_10</td><td style=\"text-align: left;\">称号</td><td style=\"text-align: left;\">繁花加冕称号</td></tr><tr class=\"\"><td style=\"text-align: left;\"><br /></td><td style=\"text-align: left;\">挂件</td><td style=\"text-align: left;\">繁花加冕主页挂件</td></tr><tr class=\"\"><td style=\"text-align: left;\"><br /></td><td style=\"text-align: left;\">头像框</td><td style=\"text-align: left;\">繁花加冕动态头像框</td></tr><tr class=\"\"><td style=\"text-align: left;\">嘉宾日榜</td><td style=\"text-align: left;\"><br /></td><td style=\"text-align: left;\"><br /></td></tr><tr class=\"\"><td style=\"text-align: left;\">排名</td><td style=\"text-align: left;\">资源类型</td><td style=\"text-align: left;\">资源名称</td></tr><tr class=\"\"><td style=\"text-align: left;\">rank</td><td style=\"text-align: left;\">prize_type</td><td style=\"text-align: left;\">prize_name</td></tr><tr class=\"\"><td style=\"text-align: left;\">1</td><td style=\"text-align: left;\">称号</td><td style=\"text-align: left;\">繁花加冕称号</td></tr><tr class=\"\"><td style=\"text-align: left;\"><br /></td><td style=\"text-align: left;\">挂件</td><td style=\"text-align: left;\">繁花加冕主页挂件</td></tr><tr class=\"\"><td style=\"text-align: left;\"><br /></td><td style=\"text-align: left;\">头像框</td><td style=\"text-align: left;\">繁花加冕动态头像框</td></tr><tr class=\"\"><td style=\"text-align: left;\"><br /></td><td style=\"text-align: left;\">上麦动效</td><td style=\"text-align: left;\">繁花加冕上麦动效</td></tr><tr class=\"\"><td style=\"text-align: left;\">2_5</td><td style=\"text-align: left;\">称号</td><td style=\"text-align: left;\">繁花加冕称号</td></tr><tr class=\"\"><td style=\"text-align: left;\"><br /></td><td style=\"text-align: left;\">挂件</td><td style=\"text-align: left;\">繁花加冕主页挂件</td></tr><tr class=\"\"><td style=\"text-align: left;\"><br /></td><td style=\"text-align: left;\">头像框</td><td style=\"text-align: left;\">繁花加冕动态头像框</td></tr><tr class=\"\"><td style=\"text-align: left;\"><br /></td><td style=\"text-align: left;\">上麦动效</td><td style=\"text-align: left;\">繁花加冕上麦动效</td></tr><tr class=\"\"><td style=\"text-align: left;\">6_10</td><td style=\"text-align: left;\">称号</td><td style=\"text-align: left;\">繁花加冕称号</td></tr><tr class=\"\"><td style=\"text-align: left;\"><br /></td><td style=\"text-align: left;\">头像框</td><td style=\"text-align: left;\">繁花加冕动态头像框</td></tr><tr class=\"\"><td style=\"text-align: left;\"><br /></td><td style=\"text-align: left;\">上麦动效</td><td style=\"text-align: left;\">繁花加冕上麦动效</td></tr></tbody></table><p class=\"auto-cursor-target\"><br /></p><p class=\"auto-cursor-target\"><br /></p><p class=\"auto-cursor-target\"><br /></p><p><strong>5、用户玩法</strong></p><p><span style=\"color: rgb(50,50,50);\">主播直播间 &ldquo;冲刺任务&rdquo;：用户给单个主播（派对厅算陪陪为单个主播）单日消耗满 2000积分，（每天每个主播限制1次），则算作1次，累计次数获得对应的资源奖励，活动期间的累计循环任务</span></p><table class=\"relative-table\" style=\"width: 24.1785%;\"><colgroup class=\"\"><col class=\"\" style=\"width: 18.8356%;\" /><col class=\"\" style=\"width: 22.3673%;\" /><col class=\"\" style=\"width: 14.9676%;\" /><col class=\"\" style=\"width: 43.8294%;\" /></colgroup><tbody class=\"\"><tr class=\"\"><td>关卡</td><td>任务值</td><td>资源类型</td><td>资源名称</td></tr><tr class=\"\"><td>task_key</td><td>score_total</td><td>prize_type</td><td>prize_name</td></tr><tr class=\"\"><td>1</td><td>1</td><td>头像框</td><td>锦绣赏客头像框</td></tr><tr class=\"\"><td>2</td><td>3</td><td>麦序框</td><td>锦绣赏客麦序框</td></tr><tr class=\"\"><td>3</td><td>5</td><td>公聊皮肤</td><td>锦绣赏客公聊皮肤</td></tr><tr class=\"\"><td>4</td><td>10</td><td>称号</td><td>锦绣赏客称号</td></tr><tr class=\"\"><td>5</td><td>20</td><td>浮屏</td><td>锦绣赏客浮屏</td></tr></tbody></table><p><br /></p><p><strong><span style=\"color: rgb(50,50,50);\">6、用户日榜奖励</span></strong></p><p><span style=\"color: rgb(50,50,50);\">活动期间用户每日送礼（1钻石=1积分），每日的top10获得资源奖励</span></p><table style=\"text-decoration: none;\"><tbody class=\"\"><tr class=\"\"><td style=\"text-align: left;\">排名</td><td style=\"text-align: left;\">资源类型</td><td style=\"text-align: left;\">资源名称</td></tr><tr class=\"\"><td style=\"text-align: left;\">rank</td><td style=\"text-align: left;\">prize_type</td><td style=\"text-align: left;\">prize_name</td></tr><tr class=\"\"><td style=\"text-align: left;\">1</td><td style=\"text-align: left;\">头像框</td><td style=\"text-align: left;\">盛世芳华动态头像框</td></tr><tr class=\"\"><td style=\"text-align: left;\"><br /></td><td style=\"text-align: left;\">称号</td><td style=\"text-align: left;\">盛世芳华称号</td></tr><tr class=\"\"><td style=\"text-align: left;\"><br /></td><td style=\"text-align: left;\">浮屏挂件</td><td style=\"text-align: left;\">盛世芳华挂件</td></tr><tr class=\"\"><td style=\"text-align: left;\"><br /></td><td style=\"text-align: left;\">资料卡浮屏</td><td style=\"text-align: left;\">爱意绵绵资料卡浮屏</td></tr><tr class=\"\"><td style=\"text-align: left;\">2_5</td><td style=\"text-align: left;\">头像框</td><td style=\"text-align: left;\">盛世芳华动态头像框</td></tr><tr class=\"\"><td style=\"text-align: left;\"><br /></td><td style=\"text-align: left;\">称号</td><td style=\"text-align: left;\">盛世芳华称号</td></tr><tr class=\"\"><td style=\"text-align: left;\"><br /></td><td style=\"text-align: left;\">浮屏挂件</td><td style=\"text-align: left;\">盛世芳华挂件</td></tr><tr class=\"\"><td style=\"text-align: left;\"><br /></td><td style=\"text-align: left;\">资料卡浮屏</td><td style=\"text-align: left;\">爱意绵绵资料卡浮屏</td></tr><tr class=\"\"><td style=\"text-align: left;\">6_10</td><td style=\"text-align: left;\">头像框</td><td style=\"text-align: left;\">盛世芳华动态头像框</td></tr><tr class=\"\"><td style=\"text-align: left;\"><br /></td><td style=\"text-align: left;\">称号</td><td style=\"text-align: left;\">盛世芳华称号</td></tr><tr class=\"\"><td style=\"text-align: left;\"><br /></td><td style=\"text-align: left;\">浮屏挂件</td><td style=\"text-align: left;\">盛世芳华挂件</td></tr></tbody></table><p class=\"auto-cursor-target\"><br /></p><p><br /></p><p><br /></p><p><strong>7、小映玩法</strong></p><p><span style=\"color: rgb(0,51,102);\"><strong>玩法逻辑：</strong></span></p><p><span style=\"color: rgb(0,51,102);\"><strong>小映幸运礼物</strong></span></p><ul><li><span style=\"color: rgb(51,51,51);\">活动设置小映礼物，每次送礼获得幸运礼物B后均有1%的几率获得4个同样的礼物B</span></li><li><span style=\"color: rgb(51,51,51);\">后台设置输出和产出，当输出-产出的剩余金额，不足以覆盖掉4个同样的礼物b的金额，则不获得4个幸运礼物b</span></li><li><span style=\"color: rgb(51,51,51);\">用户获得5倍的礼物，则触发全站悬浮公聊：【小映】恭喜用户昵称获得礼物名称（映币）送给主播昵称~</span></li><li><span style=\"color: rgb(51,51,51);\">研发逻辑：正常触发幸运礼物B，1%的机会命中5倍，则再额外下发4个礼物B</span></li></ul><p><br /><br /></p><table class=\"relative-table\" style=\"width: 26.6937%;\"><colgroup class=\"\"><col class=\"\" style=\"width: 22.1998%;\" /><col class=\"\" style=\"width: 26.9135%;\" /><col class=\"\" style=\"width: 29.8025%;\" /><col class=\"\" style=\"width: 29.4984%;\" /><col class=\"\" style=\"width: 34.8203%;\" /><col class=\"\" style=\"width: 32.8436%;\" /></colgroup><tbody class=\"\"><tr class=\"\"><td style=\"text-align: left;\" colspan=\"6\">6号小映</td></tr><tr class=\"\"><td style=\"text-align: left;\">时间</td><td style=\"text-align: left;\">礼物名称</td><td style=\"text-align: left;\">礼物 id</td><td style=\"text-align: left;\">礼物价格</td><td style=\"text-align: left;\">资源 id</td><td style=\"text-align: left;\">奖池</td></tr><tr class=\"\"><td style=\"text-align: left;\"><br /></td><td style=\"text-align: left;\">name</td><td style=\"text-align: left;\">gift_id</td><td style=\"text-align: left;\">price</td><td style=\"text-align: left;\">resource_id</td><td style=\"text-align: left;\">draw_type</td></tr><tr class=\"\"><td style=\"text-align: left;\">3.14-3.18</td><td style=\"text-align: center;\">繁花小映</td><td style=\"text-align: center;\">24126</td><td style=\"text-align: center;\">1888</td><td style=\"text-align: center;\">6823</td><td style=\"text-align: left;\"><br /></td></tr><tr class=\"\"><td style=\"text-align: left;\">序号</td><td style=\"text-align: left;\">资源类型</td><td style=\"text-align: left;\">资源名称</td><td style=\"text-align: left;\">资源 id</td><td style=\"text-align: left;\">价值</td><td style=\"text-align: left;\">权重</td></tr><tr class=\"\"><td style=\"text-align: left;\">prize_id</td><td style=\"text-align: left;\">prize_type</td><td style=\"text-align: left;\">prize_name</td><td style=\"text-align: left;\">resource_id</td><td style=\"text-align: left;\">gold</td><td style=\"text-align: left;\">prize_bili</td></tr><tr class=\"\"><td style=\"text-align: left;\">1</td><td style=\"text-align: left;\">礼物特效</td><td style=\"text-align: center;\">惊喜泡泡机</td><td style=\"text-align: center;\">6413</td><td style=\"text-align: center;\">388</td><td style=\"text-align: left;\">235</td></tr><tr class=\"\"><td style=\"text-align: left;\">2</td><td style=\"text-align: left;\">礼物特效</td><td style=\"text-align: center;\">清凉一夏</td><td style=\"text-align: center;\">3946</td><td style=\"text-align: center;\">999</td><td style=\"text-align: left;\">235</td></tr><tr class=\"\"><td style=\"text-align: left;\">3</td><td style=\"text-align: left;\">礼物特效</td><td style=\"text-align: center;\">走到白头</td><td style=\"text-align: center;\">4346</td><td style=\"text-align: center;\">1999</td><td style=\"text-align: left;\">324</td></tr><tr class=\"\"><td style=\"text-align: left;\">4</td><td style=\"text-align: left;\">礼物特效</td><td style=\"text-align: center;\">爱心泡泡机</td><td style=\"text-align: center;\">1961</td><td style=\"text-align: center;\">2666</td><td style=\"text-align: left;\">138</td></tr><tr class=\"\"><td style=\"text-align: left;\">5</td><td style=\"text-align: left;\">礼物特效</td><td style=\"text-align: center;\">暗夜邮轮</td><td style=\"text-align: center;\">3625</td><td style=\"text-align: center;\">3999</td><td style=\"text-align: left;\">33</td></tr><tr class=\"\"><td style=\"text-align: left;\">6</td><td style=\"text-align: left;\">礼物特效</td><td style=\"text-align: center;\">夜诗颂歌</td><td style=\"text-align: center;\">4791</td><td style=\"text-align: center;\">5200</td><td style=\"text-align: left;\">20</td></tr><tr class=\"\"><td style=\"text-align: left;\">7</td><td style=\"text-align: left;\">礼物特效</td><td style=\"text-align: center;\">一吻定情</td><td style=\"text-align: center;\">3868</td><td style=\"text-align: center;\">9999</td><td style=\"text-align: left;\">10</td></tr><tr class=\"\"><td style=\"text-align: left;\">8</td><td style=\"text-align: left;\">礼物特效</td><td style=\"text-align: center;\">飞跃地平线</td><td style=\"text-align: center;\">2150</td><td style=\"text-align: center;\">18888</td><td style=\"text-align: left;\">4</td></tr><tr class=\"\"><td style=\"text-align: left;\">9</td><td style=\"text-align: left;\">礼物特效</td><td style=\"text-align: center;\">漫游世界</td><td style=\"text-align: center;\">1983</td><td style=\"text-align: center;\">66666</td><td style=\"text-align: left;\">1</td></tr></tbody></table><p class=\"auto-cursor-target\"><br /></p><p><br /></p><p><br /></p>",
+      "representation": "storage",
+      "_expandable": {
+        "content": "/rest/api/content/488346325"
+      }
+    },
+    "_expandable": {
+      "editor": "",
+      "view": "",
+      "export_view": "",
+      "styled_view": "",
+      "anonymous_export_view": ""
+    }
+  },
+  "extensions": {
+    "position": "none"
+  },
+  "_links": {
+    "webui": "/pages/viewpage.action?pageId=488346325",
+    "edit": "/pages/resumedraft.action?draftId=488346325&draftShareId=72dd8d75-3d6c-4d09-b70b-a4aad645ad21",
+    "tinyui": "/x/1ZIbHQ",
+    "collection": "/rest/api/content",
+    "base": "https://wiki.inkept.cn",
+    "context": "",
+    "self": "https://wiki.inkept.cn/rest/api/content/488346325"
+  },
+  "_expandable": {
+    "container": "/rest/api/space/xueyuan",
+    "metadata": "",
+    "operations": "",
+    "children": "/rest/api/content/488346325/child",
+    "restrictions": "/rest/api/content/488346325/restriction/byOperation",
+    "history": "/rest/api/content/488346325/history",
+    "descendants": "/rest/api/content/488346325/descendant"
+  }
+}

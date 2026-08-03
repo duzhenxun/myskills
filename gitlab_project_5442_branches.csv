@@ -1,0 +1,217 @@
+authored_date,name,message,author_name,merged
+2026/5/28 11:03,feature/foreast,开发,李卉萌,FALSE
+2026/5/28 10:49,feature/ka-sea-boat,兑换商店昵称限制,窦欣,FALSE
+2026/5/28 10:46,feature/dreamland-encounter,进度限制,刘思雨01,FALSE
+2026/5/27 18:54,feature/mountain-sea-covenant,头图增加动效 & 奖励增加数量展示 & 抽奖后刷新榜单接口,wangpengjian,FALSE
+2026/5/27 18:16,master,Merge branch 'feature/pet-food-new' into 'master',李卉萌,FALSE
+2026/5/27 16:39,feature/highlight-gift-v5,feat(highlight-flower): add new highlight flower feature with components and styles,李子寒,FALSE
+2026/5/26 18:40,feature/harness-test,harness优化 - 长任务优化完成,wangpengjian,FALSE
+2026/5/25 15:49,feature/childhood-time,主播任务,刘思雨01,FALSE
+2026/5/22 18:50,feature/daily-signin-theme,feat(result): 更新结果展示样式，使用动态类名和修复文本颜色,李子寒,FALSE
+2026/5/21 14:58,feature/tax-details-billing-admin,更新账单记录和提现详情组件，修复金额显示逻辑并优化格式化函数,李子寒,FALSE
+2026/5/14 10:14,feature/props-team,榜单skil,窦欣,FALSE
+2026/5/13 11:10,feature/test-calender,新增日历Bridge测试功能，包括API、样式、页面逻辑及配置,李子寒,FALSE
+2026/5/9 10:45,feature/fix-new-user-guide,更新用户指南配置，替换为新的入口文件,李子寒,FALSE
+2026/5/7 17:49,feature/relationship-4.0,优化依赖项，调整 useEffect 钩子的依赖数组以确保正确更新活动标签,李子寒,FALSE
+2026/5/7 15:19,feature/best-party-fix-scroll-bug,fix: 添加锁定类以防止背景滚动并更新入口配置为BEST_PARTY,李子寒,FALSE
+2026/4/17 15:58,feature/feng-shen-order,江湖策,刘思雨01,FALSE
+2026/4/15 20:20,feature/add-memory,feat: Implement knowledge maintenance scripts and restructure knowledge base,李子寒,FALSE
+2026/4/15 11:47,feature/tool-page-new,修改icon链接,窦欣,FALSE
+2026/4/14 15:13,feature/animals,代码自动保存配置,窦欣,FALSE
+2026/3/31 16:44,feature/harmony-recharge-fix,优化支付宝绑定功能，添加调试日志并恢复相关配置,李子寒,FALSE
+2026/3/24 11:00,feature/my-income-harmony,注释掉提现逻辑以便进行和谐测试，并更新入口配置以使用MY_INCOME,李子寒,FALSE
+2026/3/12 11:12,feature/fix-js-drop,deploy RECHARGE_TURNTABLE,李子寒,FALSE
+2026/3/2 18:27,feature/app-oa-unbind-wx-payout,feat: 添加页面显示和可见性变化事件处理，优化用户列表刷新逻辑,李子寒,FALSE
+2026/3/2 11:10,feature/test-ai,项目入口提示词生成,窦欣,FALSE
+2026/2/27 17:59,feature/fix-free-gift,更新入口配置，替换为免费赠品模块,李子寒,FALSE
+2026/2/9 11:24,feature/recommend-to-all-fix,更新背景颜色样式并修正入口文件以引入推荐模块配置,李子寒,FALSE
+2026/2/5 16:40,feature/family-expedition-fix,更新 ExpeditionHome 组件逻辑，增加对预渲染状态的判断以控制弹窗显示,李子寒,FALSE
+2026/2/2 14:09,feature/page,更换ws服务器,刘思雨01,FALSE
+2026/1/30 14:54,reuse/dimension-town,修改头图,wangpengjian,FALSE
+2026/1/22 20:25,feature/social-rank,feat: 新增社交榜单功能，并引入相关主题资源和应用入口。,李子寒,FALSE
+2026/1/22 14:52,fix-search,编辑器样式,刘思雨01,FALSE
+2026/1/21 17:26,feature/page-new,编辑器样式,刘思雨01,FALSE
+2026/1/19 16:59,feature/snow,测试,李卉萌,FALSE
+2026/1/4 18:02,feature/withdraw-new-channel,feat: 更新提现记录页面，优化用户交互体验,李子寒,FALSE
+2025/12/7 22:34,feature/double-twelve,Merge branch 'master' of code.inke.cn:opd/activitys/boc.inke.cn.react into feature/double-twelve,wangpengjian,TRUE
+2025/12/3 17:41,feature/group-live,添加 useIOSWebviewFix Hook 以修复 iOS WKWebView 渲染白屏/卡死问题,李子寒,FALSE
+2025/11/19 17:12,feature/fix-invoice-submit,修复签名功能中的状态管理和性能问题,李子寒,FALSE
+2025/11/14 14:50,feature/authentication-result,恢复测试代码,李子寒,FALSE
+2025/10/31 18:14,feature/pk-zodiac-gift,Merge branch 'revert-6cefb878' into 'feature/pk-zodiac-gift',zihan.li,FALSE
+2025/10/29 11:54,feature/support-harmony-2025,更新派对星奖励组件和入口配置文件,李子寒,FALSE
+2025/9/28 17:54,feature/ka-universe-exploration,超R宇宙探索,刘思雨01,FALSE
+2025/9/26 18:31,feature/fix-costume-mall-hormany,更新入口配置，替换为COSTUME_MALL模块,李子寒,FALSE
+2025/9/25 11:50,feature/quarterly-game-2025,首页弹窗跳转主播首页,刘思雨01,FALSE
+2025/9/11 18:38,feature/app-invoice-online-apply,debug 45,李子寒,FALSE
+2025/8/7 15:55,feature/quick-upgrade,dev,李子寒,FALSE
+2025/6/20 14:09,feature/mining,更改文案,liusiyu,FALSE
+2025/5/7 10:17,feature/pk-exclusive-gift-9th,修复礼物ID以适应新需求,李子寒,FALSE
+2025/4/25 11:08,feature/prize-turnable-upgrade-2025,更新样式，优化主容器和按钮的布局,李子寒,FALSE
+2025/3/28 11:07,feature/vite,测试,lihuimeng,FALSE
+2025/3/4 17:22,feature/seven-kingdoms-fix-scroll,为页面添加相对定位以改善布局,李子寒,FALSE
+2025/2/24 17:31,feature/little-rank-demo,更新倒计时功能以提升用户体验,李子寒,FALSE
+2025/2/24 16:28,feature/little-rank-demo-2,改成倒计时,李子寒,FALSE
+2025/2/14 17:44,feature/new-red,文案可配置,窦欣,FALSE
+2025/1/17 16:29,feature/test-generate,修改,窦欣,FALSE
+2025/1/2 10:34,feature/rank-common-2024,更新接口字段,李子寒,FALSE
+2024/12/31 10:50,feature/with-you-2024,分享到动态,wangpengjian,FALSE
+2024/12/23 16:53,feature/offline-demo,a demo,李子寒,FALSE
+2024/12/18 18:55,feature/demo-dialog,demo,李子寒,FALSE
+2024/12/13 18:20,feature/index-pop-demo-2024,demo 2,李子寒,FALSE
+2024/12/11 18:58,feature/autumn-camp,直接播放测试,窦欣,FALSE
+2024/12/6 11:17,feature/bugfix-referral-porgram,更新灰度域名,李子寒,FALSE
+2024/11/20 19:01,feature/new-arrival-upgrade,add jump.ts,李子寒,FALSE
+2024/11/12 15:44,feature/costume-mall-upgrade-msg,更新装备时提示文案2,李子寒,FALSE
+2024/11/7 20:24,feature/back-stage,修改样式,李卉萌,FALSE
+2024/10/30 17:22,feature/party-relationship-2.0,更新接口字段名,李子寒,FALSE
+2024/10/16 18:54,feature/tests-bridge-2024,添加测试内容,李子寒,FALSE
+2024/10/12 18:57,feture/fix-guard-open,修改守护开通错误提示,李子寒,FALSE
+2024/10/11 14:20,feature/ka,换肤,李卉萌,FALSE
+2024/8/23 15:19,feature/fix-alipay-toast,iOS 打开支付宝绑定页面时toast提示222,李子寒,FALSE
+2024/8/2 16:02,feature/party-relationship,恢复,李子寒,FALSE
+2024/7/25 18:43,feature/boat-test,小榜单,李卉萌,FALSE
+2024/6/11 18:52,feature/package-draw,互动,刘思雨01,FALSE
+2024/6/6 11:31,feature/anchor-positioning,done,wangpengjian,FALSE
+2024/5/20 18:25,feature/v-7.2.2,7.2.2需求,lvqinyan,FALSE
+2024/5/16 10:31,feature/perfect-uid-upgrade,修改 qa 环境域名,李子寒,FALSE
+2024/4/15 11:04,feature/knight2,修改,李卉萌,FALSE
+2024/4/3 15:10,feature/parse-xlsx,merge,刘思雨01,FALSE
+2024/3/11 15:30,feature/weekend-bounty-program,修改小映礼物id,wangpengjian,FALSE
+2024/3/5 19:28,revert-cf540316,Revert "Merge branch 'feature/goddess-days' into 'master'",李卉萌,FALSE
+2024/2/2 15:12,feature/v9.5.10-exprience,UI 调整,李子寒,FALSE
+2024/1/18 11:11,feature/pk-playing-tools,调整UI,李子寒,FALSE
+2024/1/17 18:46,feature/chaor2,上线,李卉萌,FALSE
+2024/1/9 18:47,feature/add-cop,fix-,钟贝贝,FALSE
+2023/12/15 15:23,feature/bugfix-lucky-bag,debug jspay,李子寒,FALSE
+2023/11/21 10:27,feature/guard-optimized,守护二期上线,赵曰迪,FALSE
+2023/11/15 19:54,feature/spiritualist-realm-qa,deploy testqa,李子寒,FALSE
+2023/11/15 18:19,feature/talent-starstar,修改use,李卉萌,FALSE
+2023/10/27 15:50,feature/mysterious-planet,删除 无用代码,wangpengjian,FALSE
+2023/10/27 15:17,feature/swiper-more-version,merge master code,wangpengjian,FALSE
+2023/10/11 20:06,page-config,配置后台,lihuimeng,FALSE
+2023/9/11 20:45,feature/shark-party,bugfix,李子寒,FALSE
+2023/8/30 11:47,feature/fix-return-gift-pay-two-mask,移除动效,李子寒,FALSE
+2023/7/27 16:56,feature/ka-tanabata,修改需求,wangpengjian,FALSE
+2023/7/6 15:37,feature/incubation-guild,修改文案,李子寒,FALSE
+2023/6/25 17:30,feature/hunt-treasure-inke-0625,更新 views,李子寒,FALSE
+2023/6/4 0:10,hox/font,修改文案,lihuimeng,FALSE
+2023/5/24 18:19,feature/upgrade-bridge-test,update add atom,李子寒,FALSE
+2023/5/24 11:24,feature/24-stealth-plan,添加原子参数,刘思雨01,FALSE
+2023/5/19 18:31,feature/mini-pop-modify,views,钟贝贝,FALSE
+2023/4/27 15:42,feature/upgrade-eslint,upgrade eslint,李子寒,FALSE
+2023/4/26 16:58,feature/hall-pop,hall pop-,钟贝贝,FALSE
+2023/4/4 17:11,feature/upgrade-star-trek-new-rank-api,add eruda,李子寒,FALSE
+2023/3/30 17:22,hot/star-trek-reload,星际迷航,赵曰迪,FALSE
+2023/3/21 18:10,feature/screen,开发,lihuimeng,FALSE
+2023/3/6 17:52,feature/pc-add-log,views,钟贝贝,FALSE
+2023/2/9 20:26,feature/room-icon-v6,room icon-主播不可打开个人主页,钟贝贝,FALSE
+2023/1/9 18:10,feature/calendar-bridge-demo,添加 from 字段,李子寒,FALSE
+2023/1/3 11:27,feature/weixin,修改测试,lihuimeng,FALSE
+2022/12/27 20:18,feature/short-test,debug,李子寒,FALSE
+2022/12/20 17:59,feature/data,增加参数,lihuimeng,FALSE
+2022/12/15 19:56,feature/super-lotto,merge,常玉春,FALSE
+2022/12/12 15:50,feature/share-image-test,test,李子寒,FALSE
+2022/11/16 17:42,feature/demo,设置分享,douxin,FALSE
+2022/11/16 16:24,feature/pc-fix,pc -test3 remove all,钟贝贝,FALSE
+2022/11/14 11:05,feature/pc-register,entry,钟贝贝,FALSE
+2022/11/1 11:00,feature/question-fix,entry,钟贝贝,FALSE
+2022/10/23 23:51,revert-756bd596,Revert "Merge branch 'feature/sweet-car' into 'master'",李卉萌,FALSE
+2022/10/14 10:55,feature/protect-your-smile1,解决冲突,许甜,FALSE
+2022/8/24 11:25,feature/kol-202208,complete,lizh,FALSE
+2022/8/22 18:18,feature/upgrade-activity-data-query-08,fix sso,lizh,FALSE
+2022/8/17 17:52,feature/guild-fix,entry,zhongbeibei,FALSE
+2022/8/15 18:01,feature/test-resource,test,zhongbeibei,FALSE
+2022/8/9 17:20,feature/pc-add-virtual,发布 QA,lizh,FALSE
+2022/8/4 18:19,feature/2022-yulesummit,暂存,冯然峰,FALSE
+2022/7/26 14:45,feature/test-red,测试红包-摩天轮,douxin,FALSE
+2022/6/22 18:10,feature/anchor-rescuit-add-policy,暂时不需要加入口,zhongbeibei,FALSE
+2022/6/14 16:39,feature/guard-btn,判断直播间,douxin,FALSE
+2022/6/14 16:09,feature/privilege-happy,测试,douxin,FALSE
+2022/6/5 11:17,feature/packet-lsit,packet -remove,zhongbeibei,FALSE
+2022/6/2 16:03,feature/virtual-ktv,ktv统跳增加版本控制,liushuai,FALSE
+2022/5/27 19:04,feature/select,开发下拉框,lihuimeng,FALSE
+2022/4/21 20:25,feature/cancer,修改文案,lihuimeng,FALSE
+2022/4/21 19:06,feature/fix-constellations,修改头图,lihuimeng,FALSE
+2022/4/7 20:45,feature/nft-promotion,change bg,lizh,FALSE
+2022/2/7 21:40,feature/testq,Merge branch 'feature/ik-cicd' into feature/testq,温传晖,FALSE
+2022/2/7 20:07,feature/card-2,提交,lihuimeng,FALSE
+2022/1/19 15:22,feature/tv-king-test,测试Link跳转,douxin,FALSE
+2022/1/12 12:12,feature/bragging-game,upgrade: 匹配机制加入循环拉取信息容错,black&white,FALSE
+2022/1/8 14:03,revert-11ad41bf,Revert "Merge branch 'feature/week-start-2' into 'master'",温传晖,FALSE
+2022/1/7 16:31,feat/webpak5,更新依赖,lizh,FALSE
+2021/12/22 18:27,fix/final-battle,脩改抽奖错误处理,wangpengjian,FALSE
+2021/12/10 18:25,feature/double-12,样式,fandeqing,FALSE
+2021/12/9 21:28,check,upgrade check19 测试,lizh,FALSE
+2021/11/24 20:34,feature/test-bridge-1124,更新测试 schema,lizh,FALSE
+2021/10/21 14:56,testqa,ci-test,lijunyang,FALSE
+2021/10/18 20:37,feature/shanin,shanin -,zhongbeibei,FALSE
+2021/10/14 13:00,feature/member-system-dialog,中奖记录,xutian,FALSE
+2021/9/30 17:16,feature/whack-a-mole,打小映,jameswain,FALSE
+2021/9/27 18:06,review,合并,lihuimeng,FALSE
+2021/9/19 13:32,release,master合并release,douxin,FALSE
+2021/9/8 19:44,feature/mini-program-middle,修改跳转小程序的scheme url,lvqinyan,FALSE
+2021/8/17 21:36,feature/cicd,CI,jameswain,FALSE
+2021/8/11 20:00,feature/pages-preview,预览所有页面 - test,lizihan,FALSE
+2021/6/29 18:25,feature/ci,CI接入,jameswain,FALSE
+2021/5/13 16:10,feature/page-config-upgrade,活动数据查询工具 - 更新接口域名,lizihan,FALSE
+2021/3/31 10:29,feature/packet-list-wave,packet list -apis,zhongbeibei,FALSE
+2021/2/19 19:34,feat/test-ts,Merge branch 'master' of code.inke.cn:opd/activitys/boc.inke.cn.react into feat/test-ts,zqcccc,FALSE
+2021/2/19 13:55,feature/ws-jieyue,状态选项增加,sa.wang,FALSE
+2021/1/25 11:44,feature/my-welfare,选择福利 - 发布测试,lvqinyan,FALSE
+2021/1/15 18:00,feature/packet-list-mystery,packet list - add noble mystery card,xiaoxing,FALSE
+2020/12/31 15:33,feature/public-perform202101,Merge remote-tracking branch 'origin/master' into feature/public-perform202101,陈睿,FALSE
+2020/11/23 20:59,feature/ka-user-recall,ka user call - deploy gray,xiaoxing,FALSE
+2020/11/19 21:30,feature/gold-rush-factory,代码提交,lvqinyan,FALSE
+2020/11/3 17:15,feature/zxc-miniprogram-ercode,boc - 二维码 - 微信二维码,zhangxuchuan,FALSE
+2020/10/29 20:39,feature/star-turntable,star turntable - 优化,chenyanli,FALSE
+2020/10/23 18:09,feature/hot-task,hot task - rule modify,chenyanli,FALSE
+2020/10/13 15:20,revert-174306ac,Revert "Merge branch 'feature/family-economy' into 'master'",肖星,FALSE
+2020/9/30 10:56,feature/topic,UI优化,chenyanli,FALSE
+2020/9/27 14:26,feature/fish,捕鱼 -,温传晖,FALSE
+2020/9/23 11:17,feature/seventh-million,mergeMaster,wuzhaoyang,FALSE
+2020/9/23 11:08,feature/card-room,解决冲突,wuzhaoyang,FALSE
+2020/9/7 12:26,feature/noble-rule,add title - qa,chenyanli,FALSE
+2020/9/2 14:01,feature/record-rule,update,chenyanli,FALSE
+2020/8/31 18:42,feature/babel-tower,样式调整,lvqinyan,FALSE
+2020/8/25 16:54,dev,轮播,hanpeng,FALSE
+2020/8/22 22:00,feature/energetic-idol,默认出道之夜,wuzhaoyang,FALSE
+2020/7/2 19:52,feature/fans-feedback,test,wuzhaoyang,FALSE
+2020/6/15 18:28,lite/myincome,add atoms,chenyanli,FALSE
+2020/6/15 16:44,feature/family-guild,family guild,chenyanli,FALSE
+2020/6/15 15:40,feature/webview-h5,Merge branch 'master' into feature/webview-h5,xiaoxing,FALSE
+2020/6/12 17:55,feature/perform-june,Merge branch 'master' into feature/perform-june,yinran,FALSE
+2020/6/12 16:29,feature/income-wx-confirm,my income - rewrite withdraw component,xiaoxing,FALSE
+2020/6/8 14:12,feature/inke-familly,视频轮播图添加视频,lvqinyan,FALSE
+2020/6/5 10:44,anchor-img,anchor img - qa,chenyanli,FALSE
+2020/6/4 20:07,ticket-pay,toast,chenyanli,FALSE
+2020/5/27 14:53,feature/tree-shaking,add sideEffects,xiaoxing,FALSE
+2020/4/21 17:48,feature/live-data,bill - gray,chenyanli,FALSE
+2020/3/31 19:55,feature/ddoa-apps,钉钉优化,0Y1L0,FALSE
+2020/3/30 16:40,feature/pk-rebuild,update,chenyanli,FALSE
+2020/3/16 11:42,feature/hngj-ddweeklyreport,替换hngj入口,tangc1,FALSE
+2020/3/11 14:54,feature/new-family-rb,Merge commit '9a2aae50d6eb9a6cb157ae5609b828cb14aff461' into feature/new-family-rb,Zhoulin,FALSE
+2020/3/10 18:09,feature/family-project-redbag,修改默认成员 -,Zhoulin,FALSE
+2020/3/2 16:53,activity-center,activity center - qa,chenyanli,FALSE
+2020/3/2 10:15,feature/income-h5,qa -  收益,Zhoulin,FALSE
+2020/2/24 12:35,feature/lucky-shop,修改规则页面,wuzhaoyang,FALSE
+2020/2/7 19:25,feature/china-chef,修改数据埋点,lvqinyan,FALSE
+2020/2/5 18:21,feature/arms,turntable - gray,chenyanli,FALSE
+2020/1/17 11:13,feature/play-msg-qa,play msg - add qa api,xiaoxing,FALSE
+2020/1/17 10:23,feature/slogan_qa,qa环境 - 宣传语,Zhoulin,FALSE
+2020/1/13 19:13,feature/rb-testq,红白 - qa,Zhoulin,FALSE
+2019/12/24 10:29,feature/blank-page,增加默认加载失败空白页,lizihan,FALSE
+2019/12/11 16:05,feature/test-cicd,update,lizihan,FALSE
+2019/11/20 18:03,feature/room-icon-simple,浮窗 - 切换精简模式,tangwenjie,FALSE
+2019/11/15 21:28,feature/arms-fix,修改打包生成文件 hash 长度；开启 crossorigin 属性；移除预渲染时把 webpack 异步引入的资源打入 HEAD 中,lizihan,FALSE
+2019/11/10 12:28,feature/medal-wall-style-fix,fix header style when half screen,肖星,FALSE
+2019/11/6 10:44,feature/redbag-love,红包 - 测试上报,Zhoulin,FALSE
+2019/11/1 20:33,feature/compatible-title,add status,zzy,FALSE
+2019/11/1 10:50,feature/screening,去掉无用文件,Zhoulin,FALSE
+2019/10/23 20:26,feature/4.5,4.5功能 解约部分 - 解约按钮 非自提主播 天,zzy,FALSE
+2019/10/22 12:00,feature/dingding-modian,完成前端逻辑，待联调,lizhaoting,FALSE
+2019/10/10 15:52,feature/room-icon-add-indicator,电台浮窗 - 测试,tangwenjie,FALSE
+2019/9/18 20:52,feature/private-letter-bugFix,聊天 - 未读数量,tangwenjie,FALSE
+2019/9/12 10:28,feature/test-qa-environment,粉丝团react - 上qa,Zhoulin,FALSE
+2019/8/28 9:59,feature/ws-guildlist,公会显性化 - 灰度测试,sa.wang,FALSE
+2019/8/21 19:07,feature/activity,活动中心tab调整,chenyanli,FALSE
+2019/8/15 21:10,feature/path_update,暂存,chenyanli,FALSE

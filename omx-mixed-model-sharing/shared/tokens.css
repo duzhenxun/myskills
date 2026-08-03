@@ -1,0 +1,68 @@
+:root {
+  --ink: #101314;
+  --muted: #687174;
+  --paper: #f4f2eb;
+  --white: #fffef9;
+  --line: #c7ccc8;
+  --signal: #b9ff48;
+  --blue: #5ec8ff;
+  --warning: #ffcf57;
+  --danger: #ff6b62;
+  --terminal: #111817;
+  --mono: "SFMono-Regular", "Cascadia Code", "Liberation Mono", Menlo, monospace;
+  --sans: "PingFang SC", "Noto Sans CJK SC", "Microsoft YaHei", Arial, sans-serif;
+}
+* { box-sizing: border-box; }
+html, body { margin: 0; width: 1920px; height: 1080px; overflow: hidden; }
+body { padding: 76px 92px 58px; background: var(--paper); color: var(--ink); font-family: var(--sans); }
+body.dark { background: var(--ink); color: var(--white); }
+.mast { display: flex; align-items: center; justify-content: space-between; height: 48px; border-bottom: 2px solid currentColor; font: 700 18px/1 var(--mono); letter-spacing: .08em; text-transform: uppercase; }
+.mast .mark { display: flex; align-items: center; gap: 14px; }
+.dot { width: 15px; height: 15px; background: var(--signal); display: inline-block; }
+.page { position: absolute; right: 92px; bottom: 48px; font: 700 18px/1 var(--mono); color: var(--muted); }
+.dark .page { color: #91a09d; }
+.kicker { margin-top: 64px; font: 800 22px/1.2 var(--mono); color: #52605d; letter-spacing: .05em; text-transform: uppercase; }
+.dark .kicker { color: var(--signal); }
+h1 { margin: 22px 0 0; max-width: 1580px; font-size: 82px; line-height: 1.08; letter-spacing: 0; }
+h2 { margin: 22px 0 0; font-size: 62px; line-height: 1.12; letter-spacing: 0; }
+.lead { margin-top: 32px; max-width: 1320px; font-size: 31px; line-height: 1.55; color: #46504f; }
+.dark .lead { color: #c9d2cf; }
+.accent { color: #409913; }
+.dark .accent { color: var(--signal); }
+.blue { color: #007fb9; }
+.dark .blue { color: var(--blue); }
+.grid2 { display: grid; grid-template-columns: 1fr 1fr; gap: 46px; margin-top: 48px; }
+.grid3 { display: grid; grid-template-columns: repeat(3, 1fr); gap: 28px; margin-top: 44px; }
+.panel { border-top: 3px solid var(--ink); padding: 24px 4px 0; }
+.dark .panel { border-color: #687773; }
+.panel h3 { margin: 0 0 16px; font-size: 30px; }
+.panel p, .panel li { font-size: 24px; line-height: 1.55; color: #46504f; }
+.dark .panel p, .dark .panel li { color: #cbd4d1; }
+.panel ul { margin: 0; padding-left: 28px; }
+.terminal { background: var(--terminal); color: #e8f1ed; border: 1px solid #34413e; padding: 28px 32px; font: 24px/1.58 var(--mono); white-space: pre-wrap; }
+.terminal .prompt { color: var(--signal); }
+.terminal .comment { color: #82918d; }
+.terminal .bad { color: #ff877f; }
+.terminal .good { color: #b9ff48; }
+.code-title { background: #222c2a; color: #b7c4c0; padding: 12px 20px; font: 700 17px/1 var(--mono); letter-spacing: .04em; }
+.flow { display: flex; align-items: stretch; gap: 22px; margin-top: 70px; }
+.step { flex: 1; min-height: 235px; border: 2px solid currentColor; padding: 30px; position: relative; }
+.step .num { font: 800 72px/1 var(--mono); color: #95a09e; }
+.step h3 { margin: 28px 0 10px; font-size: 30px; }
+.step p { margin: 0; font-size: 22px; line-height: 1.5; color: #53605e; }
+.dark .step p { color: #c1ccca; }
+.arrow { align-self: center; font: 800 42px/1 var(--mono); color: #8b9693; }
+.callout { margin-top: 42px; border-left: 14px solid var(--signal); padding: 22px 30px; background: #e8eadf; font-size: 28px; line-height: 1.45; }
+.dark .callout { background: #202927; }
+.compare { width: 100%; margin-top: 42px; border-collapse: collapse; font-size: 24px; }
+.compare th { text-align: left; font: 800 19px/1 var(--mono); text-transform: uppercase; letter-spacing: .05em; border-bottom: 3px solid var(--ink); padding: 18px 16px; }
+.compare td { padding: 21px 16px; border-bottom: 1px solid var(--line); vertical-align: top; line-height: 1.42; }
+.status { display: inline-block; padding: 5px 10px; font: 800 17px/1 var(--mono); }
+.status.ok { background: var(--signal); color: var(--ink); }
+.status.fix { background: var(--warning); color: var(--ink); }
+.status.no { background: var(--danger); color: var(--ink); }
+.big-command { margin-top: 58px; background: var(--terminal); color: var(--white); padding: 42px; font: 34px/1.55 var(--mono); border-bottom: 12px solid var(--signal); }
+.mini { font-size: 19px; line-height: 1.5; color: var(--muted); }
+.footer-note { position: absolute; left: 92px; bottom: 48px; font: 18px/1.3 var(--mono); color: var(--muted); }
+.tag { display: inline-block; border: 1px solid currentColor; padding: 8px 13px; font: 700 17px/1 var(--mono); margin-right: 8px; }
+

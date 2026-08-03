@@ -1,0 +1,289 @@
+{
+  "id": "492718697",
+  "type": "page",
+  "status": "current",
+  "title": "2026-527陪陪赛区",
+  "space": {
+    "id": 3571713,
+    "key": "xueyuan",
+    "name": "映客直播业务",
+    "type": "global",
+    "_links": {
+      "webui": "/display/xueyuan",
+      "self": "https://wiki.inkept.cn/rest/api/space/xueyuan"
+    },
+    "_expandable": {
+      "metadata": "",
+      "icon": "",
+      "description": "",
+      "retentionPolicy": "",
+      "homepage": "/rest/api/content/320866330"
+    }
+  },
+  "version": {
+    "by": {
+      "type": "known",
+      "username": "maxiaona",
+      "userKey": "8aef97167d450205017db1d1e6df008b",
+      "profilePicture": {
+        "path": "/images/icons/profilepics/default.svg",
+        "width": 48,
+        "height": 48,
+        "isDefault": true
+      },
+      "displayName": "马晓娜",
+      "_links": {
+        "self": "https://wiki.inkept.cn/rest/api/user?key=8aef97167d450205017db1d1e6df008b"
+      },
+      "_expandable": {
+        "status": ""
+      }
+    },
+    "when": "2026-05-14T20:38:52.000+08:00",
+    "message": "",
+    "number": 16,
+    "minorEdit": false,
+    "hidden": false,
+    "_links": {
+      "self": "https://wiki.inkept.cn/rest/experimental/content/492718697/version/16"
+    },
+    "_expandable": {
+      "content": "/rest/api/content/492718697"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "320866330",
+      "type": "page",
+      "status": "current",
+      "title": "映客直播业务",
+      "extensions": {
+        "position": "none"
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=320866330",
+        "edit": "/pages/resumedraft.action?draftId=320866330&draftShareId=d5d92a4f-fb15-4a51-8bd6-16333cb6f165",
+        "tinyui": "/x/GgggEw",
+        "self": "https://wiki.inkept.cn/rest/api/content/320866330"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/320866330/child",
+        "restrictions": "/rest/api/content/320866330/restriction/byOperation",
+        "history": "/rest/api/content/320866330/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/320866330/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    },
+    {
+      "id": "326510548",
+      "type": "page",
+      "status": "current",
+      "title": "直播业务线-运营",
+      "extensions": {
+        "position": 2
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=326510548",
+        "edit": "/pages/resumedraft.action?draftId=326510548&draftShareId=0ea027df-6f8f-4663-bbd6-217ba023f41b",
+        "tinyui": "/x/1Cd2Ew",
+        "self": "https://wiki.inkept.cn/rest/api/content/326510548"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/326510548/child",
+        "restrictions": "/rest/api/content/326510548/restriction/byOperation",
+        "history": "/rest/api/content/326510548/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/326510548/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    },
+    {
+      "id": "331456836",
+      "type": "page",
+      "status": "current",
+      "title": "【活动组】",
+      "extensions": {
+        "position": 11
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=331456836",
+        "edit": "/pages/resumedraft.action?draftId=331456836",
+        "tinyui": "/x/RKHBEw",
+        "self": "https://wiki.inkept.cn/rest/api/content/331456836"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/331456836/child",
+        "restrictions": "/rest/api/content/331456836/restriction/byOperation",
+        "history": "/rest/api/content/331456836/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/331456836/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    },
+    {
+      "id": "452644191",
+      "type": "page",
+      "status": "current",
+      "title": "【2026营收运营活动】",
+      "extensions": {
+        "position": "none"
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=452644191",
+        "edit": "/pages/resumedraft.action?draftId=452644191&draftShareId=97d3197f-f0cd-4143-8fbf-d96b4892c680",
+        "tinyui": "/x/X836Gg",
+        "self": "https://wiki.inkept.cn/rest/api/content/452644191"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/452644191/child",
+        "restrictions": "/rest/api/content/452644191/restriction/byOperation",
+        "history": "/rest/api/content/452644191/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/452644191/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    },
+    {
+      "id": "488343729",
+      "type": "page",
+      "status": "current",
+      "title": "2026年5月份活动",
+      "extensions": {
+        "position": "none"
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=488343729",
+        "edit": "/pages/resumedraft.action?draftId=488343729&draftShareId=a59c298c-352d-4d86-b067-744efc521f4c",
+        "tinyui": "/x/sYgbHQ",
+        "self": "https://wiki.inkept.cn/rest/api/content/488343729"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/488343729/child",
+        "restrictions": "/rest/api/content/488343729/restriction/byOperation",
+        "history": "/rest/api/content/488343729/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/488343729/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    },
+    {
+      "id": "492700808",
+      "type": "page",
+      "status": "current",
+      "title": "2026年-527",
+      "extensions": {
+        "position": "none"
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=492700808",
+        "edit": "/pages/resumedraft.action?draftId=492700808&draftShareId=fce47150-8a7e-4970-80bb-df1fee922998",
+        "tinyui": "/x/iAReHQ",
+        "self": "https://wiki.inkept.cn/rest/api/content/492700808"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/492700808/child",
+        "restrictions": "/rest/api/content/492700808/restriction/byOperation",
+        "history": "/rest/api/content/492700808/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/492700808/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    },
+    {
+      "id": "492718684",
+      "type": "page",
+      "status": "current",
+      "title": "2026-527研发文档",
+      "extensions": {
+        "position": "none"
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=492718684",
+        "edit": "/pages/resumedraft.action?draftId=492718684&draftShareId=3dc0229b-3415-422b-8c0b-248b75205612",
+        "tinyui": "/x/XEpeHQ",
+        "self": "https://wiki.inkept.cn/rest/api/content/492718684"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/492718684/child",
+        "restrictions": "/rest/api/content/492718684/restriction/byOperation",
+        "history": "/rest/api/content/492718684/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/492718684/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    }
+  ],
+  "body": {
+    "storage": {
+      "value": "<p><span style=\"color: rgb(0,0,0);\"><span style=\"color: rgb(0,128,0);\"><strong>主播首次收礼触发广播（文字广播）</strong></span></span></p><ul><li>a）近60天收礼金额大于1万映币且<span style=\"color: rgb(0,0,0);\">前一百个报名的主播触发全站文字广播，文案为：主播XXX已成功参与2026年映客527，快来为Ta助力吧！</span></li><li><span style=\"color: rgb(0,0,0);\">b）近60天收礼金额大于1万映币且报名末位数字为0的主播触发全站文字广播，文案为：幸运主播XXX已成功参与2026年映客527，快来为Ta助力吧！</span></li><li><p><span style=\"color: rgb(0,0,0);\"><span style=\"color: rgb(0,128,0);\"><strong>主播首次收礼触发广播（文字广播）</strong></span></span></p><ul><li>a）近60天收礼金额大于1万映币且<span style=\"color: rgb(0,0,0);\">前一百个报名的主播触发全站文字广播，文案为：主播XXX已成功参与2026年映客527，快来为Ta助力吧！</span></li><li><span style=\"color: rgb(0,0,0);\">b）近60天收礼金额大于1万映币且报名末位数字为0的主播触发全站文字广播，文案为：幸运主播XXX已成功参与2026年映客527，快来为Ta助力吧！</span></li><li><span style=\"color: rgb(0,0,0);\">c）历史累计收礼大于5000万映币</span>的主播报名即触发全站文字广播，文案为：明星<span style=\"color: rgb(0,51,102);\">主播XXX已成功参与2026年映客527，快来为Ta助力吧！</span></li><li>d）<span style=\"color: rgb(255,0,255);\">5月15日00:00:00-5月19日21:59:59</span>期间每小时前三个<span style=\"color: rgb(255,102,0);\">收礼</span>的主播触发全站文字广播，文案为：<span style=\"color: rgb(0,51,102);\">主播XXX已成功参与2026年映客527，快来为Ta助力吧！</span></li><li>所有符合以上规则的用户仅触发一次广播，不重复触发（触发优先级C&gt;A&gt;B&gt;D）；</li></ul><p><strong><span style=\"color: rgb(0,128,0);\">赛道赛区划分：</span></strong></p><ul><li><strong><span style=\"color: rgb(255,0,0);\">赛区划分：拥有陪陪赛区参与资格的主播可参与，<span style=\"color: rgb(0,51,102);\"><span style=\"color: rgb(255,0,0);\">主播根据性别</span>收到专属礼物的顺序依次进入所属赛区</span></span></strong></li><li><strong><span style=\"color: rgb(255,0,255);\"><span style=\"color: rgb(255,0,0);\">注：虽有提前预埋逻辑</span></span></strong><span style=\"color: rgb(0,51,102);\">主播收入赛区逻辑，但海选赛期间主播未收礼，不展示在榜单中，也不展示吸底，进入页面按照普通用户展示逻辑来</span><strong><span style=\"color: rgb(255,0,255);\"><br /></span></strong></li><li><p class=\"auto-cursor-target\"><strong><span style=\"color: rgb(0,128,0);\">主播首次收礼除按照逻辑触发全站广播外，还可获得奖励，派对/陪陪/主播赛区奖励不同<br /></span></strong></p></li></ul><table class=\"relative-table wrapped\" style=\"width: 1090.0px;\"><colgroup class=\"\"><col class=\"\" style=\"width: 69.0px;\" /><col class=\"\" style=\"width: 73.0px;\" /><col class=\"\" style=\"width: 71.0px;\" /><col class=\"\" style=\"width: 469.0px;\" /><col class=\"\" style=\"width: 407.0px;\" /></colgroup><thead class=\"\"><tr class=\"\"><th style=\"text-align: center;\"><p>奖励类别</p></th><th style=\"text-align: center;\"><p>奖励内容</p></th><th>资源id</th><th>url</th><th style=\"text-align: center;\"><p>私信</p></th></tr></thead><tbody class=\"\"><tr class=\"\"><td style=\"text-align: center;\">心动嘉宾</td><td>527纪念麦序框</td><td style=\"text-align: center;\"><span style=\"color: rgb(255,0,0);\">10347</span></td><td><span style=\"color: rgb(255,0,0);\"><a href=\"https://img.ikstatic.cn/MTc3ODQ4NjEyODQ4OCM5OTAjcG5n.png\" style=\"color: rgb(255,0,0);\">https://img.ikstatic.cn/MTc3ODQ4NjEyODQ4OCM5OTAjcG5n.png</a></span></td><td style=\"text-align: center;\"><span>【映客527】恭喜宝宝成功参与2026年度527赛，获得&ldquo;527纪念麦序框&rdquo;，快去开播吧！</span></td></tr></tbody></table><h3><strong>（1）预选赛-任务+总榜晋级，赛段清零</strong></h3><p><span style=\"color: rgb(0,0,0);\">赛段时间：5月15日00:00:00-5月18日23:59:59</span></p><p><span style=\"color: rgb(0,0,0);\">主播榜单统计时间：5月15日00:00:00-5月18日22:59:59</span></p><p><span style=\"color: rgb(0,0,0);\">主播任务玩法时间：5月15日00:00:00-5月17日22:59:59</span></p><p><span style=\"color: rgb(0,0,0);\">晋级名额：</span></p><ul><li>心动女嘉宾赛区<span style=\"color: rgb(0,51,102);\">：<span>N进X+10</span></span></li><li>心动男嘉宾赛区<span style=\"color: rgb(0,51,102);\">：<span>N进X+10</span></span></li></ul><p><strong><span style=\"color: rgb(0,128,0);\">晋级规则：</span></strong></p><ul><li><span style=\"color: rgb(255,0,0);\"><strong>本次玩法分为两种晋级方式，一是完成任务晋级，二是总榜递补晋级，方式不同晋级逻辑不同</strong></span></li><li><span style=\"color: rgb(0,0,0);\"><strong>5月17日22:59:59前</strong>完成收礼任务五获得晋级资格，提前晋级的主播获得晋级奖励</span></li><li><p><strong>金牌累计任务</strong></p><p><strong><span style=\"color: rgb(255,0,255);\"><span style=\"color: rgb(255,0,0);\">主播需通过收礼钻石、收礼任务、真爱团任务、守护任务等 4 类任务争取 &ldquo;荣耀金牌&rdquo;，每完成 1 类任务获得对应数量金牌，累计金牌达到对应数量解锁对应奖励，最终获得晋级机会。</span></span></strong></p><ol><li>任务数值依据不同赛区进行设定。</li><li>主播完成任务对应阶段，奖励实时下发，同时为主播下发私信通知</li><li>活动页面显示四关关卡展示，任务状态区分：未解锁、进行中、已完成</li><li>活动任务模块需展示：主播关卡进度、主播任务进度、金牌累计数量、距晋级还需数量；距晋级还需数量 = 晋级所需数量 - 当前进度；当主播已晋级后，距晋级还差模块内容隐藏。</li><li>任务模块下显示四类任务进度及对应的金牌数量，该任务为活动期间<strong>循环任务</strong>，单轮完成后清空当前进度，重新开始计算。</li><li>四类任务进度需展示：主播当前任务进度、已完成次数数据</li></ol><ol><li>此阶段晋级仅校验主播累计获得的 &ldquo;荣耀金牌&rdquo; 数量，数量达标即可晋级。</li><li>晋级资格判定以任务统计截止时（2026 年 5 月 17 日 21:59:59）的累计数据为准。</li><li>晋级后触发：<ul><li>私信文案：【映客527】恭喜你成功晋级至突围赛！下一赛段即将开启，请继续加油，冲击更高荣耀，晋级奖励称号、头像框已下发。</li><li>直播间公聊文案：【映客527】恭喜 主播昵称 成功晋级至突围赛阶段，请继续加油，冲击更高荣耀。</li></ul></li><li>晋级后：<ul><li>主播头像、昵称展示在荣耀展示页面，展示逻辑：<span class=\"--mb--rich-text\" style=\"color: rgb(16,16,16);text-decoration: none;\">按照正常榜单排序逻辑进行展示即可，无特殊要求，晋级的人全部展示出来即可</span></li><li>主播吸底模块显示 &ldquo;已晋级&rdquo;</li></ul></li><li>统计结束后，所有主播金牌、任务数据<strong>全部清零</strong>，不带入下一赛段。</li></ol></li></ul><p><br /></p></li><li><p class=\"auto-cursor-target\"><br /></p><table class=\"relative-table wrapped\" style=\"width: 1413.0px;\"><colgroup><col style=\"width: 78.0px;\" /><col style=\"width: 93.0px;\" /><col style=\"width: 89.0px;\" /><col style=\"width: 118.0px;\" /><col style=\"width: 97.0px;\" /><col style=\"width: 74.0px;\" /><col style=\"width: 49.0px;\" /><col style=\"width: 363.0px;\" /><col style=\"width: 450.0px;\" /></colgroup><thead class=\"\"><tr class=\"\"><td style=\"text-align: center;\" colspan=\"8\">心动嘉宾</td><td><br /></td></tr><tr class=\"\"><td style=\"text-align: left;\">关卡</td><td style=\"text-align: left;\">任务值</td><td style=\"text-align: left;\">资源类型</td><td style=\"text-align: left;\">资源名称</td><td style=\"text-align: left;\">资源id</td><td style=\"text-align: left;\">时长</td><td style=\"text-align: left;\">数量</td><td style=\"text-align: left;\">私信内容</td><td><br /></td></tr></thead><tbody class=\"\"><tr class=\"\"><td style=\"text-align: left;\">task_key</td><td style=\"text-align: left;\">score_total</td><td style=\"text-align: left;\">prize_type</td><td style=\"text-align: left;\">prize_name</td><td style=\"text-align: left;\">resource_id</td><td style=\"text-align: left;\">duration</td><td style=\"text-align: left;\">num</td><td style=\"text-align: left;\">private_msg</td><td><br /></td></tr><tr class=\"\"><td style=\"text-align: left;\">1</td><td style=\"text-align: left;\">9</td><td style=\"text-align: left;\">头像框</td><td style=\"text-align: left;\">映客527头像框</td><td style=\"text-align: center;\">10344</td><td style=\"text-align: left;\">5</td><td><br /></td><td style=\"text-align: left;\">【映客527】恭喜您完成金牌任务一阶段，已获得映客527头像框奖励 &times;5 天，请注意查收。</td><td><a href=\"https://img.ikstatic.cn/MTc3ODI0NDg3NDE1OSMgODkjcG5n.png\">https://img.ikstatic.cn/MTc3ODI0NDg3NDE1OSMgODkjcG5n.png</a></td></tr><tr class=\"\"><td style=\"text-align: left;\">2</td><td style=\"text-align: left;\">21</td><td style=\"text-align: left;\">发言波纹</td><td style=\"text-align: left;\">映客527发言波纹</td><td style=\"text-align: center;\">10358</td><td style=\"text-align: left;\">5</td><td><br /></td><td style=\"text-align: left;\">【映客527】恭喜您完成金牌任务二阶段，已获得映客527发言波纹奖励 &times;5 天，请注意查收。</td><td><a href=\"https://img.ikstatic.cn/MTc3ODQ4OTA4ODYwMiMzNTAjcG5n.png\">https://img.ikstatic.cn/MTc3ODQ4OTA4ODYwMiMzNTAjcG5n.png</a></td></tr><tr class=\"\"><td style=\"text-align: left;\">3</td><td style=\"text-align: left;\">33</td><td style=\"text-align: left;\">公聊角标</td><td style=\"text-align: left;\">映客527公聊皮肤</td><td style=\"text-align: center;\">10350</td><td style=\"text-align: left;\">5</td><td><br /></td><td style=\"text-align: left;\">【映客527】恭喜您完成金牌任务三阶段，已获得映客527公聊皮肤奖励 &times;5 天，请注意查收。</td><td><a href=\"https://img.ikstatic.cn/MTc3ODI5MzAwMDcyNSMyODkjcG5n.png\">https://img.ikstatic.cn/MTc3ODI5MzAwMDcyNSMyODkjcG5n.png</a></td></tr><tr class=\"\"><td style=\"text-align: left;\">4</td><td style=\"text-align: left;\">80</td><td style=\"text-align: left;\">主页挂件</td><td style=\"text-align: left;\">映客527主页挂件</td><td style=\"text-align: center;\">10363</td><td style=\"text-align: left;\">5</td><td style=\"text-align: left;\">　</td><td style=\"text-align: left;\">【映客527】恭喜您完成金牌任务四阶段，已成功晋级至晋级赛阶段，获得映客527主页挂件 &times;5 天、晋级称号*3天，继续加油。</td><td><a href=\"https://img.ikstatic.cn/MTc3ODQ4OTMyOTM4MSMzMjYjcG5n.png\">https://img.ikstatic.cn/MTc3ODQ4OTMyOTM4MSMzMjYjcG5n.png</a></td></tr><tr class=\"\"><td style=\"text-align: left;\"><br /></td><td style=\"text-align: left;\"><br /></td><td style=\"text-align: left;\"><br /></td><td style=\"text-align: center;\">映客527心动嘉宾称号</td><td style=\"text-align: center;\">2292</td><td style=\"text-align: left;\">3</td><td style=\"text-align: left;\"><br /></td><td style=\"text-align: left;\"><br /></td><td><a href=\"https://img.ikstatic.cn/MTc3ODQ4NTYwNzkwNCM4NzgjcG5n.png\">https://img.ikstatic.cn/MTc3ODQ4NTYwNzkwNCM4NzgjcG5n.png</a></td></tr><tr><td style=\"text-align: left;\">5</td><td style=\"text-align: left;\">288</td><td style=\"text-align: left;\">勋章</td><td style=\"text-align: left;\">映客527勋章（永久）</td><td style=\"text-align: center;\">3042</td><td style=\"text-align: left;\">　</td><td style=\"text-align: left;\">1</td><td style=\"text-align: left;\">【映客527】恭喜您完成金牌任务五阶段，已获得映客527勋章（永久），请注意查收。</td><td><a href=\"https://img.ikstatic.cn/MTc3ODI0NTM2MDY3NCM4OTMjcG5n.png\">https://img.ikstatic.cn/MTc3ODI0NTM2MDY3NCM4OTMjcG5n.png</a></td></tr><tr><td style=\"text-align: left;\">无尽任务</td><td style=\"text-align: left;\">1000</td><td><br /></td><td style=\"text-align: left;\">画面广播：恭喜主播昵称历经挑战，终达巅峰，荣耀加冕，成功通关！</td><td><br /></td><td><br /></td><td><br /></td><td><br /></td><td><br /></td></tr></tbody></table><p class=\"auto-cursor-target\"><br /></p></li><li><p class=\"auto-cursor-target\"><br /></p><table class=\"wrapped\"><tbody class=\"\"><tr class=\"\"><td style=\"text-align: center;\">收礼</td><td style=\"text-align: center;\">每累计收礼达到 100 钻</td><td style=\"text-align: center;\">1</td><td style=\"text-align: center;\">无限制，按统计礼物钻石实时累计</td></tr><tr class=\"\"><td style=\"text-align: center;\">趣味关系</td><td style=\"text-align: center;\">开通1次趣味关系</td><td style=\"text-align: center;\"><span style=\"color: rgb(255,0,0);\">3</span></td><td style=\"text-align: center;\">活动期间限制10次</td></tr><tr class=\"\"><td style=\"text-align: center;\"><span style=\"color: rgb(255,0,0);\"><s>收礼</s></span></td><td style=\"text-align: center;\"><span style=\"color: rgb(255,0,0);\"><s>每收到1个用户527礼物</s></span></td><td style=\"text-align: center;\"><span style=\"color: rgb(255,0,0);\"><s>1</s></span></td><td style=\"text-align: center;\"><span style=\"color: rgb(255,0,0);\"><s>活动期间限制30次</s></span></td></tr><tr class=\"\"><td style=\"text-align: center;\">开通真爱团人数</td><td style=\"text-align: center;\">每增长 2 个真爱团</td><td style=\"text-align: center;\">1</td><td style=\"text-align: center;\"><p>有过直播间内收礼行为（不限制房间类型，私信不行），统计<strong>新增开通</strong>，续费不计，<strong>服务端需处理，活动期间限制30次</strong></p></td></tr><tr><td style=\"text-align: center;\">开通守护</td><td style=\"text-align: center;\">每增长 1 个守护</td><td style=\"text-align: center;\">30</td><td style=\"text-align: center;\">有过直播间内收礼行为（不限制房间类型，私信不行），统计<strong>新增开通+续费，活动期间限制30次</strong></td></tr></tbody></table><p class=\"auto-cursor-target\"><br /></p></li><li><p><strong><span style=\"color: rgb(0,128,0);\">赛段奖励：</span></strong></p><p>提前晋级/赛段结束后实时下发&ndash;研发下发</p><p><strong>提前晋级主播奖励</strong></p><p class=\"auto-cursor-target\"><strong>递补总榜奖励</strong></p><table class=\"wrapped\"><colgroup class=\"\"><col class=\"\" /><col class=\"\" /><col class=\"\" /><col class=\"\" /></colgroup><thead class=\"\"><tr class=\"\"><td class=\"highlight-grey\" style=\"text-align: center;\" colspan=\"4\" data-highlight-colour=\"grey\"><strong title=\"\">预选赛奖励</strong></td></tr></thead><tbody class=\"\"><tr class=\"\"><th style=\"text-align: center;\">赛区</th><th style=\"text-align: center;\">下发名次</th><th style=\"text-align: center;\">奖励资源</th><th style=\"text-align: center;\">私信</th></tr><tr class=\"\"><td style=\"text-align: center;\">心动嘉宾</td><td style=\"text-align: center;\">晋级主播</td><td style=\"text-align: center;\">映客527心动嘉宾称号</td><td style=\"text-align: center;\"><span style=\"color: rgb(0,0,0);\">【映客527】恭喜宝宝成功进入晋级赛，获得所在赛区映客527心动嘉宾称号*2天奖励，继续加油！</span></td></tr></tbody></table><p><strong><span style=\"color: rgb(0,128,0);\">任务页面展示逻辑：</span></strong></p><ul><li><span style=\"color: rgb(0,0,0);\">任务模块显示主播昵称，主播头像，所属赛区，任务进度，距完成任务还差XX积分</span></li><li><span style=\"color: rgb(0,0,0);\">完成任务获得资格后，任务模块不再加进度，展示提前晋级标签；未完成任务/未获得提前晋级名额的主播，任务模块显示主播最终进度。</span></li></ul><p>页面展示逻辑：</p><ul><li>页面展示主播任务完成进度；</li><li>展示任务完成人数，预留运营人员手动加数据接口，预留人数，按赛区加假数据；</li></ul><p><strong><span style=\"color: rgb(0,128,0);\">倒计时规则：</span></strong></p><ul><li>本赛段为期4天，倒计时区间为：3天22小时59分钟59秒-0天0小时0分钟0秒。</li><li>倒计时模块文案展示示例：距本赛段晋级还剩：1天22小时59分钟59秒。</li><li>倒计时实时在页面刷新，倒计时结束时自动刷新页面，避免延迟。</li><li>倒计时结束后，隐藏倒计时模块。<strong><span style=\"color: rgb(0,0,0);\"><br /></span></strong></li></ul><p><strong><span style=\"color: rgb(0,128,0);\">榜单展示逻辑：</span></strong></p><ul><li><span style=\"color: rgb(0,51,102);\">通用逻辑，</span><span style=\"color: rgb(0,51,102);\">各榜单默认展示前20名主播和用户信息，点击查看更多每次多展示20名主播，最多展示270/360名；</span><span style=\"color: rgb(0,51,102);\">具体展示信息为主播排名（前三名图标特殊展示），主播头像（显示开播状态、点击进入主播直播间（开播）或是个人主页（未开播）），主播昵称，金主头像（为其送出最多专属礼物的用户，点击不支持跳转）和当前榜单积分；</span></li><li><span style=\"color: rgb(0,51,102);\">当主播排名相同时，根据主播的用户等级大小进行排名，等级越大排名越高。当用户等级大小相同，根据用户uid大小进行排名，uid越小排名越高；</span></li><li><span style=\"color: rgb(0,0,0);\">心动嘉宾榜单中，1-120名和121-200名主播的榜单底色有区分展示。淘汰区：淘汰结果产生后淘汰区141-200名<span style=\"color: rgb(255,0,0);\">主播隐藏在榜单中</span>，点击查看更多滑动到最后可见；</span></li><li><span style=\"color: rgb(0,0,0);\">星势力主播主播榜单中，1-180名和181-200名主播的榜单底色有区分展示。淘汰区：淘汰结果产生后淘汰区181-200名<span style=\"color: rgb(255,0,0);\">主播隐藏在榜单中</span>，点击查看更多滑动到最后可见；</span></li><li>在榜主播从banner，活动中心，私信等渠道进入活动页面，默认展示主播所在榜单；若从直播间ICON进入活动页面，默认展示对应主播所在榜单。</li><li>未在榜用户从banner，活动中心，私信等渠道进入活动<span style=\"color: rgb(0,0,0);\">正赛页面</span>，默认展示&ldquo;娱乐明星-女明星&rdquo;榜单；若从直播间ICON进入活动页面，默认展示对应主播所在榜单。</li></ul><p><strong><span style=\"color: rgb(0,128,0);\">吸底展示逻辑：</span></strong></p><ul><li>吸底显示主播对应赛区赛道，主播头像，主播昵称，展示当前主播名次，当前积分，距离上一名积分</li><li><span style=\"color: rgb(0,0,0);\">吸底信息仅在主播对应榜单中展示，点击其余榜单Tab不展示吸底信息，未在榜/无积分主播及用户不显示吸底。</span></li><li><span style=\"color: rgb(0,0,0);\">主播排名200以内展示具体数字排名，200名以外展示200+；</span></li><li><span style=\"color: rgb(0,0,0);\">已淘汰的主播展示已淘汰标签，晋级主播展示对应赛区赛道，主播头像，主播昵称，主播最终名次，主播最终积分</span></li><li>用户或主播从Banner，活动中心等渠道进入页面展示用户个人信息，用户或主播从直播间内渠道（icon）展示主播信息。</li></ul><p><strong>（2）晋级赛-总榜晋级，结束清零</strong></p><p><strong><span style=\"color: rgb(0,128,0);\">赛段时间：<span style=\"color: rgb(0,51,102);\">2026年5月19日00:00:00-5月20日22:59:59</span></span></strong></p><p><span style=\"color: rgb(0,128,0);\"><strong>主播榜单统计时间：<span style=\"color: rgb(0,51,102);\">2026年5月19日00:00:00-5月<span style=\"color: rgb(0,128,0);\"><span style=\"color: rgb(0,51,102);\">20</span></span>日22:59:59</span></strong></span></p><p><span style=\"color: rgb(0,0,0);\"><span style=\"color: rgb(0,128,0);\"><strong>榜单统计礼物：</strong>430级专属礼物+活动专属礼物+活动非礼物玩法中出的活动专属礼物+积分卡+700级礼物</span></span></p><p><span style=\"color: rgb(0,0,0);\"><span style=\"color: rgb(0,128,0);\"><strong>礼物兑换维度：</strong></span>1映币=1积分</span></p><p><span style=\"color: rgb(0,128,0);\"><strong>晋级名额：</strong></span></p><ul><li><span style=\"color: rgb(255,0,0);\">心动嘉宾男赛区：进60</span></li><li><span style=\"color: rgb(255,0,0);\">心动嘉宾女赛区：进60</span></li></ul><p><span style=\"color: rgb(0,128,0);\"><strong>晋级规则：</strong></span></p><ul><li><p>参赛主播收集活动专属礼物及积分卡，按照累计积分由高到低进行排行</p></li><li><span style=\"color: rgb(255,0,0);\"><strong>5月20日22:59:59，心动嘉宾男女赛区前60名主播晋级，榜单清零；</strong></span></li><li><p><strong><span style=\"color: rgb(255,0,0);\"><span style=\"color: rgb(0,0,0);\">本赛段结束后积分清零，每日积分清零</span></span></strong></p></li><li><strong><span style=\"color: rgb(255,0,0);\"><span style=\"color: rgb(0,0,0);\">榜单展示逻辑见原型图，区分正常/危险/淘汰区</span></span></strong></li></ul><p><span style=\"color: rgb(0,128,0);\"><strong style=\"margin-left: 0.0px;\">赛段奖励：</strong></span></p><p><span style=\"color: rgb(0,128,0);\"><strong style=\"margin-left: 0.0px;\">赛段结束后实时下发&ndash;研发下发</strong></span></p><table class=\"relative-table wrapped\" style=\"width: 1574.0px;\"><colgroup class=\"\"><col class=\"\" style=\"width: 89.0px;\" /><col class=\"\" style=\"width: 100.0px;\" /><col class=\"\" style=\"width: 190.0px;\" /><col class=\"\" style=\"width: 97.0px;\" /><col style=\"width: 274.0px;\" /><col style=\"width: 49.0px;\" /><col style=\"width: 320.0px;\" /><col style=\"width: 455.0px;\" /></colgroup><tbody class=\"\" style=\"margin-left: 0.0px;\"><tr class=\"\" style=\"margin-left: 0.0px;\"><td style=\"text-align: left;\">排名</td><td style=\"text-align: left;\">资源类型</td><td style=\"text-align: left;\">资源名称</td><td style=\"text-align: left;\">资源id</td><td style=\"text-align: left;\">时长</td><td style=\"text-align: left;\">数量</td><td style=\"text-align: left;\">私信内容</td><td style=\"text-align: left;\"><br /></td></tr><tr class=\"\" style=\"margin-left: 0.0px;\"><td style=\"text-align: left;\">rank</td><td style=\"text-align: left;\">prize_type</td><td style=\"text-align: left;\">prize_name</td><td style=\"text-align: left;\">resource_id</td><td style=\"text-align: left;\">duration</td><td style=\"text-align: left;\">num</td><td style=\"text-align: left;\">private_msg</td><td style=\"text-align: left;\"><br /></td></tr><tr class=\"\" style=\"margin-left: 0.0px;\"><td style=\"text-align: left;\">1</td><td style=\"text-align: left;\">称号</td><td style=\"text-align: left;\">映客527心动嘉宾称号</td><td style=\"text-align: center;\">2292</td><td style=\"text-align: left;\">1</td><td style=\"text-align: left;\"><br /></td><td style=\"text-align: left;\">【映客527】恭喜宝宝成功进入突围赛，并成为赛道TOP1，获得所在赛区映客527心动嘉宾称号、映客527热门主播封面边框、热门心动嘉宾巨无霸角标*1天奖励，继续加油！</td><td><a href=\"https://img.ikstatic.cn/MTc3ODQ4NTYwNzkwNCM4NzgjcG5n.png\">https://img.ikstatic.cn/MTc3ODQ4NTYwNzkwNCM4NzgjcG5n.png</a></td></tr><tr class=\"\" style=\"margin-left: 0.0px;\"><td style=\"text-align: left;\"><br /></td><td style=\"text-align: left;\">封面边框</td><td style=\"text-align: left;\">映客527热门主播封面边框</td><td style=\"text-align: center;\">18083</td><td style=\"text-align: left;\">1</td><td style=\"text-align: left;\"><br /></td><td style=\"text-align: left;\"><br /></td><td><a href=\"https://img.ikstatic.cn/MTc3ODQ4ODY0ODM0MSM2ODkjcG5n.png\">https://img.ikstatic.cn/MTc3ODQ4ODY0ODM0MSM2ODkjcG5n.png</a></td></tr><tr class=\"\" style=\"margin-left: 0.0px;\"><td style=\"text-align: left;\"><br /></td><td style=\"text-align: left;\">巨无霸角标</td><td style=\"text-align: left;\">热门心动嘉宾巨无霸角标</td><td style=\"text-align: center;\">18082</td><td style=\"text-align: left;\">1</td><td style=\"text-align: left;\"><br /></td><td style=\"text-align: left;\"><br /></td><td><a href=\"https://img.ikstatic.cn/MTc3ODQ4ODM3NzM0NiM2MjgjcG5n.png\">https://img.ikstatic.cn/MTc3ODQ4ODM3NzM0NiM2MjgjcG5n.png</a></td></tr><tr><td style=\"text-align: left;\">2_10</td><td style=\"text-align: left;\">称号</td><td style=\"text-align: left;\">映客527心动嘉宾称号</td><td style=\"text-align: center;\">2292</td><td style=\"text-align: left;\">1</td><td style=\"text-align: left;\"><br /></td><td style=\"text-align: left;\">【映客527】恭喜宝宝成功进入突围赛，并成为赛道TOP10，获得所在赛区映客527心动嘉宾称号、热门心动嘉宾巨无霸角标*1天奖励，继续加油！</td><td><a href=\"https://img.ikstatic.cn/MTc3ODQ4NTYwNzkwNCM4NzgjcG5n.png\">https://img.ikstatic.cn/MTc3ODQ4NTYwNzkwNCM4NzgjcG5n.png</a></td></tr><tr><td style=\"text-align: left;\"><br /></td><td style=\"text-align: left;\">巨无霸角标</td><td style=\"text-align: left;\">热门心动嘉宾巨无霸角标</td><td style=\"text-align: center;\">18082</td><td style=\"text-align: left;\">1</td><td style=\"text-align: left;\"><br /></td><td style=\"text-align: left;\"><br /></td><td><a href=\"https://img.ikstatic.cn/MTc3ODQ4ODM3NzM0NiM2MjgjcG5n.png\">https://img.ikstatic.cn/MTc3ODQ4ODM3NzM0NiM2MjgjcG5n.png</a></td></tr><tr><td style=\"text-align: left;\">晋级主播</td><td style=\"text-align: left;\">称号</td><td style=\"text-align: left;\">映客527心动嘉宾称号</td><td style=\"text-align: center;\">2292</td><td style=\"text-align: left;\">1</td><td style=\"text-align: left;\"><br /></td><td style=\"text-align: left;\">【映客527】恭喜宝宝成功进入突围赛，获得所在赛区映客527心动嘉宾称号*1天奖励，继续加油！</td><td><a href=\"https://img.ikstatic.cn/MTc3ODQ4NTYwNzkwNCM4NzgjcG5n.png\">https://img.ikstatic.cn/MTc3ODQ4NTYwNzkwNCM4NzgjcG5n.png</a></td></tr></tbody></table><p><strong>（3）突围赛--日榜晋级，日清零</strong></p><p><strong><span style=\"color: rgb(0,128,0);\">赛段时间：<span style=\"color: rgb(0,51,102);\">2026年5月21日00:00:00-5月21日22:59:59</span></span></strong></p><p><span style=\"color: rgb(0,128,0);\"><strong>主播日榜榜单统计时间：<span style=\"color: rgb(0,51,102);\">2026年5月21日00:00:00-5月21日22:59:59</span></strong></span></p><p><span style=\"color: rgb(0,0,0);\"><span style=\"color: rgb(0,128,0);\"><strong>榜单统计礼物：</strong>430级专属礼物+活动专属礼物+活动非礼物玩法中出的活动专属礼物+积分卡+700级礼物</span></span></p><p><span style=\"color: rgb(0,0,0);\"><span style=\"color: rgb(0,128,0);\"><strong>礼物兑换维度：</strong></span>1映币=1积分</span></p><p><span style=\"color: rgb(0,128,0);\"><strong>晋级名额：</strong></span></p><ul><li><span style=\"color: rgb(255,0,0);\">心动嘉宾男生赛区：60进25</span></li><li><span style=\"color: rgb(255,0,0);\">心动嘉宾女生赛区：60进25</span></li></ul><p><span style=\"color: rgb(0,128,0);\"><strong>晋级规则：</strong></span></p><ul><li><p>参赛主播收集活动专属礼物及积分卡，按照累计积分由高到低进行排行</p></li><li><span style=\"color: rgb(255,0,0);\"><strong>5月21日<span style=\"color: rgb(0,128,0);\"><span style=\"color: rgb(0,51,102);\">22:59:59</span></span>，心动嘉宾每个赛区前<span style=\"color: rgb(0,51,102);\">25</span>名主播晋级，榜单清零；</strong></span></li><li><p><strong><span style=\"color: rgb(255,0,0);\"><span style=\"color: rgb(0,0,0);\">本赛段结束后积分清零，每日积分清零</span></span></strong></p></li></ul><p><span style=\"color: rgb(0,128,0);\"><strong style=\"margin-left: 0.0px;\">赛段奖励：</strong></span></p><p><span style=\"color: rgb(0,128,0);\"><strong style=\"margin-left: 0.0px;\">赛段结束后实时下发-----研发下发</strong></span></p><table class=\"relative-table wrapped\" style=\"width: 1591.0px;\"><colgroup class=\"\"><col class=\"\" style=\"width: 95.0px;\" /><col class=\"\" style=\"width: 100.0px;\" /><col class=\"\" style=\"width: 189.0px;\" /><col class=\"\" style=\"width: 190.0px;\" /><col style=\"width: 74.0px;\" /><col style=\"width: 49.0px;\" /><col style=\"width: 437.0px;\" /><col style=\"width: 455.0px;\" /></colgroup><tbody class=\"\" style=\"margin-left: 0.0px;\"><tr class=\"\" style=\"margin-left: 0.0px;\"><td style=\"text-align: left;\">排名</td><td style=\"text-align: left;\">资源类型</td><td style=\"text-align: left;\">资源名称</td><td style=\"text-align: left;\">资源id</td><td style=\"text-align: left;\">时长</td><td style=\"text-align: left;\">数量</td><td style=\"text-align: left;\">私信内容</td><td style=\"text-align: left;\"><br /></td></tr><tr class=\"\" style=\"margin-left: 0.0px;\"><td style=\"text-align: left;\">rank</td><td style=\"text-align: left;\">prize_type</td><td style=\"text-align: left;\">prize_name</td><td style=\"text-align: left;\">resource_id</td><td style=\"text-align: left;\">duration</td><td style=\"text-align: left;\">num</td><td style=\"text-align: left;\">private_msg</td><td style=\"text-align: left;\"><br /></td></tr><tr class=\"\" style=\"margin-left: 0.0px;\"><td style=\"text-align: left;\">1</td><td style=\"text-align: left;\">称号</td><td style=\"text-align: left;\">映客527心动嘉宾称号</td><td style=\"text-align: center;\">2292</td><td style=\"text-align: left;\">1</td><td style=\"text-align: left;\"><br /></td><td style=\"text-align: left;\">【映客527】恭喜宝宝成功进入男女神赛，并成为赛道TOP1，获得所在赛区映客527心动嘉宾称号、映客527热门主播封面边框、热门心动嘉宾巨无霸角标*1天奖励，继续加油！</td><td><a href=\"https://img.ikstatic.cn/MTc3ODQ4NTYwNzkwNCM4NzgjcG5n.png\">https://img.ikstatic.cn/MTc3ODQ4NTYwNzkwNCM4NzgjcG5n.png</a></td></tr><tr class=\"\" style=\"margin-left: 0.0px;\"><td style=\"text-align: left;\"><br /></td><td style=\"text-align: left;\">封面边框</td><td style=\"text-align: left;\">映客527热门主播封面边框</td><td style=\"text-align: center;\">18083</td><td style=\"text-align: left;\">1</td><td style=\"text-align: left;\"><br /></td><td style=\"text-align: left;\"><br /></td><td><a href=\"https://img.ikstatic.cn/MTc3ODQ4ODY0ODM0MSM2ODkjcG5n.png\">https://img.ikstatic.cn/MTc3ODQ4ODY0ODM0MSM2ODkjcG5n.png</a></td></tr><tr class=\"\" style=\"margin-left: 0.0px;\"><td style=\"text-align: left;\"><br /></td><td style=\"text-align: left;\">巨无霸角标</td><td style=\"text-align: left;\">热门心动嘉宾巨无霸角标</td><td style=\"text-align: center;\">18082</td><td style=\"text-align: left;\">1</td><td style=\"text-align: left;\"><br /></td><td style=\"text-align: left;\"><br /></td><td><a href=\"https://img.ikstatic.cn/MTc3ODQ4ODM3NzM0NiM2MjgjcG5n.png\">https://img.ikstatic.cn/MTc3ODQ4ODM3NzM0NiM2MjgjcG5n.png</a></td></tr><tr><td style=\"text-align: left;\">2_10</td><td style=\"text-align: left;\">称号</td><td style=\"text-align: left;\">映客527心动嘉宾称号</td><td style=\"text-align: center;\">2292</td><td style=\"text-align: left;\">1</td><td style=\"text-align: left;\"><br /></td><td style=\"text-align: left;\">【映客527】恭喜宝宝成功进入男女神赛，并成为赛道TOP10，获得所在赛区映客527心动嘉宾称号、热门心动嘉宾巨无霸角标*1天奖励，继续加油！</td><td><a href=\"https://img.ikstatic.cn/MTc3ODQ4NTYwNzkwNCM4NzgjcG5n.png\">https://img.ikstatic.cn/MTc3ODQ4NTYwNzkwNCM4NzgjcG5n.png</a></td></tr><tr><td style=\"text-align: left;\"><br /></td><td style=\"text-align: left;\">巨无霸角标</td><td style=\"text-align: left;\">热门心动嘉宾巨无霸角标</td><td style=\"text-align: center;\">18082</td><td style=\"text-align: left;\">1</td><td style=\"text-align: left;\"><br /></td><td style=\"text-align: left;\"><br /></td><td><a href=\"https://img.ikstatic.cn/MTc3ODQ4ODM3NzM0NiM2MjgjcG5n.png\">https://img.ikstatic.cn/MTc3ODQ4ODM3NzM0NiM2MjgjcG5n.png</a></td></tr><tr><td style=\"text-align: left;\">晋级主播</td><td style=\"text-align: left;\">称号</td><td style=\"text-align: left;\">映客527心动嘉宾称号</td><td style=\"text-align: center;\">2292</td><td style=\"text-align: left;\">1</td><td style=\"text-align: left;\"><br /></td><td style=\"text-align: left;\">【映客527】恭喜宝宝成功进入男女神赛，获得所在赛区映客527心动嘉宾称号*1天奖励，继续加油！</td><td><a href=\"https://img.ikstatic.cn/MTc3ODQ4NTYwNzkwNCM4NzgjcG5n.png\">https://img.ikstatic.cn/MTc3ODQ4NTYwNzkwNCM4NzgjcG5n.png</a></td></tr></tbody></table><p><br /></p><p><br /></p><p><br /></p></li><li><p><strong>（3）男女神赛--定点淘汰，积分不清零，</strong></p><p><strong><span style=\"color: rgb(0,128,0);\">赛段时间：<span style=\"color: rgb(0,51,102);\">2026年5月22日00:00:00-5月22日22:59:59</span></span></strong></p><p><span style=\"color: rgb(0,128,0);\"><strong>主播日榜榜单统计时间：<span style=\"color: rgb(0,51,102);\">2026年5月22日<span style=\"color: rgb(0,128,0);\"><span style=\"color: rgb(0,51,102);\">00:00:00-</span></span>22:59:59</span></strong></span></p><p><span style=\"color: rgb(0,0,0);\"><span style=\"color: rgb(0,128,0);\"><strong>榜单统计礼物：</strong>430级专属礼物+活动专属礼物+活动非礼物玩法中出的活动专属礼物+积分卡+700级礼物</span></span></p><p><span style=\"color: rgb(0,0,0);\"><span style=\"color: rgb(0,128,0);\"><strong>礼物兑换维度：</strong></span>1映币=1积分</span></p><p><span style=\"color: rgb(0,128,0);\"><strong>晋级名额：</strong></span></p><ul><li>心动嘉宾男赛区<span style=\"color: rgb(0,51,102);\">：<span>进10</span></span></li><li>心动嘉宾女赛区<span style=\"color: rgb(0,51,102);\">：<span>进10</span></span></li></ul><p><span style=\"color: rgb(0,128,0);\"><strong>晋级规则：</strong></span></p><ul><li><p>参赛主播收集活动专属礼物及积分卡，按照累计积分由高到低进行排行</p></li></ul><p><span style=\"color: rgb(0,0,0);\"><strong>心动嘉宾赛区：</strong><strong>18:59:59，前20名晋级，21:59:59，前15名晋级，22:59:59，前10名晋级，</strong></span></p><ul><li><p><strong><span style=\"color: rgb(255,0,0);\"><span style=\"color: rgb(0,0,0);\">本赛段结束后积分清零，每日积分清零</span></span></strong></p></li></ul><p><span style=\"color: rgb(0,128,0);\"><strong style=\"margin-left: 0.0px;\">赛段奖励：</strong></span></p><p><span style=\"color: rgb(0,128,0);\"><strong style=\"margin-left: 0.0px;\">赛段结束后实时下发-----运营下发</strong></span></p><p><br /></p><p><strong>（7）总决赛-小时错峰晋级，合并赛道--0点开始统计</strong></p><p><strong><span style=\"color: rgb(0,128,0);\">赛段时间：<span style=\"color: rgb(0,51,102);\">2026年5月23日 00:00:00--22:59:59</span></span></strong></p><p><span style=\"color: rgb(0,128,0);\"><strong>主播榜单统计时间：<span style=\"color: rgb(255,0,0);\">2026年5月23日00:00:00-22:59:59</span></strong></span></p><p><span style=\"color: rgb(0,0,0);\"><span style=\"color: rgb(0,128,0);\"><strong>榜单统计礼物：</strong>430级专属礼物+活动专属礼物+活动非礼物玩法中出的活动专属礼物+积分卡+700级礼物</span></span></p><p><span style=\"color: rgb(0,0,0);\"><span style=\"color: rgb(0,128,0);\"><strong>礼物兑换维度：</strong></span>1映币=1积分</span></p><p><span style=\"color: rgb(0,128,0);\"><strong>晋级名额：</strong></span></p><ul><li>心动嘉宾赛区<span style=\"color: rgb(0,51,102);\">：</span><span style=\"color: rgb(0,0,0);\"><span style=\"color: rgb(255,0,0);\">20:00:00-22:59:59</span>，三轮轮，21点：20进10；22点：10进5，23点，5进3</span></li></ul><p><span style=\"color: rgb(0,128,0);\"><strong>倒计时规则：</strong></span></p><ul><li>本赛段为期1天，倒计时区间为：59分钟59秒-0分钟0秒。</li><li>倒计时模块文案展示示例：第一轮倒计时：距本轮淘汰还剩&nbsp; &nbsp;20小时59分钟59秒；第二、三轮倒计时：距本轮淘汰还剩 59分59秒-0分0秒；</li><li>*倒计时实时在页面刷新，倒计时结束时自动刷新页面，避免延迟。</li><li>*倒计时结束后，隐藏倒计时模块。</li></ul><p><span style=\"color: rgb(0,128,0);\"><strong>榜单展示逻辑：</strong></span></p><ul><li>各榜单默认展示前20名主播和用户信息，具体展示信息为主播排名（前三名图标特殊展示），主播头像（显示开播状态、点击进入主播直播间（开播）或是个人主页（未开播））、主播昵称、金主头像（为其送出最多专属礼物的用户，点击不支持跳转）和当前榜单积分。各赛道首页默认展示至第20名主播，点击查看更多展示全部；</li><li>当主播排名相同时，根据主播的用户等级大小进行排名，等级越大排名越高。当用户等级大小相同，根据用户uid大小进行排名，uid越小排名越高。</li><li><span style=\"color: rgb(0,0,0);\">榜单区分危险区，淘汰区。危险区至于榜单最上方，默认展示5名主播/派对，点击查看更多可展示全部危险区主播/派对；淘汰区置于榜单最下方，展示已淘汰主播/派对，默认展示全部淘汰主播/派对；赛段结束后淘汰区隐藏在榜单中，点击查看更多滑动到最下面可查看到淘汰区主播；</span><span style=\"color: rgb(255,0,0);\"><br /></span></li><li>在榜主播从banner，活动中心，私信等渠道进入活动页面，默认展示主播所在榜单；若从直播间ICON进入活动页面，默认展示对应主播所在榜单。</li><li>未在榜主播从banner，活动中心，私信等渠道进入活动页面，默认展示&ldquo;娱乐明星-女明星&rdquo;榜单；若从直播间ICON进入活动页面，默认展示对应主播所在榜单。</li></ul><p><span style=\"color: rgb(0,128,0);\"><strong>吸底展示逻辑：</strong></span></p><ul><li>吸底显示主播对应赛道，主播头像，主播昵称，展示当前主播名次，当前积分，距离上一名积分，关卡名称，关卡进度。</li><li>吸底信息仅在主播对应榜单中展示，点击其余榜单Tab不展示吸底信息。</li><li><span style=\"color: rgb(0,0,0);\">处于危险区主播展示危险标签，已淘汰的主播展示已淘汰标签（第二天不展示吸底），无积分主播不展示吸底；当主播点击进入之前赛段tab时，吸底信息按照对应赛段结束时信息进行展示。</span></li><li>默认展示吸底信息。上划手势，吸底消失；下划手势，吸底出现。</li><li>用户或主播从Banner，活动中心等渠道进入页面展示用户个人信息，用户或主播从直播间内渠道（icon）展示主播信息。</li></ul><span style=\"color: rgb(0,0,0);\">c）历史累计收礼大于5000万映币</span>的主播报名即触发全站文字广播，文案为：明星<span style=\"color: rgb(0,51,102);\">主播XXX已成功参与2026年映客527，快来为Ta助力吧！</span></li></ul><p><br /></p><p><br /></p><p><br /></p><p><br /></p><p><br /></p><p><br /></p><p><br /></p>",
+      "representation": "storage",
+      "_expandable": {
+        "content": "/rest/api/content/492718697"
+      }
+    },
+    "_expandable": {
+      "editor": "",
+      "view": "",
+      "export_view": "",
+      "styled_view": "",
+      "anonymous_export_view": ""
+    }
+  },
+  "extensions": {
+    "position": "none"
+  },
+  "_links": {
+    "webui": "/pages/viewpage.action?pageId=492718697",
+    "edit": "/pages/resumedraft.action?draftId=492718697&draftShareId=e9dc27f0-a7db-4028-899a-07372bdafe8a",
+    "tinyui": "/x/aUpeHQ",
+    "collection": "/rest/api/content",
+    "base": "https://wiki.inkept.cn",
+    "context": "",
+    "self": "https://wiki.inkept.cn/rest/api/content/492718697"
+  },
+  "_expandable": {
+    "container": "/rest/api/space/xueyuan",
+    "metadata": "",
+    "operations": "",
+    "children": "/rest/api/content/492718697/child",
+    "restrictions": "/rest/api/content/492718697/restriction/byOperation",
+    "history": "/rest/api/content/492718697/history",
+    "descendants": "/rest/api/content/492718697/descendant"
+  }
+}

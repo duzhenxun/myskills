@@ -1,0 +1,697 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=1920, height=1080">
+    <script src="https://cdn.jsdelivr.net/npm/gsap@3.14.2/dist/gsap.min.js"></script>
+    <style>
+      * {
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+      }
+
+      html,
+      body {
+        width: 1920px;
+        height: 1080px;
+        overflow: hidden;
+        background: #ffffff;
+      }
+
+      body {
+        font-family: sans-serif;
+        color: #000000;
+      }
+
+      #root {
+        position: relative;
+        width: 1920px;
+        height: 1080px;
+        overflow: hidden;
+        background: #ffffff;
+      }
+
+      .scene {
+        position: absolute;
+        inset: 0;
+        overflow: hidden;
+        background: #ffffff;
+      }
+
+      .scene-content {
+        width: 100%;
+        height: 100%;
+        padding: 88px 120px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        gap: 36px;
+        position: relative;
+      }
+
+      .decor {
+        position: absolute;
+        inset: 0;
+        pointer-events: none;
+        overflow: hidden;
+      }
+
+      .soft-dot,
+      .ring,
+      .glow {
+        position: absolute;
+        border-radius: 999px;
+      }
+
+      .glow {
+        width: 460px;
+        height: 460px;
+        background: radial-gradient(circle, rgba(0, 216, 201, 0.28), rgba(0, 216, 201, 0));
+        filter: blur(10px);
+      }
+
+      .ring {
+        width: 130px;
+        height: 130px;
+        border: 18px solid rgba(0, 216, 201, 0.5);
+      }
+
+      .soft-dot {
+        width: 26px;
+        height: 26px;
+        background: linear-gradient(135deg, rgba(0, 216, 201, 0.65), rgba(102, 170, 255, 0.52));
+      }
+
+      .brand-icon {
+        width: 132px;
+        height: 132px;
+        border-radius: 30px;
+        box-shadow: 0 24px 70px rgba(0, 216, 201, 0.28);
+      }
+
+      .kicker {
+        font-family: sans-serif;
+        color: #129289;
+        font-size: 30px;
+        letter-spacing: 0;
+      }
+
+      .headline {
+        font-size: 112px;
+        line-height: 1.06;
+        letter-spacing: 0;
+        color: #000000;
+        max-width: 820px;
+      }
+
+      .headline .word {
+        display: inline-block;
+      }
+
+      .subline {
+        font-family: sans-serif;
+        font-size: 34px;
+        line-height: 1.55;
+        color: #333333;
+        max-width: 720px;
+      }
+
+      .pill {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        min-height: 54px;
+        padding: 0 30px;
+        border-radius: 999px;
+        background: #00d8c9;
+        color: #ffffff;
+        font-size: 24px;
+        box-shadow: 0 14px 34px rgba(0, 216, 201, 0.27);
+      }
+
+      .outline-pill {
+        background: #ffffff;
+        color: #00d8c9;
+        border: 2px solid #00d8c9;
+        box-shadow: none;
+      }
+
+      .browser-stage {
+        width: 1110px;
+        height: 624px;
+        border-radius: 18px;
+        overflow: hidden;
+        box-shadow: 0 26px 76px rgba(0, 0, 0, 0.16);
+        border: 1px solid rgba(216, 216, 216, 0.9);
+        background: #ffffff;
+      }
+
+      .browser-stage img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        display: block;
+      }
+
+      .stage-dark {
+        width: 1080px;
+        height: 660px;
+        border-radius: 18px;
+        background: #333333;
+        overflow: hidden;
+        position: relative;
+        box-shadow: 0 26px 80px rgba(0, 0, 0, 0.18);
+      }
+
+      .stage-dark .hero-shot {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        filter: saturate(1.03);
+      }
+
+      .stage-dark::after {
+        content: "";
+        position: absolute;
+        inset: 0;
+        background: rgba(0, 0, 0, 0.45);
+      }
+
+      .profile-badge,
+      .qr-chip,
+      .live-id {
+        position: absolute;
+        z-index: 2;
+        border-radius: 14px;
+      }
+
+      .profile-badge {
+        top: 34px;
+        left: 34px;
+        width: 310px;
+        height: 92px;
+        background: rgba(0, 0, 0, 0.28);
+        display: flex;
+        align-items: center;
+        gap: 16px;
+        padding: 18px;
+        color: #ffffff;
+      }
+
+      .avatar {
+        width: 58px;
+        height: 58px;
+        border-radius: 50%;
+        background: #d8d8d8;
+        overflow: hidden;
+      }
+
+      .avatar img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+      }
+
+      .badge-copy {
+        display: flex;
+        flex-direction: column;
+        gap: 7px;
+        font-size: 18px;
+      }
+
+      .mini-badge {
+        width: 66px;
+        height: 20px;
+        border-radius: 3px;
+        background: #ffa154;
+      }
+
+      .live-id {
+        top: 40px;
+        right: 36px;
+        color: #d8d8d8;
+        font-size: 22px;
+      }
+
+      .qr-chip {
+        bottom: 34px;
+        left: 34px;
+        width: 132px;
+        padding: 12px;
+        background: rgba(0, 0, 0, 0.34);
+        color: #d8d8d8;
+        font-size: 14px;
+        display: flex;
+        flex-direction: column;
+        gap: 8px;
+      }
+
+      .qr-chip img {
+        width: 94px;
+        height: 94px;
+        object-fit: cover;
+      }
+
+      .stack {
+        display: flex;
+        flex-direction: column;
+        gap: 18px;
+      }
+
+      .thumb-card {
+        width: 300px;
+        height: 166px;
+        border-radius: 10px;
+        overflow: hidden;
+        position: relative;
+        border: 3px solid #00d8c9;
+        box-shadow: 0 18px 46px rgba(0, 0, 0, 0.16);
+        background: #d8d8d8;
+      }
+
+      .thumb-card img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        display: block;
+      }
+
+      .thumb-card span {
+        position: absolute;
+        left: 16px;
+        bottom: 14px;
+        color: #ffffff;
+        font-size: 24px;
+        text-shadow: 0 2px 10px rgba(0, 0, 0, 0.5);
+      }
+
+      .nav-row {
+        display: flex;
+        align-items: center;
+        gap: 34px;
+        font-size: 22px;
+        color: #333333;
+      }
+
+      .scene-1 .scene-content {
+        flex-direction: row;
+        align-items: center;
+        justify-content: space-between;
+      }
+
+      .scene-1 .copy {
+        display: flex;
+        flex-direction: column;
+        gap: 28px;
+        width: 640px;
+      }
+
+      .scene-2 .scene-content {
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+        gap: 42px;
+      }
+
+      .scene-2 .copy-strip {
+        position: absolute;
+        top: 76px;
+        left: 120px;
+        right: 120px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+      }
+
+      .scene-2 .headline {
+        font-size: 58px;
+        max-width: 920px;
+      }
+
+      .scene-3 .scene-content {
+        padding: 74px 120px;
+        justify-content: flex-start;
+      }
+
+      .section-title {
+        display: flex;
+        align-items: center;
+        gap: 16px;
+        font-size: 50px;
+        color: #333333;
+      }
+
+      .story-world {
+        position: relative;
+        flex: 1;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+
+      .page-slice {
+        width: 1150px;
+        height: 650px;
+        border-radius: 18px;
+        overflow: hidden;
+        border: 1px solid #d8d8d8;
+        box-shadow: 0 26px 68px rgba(0, 0, 0, 0.12);
+        background: #ffffff;
+      }
+
+      .page-slice img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        object-position: 50% 0%;
+      }
+
+      .float-card {
+        position: absolute;
+        width: 470px;
+        height: 244px;
+        border-radius: 14px;
+        overflow: hidden;
+        box-shadow: 0 24px 70px rgba(0, 0, 0, 0.18);
+        border: 1px solid rgba(255, 255, 255, 0.65);
+        background: #d8d8d8;
+      }
+
+      .float-card img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+      }
+
+      .float-card::after {
+        content: "";
+        position: absolute;
+        inset: auto 0 0 0;
+        height: 48%;
+        background: linear-gradient(to top, rgba(0, 0, 0, 0.62), rgba(0, 0, 0, 0));
+      }
+
+      .float-card span {
+        position: absolute;
+        left: 22px;
+        bottom: 18px;
+        z-index: 2;
+        color: #ffffff;
+        font-size: 25px;
+      }
+
+      .tag-cloud {
+        position: absolute;
+        right: 76px;
+        bottom: 42px;
+        display: flex;
+        gap: 14px;
+        flex-wrap: wrap;
+        width: 430px;
+      }
+
+      .tag {
+        padding: 14px 22px;
+        border-radius: 999px;
+        border: 2px solid #00d8c9;
+        background: #ffffff;
+        color: #129289;
+        font-size: 25px;
+      }
+
+      .scene-4 .scene-content {
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        gap: 32px;
+      }
+
+      .final-lockup {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 76px;
+        width: 100%;
+      }
+
+      .app-tile,
+      .download-card {
+        border-radius: 28px;
+        background: #ffffff;
+        border: 1px solid #d8d8d8;
+        box-shadow: 0 24px 76px rgba(0, 0, 0, 0.12);
+      }
+
+      .app-tile {
+        width: 290px;
+        height: 290px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+
+      .app-tile img {
+        width: 202px;
+        height: 202px;
+        border-radius: 44px;
+      }
+
+      .download-card {
+        width: 290px;
+        min-height: 342px;
+        padding: 26px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 18px;
+        font-size: 24px;
+        color: #333333;
+      }
+
+      .download-card img {
+        width: 220px;
+        height: 220px;
+      }
+
+      .final-title {
+        font-size: 82px;
+        line-height: 1.1;
+        color: #000000;
+      }
+
+      .final-title .teal {
+        color: #129289;
+      }
+
+      .underline-svg {
+        width: 620px;
+        height: 28px;
+      }
+
+      .underline-path,
+      .draw-star,
+      .draw-arc {
+        fill: none;
+        stroke: #00d8c9;
+        stroke-width: 8;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .draw-star {
+        stroke-width: 6;
+      }
+
+      .fade-white {
+        position: absolute;
+        inset: 0;
+        background: #ffffff;
+        pointer-events: none;
+        opacity: 0;
+        z-index: 20;
+      }
+    </style>
+  </head>
+  <body>
+    <div data-hf-id="hf-at0g" id="root" data-composition-id="main" data-start="0" data-duration="20" data-width="1920" data-height="1080">
+      <section data-hf-id="hf-yct3" id="scene-1" class="clip scene scene-1" data-start="0" data-duration="5" data-track-index="1" style="opacity: 0">
+        <div data-hf-id="hf-mit3" class="decor">
+          <div data-hf-id="hf-v7mh" class="glow s1-glow" style="left: 42px; top: 540px"></div>
+          <div data-hf-id="hf-e1ow" class="ring s1-ring" style="left: 252px; top: 210px"></div>
+          <div data-hf-id="hf-82j6" class="soft-dot s1-dot-a" style="left: 102px; top: 196px"></div>
+          <div data-hf-id="hf-sog9" class="soft-dot s1-dot-b" style="right: 150px; top: 332px"></div>
+        </div>
+        <div data-hf-id="hf-cn5c" class="scene-content">
+          <div data-hf-id="hf-bsen" class="browser-stage s1-stage" data-layout-allow-overflow="">
+            <img data-hf-id="hf-swrh" src="capture/screenshots/scroll-000.png" alt="映客首页直播区域">
+          </div>
+          <div data-hf-id="hf-bdx3" class="copy">
+            <img data-hf-id="hf-drn1" class="brand-icon s1-logo" src="capture/assets/mtu5mjiwnzi4ody5nym5mdejcg5n.png" alt="映客图标">
+            <div data-hf-id="hf-br0w" class="kicker s1-kicker">映客直播</div>
+            <h1 data-hf-id="hf-5e1b" class="headline s1-title">
+              <span data-hf-id="hf-j2qe" class="word">直播</span><span data-hf-id="hf-ju7j" class="word">不只是</span><span data-hf-id="hf-k3uu" class="word">观看</span>
+            </h1>
+            <svg data-hf-id="hf-oi7c" class="underline-svg" viewBox="0 0 620 28" aria-hidden="true">
+              <path data-hf-id="hf-hpei" class="underline-path" d="M12 16 C150 5 310 25 606 10" />
+            </svg>
+            <p data-hf-id="hf-859z" class="subline s1-sub">看直播，玩直播，尽在映客</p>
+          </div>
+        </div>
+      </section>
+
+      <section data-hf-id="hf-kcij" id="scene-2" class="clip scene scene-2" data-start="5" data-duration="5" data-track-index="1">
+        <div data-hf-id="hf-nctz" class="decor">
+          <div data-hf-id="hf-fbgb" class="glow s2-glow" style="right: 190px; bottom: 90px"></div>
+          <div data-hf-id="hf-rqzl" class="ring s2-ring" style="right: 98px; top: 198px"></div>
+        </div>
+        <div data-hf-id="hf-o0eg" class="scene-content">
+          <div data-hf-id="hf-vria" class="copy-strip">
+            <h2 data-hf-id="hf-mcfw" class="headline s2-title">打开直播间，遇见正在发生的故事</h2>
+            <div data-hf-id="hf-mvrs" class="pill s2-pill">+ 关注</div>
+          </div>
+          <div data-hf-id="hf-h5jz" class="stage-dark s2-stage" data-layout-allow-overflow="" data-layout-ignore="">
+            <img data-hf-id="hf-n3u1" class="hero-shot" src="capture/screenshots/scroll-000.png" alt="直播间画面" data-layout-allow-overflow="">
+            <div data-hf-id="hf-26d8" class="profile-badge s2-profile">
+              <div data-hf-id="hf-o4a3" class="avatar"><img data-hf-id="hf-fg55" src="capture/assets/mtu5mji3njiwmdy4nim0nzqjcg5n.png" alt="主播头像"></div>
+              <div data-hf-id="hf-6avx" class="badge-copy"><strong data-hf-id="hf-sb53">提米</strong><div data-hf-id="hf-xfb3" class="mini-badge"></div></div>
+            </div>
+            <div data-hf-id="hf-istp" class="live-id s2-id">映客号：774870442</div>
+            <div data-hf-id="hf-ymyt" class="qr-chip s2-qr"><span data-hf-id="hf-ny7y">手机客户端下载安装</span><img data-hf-id="hf-j8kx" src="capture/assets/download-code.png" alt="下载二维码"></div>
+          </div>
+          <div data-hf-id="hf-d1zs" class="stack">
+            <div data-hf-id="hf-gzf5" class="thumb-card s2-card"><img data-hf-id="hf-fj2p" src="capture/assets/mtu5mji3njiwmdy4nim0nzqjcg5n.png" alt="提米"><span data-hf-id="hf-dels">提米</span></div>
+            <div data-hf-id="hf-t6md" class="thumb-card s2-card"><img data-hf-id="hf-4ca0" src="capture/screenshots/scroll-063.png" alt="一涵呀"><span data-hf-id="hf-qhdi">一涵呀</span></div>
+            <div data-hf-id="hf-udjg" class="thumb-card s2-card"><img data-hf-id="hf-ilv1" src="capture/assets/scaleimage.jpg" alt="happy"><span data-hf-id="hf-1tsl">happy</span></div>
+          </div>
+        </div>
+      </section>
+
+      <section data-hf-id="hf-4hr1" id="scene-3" class="clip scene scene-3" data-start="10" data-duration="5" data-track-index="1">
+        <div data-hf-id="hf-myiy" class="decor">
+          <div data-hf-id="hf-8ty3" class="glow s3-glow" style="left: 120px; bottom: 20px"></div>
+          <div data-hf-id="hf-pd48" class="soft-dot s3-dot-a" style="right: 250px; top: 140px"></div>
+          <div data-hf-id="hf-1ppx" class="soft-dot s3-dot-b" style="left: 280px; top: 890px"></div>
+        </div>
+        <div data-hf-id="hf-mthd" class="scene-content">
+          <div data-hf-id="hf-w2jz" class="section-title s3-title">
+            <svg data-hf-id="hf-pql9" width="54" height="54" viewBox="0 0 54 54" aria-hidden="true">
+              <path data-hf-id="hf-5h2m" class="draw-star" d="M27 6 L33 20 L48 21 L36 31 L40 46 L27 38 L14 46 L18 31 L6 21 L21 20 Z" />
+            </svg>
+            <span data-hf-id="hf-8520">看主播，刷故事，发现热点内容</span>
+          </div>
+          <div data-hf-id="hf-5qoc" class="story-world">
+            <div data-hf-id="hf-yk3n" class="page-slice s3-page" data-layout-allow-overflow=""><img data-hf-id="hf-hg91" src="capture/screenshots/scroll-063.png" alt="映客直播故事和直播列表" data-layout-allow-overflow=""></div>
+            <div data-hf-id="hf-6a4m" class="float-card s3-card-a" style="left: 66px; top: 86px" data-layout-allow-overflow=""><img data-hf-id="hf-f6q5" src="capture/assets/scaleimage.jpg" alt="直播故事" data-layout-allow-overflow=""><span data-hf-id="hf-pu7q">直播故事</span></div>
+            <div data-hf-id="hf-vgj8" class="float-card s3-card-b" style="right: 54px; top: 164px" data-layout-allow-overflow=""><img data-hf-id="hf-s0tb" src="capture/assets/hero-1.jpg" alt="热点内容" data-layout-allow-overflow=""><span data-hf-id="hf-k9m5">热点内容</span></div>
+            <div data-hf-id="hf-vl08" class="tag-cloud s3-tags">
+              <span data-hf-id="hf-9ctw" class="tag">直播</span>
+              <span data-hf-id="hf-ckdb" class="tag">故事</span>
+              <span data-hf-id="hf-tynx" class="tag">热点</span>
+              <span data-hf-id="hf-v4oj" class="tag">主播</span>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section data-hf-id="hf-xyno" id="scene-4" class="clip scene scene-4" data-start="15" data-duration="5" data-track-index="1">
+        <div data-hf-id="hf-mk7x" class="decor">
+          <img data-hf-id="hf-ozyt" class="s4-strip" src="capture/assets/mtywndyzmzmzndyznimgndijcg5n.png" alt="" style="position: absolute; left: 160px; top: 130px; width: 1600px; height: 460px; object-fit: cover; opacity: 0.95">
+          <div data-hf-id="hf-thx0" class="glow s4-glow" style="left: 690px; bottom: 110px"></div>
+          <div data-hf-id="hf-2frz" class="ring s4-ring" style="right: 270px; top: 190px"></div>
+        </div>
+        <div data-hf-id="hf-n7se" class="scene-content">
+          <div data-hf-id="hf-gcvj" class="final-lockup">
+            <div data-hf-id="hf-5hht" class="app-tile s4-app"><img data-hf-id="hf-3s5r" src="capture/assets/mtu5mjiwnzi4ody5nym5mdejcg5n.png" alt="映客图标"></div>
+            <div data-hf-id="hf-1ce4" class="final-title s4-title">把下一次<span data-hf-id="hf-h7oy" class="teal">精彩</span><br data-hf-id="hf-x5px">带到手机里</div>
+            <div data-hf-id="hf-gvn9" class="download-card s4-download"><span data-hf-id="hf-blr6">手机客户端下载安装</span><img data-hf-id="hf-b8dh" src="capture/assets/download-code.png" alt="下载二维码"></div>
+          </div>
+          <div data-hf-id="hf-lkay" class="pill s4-cta">立即体验</div>
+          <div data-hf-id="hf-l4s9" class="subline s4-sub">看直播，玩直播，尽在映客</div>
+        </div>
+      </section>
+
+      <div data-hf-id="hf-h0pa" class="fade-white"></div>
+    </div>
+
+    <script>
+      window.__timelines = window.__timelines || {};
+      const tl = gsap.timeline({ paused: true });
+
+      function drawPath(selector, at, duration) {
+        document.querySelectorAll(selector).forEach(function (path) {
+          var length = path.getTotalLength();
+          path.style.strokeDasharray = length;
+          path.style.strokeDashoffset = length;
+          tl.to(path, { strokeDashoffset: 0, duration: duration, ease: "power2.out" }, at);
+        });
+      }
+
+      function sceneIn(selector, at) {
+        tl.fromTo(selector, { opacity: 0 }, { opacity: 1, duration: 0.28, ease: "power2.out" }, at);
+      }
+
+      function sceneOut(selector, at) {
+        tl.to(selector, { opacity: 0, y: -120, filter: "blur(18px)", duration: 0.38, ease: "power2.in" }, at);
+        tl.set(selector, { opacity: 0 }, at + 0.39);
+      }
+
+      tl.set(["#scene-1", "#scene-2", "#scene-3", "#scene-4"], { opacity: 0 }, 0);
+
+      sceneIn("#scene-1", 0);
+      tl.fromTo(".s1-stage", { opacity: 0, x: -90, y: 26, scale: 0.92, rotationY: 8 }, { opacity: 1, x: 0, y: 0, scale: 1, rotationY: 0, duration: 0.78, ease: "power3.out" }, 0.14);
+      tl.fromTo(".s1-logo", { opacity: 0, y: 44, scale: 0.78 }, { opacity: 1, y: 0, scale: 1, duration: 0.52, ease: "back.out(1.5)" }, 0.34);
+      tl.fromTo(".s1-kicker", { opacity: 0, y: 24 }, { opacity: 1, y: 0, duration: 0.36, ease: "power2.out" }, 0.54);
+      tl.fromTo(".s1-title .word", { opacity: 0, y: 42, x: 46 }, { opacity: 1, y: 0, x: 0, stagger: 0.12, duration: 0.42, ease: "power2.out" }, 0.78);
+      drawPath(".underline-path", 1.28, 0.56);
+      tl.fromTo(".s1-sub", { opacity: 0, y: 24 }, { opacity: 1, y: 0, duration: 0.42, ease: "power2.out" }, 1.55);
+      tl.to(".s1-stage img", { scale: 1.035, duration: 4.7, ease: "none" }, 0.25);
+      tl.to(".s1-glow", { scale: 1.12, x: 40, yoyo: true, repeat: 3, duration: 1.1, ease: "sine.inOut" }, 0.2);
+      tl.to(".s1-ring", { rotation: 18, scale: 1.07, yoyo: true, repeat: 2, duration: 1.5, ease: "sine.inOut" }, 0.4);
+      tl.to(".s1-dot-a, .s1-dot-b", { y: -28, yoyo: true, repeat: 4, duration: 0.9, ease: "sine.inOut" }, 0.1);
+      sceneOut("#scene-1", 4.62);
+
+      sceneIn("#scene-2", 5);
+      tl.fromTo(".s2-title", { opacity: 0, y: 48, filter: "blur(10px)" }, { opacity: 1, y: 0, filter: "blur(0px)", duration: 0.62, ease: "power2.out" }, 5.1);
+      tl.fromTo(".s2-pill", { opacity: 0, scale: 0.82 }, { opacity: 1, scale: 1, duration: 0.38, ease: "back.out(1.7)" }, 5.38);
+      tl.fromTo(".s2-stage", { opacity: 0, x: -130, scale: 0.94, rotationY: -7 }, { opacity: 1, x: 0, scale: 1, rotationY: 0, duration: 0.72, ease: "power3.out" }, 5.28);
+      tl.fromTo(".s2-profile", { opacity: 0, y: 28 }, { opacity: 1, y: 0, duration: 0.36, ease: "power2.out" }, 5.88);
+      tl.fromTo(".s2-id", { opacity: 0 }, { opacity: 1, duration: 0.34, ease: "power2.out" }, 6.08);
+      tl.fromTo(".s2-qr", { opacity: 0, y: 30 }, { opacity: 1, y: 0, duration: 0.38, ease: "power2.out" }, 6.22);
+      tl.fromTo(".s2-card", { opacity: 0, x: 90, rotationY: -10 }, { opacity: 1, x: 0, rotationY: 0, stagger: 0.13, duration: 0.46, ease: "power2.out" }, 5.72);
+      tl.to(".s2-stage .hero-shot", { scale: 1.04, duration: 4.4, ease: "none" }, 5.45);
+      tl.to(".s2-card", { y: -10, yoyo: true, repeat: 3, stagger: 0.12, duration: 0.78, ease: "sine.inOut" }, 6.4);
+      tl.to(".s2-ring", { scale: 1.12, rotation: -16, yoyo: true, repeat: 2, duration: 1.35, ease: "sine.inOut" }, 5.6);
+      tl.to("#scene-2", { opacity: 0, filter: "blur(18px)", duration: 0.34, ease: "power2.in" }, 9.66);
+      tl.set("#scene-2", { opacity: 0 }, 10);
+
+      sceneIn("#scene-3", 10);
+      tl.fromTo(".s3-title", { opacity: 0, y: 36 }, { opacity: 1, y: 0, duration: 0.48, ease: "power2.out" }, 10.14);
+      drawPath(".draw-star", 10.18, 0.7);
+      tl.fromTo(".s3-page", { opacity: 0, y: 70, scale: 0.94, rotationX: 8 }, { opacity: 1, y: 0, scale: 1, rotationX: 0, duration: 0.68, ease: "power3.out" }, 10.48);
+      tl.fromTo(".s3-card-a", { opacity: 0, x: -94, y: 50, scale: 0.9, rotation: -4 }, { opacity: 1, x: 0, y: 0, scale: 1, rotation: 0, duration: 0.56, ease: "power2.out" }, 11.1);
+      tl.fromTo(".s3-card-b", { opacity: 0, x: 96, y: 60, scale: 0.9, rotation: 4 }, { opacity: 1, x: 0, y: 0, scale: 1, rotation: 0, duration: 0.56, ease: "power2.out" }, 11.28);
+      tl.fromTo(".s3-tags .tag", { opacity: 0, y: 26, scale: 0.88 }, { opacity: 1, y: 0, scale: 1, stagger: 0.08, duration: 0.34, ease: "back.out(1.5)" }, 11.7);
+      tl.to(".s3-page img", { y: -62, scale: 1.025, duration: 4.1, ease: "none" }, 10.75);
+      tl.to(".s3-card-a img, .s3-card-b img", { scale: 1.045, duration: 3.5, ease: "none" }, 11.2);
+      tl.to(".s3-card-a", { y: -12, yoyo: true, repeat: 2, duration: 0.92, ease: "sine.inOut" }, 12.1);
+      tl.to(".s3-card-b", { y: 12, yoyo: true, repeat: 2, duration: 0.92, ease: "sine.inOut" }, 12.2);
+      tl.to("#scene-3", { opacity: 0, scale: 1.12, filter: "blur(16px)", duration: 0.4, ease: "power2.in" }, 14.6);
+      tl.set("#scene-3", { opacity: 0 }, 15);
+
+      sceneIn("#scene-4", 15);
+      tl.fromTo(".s4-strip", { opacity: 0, scale: 0.94 }, { opacity: 0.95, scale: 1, duration: 0.68, ease: "power2.out" }, 15.05);
+      tl.fromTo(".s4-app", { opacity: 0, x: -84, y: 40, scale: 0.82 }, { opacity: 1, x: 0, y: 0, scale: 1, duration: 0.55, ease: "back.out(1.4)" }, 15.45);
+      tl.fromTo(".s4-download", { opacity: 0, x: 84, y: 40, scale: 0.82 }, { opacity: 1, x: 0, y: 0, scale: 1, duration: 0.55, ease: "back.out(1.4)" }, 15.56);
+      tl.fromTo(".s4-title", { opacity: 0, y: 46 }, { opacity: 1, y: 0, duration: 0.52, ease: "power2.out" }, 15.82);
+      tl.fromTo(".s4-cta", { opacity: 0, y: 32, scale: 0.86 }, { opacity: 1, y: 0, scale: 1, duration: 0.42, ease: "back.out(1.7)" }, 16.38);
+      tl.fromTo(".s4-sub", { opacity: 0, y: 20 }, { opacity: 1, y: 0, duration: 0.36, ease: "power2.out" }, 16.72);
+      tl.to(".s4-app", { scale: 1.035, yoyo: true, repeat: 3, duration: 0.7, ease: "sine.inOut" }, 16.8);
+      tl.to(".s4-ring", { rotation: 28, scale: 1.1, yoyo: true, repeat: 2, duration: 1.1, ease: "sine.inOut" }, 15.5);
+      tl.to(".s4-cta", { boxShadow: "0 18px 50px rgba(0, 216, 201, 0.45)", yoyo: true, repeat: 2, duration: 0.55, ease: "sine.inOut" }, 17.1);
+      tl.to(".fade-white", { opacity: 1, duration: 0.4, ease: "power2.inOut" }, 19.6);
+
+      window.__timelines["main"] = tl;
+    </script>
+  </body>
+</html>

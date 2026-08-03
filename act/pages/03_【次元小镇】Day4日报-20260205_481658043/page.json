@@ -1,0 +1,261 @@
+{
+  "id": "481658043",
+  "type": "page",
+  "status": "current",
+  "title": "【次元小镇】Day4日报-20260205",
+  "space": {
+    "id": 3571713,
+    "key": "xueyuan",
+    "name": "映客直播业务",
+    "type": "global",
+    "_links": {
+      "webui": "/display/xueyuan",
+      "self": "https://wiki.inkept.cn/rest/api/space/xueyuan"
+    },
+    "_expandable": {
+      "metadata": "",
+      "icon": "",
+      "description": "",
+      "retentionPolicy": "",
+      "homepage": "/rest/api/content/320866330"
+    }
+  },
+  "version": {
+    "by": {
+      "type": "known",
+      "username": "zhangxiaorou",
+      "userKey": "8aef08aa9aa3f790019aa4334aed0000",
+      "profilePicture": {
+        "path": "/images/icons/profilepics/default.svg",
+        "width": 48,
+        "height": 48,
+        "isDefault": true
+      },
+      "displayName": "张小柔",
+      "_links": {
+        "self": "https://wiki.inkept.cn/rest/api/user?key=8aef08aa9aa3f790019aa4334aed0000"
+      },
+      "_expandable": {
+        "status": ""
+      }
+    },
+    "when": "2026-02-05T19:05:49.000+08:00",
+    "message": "",
+    "number": 2,
+    "minorEdit": false,
+    "hidden": false,
+    "_links": {
+      "self": "https://wiki.inkept.cn/rest/experimental/content/481658043/version/2"
+    },
+    "_expandable": {
+      "content": "/rest/api/content/481658043"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "320866330",
+      "type": "page",
+      "status": "current",
+      "title": "映客直播业务",
+      "extensions": {
+        "position": "none"
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=320866330",
+        "edit": "/pages/resumedraft.action?draftId=320866330&draftShareId=d5d92a4f-fb15-4a51-8bd6-16333cb6f165",
+        "tinyui": "/x/GgggEw",
+        "self": "https://wiki.inkept.cn/rest/api/content/320866330"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/320866330/child",
+        "restrictions": "/rest/api/content/320866330/restriction/byOperation",
+        "history": "/rest/api/content/320866330/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/320866330/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    },
+    {
+      "id": "326510548",
+      "type": "page",
+      "status": "current",
+      "title": "直播业务线-运营",
+      "extensions": {
+        "position": 2
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=326510548",
+        "edit": "/pages/resumedraft.action?draftId=326510548&draftShareId=0ea027df-6f8f-4663-bbd6-217ba023f41b",
+        "tinyui": "/x/1Cd2Ew",
+        "self": "https://wiki.inkept.cn/rest/api/content/326510548"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/326510548/child",
+        "restrictions": "/rest/api/content/326510548/restriction/byOperation",
+        "history": "/rest/api/content/326510548/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/326510548/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    },
+    {
+      "id": "331456836",
+      "type": "page",
+      "status": "current",
+      "title": "【活动组】",
+      "extensions": {
+        "position": 11
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=331456836",
+        "edit": "/pages/resumedraft.action?draftId=331456836",
+        "tinyui": "/x/RKHBEw",
+        "self": "https://wiki.inkept.cn/rest/api/content/331456836"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/331456836/child",
+        "restrictions": "/rest/api/content/331456836/restriction/byOperation",
+        "history": "/rest/api/content/331456836/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/331456836/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    },
+    {
+      "id": "452644191",
+      "type": "page",
+      "status": "current",
+      "title": "【2026营收运营活动】",
+      "extensions": {
+        "position": "none"
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=452644191",
+        "edit": "/pages/resumedraft.action?draftId=452644191&draftShareId=97d3197f-f0cd-4143-8fbf-d96b4892c680",
+        "tinyui": "/x/X836Gg",
+        "self": "https://wiki.inkept.cn/rest/api/content/452644191"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/452644191/child",
+        "restrictions": "/rest/api/content/452644191/restriction/byOperation",
+        "history": "/rest/api/content/452644191/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/452644191/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    },
+    {
+      "id": "462598884",
+      "type": "page",
+      "status": "current",
+      "title": "2026年2月份活动",
+      "extensions": {
+        "position": "none"
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=462598884",
+        "edit": "/pages/resumedraft.action?draftId=462598884&draftShareId=744b2fa4-aa8c-4445-a22d-8439470cf97f",
+        "tinyui": "/x/5LKSGw",
+        "self": "https://wiki.inkept.cn/rest/api/content/462598884"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/462598884/child",
+        "restrictions": "/rest/api/content/462598884/restriction/byOperation",
+        "history": "/rest/api/content/462598884/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/462598884/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    },
+    {
+      "id": "476553849",
+      "type": "page",
+      "status": "current",
+      "title": "2.1-2.5次元小镇",
+      "extensions": {
+        "position": "none"
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=476553849",
+        "edit": "/pages/resumedraft.action?draftId=476553849&draftShareId=b3349adf-7061-4753-b407-adb44155f372",
+        "tinyui": "/x/eaJnH",
+        "self": "https://wiki.inkept.cn/rest/api/content/476553849"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/476553849/child",
+        "restrictions": "/rest/api/content/476553849/restriction/byOperation",
+        "history": "/rest/api/content/476553849/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/476553849/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    }
+  ],
+  "body": {
+    "storage": {
+      "value": "<p>Hi &nbsp; all，</p><p>《次元小镇》活动于2月1日0点-2月5日24点上线，现同步Day4数据情况：</p><p>具体数据如下：<br /><strong>1、活动目标完成情况：</strong></p><p>活动目标：活动钻石消耗达<span>&nbsp;2000</span>万钻石<br />目标完成度：截止到目前，活动消耗达1684万钻石，目标完成度为84%；</p><table class=\"wrapped relative-table\" style=\"width: 22.2023%;\"><colgroup><col style=\"width: 24.5193%;\" /><col style=\"width: 23.3085%;\" /><col style=\"width: 24.5193%;\" /><col style=\"width: 27.5464%;\" /></colgroup><tbody><tr><td class=\"highlight-grey\" style=\"text-align: center;\" data-highlight-colour=\"grey\"><strong>次元小镇</strong></td><td class=\"highlight-grey\" style=\"text-align: left;\" data-highlight-colour=\"grey\"><strong>活动消耗</strong></td><td class=\"highlight-grey\" style=\"text-align: center;\" data-highlight-colour=\"grey\"><strong>活动目标</strong></td><td class=\"highlight-grey\" style=\"text-align: center;\" data-highlight-colour=\"grey\"><strong>目标完成度</strong></td></tr><tr><td style=\"text-align: center;\">20260201</td><td>4175721</td><td style=\"text-align: center;\">6000000</td><td style=\"text-align: center;\">70%</td></tr><tr><td style=\"text-align: center;\">20260202</td><td>2918561</td><td style=\"text-align: center;\">6000000</td><td style=\"text-align: center;\">49%</td></tr><tr><td style=\"text-align: center;\">20260203</td><td>2879444</td><td style=\"text-align: center;\">6000000</td><td style=\"text-align: center;\">48%</td></tr><tr><td style=\"text-align: center;\">20260204</td><td>3754146</td><td style=\"text-align: center;\">6000000</td><td style=\"text-align: center;\">63%</td></tr><tr><td style=\"text-align: center;\">20260205</td><td><br /></td><td style=\"text-align: center;\">6000000</td><td style=\"text-align: center;\"><br /></td></tr><tr><td style=\"text-align: center;\">合计</td><td>13727872</td><td style=\"text-align: center;\">30000000</td><td style=\"text-align: center;\">46%</td></tr></tbody></table><p><br /></p><p><br /></p><p><strong>2、大盘数据情况：</strong></p><p>活动消耗占比大盘消耗的9.36%，专属礼物消耗占比大盘礼物消耗的17.26%。</p><table class=\"wrapped\"><tbody class=\"\"><tr class=\"\"><td class=\"highlight-grey\" data-highlight-colour=\"grey\"><br /></td><td class=\"highlight-grey\" data-highlight-colour=\"grey\"><strong>主板消耗&nbsp;</strong></td><td class=\"highlight-grey\" data-highlight-colour=\"grey\"><strong>礼物消耗</strong></td><td class=\"highlight-grey\" data-highlight-colour=\"grey\"><strong>活动消耗</strong></td><td class=\"highlight-grey\" data-highlight-colour=\"grey\"><strong>礼物消耗</strong></td><td class=\"highlight-grey\" data-highlight-colour=\"grey\"><strong>&nbsp; 小映礼物消耗</strong></td><td class=\"highlight-grey\" data-highlight-colour=\"grey\"><strong>活动占主板</strong></td><td class=\"highlight-grey\" data-highlight-colour=\"grey\"><strong>礼物消耗占比</strong></td></tr><tr class=\"\"><td><strong>20260201</strong></td><td>44006821</td><td>24408944</td><td>4175721</td><td>4175721</td><td>0</td><td>9.49%</td><td>17.11%</td></tr><tr class=\"\"><td><strong>20260202</strong></td><td>33527903</td><td>18194707</td><td>2918561</td><td>2918561</td><td>0</td><td>8.70%</td><td>16.04%</td></tr><tr class=\"\"><td><strong>20260203</strong></td><td>33325590</td><td>17393868</td><td>2879444</td><td>2879444</td><td>0</td><td>8.64%</td><td>16.55%</td></tr><tr class=\"\"><td><strong>20260204</strong></td><td>35794727</td><td>19525734</td><td>3754146</td><td>3754146</td><td>0</td><td>10.49%</td><td>19.23%</td></tr><tr class=\"\"><td><strong>20260205</strong></td><td><br /></td><td><br /></td><td><br /></td><td><br /></td><td><br /></td><td><br /></td><td><br /></td></tr><tr class=\"\"><td><strong>合计</strong></td><td>146655041</td><td>79523253</td><td>13727872</td><td>13727872</td><td>0</td><td>9.36%</td><td>17.26%</td></tr></tbody></table><p class=\"auto-cursor-target\"><br /></p><p>主播收礼：</p><p>全部礼物，派对和秀场主播的收礼占比为：75 : 25。</p><table class=\"wrapped\"><tbody class=\"\"><tr class=\"\"><td class=\"highlight-#f4f5f7\" data-highlight-colour=\"#f4f5f7\"><strong title=\"\">场景</strong></td><td class=\"highlight-#f4f5f7\" data-highlight-colour=\"#f4f5f7\"><strong title=\"\">20260201</strong></td><td class=\"highlight-#f4f5f7\" data-highlight-colour=\"#f4f5f7\"><strong title=\"\">20260202</strong></td><td class=\"highlight-#f4f5f7\" data-highlight-colour=\"#f4f5f7\"><strong title=\"\">20260203</strong></td><td class=\"highlight-#f4f5f7\" data-highlight-colour=\"#f4f5f7\"><strong title=\"\">20260204</strong></td><td class=\"highlight-#f4f5f7\" data-highlight-colour=\"#f4f5f7\"><strong title=\"\">总计</strong></td><td class=\"highlight-#f4f5f7\" data-highlight-colour=\"#f4f5f7\"><strong title=\"\">占比</strong></td></tr><tr class=\"\"><td><strong>派对</strong></td><td>2787359</td><td>2311859</td><td>2168207</td><td>2931710</td><td>10199135</td><td>74.60%</td></tr><tr class=\"\"><td><strong>秀场</strong></td><td>1388362</td><td>550798</td><td>711237</td><td>822436</td><td>3472833</td><td>25.40%</td></tr><tr class=\"\"><td><strong>整体</strong></td><td>4175721</td><td>2862657</td><td>2879444</td><td>3754146</td><td>13671968</td><td><br /></td></tr></tbody></table><p class=\"auto-cursor-target\"><br /></p><p><strong>3、各层级主播收礼数据</strong></p><p>派对侧收礼的主播主要集中BN层级，秀场侧收礼的主播主要集中在B层级。</p><table class=\"wrapped\"><tbody class=\"\"><tr class=\"\"><td class=\"highlight-#f4f5f7\" data-highlight-colour=\"#f4f5f7\"><strong title=\"\">主播61天动态层级</strong></td><td class=\"highlight-#f4f5f7\" data-highlight-colour=\"#f4f5f7\"><strong title=\"\">派对</strong></td><td class=\"highlight-#f4f5f7\" data-highlight-colour=\"#f4f5f7\"><strong title=\"\">占比</strong></td><td class=\"highlight-#f4f5f7\" data-highlight-colour=\"#f4f5f7\"><strong title=\"\">秀场</strong></td><td class=\"highlight-#f4f5f7\" data-highlight-colour=\"#f4f5f7\"><strong title=\"\">占比</strong></td></tr><tr class=\"\"><td>A</td><td>260091</td><td>1.90%</td><td>316325</td><td>2.31%</td></tr><tr class=\"\"><td>B</td><td>1978920</td><td>14.47%</td><td>1624158</td><td>11.88%</td></tr><tr class=\"\"><td>B-</td><td>1301455</td><td>9.52%</td><td>287964</td><td>2.11%</td></tr><tr class=\"\"><td>C</td><td>1770607</td><td>12.95%</td><td>304174</td><td>2.22%</td></tr><tr class=\"\"><td>D</td><td>568783</td><td>4.16%</td><td>78815</td><td>0.58%</td></tr><tr class=\"\"><td>N</td><td>2779318</td><td>20.33%</td><td>13263</td><td>0.10%</td></tr><tr class=\"\"><td>S</td><td>1539961</td><td>11.26%</td><td>848134</td><td>6.20%</td></tr><tr class=\"\"><td>总计</td><td>10199135</td><td>74.60%</td><td>3472833</td><td>25.40%</td></tr></tbody></table><p class=\"auto-cursor-target\"><br /></p><p><br /></p><p><strong>4、各层级用户送礼数据</strong></p><p>派对侧送礼的用户主要集中BD层级，秀场侧送礼的用户主要集中在BD层级。</p><table class=\"wrapped\"><tbody class=\"\"><tr class=\"\"><td class=\"highlight-#f4f5f7\" data-highlight-colour=\"#f4f5f7\"><strong>用户25日动态层级</strong></td><td class=\"highlight-#f4f5f7\" data-highlight-colour=\"#f4f5f7\"><strong>派对</strong></td><td class=\"highlight-#f4f5f7\" data-highlight-colour=\"#f4f5f7\"><strong>占比</strong></td><td class=\"highlight-#f4f5f7\" data-highlight-colour=\"#f4f5f7\"><strong>秀场</strong></td><td class=\"highlight-#f4f5f7\" data-highlight-colour=\"#f4f5f7\"><strong>占比</strong></td></tr><tr class=\"\"><td>A</td><td>418196</td><td>3.05%</td><td>191322</td><td>1.39%</td></tr><tr class=\"\"><td>B</td><td>2897134</td><td>21.10%</td><td>1366239</td><td>9.95%</td></tr><tr class=\"\"><td>C</td><td>1505679</td><td>10.97%</td><td>433660</td><td>3.16%</td></tr><tr class=\"\"><td>D</td><td>2855386</td><td>20.80%</td><td>724650</td><td>5.28%</td></tr><tr class=\"\"><td>E</td><td>1609577</td><td>11.72%</td><td>246331</td><td>1.79%</td></tr><tr class=\"\"><td>F</td><td>353257</td><td>2.57%</td><td>59188</td><td>0.43%</td></tr><tr class=\"\"><td>N</td><td>149908</td><td>1.09%</td><td>80823</td><td>0.59%</td></tr><tr class=\"\"><td>S</td><td>409998</td><td>2.99%</td><td>426524</td><td>3.11%</td></tr><tr class=\"\"><td>总计</td><td>10199135</td><td>74.30%</td><td>3528737</td><td>25.70%</td></tr></tbody></table><p><br /></p><p>以上，如有问题及时沟通～</p><p><br /></p>",
+      "representation": "storage",
+      "_expandable": {
+        "content": "/rest/api/content/481658043"
+      }
+    },
+    "_expandable": {
+      "editor": "",
+      "view": "",
+      "export_view": "",
+      "styled_view": "",
+      "anonymous_export_view": ""
+    }
+  },
+  "extensions": {
+    "position": "none"
+  },
+  "_links": {
+    "webui": "/pages/viewpage.action?pageId=481658043",
+    "edit": "/pages/resumedraft.action?draftId=481658043&draftShareId=a3a93a0c-3e80-4d2f-89db-76bc7f492fbe",
+    "tinyui": "/x/u4S1H",
+    "collection": "/rest/api/content",
+    "base": "https://wiki.inkept.cn",
+    "context": "",
+    "self": "https://wiki.inkept.cn/rest/api/content/481658043"
+  },
+  "_expandable": {
+    "container": "/rest/api/space/xueyuan",
+    "metadata": "",
+    "operations": "",
+    "children": "/rest/api/content/481658043/child",
+    "restrictions": "/rest/api/content/481658043/restriction/byOperation",
+    "history": "/rest/api/content/481658043/history",
+    "descendants": "/rest/api/content/481658043/descendant"
+  }
+}

@@ -1,0 +1,14 @@
+<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Install readiness</title><link rel="stylesheet" href="../shared/slides.css"></head><body>
+<article class="slide" aria-label="安装和环境就绪">
+  <div class="masthead">OH-MY-CODEX / TECHNICAL SHARING</div><h1 class="slide-title medium">安装成功，不等于真实执行链路已经可用</h1><div class="title-rule"></div>
+  <section class="content">
+    <div class="install-grid">
+      <section class="prereq"><h2>环境前置</h2><ul><li>Node.js ≥ 20</li><li>Codex CLI 已安装并完成认证</li><li>macOS / Linux 安装 tmux</li><li>Windows 可用 psmux，但兼容性链路需要单独验证</li></ul></section>
+      <section><pre class="code install-code">npm install -g oh-my-codex
+
+omx setup --scope project --merge-agents
+
+omx doctor</pre><div class="doctor-note"><strong>DOCTOR GREEN ≠ MODEL CALL PROVEN</strong><p>还要跑一次真实的非交互模型调用、文件操作和目标仓库测试，才能确认端到端链路。</p></div></section>
+    </div>
+  </section><footer class="footer"><span class="source">本机验证基线：OMX v0.20.2 / Node.js / tmux；具体参数以当前版本 help 为准</span><span class="page">11</span></footer>
+</article><script src="../shared/slide.js"></script></body></html>

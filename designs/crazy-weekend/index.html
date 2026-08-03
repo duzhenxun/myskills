@@ -1,0 +1,1207 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>疯狂周末 - 移动活动页设计稿</title>
+  <style>
+    :root {
+      --bg-page: #120c1f;
+      --bg-panel: #1b1230;
+      --bg-phone: #24163f;
+      --bg-card: rgba(255,255,255,0.08);
+      --bg-card-strong: rgba(255,255,255,0.12);
+      --stroke-soft: rgba(255,255,255,0.12);
+      --stroke-strong: rgba(255,214,120,0.4);
+      --text-1: #fff7ea;
+      --text-2: rgba(255,247,234,0.82);
+      --text-3: rgba(255,247,234,0.58);
+      --normal-1: #ffb347;
+      --normal-2: #ff7a18;
+      --double-1: #ff5c7c;
+      --double-2: #8d47ff;
+      --gold-1: #ffe5a6;
+      --gold-2: #ffd15d;
+      --good: #9dffb3;
+      --warn: #ffd36f;
+      --danger: #ff8f8f;
+      --space-1: 4px;
+      --space-2: 8px;
+      --space-3: 12px;
+      --space-4: 16px;
+      --space-5: 20px;
+      --space-6: 24px;
+      --space-7: 32px;
+      --radius-sm: 10px;
+      --radius-md: 16px;
+      --radius-lg: 24px;
+      --shadow-panel: 0 24px 60px rgba(0,0,0,0.35);
+      --shadow-card: 0 12px 24px rgba(0,0,0,0.22);
+      --font-ui: "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+    }
+
+    * { box-sizing: border-box; }
+    html, body { margin: 0; padding: 0; background:
+      radial-gradient(circle at top, rgba(255,136,58,0.2), transparent 32%),
+      radial-gradient(circle at 80% 12%, rgba(153,86,255,0.24), transparent 28%),
+      linear-gradient(180deg, #140d24 0%, #0e0918 100%);
+      color: var(--text-1);
+      font-family: var(--font-ui);
+    }
+
+    body { min-height: 100vh; }
+
+    .page {
+      width: min(1440px, calc(100vw - 40px));
+      margin: 0 auto;
+      padding: 32px 0 48px;
+    }
+
+    .hero {
+      padding: 28px;
+      border: 1px solid rgba(255,255,255,0.08);
+      border-radius: 28px;
+      background: linear-gradient(135deg, rgba(255,179,71,0.12), rgba(141,71,255,0.12)), rgba(255,255,255,0.03);
+      box-shadow: var(--shadow-panel);
+      backdrop-filter: blur(12px);
+    }
+
+    .eyebrow {
+      display: inline-flex;
+      align-items: center;
+      gap: var(--space-2);
+      padding: 6px 12px;
+      border-radius: 999px;
+      background: rgba(255,255,255,0.06);
+      color: var(--text-2);
+      font-size: 12px;
+      letter-spacing: 0.08em;
+    }
+
+    h1 {
+      margin: 16px 0 8px;
+      font-size: 40px;
+      line-height: 1.05;
+    }
+
+    .hero p {
+      margin: 0;
+      max-width: 780px;
+      color: var(--text-2);
+      font-size: 16px;
+      line-height: 1.7;
+    }
+
+    .layout {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+      gap: 28px;
+      margin-top: 28px;
+      align-items: start;
+    }
+
+    .phone-wrap {
+      display: grid;
+      gap: 16px;
+    }
+
+    .state-title {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 16px;
+      padding: 0 6px;
+    }
+
+    .state-title h2 {
+      margin: 0;
+      font-size: 18px;
+      line-height: 1.2;
+    }
+
+    .state-title p {
+      margin: 4px 0 0;
+      font-size: 13px;
+      color: var(--text-3);
+    }
+
+    .chip {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      border-radius: 999px;
+      padding: 7px 12px;
+      font-size: 12px;
+      font-weight: 700;
+      letter-spacing: 0.04em;
+    }
+
+    .chip.normal {
+      background: linear-gradient(135deg, rgba(255,179,71,0.18), rgba(255,122,24,0.18));
+      color: #ffd88a;
+      border: 1px solid rgba(255,179,71,0.3);
+    }
+
+    .chip.double {
+      background: linear-gradient(135deg, rgba(255,92,124,0.18), rgba(141,71,255,0.18));
+      color: #ffd8ea;
+      border: 1px solid rgba(255,92,124,0.32);
+    }
+
+    .phone {
+      position: relative;
+      width: 100%;
+      max-width: 390px;
+      margin: 0 auto;
+      padding: 14px;
+      border-radius: 38px;
+      background: linear-gradient(180deg, #2b1848 0%, #1b1230 100%);
+      border: 1px solid rgba(255,255,255,0.14);
+      box-shadow: 0 24px 80px rgba(0, 0, 0, 0.4);
+    }
+
+    .phone::before {
+      content: "";
+      position: absolute;
+      top: 10px;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 128px;
+      height: 28px;
+      border-radius: 20px;
+      background: rgba(8, 6, 14, 0.95);
+      z-index: 2;
+    }
+
+    .screen {
+      overflow: hidden;
+      border-radius: 28px;
+      min-height: 840px;
+      background:
+        radial-gradient(circle at top, rgba(255,196,102,0.22), transparent 18%),
+        linear-gradient(180deg, rgba(255,255,255,0.03), rgba(255,255,255,0.01)),
+        linear-gradient(180deg, #2a1647 0%, #1a112d 100%);
+      border: 1px solid rgba(255,255,255,0.08);
+      position: relative;
+    }
+
+    .screen.double-mode {
+      background:
+        radial-gradient(circle at top, rgba(255,88,130,0.24), transparent 18%),
+        radial-gradient(circle at 85% 10%, rgba(159,88,255,0.24), transparent 18%),
+        linear-gradient(180deg, rgba(255,255,255,0.03), rgba(255,255,255,0.01)),
+        linear-gradient(180deg, #35134a 0%, #1f1033 100%);
+    }
+
+    .screen-scroll {
+      padding: 44px 14px 18px;
+      display: grid;
+      gap: 12px;
+    }
+
+    .topbar {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      font-size: 12px;
+      color: var(--text-2);
+      padding: 0 6px;
+    }
+
+    .banner {
+      position: relative;
+      overflow: hidden;
+      border-radius: var(--radius-lg);
+      padding: 18px;
+      border: 1px solid rgba(255,255,255,0.14);
+      box-shadow: var(--shadow-card);
+    }
+
+    .banner.normal {
+      background:
+        radial-gradient(circle at 22% 18%, rgba(255,231,170,0.45), transparent 22%),
+        linear-gradient(135deg, rgba(255,179,71,0.92), rgba(255,122,24,0.88));
+      color: #fff7ea;
+    }
+
+    .banner.double {
+      background:
+        radial-gradient(circle at 82% 18%, rgba(255,203,229,0.28), transparent 22%),
+        linear-gradient(135deg, rgba(255,84,118,0.95), rgba(141,71,255,0.92));
+      color: #fff7ea;
+    }
+
+    .banner::after {
+      content: "";
+      position: absolute;
+      inset: auto -20px -30px auto;
+      width: 160px;
+      height: 160px;
+      border-radius: 50%;
+      background: rgba(255,255,255,0.12);
+      filter: blur(3px);
+    }
+
+    .banner h3 {
+      margin: 0 0 8px;
+      font-size: 28px;
+      line-height: 1.05;
+    }
+
+    .banner p {
+      margin: 0;
+      font-size: 13px;
+      line-height: 1.6;
+      max-width: 235px;
+      color: rgba(255,247,234,0.88);
+    }
+
+    .banner-meta {
+      margin-top: 14px;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+    }
+
+    .pill {
+      display: inline-flex;
+      align-items: center;
+      min-height: 30px;
+      padding: 0 12px;
+      border-radius: 999px;
+      background: rgba(29, 14, 6, 0.16);
+      border: 1px solid rgba(255,255,255,0.2);
+      font-size: 12px;
+      font-weight: 700;
+    }
+
+    .card {
+      background: var(--bg-card);
+      border: 1px solid var(--stroke-soft);
+      border-radius: var(--radius-md);
+      padding: 14px;
+      box-shadow: var(--shadow-card);
+    }
+
+    .card.highlight-normal {
+      background: linear-gradient(180deg, rgba(255,179,71,0.14), rgba(255,255,255,0.06));
+      border-color: rgba(255,179,71,0.24);
+    }
+
+    .card.highlight-double {
+      background: linear-gradient(180deg, rgba(255,92,124,0.14), rgba(141,71,255,0.14));
+      border-color: rgba(255,92,124,0.24);
+    }
+
+    .section-head {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 12px;
+      margin-bottom: 12px;
+    }
+
+    .section-head h4 {
+      margin: 0;
+      font-size: 15px;
+    }
+
+    .section-head span {
+      font-size: 12px;
+      color: var(--text-3);
+    }
+
+    .personal-grid,
+    .mini-stats,
+    .reward-grid,
+    .edge-grid,
+    .count-row {
+      display: grid;
+      gap: 10px;
+    }
+
+    .personal-grid {
+      grid-template-columns: repeat(3, 1fr);
+    }
+
+    .mini-stats {
+      grid-template-columns: repeat(3, 1fr);
+    }
+
+    .stat-box {
+      padding: 12px;
+      border-radius: 14px;
+      background: rgba(10, 7, 18, 0.24);
+      border: 1px solid rgba(255,255,255,0.08);
+    }
+
+    .stat-box .label {
+      display: block;
+      margin-bottom: 6px;
+      font-size: 11px;
+      color: var(--text-3);
+    }
+
+    .stat-box strong {
+      font-size: 18px;
+      line-height: 1;
+    }
+
+    .sub {
+      margin-top: 6px;
+      font-size: 11px;
+      color: var(--text-3);
+      line-height: 1.4;
+    }
+
+    .progress-bar {
+      height: 10px;
+      border-radius: 999px;
+      background: rgba(255,255,255,0.09);
+      overflow: hidden;
+      margin: 10px 0 8px;
+    }
+
+    .progress-fill {
+      height: 100%;
+      border-radius: inherit;
+      background: linear-gradient(90deg, var(--normal-1), var(--normal-2));
+    }
+
+    .progress-fill.double {
+      background: linear-gradient(90deg, #ff7d98, #b264ff);
+    }
+
+    .countdown {
+      display: grid;
+      grid-template-columns: 1.2fr 1fr;
+      gap: 10px;
+      align-items: stretch;
+    }
+
+    .time-box {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 8px;
+    }
+
+    .time-item {
+      padding: 10px 6px;
+      text-align: center;
+      border-radius: 14px;
+      background: rgba(8,6,14,0.26);
+      border: 1px solid rgba(255,255,255,0.08);
+    }
+
+    .time-item strong {
+      display: block;
+      font-size: 18px;
+      margin-bottom: 4px;
+    }
+
+    .time-item span {
+      font-size: 11px;
+      color: var(--text-3);
+    }
+
+    .note-box {
+      padding: 12px;
+      border-radius: 14px;
+      background: rgba(255,255,255,0.05);
+      border: 1px dashed rgba(255,255,255,0.16);
+      font-size: 12px;
+      line-height: 1.6;
+      color: var(--text-2);
+    }
+
+    .gift-card {
+      display: grid;
+      gap: 12px;
+    }
+
+    .gift-top {
+      display: flex;
+      justify-content: space-between;
+      gap: 12px;
+    }
+
+    .gift-badge {
+      padding: 6px 10px;
+      border-radius: 999px;
+      font-size: 11px;
+      font-weight: 700;
+      border: 1px solid rgba(255,255,255,0.14);
+      background: rgba(255,255,255,0.08);
+      white-space: nowrap;
+    }
+
+    .gift-meta {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+    }
+
+    .tiny-tag {
+      padding: 4px 8px;
+      border-radius: 999px;
+      background: rgba(8,6,14,0.24);
+      border: 1px solid rgba(255,255,255,0.08);
+      font-size: 11px;
+      color: var(--text-2);
+    }
+
+    .reward-grid {
+      grid-template-columns: repeat(2, 1fr);
+    }
+
+    .reward-card {
+      padding: 12px;
+      border-radius: 14px;
+      background: rgba(8,6,14,0.24);
+      border: 1px solid rgba(255,255,255,0.08);
+    }
+
+    .reward-card strong {
+      display: block;
+      font-size: 14px;
+      margin-bottom: 6px;
+    }
+
+    .reward-card small {
+      display: block;
+      color: var(--text-3);
+      font-size: 11px;
+      line-height: 1.5;
+    }
+
+    .grid9 {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 10px;
+    }
+
+    .gift-tile {
+      padding: 10px 10px 12px;
+      border-radius: 16px;
+      background: rgba(9,6,16,0.34);
+      border: 1px solid rgba(255,255,255,0.08);
+      min-height: 128px;
+      display: grid;
+      gap: 8px;
+      align-content: start;
+      position: relative;
+    }
+
+    .gift-tile.selected-normal {
+      background: linear-gradient(180deg, rgba(255,179,71,0.24), rgba(255,255,255,0.06));
+      border-color: rgba(255,179,71,0.36);
+      box-shadow: 0 0 0 1px rgba(255,179,71,0.15) inset;
+    }
+
+    .gift-tile.selected-double {
+      background: linear-gradient(180deg, rgba(255,92,124,0.24), rgba(141,71,255,0.16));
+      border-color: rgba(255,92,124,0.34);
+      box-shadow: 0 0 0 1px rgba(255,92,124,0.15) inset;
+    }
+
+    .gift-icon {
+      width: 42px;
+      height: 42px;
+      border-radius: 14px;
+      display: grid;
+      place-items: center;
+      font-size: 20px;
+      background: linear-gradient(135deg, rgba(255,255,255,0.18), rgba(255,255,255,0.08));
+      border: 1px solid rgba(255,255,255,0.14);
+    }
+
+    .gift-tile h5 {
+      margin: 0;
+      font-size: 13px;
+      line-height: 1.2;
+    }
+
+    .gift-tile p {
+      margin: 0;
+      font-size: 11px;
+      line-height: 1.45;
+      color: var(--text-3);
+    }
+
+    .counter {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 8px;
+      margin-top: auto;
+    }
+
+    .counter button,
+    .footer-btn,
+    .modal-btn {
+      border: 0;
+      font-family: inherit;
+    }
+
+    .counter button {
+      width: 28px;
+      height: 28px;
+      border-radius: 10px;
+      background: rgba(255,255,255,0.09);
+      color: var(--text-1);
+      font-size: 16px;
+      line-height: 1;
+    }
+
+    .counter .count {
+      flex: 1;
+      text-align: center;
+      padding: 6px 8px;
+      border-radius: 10px;
+      background: rgba(8,6,14,0.24);
+      border: 1px solid rgba(255,255,255,0.08);
+      font-size: 12px;
+      font-weight: 700;
+    }
+
+    .summary {
+      display: grid;
+      gap: 12px;
+      padding: 14px;
+      border-radius: 18px;
+      background: rgba(8,6,14,0.34);
+      border: 1px solid rgba(255,255,255,0.08);
+    }
+
+    .summary-row {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 12px;
+      font-size: 13px;
+      color: var(--text-2);
+    }
+
+    .summary-row strong {
+      font-size: 16px;
+      color: var(--text-1);
+    }
+
+    .footer-btn {
+      width: 100%;
+      min-height: 46px;
+      border-radius: 14px;
+      font-size: 15px;
+      font-weight: 700;
+      color: #221207;
+      background: linear-gradient(135deg, var(--gold-1), var(--gold-2));
+      box-shadow: 0 10px 22px rgba(255, 197, 83, 0.28);
+    }
+
+    .footer-btn.double {
+      color: #fff7ea;
+      background: linear-gradient(135deg, #ff8198, #b66cff);
+      box-shadow: 0 10px 22px rgba(214, 94, 188, 0.3);
+    }
+
+    .footer-btn.disabled {
+      color: rgba(255,247,234,0.5);
+      background: rgba(255,255,255,0.12);
+      box-shadow: none;
+    }
+
+    .warning {
+      padding: 10px 12px;
+      border-radius: 12px;
+      background: rgba(255,211,111,0.12);
+      border: 1px solid rgba(255,211,111,0.24);
+      color: #ffe4a0;
+      font-size: 12px;
+      line-height: 1.5;
+    }
+
+    .danger {
+      background: rgba(255,143,143,0.12);
+      border-color: rgba(255,143,143,0.24);
+      color: #ffc4c4;
+    }
+
+    .modal {
+      margin-top: 12px;
+      padding: 16px;
+      border-radius: 22px;
+      background: rgba(8,6,14,0.82);
+      border: 1px solid rgba(255,255,255,0.14);
+      box-shadow: var(--shadow-card);
+    }
+
+    .modal h4 {
+      margin: 0 0 8px;
+      font-size: 17px;
+    }
+
+    .modal p {
+      margin: 0;
+      color: var(--text-2);
+      font-size: 13px;
+      line-height: 1.7;
+    }
+
+    .modal-list {
+      display: grid;
+      gap: 8px;
+      margin: 14px 0;
+    }
+
+    .modal-item {
+      display: flex;
+      justify-content: space-between;
+      gap: 12px;
+      padding: 10px 12px;
+      border-radius: 12px;
+      background: rgba(255,255,255,0.05);
+      font-size: 12px;
+      color: var(--text-2);
+    }
+
+    .modal-actions {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 10px;
+    }
+
+    .modal-btn {
+      min-height: 42px;
+      border-radius: 12px;
+      font-size: 14px;
+      font-weight: 700;
+    }
+
+    .modal-btn.ghost {
+      background: rgba(255,255,255,0.08);
+      color: var(--text-1);
+    }
+
+    .modal-btn.primary {
+      background: linear-gradient(135deg, var(--gold-1), var(--gold-2));
+      color: #211207;
+    }
+
+    .edge-grid {
+      grid-template-columns: 1fr;
+    }
+
+    .edge-case {
+      padding: 12px;
+      border-radius: 14px;
+      background: rgba(8,6,14,0.24);
+      border: 1px solid rgba(255,255,255,0.08);
+    }
+
+    .edge-case h5 {
+      margin: 0 0 8px;
+      font-size: 13px;
+    }
+
+    .edge-case p {
+      margin: 0;
+      font-size: 12px;
+      line-height: 1.6;
+      color: var(--text-2);
+    }
+
+    .legend {
+      margin-top: 24px;
+      padding: 18px 20px;
+      border-radius: 20px;
+      background: rgba(255,255,255,0.04);
+      border: 1px solid rgba(255,255,255,0.08);
+      display: grid;
+      gap: 10px;
+    }
+
+    .legend h3 {
+      margin: 0;
+      font-size: 18px;
+    }
+
+    .legend ul {
+      margin: 0;
+      padding-left: 18px;
+      color: var(--text-2);
+      display: grid;
+      gap: 8px;
+      font-size: 14px;
+      line-height: 1.6;
+    }
+
+    @media (max-width: 900px) {
+      .page {
+        width: min(100vw - 20px, 760px);
+        padding-top: 20px;
+      }
+
+      .hero {
+        padding: 20px;
+      }
+
+      h1 {
+        font-size: 32px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <main class="page">
+    <section class="hero">
+      <div class="eyebrow">移动活动页设计稿 · 疯狂周末 · 静态 HTML 原型</div>
+      <h1>疯狂周末</h1>
+      <p>围绕“周末狂欢、礼物翻倍、幸运押注”展开的移动活动页视觉稿。页面同时展示未触发双倍与已触发双倍两种主要状态，并补充确认弹窗、空态、超限与周重置提示，便于产品、UI 与研发对齐模块结构与界面层级。</p>
+    </section>
+
+    <section class="layout">
+      <article class="phone-wrap">
+        <div class="state-title">
+          <div>
+            <h2>状态一：未触发双倍</h2>
+            <p>暖橙金主视觉，强调进度推进与幸运石积累。</p>
+          </div>
+          <span class="chip normal">普通周末池</span>
+        </div>
+
+        <div class="phone">
+          <div class="screen">
+            <div class="screen-scroll">
+              <div class="topbar">
+                <span>疯狂周末</span>
+                <span>活动时间：周五 00:00 - 周日 23:59:59</span>
+              </div>
+
+              <section class="banner normal">
+                <h3>送满 5 次<br />开启双倍狂欢</h3>
+                <p>本周末送出 188 钻玩法礼物即可累计进度，每送 1 次还可获得 1 颗幸运石，用于押中周末惊喜礼池。</p>
+                <div class="banner-meta">
+                  <span class="pill">礼物进度 0 / 5</span>
+                  <span class="pill">幸运石 10</span>
+                  <span class="pill">双倍未激活</span>
+                </div>
+              </section>
+
+              <section class="card highlight-normal">
+                <div class="section-head">
+                  <h4>我的周末战绩</h4>
+                  <span>个人模块</span>
+                </div>
+                <div class="personal-grid">
+                  <div class="stat-box">
+                    <span class="label">188 礼物进度</span>
+                    <strong>0 / 5</strong>
+                    <div class="sub">再送 5 次解锁双倍礼池</div>
+                  </div>
+                  <div class="stat-box">
+                    <span class="label">幸运石</span>
+                    <strong>10</strong>
+                    <div class="sub">每送 1 次玩法礼物 +1</div>
+                  </div>
+                  <div class="stat-box">
+                    <span class="label">双倍状态</span>
+                    <strong>未触发</strong>
+                    <div class="sub">当前周末内有效</div>
+                  </div>
+                </div>
+                <div class="progress-bar"><div class="progress-fill" style="width: 0%"></div></div>
+                <div class="sub">进度每周日 23:59:59 重置，幸运石同步清空不结转。</div>
+              </section>
+
+              <section class="card">
+                <div class="section-head">
+                  <h4>距离本周重置</h4>
+                  <span>服务器时间</span>
+                </div>
+                <div class="countdown">
+                  <div class="time-box">
+                    <div class="time-item"><strong>01</strong><span>天</span></div>
+                    <div class="time-item"><strong>08</strong><span>时</span></div>
+                    <div class="time-item"><strong>22</strong><span>分</span></div>
+                    <div class="time-item"><strong>16</strong><span>秒</span></div>
+                  </div>
+                  <div class="note-box">每周末为一个独立周期。双倍资格、玩法礼物进度与幸运石都会在周日 23:59:59 后重置。</div>
+                </div>
+              </section>
+
+              <section class="card gift-card">
+                <div class="section-head">
+                  <h4>188 钻玩法礼物</h4>
+                  <span>参与卡片</span>
+                </div>
+                <div class="gift-top">
+                  <div>
+                    <strong style="font-size:18px; display:block; margin-bottom:6px;">周末狂想礼盒</strong>
+                    <div class="sub" style="margin-top:0;">主播实时到账 1 钻，剩余 182 钻进入随机玩法奖励池；未触发时走普通池，触发后切换双倍池。</div>
+                  </div>
+                  <div class="gift-badge">188 钻 / 次</div>
+                </div>
+                <div class="gift-meta">
+                  <span class="tiny-tag">送 1 次 = +1 幸运石</span>
+                  <span class="tiny-tag">实时开奖</span>
+                  <span class="tiny-tag">本周送满 5 次解锁双倍</span>
+                </div>
+              </section>
+
+              <section class="card">
+                <div class="section-head">
+                  <h4>奖励池展示</h4>
+                  <span>普通情况</span>
+                </div>
+                <div class="reward-grid">
+                  <div class="reward-card">
+                    <strong>普通池 1</strong>
+                    <small>随机开出周末限定礼物，主播实时收到奖励内容，用户获得送礼成就推进。</small>
+                  </div>
+                  <div class="reward-card">
+                    <strong>双倍池预告</strong>
+                    <small>解锁后可开出指定双倍奖励礼物；命中指定礼物时，主播与用户各得 1 份。</small>
+                  </div>
+                </div>
+              </section>
+
+              <section class="card highlight-normal">
+                <div class="section-head">
+                  <h4>幸运石 9 宫格</h4>
+                  <span>可多选 · 单礼物最多 20 颗</span>
+                </div>
+                <div class="grid9">
+                  <div class="gift-tile selected-normal">
+                    <div class="gift-icon">🎈</div>
+                    <h5>甜气球</h5>
+                    <p>价值 52｜倍率 4｜产出 40</p>
+                    <div class="counter"><button>-</button><div class="count">2</div><button>+</button></div>
+                  </div>
+                  <div class="gift-tile">
+                    <div class="gift-icon">🍬</div>
+                    <h5>糖心雨</h5>
+                    <p>价值 99｜倍率 4｜产出 40</p>
+                    <div class="counter"><button>-</button><div class="count">0</div><button>+</button></div>
+                  </div>
+                  <div class="gift-tile selected-normal">
+                    <div class="gift-icon">🎠</div>
+                    <h5>旋转木马</h5>
+                    <p>价值 199｜倍率 3｜产出 30</p>
+                    <div class="counter"><button>-</button><div class="count">1</div><button>+</button></div>
+                  </div>
+                  <div class="gift-tile">
+                    <div class="gift-icon">🎇</div>
+                    <h5>焰火星团</h5>
+                    <p>价值 288｜倍率 8｜产出 76</p>
+                    <div class="counter"><button>-</button><div class="count">0</div><button>+</button></div>
+                  </div>
+                  <div class="gift-tile selected-normal">
+                    <div class="gift-icon">💎</div>
+                    <h5>琥珀心跳</h5>
+                    <p>价值 388｜倍率 30｜产出 300</p>
+                    <div class="counter"><button>-</button><div class="count">4</div><button>+</button></div>
+                  </div>
+                  <div class="gift-tile">
+                    <div class="gift-icon">🎵</div>
+                    <h5>霓彩唱片</h5>
+                    <p>价值 520｜倍率 60｜产出 600</p>
+                    <div class="counter"><button>-</button><div class="count">0</div><button>+</button></div>
+                  </div>
+                  <div class="gift-tile">
+                    <div class="gift-icon">🌠</div>
+                    <h5>流星剧场</h5>
+                    <p>价值 1314｜倍率 200｜产出 2000</p>
+                    <div class="counter"><button>-</button><div class="count">0</div><button>+</button></div>
+                  </div>
+                  <div class="gift-tile">
+                    <div class="gift-icon">👑</div>
+                    <h5>周末王冠</h5>
+                    <p>价值 1888｜倍率 500｜产出 5000</p>
+                    <div class="counter"><button>-</button><div class="count">0</div><button>+</button></div>
+                  </div>
+                  <div class="gift-tile">
+                    <div class="gift-icon">🐉</div>
+                    <h5>狂欢巨龙</h5>
+                    <p>价值 6666｜倍率 1000｜产出 10000</p>
+                    <div class="counter"><button>-</button><div class="count">0</div><button>+</button></div>
+                  </div>
+                </div>
+
+                <div class="summary">
+                  <div class="summary-row"><span>已选礼物</span><strong>3 个</strong></div>
+                  <div class="summary-row"><span>已投入幸运石</span><strong>7 / 10</strong></div>
+                  <div class="summary-row"><span>命中规则</span><strong>命中即按投入数量发奖</strong></div>
+                  <button class="footer-btn">确认投放 7 颗幸运石</button>
+                </div>
+              </section>
+
+              <section class="modal">
+                <h4>确认投放幸运石</h4>
+                <p>本次将消耗 <strong>7</strong> 颗幸运石。命中后按对应礼物的投入数量实时发奖，未命中部分不返还。</p>
+                <div class="modal-list">
+                  <div class="modal-item"><span>甜气球</span><strong>2 颗</strong></div>
+                  <div class="modal-item"><span>旋转木马</span><strong>1 颗</strong></div>
+                  <div class="modal-item"><span>琥珀心跳</span><strong>4 颗</strong></div>
+                </div>
+                <div class="modal-actions">
+                  <button class="modal-btn ghost">再想想</button>
+                  <button class="modal-btn primary">确认提交</button>
+                </div>
+              </section>
+
+              <section class="card">
+                <div class="section-head">
+                  <h4>边界状态示例</h4>
+                  <span>空态 / 超限 / 重置</span>
+                </div>
+                <div class="edge-grid">
+                  <div class="edge-case">
+                    <h5>暂无幸运石</h5>
+                    <p>当前幸运石为 0，请先送出 188 钻玩法礼物后再参与 9 宫格投放。</p>
+                  </div>
+                  <div class="edge-case">
+                    <h5>单礼物超出上限</h5>
+                    <p>同一礼物单次最多投放 20 颗幸运石，超出后按钮置灰并展示限额提示。</p>
+                  </div>
+                  <div class="edge-case">
+                    <h5>周重置提示</h5>
+                    <p>本周末已结束，幸运石与双倍资格已清空。请等待下一个周末周期重新开启。</p>
+                  </div>
+                </div>
+              </section>
+            </div>
+          </div>
+        </div>
+      </article>
+
+      <article class="phone-wrap">
+        <div class="state-title">
+          <div>
+            <h2>状态二：已触发双倍</h2>
+            <p>红金紫强化氛围，突出“双倍获得”与更强奖励反馈。</p>
+          </div>
+          <span class="chip double">双倍已开启</span>
+        </div>
+
+        <div class="phone">
+          <div class="screen double-mode">
+            <div class="screen-scroll">
+              <div class="topbar">
+                <span>疯狂周末</span>
+                <span>本轮双倍资格剩余：1 天 08:22:16</span>
+              </div>
+
+              <section class="banner double">
+                <h3>双倍已解锁<br />开出指定礼物双倍获得</h3>
+                <p>本周末已完成 5 次玩法礼物送出。命中指定双倍奖励礼物时，主播 1 份、用户 1 份，奖励实时到账。</p>
+                <div class="banner-meta">
+                  <span class="pill">双倍资格已生效</span>
+                  <span class="pill">幸运石 10</span>
+                  <span class="pill">本周有效</span>
+                </div>
+              </section>
+
+              <section class="card highlight-double">
+                <div class="section-head">
+                  <h4>我的周末战绩</h4>
+                  <span>个人模块</span>
+                </div>
+                <div class="personal-grid">
+                  <div class="stat-box">
+                    <span class="label">双倍状态</span>
+                    <strong>已触发</strong>
+                    <div class="sub">命中指定礼物双方各得 1 份</div>
+                  </div>
+                  <div class="stat-box">
+                    <span class="label">幸运石</span>
+                    <strong>10</strong>
+                    <div class="sub">本周内继续可投放</div>
+                  </div>
+                  <div class="stat-box">
+                    <span class="label">玩法礼物进度</span>
+                    <strong>5 / 5</strong>
+                    <div class="sub">已达成本周双倍门槛</div>
+                  </div>
+                </div>
+                <div class="progress-bar"><div class="progress-fill double" style="width: 100%"></div></div>
+                <div class="sub">双倍资格仅在当前周末周期生效，周日 23:59:59 自动重置。</div>
+              </section>
+
+              <section class="card">
+                <div class="section-head">
+                  <h4>距离本周重置</h4>
+                  <span>资格倒计时</span>
+                </div>
+                <div class="countdown">
+                  <div class="time-box">
+                    <div class="time-item"><strong>01</strong><span>天</span></div>
+                    <div class="time-item"><strong>08</strong><span>时</span></div>
+                    <div class="time-item"><strong>22</strong><span>分</span></div>
+                    <div class="time-item"><strong>16</strong><span>秒</span></div>
+                  </div>
+                  <div class="note-box">双倍资格倒计时与幸运石清空时间保持一致。每周末结束后需重新完成 5 次送礼才能再次激活。</div>
+                </div>
+              </section>
+
+              <section class="card gift-card">
+                <div class="section-head">
+                  <h4>188 钻玩法礼物</h4>
+                  <span>参与卡片</span>
+                </div>
+                <div class="gift-top">
+                  <div>
+                    <strong style="font-size:18px; display:block; margin-bottom:6px;">周末狂想礼盒</strong>
+                    <div class="sub" style="margin-top:0;">主播直接获得 1 钻，剩余 182 钻进入双倍随机礼池。命中指定双倍奖励时，主播与用户各得 1 份。</div>
+                  </div>
+                  <div class="gift-badge">188 钻 / 次</div>
+                </div>
+                <div class="gift-meta">
+                  <span class="tiny-tag">每次仍可 +1 幸运石</span>
+                  <span class="tiny-tag">指定礼物双倍获得</span>
+                  <span class="tiny-tag">奖励实时发放</span>
+                </div>
+              </section>
+
+              <section class="card highlight-double">
+                <div class="section-head">
+                  <h4>奖励池展示</h4>
+                  <span>双倍情况</span>
+                </div>
+                <div class="reward-grid">
+                  <div class="reward-card">
+                    <strong>普通掉落</strong>
+                    <small>非指定礼物按常规逻辑掉落给主播，保持实时开奖体验。</small>
+                  </div>
+                  <div class="reward-card">
+                    <strong>双倍指定礼物</strong>
+                    <small>命中双倍标记礼物时，主播 1 份、用户 1 份；以更强视觉标签高亮展示。</small>
+                  </div>
+                </div>
+              </section>
+
+              <section class="card highlight-double">
+                <div class="section-head">
+                  <h4>幸运石 9 宫格</h4>
+                  <span>可多选 · 单礼物最多 20 颗</span>
+                </div>
+                <div class="grid9">
+                  <div class="gift-tile selected-double">
+                    <div class="gift-icon">🎈</div>
+                    <h5>甜气球</h5>
+                    <p>价值 52｜倍率 4｜产出 40</p>
+                    <div class="counter"><button>-</button><div class="count">0</div><button>+</button></div>
+                  </div>
+                  <div class="gift-tile selected-double">
+                    <div class="gift-icon">🍬</div>
+                    <h5>糖心雨</h5>
+                    <p>价值 99｜倍率 4｜产出 40</p>
+                    <div class="counter"><button>-</button><div class="count">2</div><button>+</button></div>
+                  </div>
+                  <div class="gift-tile">
+                    <div class="gift-icon">🎠</div>
+                    <h5>旋转木马</h5>
+                    <p>价值 199｜倍率 3｜产出 30</p>
+                    <div class="counter"><button>-</button><div class="count">0</div><button>+</button></div>
+                  </div>
+                  <div class="gift-tile selected-double">
+                    <div class="gift-icon">🎇</div>
+                    <h5>焰火星团</h5>
+                    <p>价值 288｜倍率 8｜产出 76</p>
+                    <div class="counter"><button>-</button><div class="count">3</div><button>+</button></div>
+                  </div>
+                  <div class="gift-tile">
+                    <div class="gift-icon">💎</div>
+                    <h5>琥珀心跳</h5>
+                    <p>价值 388｜倍率 30｜产出 300</p>
+                    <div class="counter"><button>-</button><div class="count">0</div><button>+</button></div>
+                  </div>
+                  <div class="gift-tile selected-double">
+                    <div class="gift-icon">🎵</div>
+                    <h5>霓彩唱片</h5>
+                    <p>价值 520｜倍率 60｜产出 600</p>
+                    <div class="counter"><button>-</button><div class="count">5</div><button>+</button></div>
+                  </div>
+                  <div class="gift-tile">
+                    <div class="gift-icon">🌠</div>
+                    <h5>流星剧场</h5>
+                    <p>价值 1314｜倍率 200｜产出 2000</p>
+                    <div class="counter"><button>-</button><div class="count">0</div><button>+</button></div>
+                  </div>
+                  <div class="gift-tile">
+                    <div class="gift-icon">👑</div>
+                    <h5>周末王冠</h5>
+                    <p>价值 1888｜倍率 500｜产出 5000</p>
+                    <div class="counter"><button>-</button><div class="count">0</div><button>+</button></div>
+                  </div>
+                  <div class="gift-tile">
+                    <div class="gift-icon">🐉</div>
+                    <h5>狂欢巨龙</h5>
+                    <p>价值 6666｜倍率 1000｜产出 10000</p>
+                    <div class="counter"><button>-</button><div class="count">0</div><button>+</button></div>
+                  </div>
+                </div>
+
+                <div class="summary">
+                  <div class="summary-row"><span>已选礼物</span><strong>4 个</strong></div>
+                  <div class="summary-row"><span>已投入幸运石</span><strong>10 / 10</strong></div>
+                  <div class="summary-row"><span>双倍说明</span><strong>命中指定礼物时双方各得 1 份</strong></div>
+                  <button class="footer-btn double">确认投放 10 颗幸运石</button>
+                </div>
+              </section>
+
+              <section class="card">
+                <div class="section-head">
+                  <h4>异常与禁用示例</h4>
+                  <span>边界态</span>
+                </div>
+                <div class="warning">幸运石不足时，确认按钮切换为禁用态，并提示“请先送出玩法礼物获取幸运石”。</div>
+                <div class="warning danger" style="margin-top:10px;">当某个礼物已投放 20 颗时，继续加号将置灰，并弹出“单礼物最多投放 20 颗幸运石”提示。</div>
+                <div class="summary" style="margin-top:12px;">
+                  <div class="summary-row"><span>空态示例</span><strong>0 / 0</strong></div>
+                  <div class="summary-row"><span>投放入口</span><strong>不可提交</strong></div>
+                  <button class="footer-btn disabled">暂无幸运石，无法投放</button>
+                </div>
+              </section>
+
+              <section class="modal">
+                <h4>确认投放幸运石</h4>
+                <p>本次将消耗 <strong>10</strong> 颗幸运石并参与双倍周末礼池。若命中指定双倍礼物，主播和你将各获得 1 份奖励。</p>
+                <div class="modal-list">
+                  <div class="modal-item"><span>糖心雨</span><strong>2 颗</strong></div>
+                  <div class="modal-item"><span>焰火星团</span><strong>3 颗</strong></div>
+                  <div class="modal-item"><span>霓彩唱片</span><strong>5 颗</strong></div>
+                </div>
+                <div class="modal-actions">
+                  <button class="modal-btn ghost">取消</button>
+                  <button class="modal-btn primary">确认投放</button>
+                </div>
+              </section>
+
+              <section class="card">
+                <div class="section-head">
+                  <h4>周重置公告示例</h4>
+                  <span>结束提示</span>
+                </div>
+                <div class="edge-case">
+                  <h5>本周末已结算</h5>
+                  <p>你本周的双倍资格与幸运石已清空。下个周末活动开启后，可重新送出 188 钻玩法礼物累计进度并再次解锁双倍。</p>
+                </div>
+              </section>
+            </div>
+          </div>
+        </div>
+      </article>
+    </section>
+
+    <section class="legend">
+      <h3>设计说明摘要</h3>
+      <ul>
+        <li>普通态以暖橙金为主，强化“积累进度、点亮周末”的期待；双倍态切换到红金紫，更直观传达“资格已开启、奖励更强”。</li>
+        <li>所有模块均使用统一卡片、圆角、描边与间距体系，保证后续切分为移动端页面组件时结构清晰。</li>
+        <li>9 宫格完整覆盖 9 个幸运石礼物档位：52、99、199、288、388、520、1314、1888、6666，并同步展示倍率与产出价格。</li>
+        <li>页面仅表达题述功能：Banner、个人模块、倒计时、188 钻玩法礼物卡、奖励池、9 宫格投放、总结确认、确认弹窗与边界态，不扩展额外业务模块。</li>
+      </ul>
+    </section>
+  </main>
+</body>
+</html>

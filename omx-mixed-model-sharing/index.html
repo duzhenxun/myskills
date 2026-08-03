@@ -1,0 +1,14 @@
+<!DOCTYPE html><html lang="zh-CN"><head><meta charset="UTF-8"><title>OMX 混合模型团队配置</title><link rel="icon" href="data:,">
+<script>
+window.DECK_MANIFEST=[
+{file:"slides/01-cover.html",label:"封面"},{file:"slides/02-map.html",label:"整体路径"},
+{file:"slides/03-verify.html",label:"事实核验"},{file:"slides/04-install.html",label:"安装登录"},
+{file:"slides/05-check.html",label:"环境校验"},{file:"slides/06-config.html",label:"永久配置"},
+{file:"slides/07-launch.html",label:"一键启动"},{file:"slides/08-pipeline.html",label:"标准流水线"},
+{file:"slides/09-routing.html",label:"角色与模型"},{file:"slides/10-troubleshoot.html",label:"排错与行动"}];
+window.DECK_WIDTH=1920;window.DECK_HEIGHT=1080;
+</script>
+<style>
+*{box-sizing:border-box;margin:0;padding:0}html,body{height:100%;background:#080b0b;overflow:hidden;font-family:-apple-system,"PingFang SC",sans-serif}#stage{position:fixed;top:0;left:0;transform-origin:top left;background:#fff;box-shadow:0 10px 60px rgba(0,0,0,.45)}iframe{width:100%;height:100%;border:0;display:block}.counter{position:fixed;right:22px;bottom:18px;background:rgba(0,0,0,.7);color:#fff;padding:8px 14px;font:13px/1 monospace;z-index:100}.nav{position:fixed;top:0;bottom:0;width:12%;z-index:50;cursor:pointer}.nav.left{left:0}.nav.right{right:0}
+</style></head><body><div id="stage"><iframe id="frame"></iframe></div><div class="nav left" id="prev"></div><div class="nav right" id="next"></div><div class="counter" id="counter"></div>
+<script>(()=>{const W=DECK_WIDTH,H=DECK_HEIGHT,d=DECK_MANIFEST,s=document.getElementById('stage'),f=document.getElementById('frame'),c=document.getElementById('counter');let i=0;s.style.width=W+'px';s.style.height=H+'px';function fit(){const z=Math.min(innerWidth/W,innerHeight/H),x=(innerWidth-W*z)/2,y=(innerHeight-H*z)/2;s.style.transform=`translate(${x}px,${y}px) scale(${z})`}function show(n,writeHash=true){i=Math.max(0,Math.min(d.length-1,n));f.src=d[i].file;c.textContent=`${i+1} / ${d.length}  ${d[i].label}`;if(writeHash&&location.hash!=='#'+(i+1))history.replaceState(null,'','#'+(i+1))}addEventListener('resize',fit);addEventListener('hashchange',()=>{const n=parseInt(location.hash.slice(1),10);if(Number.isFinite(n))show(n-1,false)});addEventListener('keydown',e=>{if(['ArrowRight',' ','PageDown'].includes(e.key)){e.preventDefault();show(i+1)}if(['ArrowLeft','PageUp'].includes(e.key)){e.preventDefault();show(i-1)}if(e.key==='Home')show(0);if(e.key==='End')show(d.length-1);if(e.key.toLowerCase()==='f'&&document.fullscreenEnabled)document.documentElement.requestFullscreen()});prev.onclick=()=>show(i-1);next.onclick=()=>show(i+1);const h=parseInt(location.hash.slice(1),10);fit();show(Number.isFinite(h)?h-1:0)})()</script></body></html>

@@ -1,0 +1,261 @@
+{
+  "id": "463124998",
+  "type": "page",
+  "status": "current",
+  "title": "【上线申请】林海雪踪",
+  "space": {
+    "id": 3571713,
+    "key": "xueyuan",
+    "name": "映客直播业务",
+    "type": "global",
+    "_links": {
+      "webui": "/display/xueyuan",
+      "self": "https://wiki.inkept.cn/rest/api/space/xueyuan"
+    },
+    "_expandable": {
+      "metadata": "",
+      "icon": "",
+      "description": "",
+      "retentionPolicy": "",
+      "homepage": "/rest/api/content/320866330"
+    }
+  },
+  "version": {
+    "by": {
+      "type": "known",
+      "username": "chenziqi",
+      "userKey": "8aef08aa8de3822a018e35bdf3070081",
+      "profilePicture": {
+        "path": "/images/icons/profilepics/default.svg",
+        "width": 48,
+        "height": 48,
+        "isDefault": true
+      },
+      "displayName": "陈子琦",
+      "_links": {
+        "self": "https://wiki.inkept.cn/rest/api/user?key=8aef08aa8de3822a018e35bdf3070081"
+      },
+      "_expandable": {
+        "status": ""
+      }
+    },
+    "when": "2026-01-08T16:58:25.000+08:00",
+    "message": "",
+    "number": 5,
+    "minorEdit": false,
+    "hidden": false,
+    "_links": {
+      "self": "https://wiki.inkept.cn/rest/experimental/content/463124998/version/5"
+    },
+    "_expandable": {
+      "content": "/rest/api/content/463124998"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "320866330",
+      "type": "page",
+      "status": "current",
+      "title": "映客直播业务",
+      "extensions": {
+        "position": "none"
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=320866330",
+        "edit": "/pages/resumedraft.action?draftId=320866330&draftShareId=d5d92a4f-fb15-4a51-8bd6-16333cb6f165",
+        "tinyui": "/x/GgggEw",
+        "self": "https://wiki.inkept.cn/rest/api/content/320866330"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/320866330/child",
+        "restrictions": "/rest/api/content/320866330/restriction/byOperation",
+        "history": "/rest/api/content/320866330/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/320866330/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    },
+    {
+      "id": "326510548",
+      "type": "page",
+      "status": "current",
+      "title": "直播业务线-运营",
+      "extensions": {
+        "position": 2
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=326510548",
+        "edit": "/pages/resumedraft.action?draftId=326510548&draftShareId=0ea027df-6f8f-4663-bbd6-217ba023f41b",
+        "tinyui": "/x/1Cd2Ew",
+        "self": "https://wiki.inkept.cn/rest/api/content/326510548"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/326510548/child",
+        "restrictions": "/rest/api/content/326510548/restriction/byOperation",
+        "history": "/rest/api/content/326510548/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/326510548/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    },
+    {
+      "id": "331456836",
+      "type": "page",
+      "status": "current",
+      "title": "【活动组】",
+      "extensions": {
+        "position": 11
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=331456836",
+        "edit": "/pages/resumedraft.action?draftId=331456836",
+        "tinyui": "/x/RKHBEw",
+        "self": "https://wiki.inkept.cn/rest/api/content/331456836"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/331456836/child",
+        "restrictions": "/rest/api/content/331456836/restriction/byOperation",
+        "history": "/rest/api/content/331456836/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/331456836/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    },
+    {
+      "id": "452644191",
+      "type": "page",
+      "status": "current",
+      "title": "【2026营收运营活动】",
+      "extensions": {
+        "position": "none"
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=452644191",
+        "edit": "/pages/resumedraft.action?draftId=452644191&draftShareId=97d3197f-f0cd-4143-8fbf-d96b4892c680",
+        "tinyui": "/x/X836Gg",
+        "self": "https://wiki.inkept.cn/rest/api/content/452644191"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/452644191/child",
+        "restrictions": "/rest/api/content/452644191/restriction/byOperation",
+        "history": "/rest/api/content/452644191/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/452644191/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    },
+    {
+      "id": "452644194",
+      "type": "page",
+      "status": "current",
+      "title": "2026年1月份活动",
+      "extensions": {
+        "position": "none"
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=452644194",
+        "edit": "/pages/resumedraft.action?draftId=452644194&draftShareId=6602d5e9-9116-4e43-8c02-43039176fbc5",
+        "tinyui": "/x/Ys36Gg",
+        "self": "https://wiki.inkept.cn/rest/api/content/452644194"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/452644194/child",
+        "restrictions": "/rest/api/content/452644194/restriction/byOperation",
+        "history": "/rest/api/content/452644194/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/452644194/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    },
+    {
+      "id": "452651150",
+      "type": "page",
+      "status": "current",
+      "title": "1.5-1.9林海雪踪（复用旋风赛车手）",
+      "extensions": {
+        "position": "none"
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=452651150",
+        "edit": "/pages/resumedraft.action?draftId=452651150&draftShareId=855a2a01-ebb3-4b39-9e4c-1e51ef35b32e",
+        "tinyui": "/x/juj6Gg",
+        "self": "https://wiki.inkept.cn/rest/api/content/452651150"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/452651150/child",
+        "restrictions": "/rest/api/content/452651150/restriction/byOperation",
+        "history": "/rest/api/content/452651150/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/452651150/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    }
+  ],
+  "body": {
+    "storage": {
+      "value": "<p>Hi all，<br />【林海雪踪】活动将于1月5日00:00:00-1月9日23:59:59上线，现申请相关上线配置。<br /><br /><br />辛苦@玉松&nbsp;审批，<br />辛苦@灿灿&nbsp;配置。<br /><br />具体需求如下（资源图钉钉提供）：<br /><strong>一、活动中心</strong><br />标题：林海雪踪<br />时间：1月5日00:00:00-1月10日23:59:59<br />色值：linear-gradient(90deg, #0c1223 0%, #052142 100%)<br />位置：第一位<br /><strong><br /></strong><br /><strong>二、icon</strong><br />标题：林海雪踪<br />文案：踏雪赛车赢座驾<br />时间：1月5日00:00:00-1月9日23:59:59<br />类型：所有直播间<br />位置：第一位<br /><br /><strong>三、首页banner</strong><br />时间：1月5日00:00:00-1月9日23:59:59<br />位置：第一位<br /><br /><strong>四、全站私信</strong><br />1月5日 00:00:00<br />文案：【林海雪踪】<span>装扮上新！送礼解锁车手身份，升级焕新专属形象！</span><br />1月7日 20:00:00<br />文案：【林海雪踪】<span style=\"color: rgb(23,43,77);\"><span>重磅喜讯！多位车手集齐任务奖励，快来冲榜！</span></span><br />1月9日 00:00:00<br />文案：【林海雪踪】赛程倒计时1天！抓住最后机会，半屏进房座驾等你来拿！</p><p><strong>五、金刚区</strong><br />时间：1月5日00:00:00-1月9日23:59:59<br />文案：林海雪踪<br /><br /><strong>六、开屏</strong><br />时间：1月5日00:00:00-1月9日23:59:59<br /><br /><strong>七、礼物墙</strong><br />标题：林海雪踪<br />时间：1月5日00:00:00-1月9日23:59:59<br />所有专属礼物均配置礼物墙banner</p><table class=\"relative-table wrapped\" style=\"width: 47.1548%;\"><colgroup><col style=\"width: 16.9477%;\" /><col style=\"width: 10.9661%;\" /><col style=\"width: 8.82988%;\" /><col style=\"width: 63.2333%;\" /></colgroup><tbody class=\"\"><tr class=\"\"><td style=\"text-align: left;\"><p class=\"ne-p\"><span class=\"ne-text\">礼物名称</span></p></td><td style=\"text-align: left;\"><p class=\"ne-p\"><span class=\"ne-text\">礼物价格</span></p></td><td style=\"text-align: left;\"><p class=\"ne-p\"><span class=\"ne-text\">礼物ID</span></p></td><td style=\"text-align: left;\"><p class=\"ne-p\"><span class=\"ne-text\">url</span></p></td></tr><tr class=\"\"><td style=\"text-align: left;\">掘金小映</td><td style=\"text-align: left;\">2666</td><td style=\"text-align: left;\"><br /></td><td style=\"text-align: left;\"><p class=\"ne-p\"><span class=\"ne-text\"><a class=\"external-link\" style=\"text-align: center;\" href=\"https://img.ikstatic.cn/MTY1MDk1Nzc3MDA4NCM5MDcjcG5n.png\" rel=\"nofollow\">https://img.ikstatic.cn/MTY1MDk1Nzc3MDA4NCM5MDcjcG5n.png</a></span></p></td></tr><tr class=\"\"><td style=\"text-align: left;\"><p class=\"ne-p\"><span class=\"ne-text\">冰淇淋车</span></p></td><td style=\"text-align: left;\"><p class=\"ne-p\"><span class=\"ne-text\">12</span></p></td><td style=\"text-align: left;\"><br /></td><td style=\"text-align: left;\"><p class=\"ne-p\"><a href=\"https://img.ikstatic.cn/MTY1OTQxOTg0MjA4OSMzMDAjcG5n.png\" class=\"external-link\" rel=\"nofollow\"><span class=\"ne-text\">https://img.ikstatic.cn/MTY1OTQxOTg0MjA4OSMzMDAjcG5n.png</span></a></p></td></tr><tr class=\"\"><td style=\"text-align: left;\">心动丘比特</td><td style=\"text-align: left;\"><p class=\"ne-p\"><span class=\"ne-text\">99</span></p></td><td style=\"text-align: left;\"><br /></td><td style=\"text-align: left;\"><a class=\"\" href=\"https://img.ikstatic.cn/MTczOTE4MTEzNTE5MyMzODYjcG5n.png\">https://img.ikstatic.cn/MTczOTE4MTEzNTE5MyMzODYjcG5n.png</a></td></tr><tr class=\"\"><td style=\"text-align: left;\"><p class=\"ne-p\">冰城玫瑰</p></td><td style=\"text-align: left;\"><p class=\"ne-p\"><span class=\"ne-text\">520</span></p></td><td style=\"text-align: left;\"><br /></td><td style=\"text-align: left;\"><a class=\"\" href=\"https://img.ikstatic.cn/MTczMTMwNjY2MTQ5OCMyOTkjcG5n.png\">https://img.ikstatic.cn/MTczMTMwNjY2MTQ5OCMyOTkjcG5n.png</a></td></tr><tr class=\"\"><td style=\"text-align: left;\">圣诞礼盒</td><td style=\"text-align: left;\">3333</td><td style=\"text-align: left;\">23718</td><td style=\"text-align: left;\"><a class=\"external-link\" href=\"https://img.ikstatic.cn/MTYzOTk4ODA5MTk1MCMyNzkjcG5n.png\" rel=\"nofollow\">https://img.ikstatic.cn/MTYzOTk4ODA5MTk1MCMyNzkjcG5n.png</a></td></tr><tr class=\"\"><td style=\"text-align: left;\"><p class=\"ne-p\">月起相思</p></td><td style=\"text-align: left;\"><p class=\"ne-p\"><span class=\"ne-text\">8888</span></p></td><td style=\"text-align: left;\"><br /></td><td style=\"text-align: left;\"><a href=\"https://img.ikstatic.cn/MTY5NTYyOTA1NDkyMSM1MDMjcG5n.png\" class=\"\">https://img.ikstatic.cn/MTY5NTYyOTA1NDkyMSM1MDMjcG5n.png</a></td></tr><tr class=\"\"><td style=\"text-align: left;\"><p class=\"ne-p\"><span class=\"ne-text\">成为天下万人迷</span></p></td><td style=\"text-align: left;\"><p class=\"ne-p\"><span class=\"ne-text\">23333</span></p></td><td style=\"text-align: left;\"><br /></td><td style=\"text-align: left;\"><a class=\"\" href=\"https://img.ikstatic.cn/MTYzNjM2NTMzOTk1NCM2NzUjcG5n.png\">https://img.ikstatic.cn/MTYzNjM2NTMzOTk1NCM2NzUjcG5n.png</a></td></tr><tr class=\"\"><td style=\"text-align: left;\"><p class=\"ne-p\"><span class=\"ne-text\">沧澜绮梦</span></p></td><td style=\"text-align: left;\"><p class=\"ne-p\"><span class=\"ne-text\">99999</span></p></td><td style=\"text-align: left;\"><br /></td><td style=\"text-align: left;\"><a class=\"\" href=\"https://img.ikstatic.cn/MTc0NTkwOTg3OTA3NiM5MjkjcG5n.png\">https://img.ikstatic.cn/MTc0NTkwOTg3OTA3NiM5MjkjcG5n.png</a></td></tr><tr class=\"\"><td style=\"text-align: left;\"><p class=\"ne-p\"><span class=\"ne-text\">豪华车队</span></p></td><td style=\"text-align: left;\"><p class=\"ne-p\"><span class=\"ne-text\">19775</span></p></td><td style=\"text-align: left;\"><br /></td><td style=\"text-align: left;\"><a href=\"http://img.ikstatic.cn/MTU2NDU2MjE3NzYxNiM4MjcjcG5n.png\" class=\"\">http://img.ikstatic.cn/MTU2NDU2MjE3NzYxNiM4MjcjcG5n.png</a></td></tr></tbody></table><p class=\"auto-cursor-target\"><br /></p><p><strong>八、话题配置</strong></p><p>标题：林海雪踪</p><p>文案：1.5-1.9日，<strong>林海雪踪限时开赛！</strong><span><span>&nbsp;</span>送礼解锁专属车手身份，升级焕新炫酷形象！驰骋车手之路，赢进房座驾，还有超多特权等你来拿！</span><span style=\"color: rgb(23,43,77);\"><br />1月5日 00:00:00</span></p><p><br /></p><p><strong>九、</strong><strong>称号链接更换</strong></p><p>活动专属称号&nbsp;添加称号链接，修改上线时间及白名单配置修改为否</p><table class=\"relative-table wrapped\" style=\"width: 43.5327%;\"><colgroup class=\"\"><col class=\"\" style=\"width: 12.953%;\" /><col class=\"\" style=\"width: 21.4341%;\" /><col class=\"\" style=\"width: 12.0278%;\" /><col class=\"\" style=\"width: 53.5057%;\" /></colgroup><tbody class=\"\"><tr class=\"\"><td class=\"highlight-grey\" style=\"text-align: left;\" data-highlight-colour=\"grey\"><span style=\"color: rgb(0,0,0);\" title=\"\"><span class=\"ne-text\">资源类型</span></span></td><td class=\"highlight-grey\" style=\"text-align: left;\" data-highlight-colour=\"grey\"><span style=\"color: rgb(0,0,0);\" title=\"\"><span class=\"ne-text\">奖励名称</span></span></td><td class=\"highlight-grey\" style=\"text-align: left;\" data-highlight-colour=\"grey\">id</td><td class=\"highlight-grey\" style=\"text-align: left;\" data-highlight-colour=\"grey\">URL</td></tr><tr class=\"\"><td style=\"text-align: left;\"><span style=\"color: rgb(0,0,0);\"><span class=\"ne-text\">称号</span></span></td><td style=\"text-align: left;\"><span style=\"color: rgb(0,0,0);\"><span class=\"ne-text\">雪原车神-女</span></span></td><td style=\"text-align: left;\"><br /></td><td style=\"text-align: left;\"><br /></td></tr><tr class=\"\"><td style=\"text-align: left;\"><span style=\"color: rgb(0,0,0);\"><span class=\"ne-text\">称号</span></span></td><td style=\"text-align: left;\"><span style=\"color: rgb(0,0,0);\"><span class=\"ne-text\">雪原车神-男</span></span></td><td style=\"text-align: left;\"><br /></td><td style=\"text-align: left;\"><br /></td></tr><tr class=\"\"><td style=\"text-align: left;\"><span style=\"color: rgb(0,0,0);\"><span class=\"ne-text\">称号</span></span></td><td style=\"text-align: left;\"><span style=\"color: rgb(0,0,0);\"><span class=\"ne-text\">极地征服者</span></span></td><td style=\"text-align: left;\"><br /></td><td style=\"text-align: left;\"><br /></td></tr><tr class=\"\"><td style=\"text-align: left;\"><span style=\"color: rgb(0,0,0);\"><span class=\"ne-text\">称号</span></span></td><td style=\"text-align: left;\"><span style=\"color: rgb(0,0,0);\"><span class=\"ne-text\">林海雪踪</span></span></td><td style=\"text-align: left;\"><br /></td><td style=\"text-align: left;\"><br /></td></tr></tbody></table><p><br /><br /></p><p><strong>链接待提供</strong></p><p><br /><br /><br />以上，如有问题，随时沟通。<br />感谢。</p><p><br /></p>",
+      "representation": "storage",
+      "_expandable": {
+        "content": "/rest/api/content/463124998"
+      }
+    },
+    "_expandable": {
+      "editor": "",
+      "view": "",
+      "export_view": "",
+      "styled_view": "",
+      "anonymous_export_view": ""
+    }
+  },
+  "extensions": {
+    "position": "none"
+  },
+  "_links": {
+    "webui": "/pages/viewpage.action?pageId=463124998",
+    "edit": "/pages/resumedraft.action?draftId=463124998&draftShareId=bb257fe6-55bc-45a3-8b4a-c5247174821e",
+    "tinyui": "/x/BrqaGw",
+    "collection": "/rest/api/content",
+    "base": "https://wiki.inkept.cn",
+    "context": "",
+    "self": "https://wiki.inkept.cn/rest/api/content/463124998"
+  },
+  "_expandable": {
+    "container": "/rest/api/space/xueyuan",
+    "metadata": "",
+    "operations": "",
+    "children": "/rest/api/content/463124998/child",
+    "restrictions": "/rest/api/content/463124998/restriction/byOperation",
+    "history": "/rest/api/content/463124998/history",
+    "descendants": "/rest/api/content/463124998/descendant"
+  }
+}

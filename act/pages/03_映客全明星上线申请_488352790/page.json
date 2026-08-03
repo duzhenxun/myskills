@@ -1,0 +1,261 @@
+{
+  "id": "488352790",
+  "type": "page",
+  "status": "current",
+  "title": "映客全明星上线申请",
+  "space": {
+    "id": 3571713,
+    "key": "xueyuan",
+    "name": "映客直播业务",
+    "type": "global",
+    "_links": {
+      "webui": "/display/xueyuan",
+      "self": "https://wiki.inkept.cn/rest/api/space/xueyuan"
+    },
+    "_expandable": {
+      "metadata": "",
+      "icon": "",
+      "description": "",
+      "retentionPolicy": "",
+      "homepage": "/rest/api/content/320866330"
+    }
+  },
+  "version": {
+    "by": {
+      "type": "known",
+      "username": "yeyusong",
+      "userKey": "8aef971660112e1f01610c33c52f0049",
+      "profilePicture": {
+        "path": "/images/icons/profilepics/default.svg",
+        "width": 48,
+        "height": 48,
+        "isDefault": true
+      },
+      "displayName": "叶玉松",
+      "_links": {
+        "self": "https://wiki.inkept.cn/rest/api/user?key=8aef971660112e1f01610c33c52f0049"
+      },
+      "_expandable": {
+        "status": ""
+      }
+    },
+    "when": "2026-03-25T19:45:33.000+08:00",
+    "message": "",
+    "number": 1,
+    "minorEdit": false,
+    "hidden": false,
+    "_links": {
+      "self": "https://wiki.inkept.cn/rest/experimental/content/488352790/version/1"
+    },
+    "_expandable": {
+      "content": "/rest/api/content/488352790"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "320866330",
+      "type": "page",
+      "status": "current",
+      "title": "映客直播业务",
+      "extensions": {
+        "position": "none"
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=320866330",
+        "edit": "/pages/resumedraft.action?draftId=320866330&draftShareId=d5d92a4f-fb15-4a51-8bd6-16333cb6f165",
+        "tinyui": "/x/GgggEw",
+        "self": "https://wiki.inkept.cn/rest/api/content/320866330"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/320866330/child",
+        "restrictions": "/rest/api/content/320866330/restriction/byOperation",
+        "history": "/rest/api/content/320866330/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/320866330/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    },
+    {
+      "id": "326510548",
+      "type": "page",
+      "status": "current",
+      "title": "直播业务线-运营",
+      "extensions": {
+        "position": 2
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=326510548",
+        "edit": "/pages/resumedraft.action?draftId=326510548&draftShareId=0ea027df-6f8f-4663-bbd6-217ba023f41b",
+        "tinyui": "/x/1Cd2Ew",
+        "self": "https://wiki.inkept.cn/rest/api/content/326510548"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/326510548/child",
+        "restrictions": "/rest/api/content/326510548/restriction/byOperation",
+        "history": "/rest/api/content/326510548/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/326510548/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    },
+    {
+      "id": "331456836",
+      "type": "page",
+      "status": "current",
+      "title": "【活动组】",
+      "extensions": {
+        "position": 11
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=331456836",
+        "edit": "/pages/resumedraft.action?draftId=331456836",
+        "tinyui": "/x/RKHBEw",
+        "self": "https://wiki.inkept.cn/rest/api/content/331456836"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/331456836/child",
+        "restrictions": "/rest/api/content/331456836/restriction/byOperation",
+        "history": "/rest/api/content/331456836/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/331456836/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    },
+    {
+      "id": "452644191",
+      "type": "page",
+      "status": "current",
+      "title": "【2026营收运营活动】",
+      "extensions": {
+        "position": "none"
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=452644191",
+        "edit": "/pages/resumedraft.action?draftId=452644191&draftShareId=97d3197f-f0cd-4143-8fbf-d96b4892c680",
+        "tinyui": "/x/X836Gg",
+        "self": "https://wiki.inkept.cn/rest/api/content/452644191"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/452644191/child",
+        "restrictions": "/rest/api/content/452644191/restriction/byOperation",
+        "history": "/rest/api/content/452644191/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/452644191/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    },
+    {
+      "id": "478981918",
+      "type": "page",
+      "status": "current",
+      "title": "2026年3月份活动",
+      "extensions": {
+        "position": "none"
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=478981918",
+        "edit": "/pages/resumedraft.action?draftId=478981918&draftShareId=eb99f1fc-6661-4915-83e0-49b3a4c5a84b",
+        "tinyui": "/x/Hq_MH",
+        "self": "https://wiki.inkept.cn/rest/api/content/478981918"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/478981918/child",
+        "restrictions": "/rest/api/content/478981918/restriction/byOperation",
+        "history": "/rest/api/content/478981918/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/478981918/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    },
+    {
+      "id": "483789319",
+      "type": "page",
+      "status": "current",
+      "title": "3.27-3.31 映客全明星",
+      "extensions": {
+        "position": "none"
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=483789319",
+        "edit": "/pages/resumedraft.action?draftId=483789319&draftShareId=ba6e8b6d-aeeb-418b-807c-9acf8e5f33da",
+        "tinyui": "/x/BwrWH",
+        "self": "https://wiki.inkept.cn/rest/api/content/483789319"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/483789319/child",
+        "restrictions": "/rest/api/content/483789319/restriction/byOperation",
+        "history": "/rest/api/content/483789319/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/483789319/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    }
+  ],
+  "body": {
+    "storage": {
+      "value": "<p><span><strong>一、活动中心--延期10天下线</strong><br /></span></p><p><span>标题：全明星<br />时间：3月27日00:00:00-4月10日23:59:59<br />色值：</span><span style=\"color: rgb(23,43,77);\">linear-gradient(90deg, #a460ff 0%, #e084ff 100%)</span><span><br />位置：第一位、4月1日后移<strong><br /></strong><br /><strong>二、icon--强挂</strong><br /></span></p><p><span>标题：映客全明星<br />文案：参与赛事拿专属奖励<br />时间：3月27日00:00:00-3月31日23:59:59<br />类型：普通,电台交友,视频交友<br />位置：第一位、强挂<br /><br /><strong>三、首页banner</strong><br /></span></p><p><strong>时间：</strong></p><p><span>预选赛：2026 年 3 月 27 日 00:00:00 - 2026 年 3 月 28 日 23:59:59</span></p><p><span>突围赛：2026 年 3 月 29 日 00:00:00 - 23:59:59</span></p><p><span>半决赛：2026 年 3 月 30 日 00:00:00 - 23:59:59</span></p><p><span>总决赛：2026 年 3 月 31 日 00:00:00 - 23:59:59</span></p><p><strong>位置：</strong></p><p><span>第一位<br /><br /><strong>四、全站私信</strong></span><br /><span><strong><br /></strong>时间：3月27日00:00:00<br />文案：【映客全明星】强势来袭！多重好礼与趣味玩法等你体验！</span></p><p><span>时间：3月29日00:00:00<br />文案2：【映客全明星】突围赛已开启！全新礼物玩法等你体验！</span></p><p><span>时间：3月31日00:00:00</span><span><br />文案2：</span><span>【</span><span>映客全明星】总决赛已开启，AI 定制礼物、SONGX 未来智能穿戴式眼镜等超级大奖等你来拿！</span></p><p style=\"\"><br /></p><p style=\"\"><span><strong>五、金刚区</strong></span></p><p><strong>时间：</strong></p><p><span>预选赛：2026 年 3 月 27 日 00:00:00 - 2026 年 3 月 28 日 23:59:59</span></p><p><span>突围赛：2026 年 3 月 29 日 00:00:00 - 23:59:59</span></p><p><span>半决赛：2026 年 3 月 30 日 00:00:00 - 23:59:59</span></p><p><span>总决赛：2026 年 3 月 31 日 00:00:00 - 23:59:59</span></p><p><strong>文案：</strong></p><p><span>全明星</span><span><br /></span></p><p><span><strong>六、开屏</strong></span><span><strong><br /></strong></span></p><p><strong>时间：</strong></p><p><span>预选赛：2026 年 3 月 27 日 00:00:00 - 2026 年 3 月 28 日 23:59:59</span></p><p><span>突围赛：2026 年 3 月 29 日 00:00:00 - 23:59:59</span></p><p><span>半决赛：2026 年 3 月 30 日 00:00:00 - 23:59:59</span></p><p><span>总决赛：2026 年 3 月 31 日 00:00:00 - 23:59:59</span></p><p><br /><span><strong>七、礼物墙</strong></span></p><p><span><br />标题：全明星<br />时间：&nbsp;3 月 27 日 00:00:00-3 月 31 日 00:00:00 - 23:59:59<br />所有专属礼物均配置礼物墙banner</span><br /></p><table><tbody class=\"\"><tr class=\"\"><td>礼物名称</td><td>礼物价格</td><td>礼物ID</td><td>特殊标注</td></tr><tr><td>甜梦小映</td><td>888</td><td>24237</td><td>2026年3月27日下午17:00上线</td></tr><tr class=\"\"><td>星梦之约</td><td>5</td><td>24232</td><td>2026年3月27日下午17:00上线</td></tr><tr class=\"\"><td>情定花盒</td><td>21</td><td>24233</td><td><br /></td></tr><tr class=\"\"><td>云途之恋</td><td>99</td><td>24234</td><td><br /></td></tr><tr class=\"\"><td>月落星舟</td><td>520</td><td>24235</td><td><br /></td></tr><tr class=\"\"><td>鲸梦浮城</td><td>3344</td><td>24297</td><td><br /></td></tr><tr class=\"\"><td>星河赴梦</td><td>8888</td><td>24293</td><td><br /></td></tr><tr class=\"\"><td>炽恋狂飙</td><td>13140</td><td>24294</td><td><br /></td></tr><tr class=\"\"><td>三生不负</td><td>52000</td><td>24295</td><td><br /></td></tr><tr class=\"\"><td>璀璨盛宴</td><td>99999</td><td>24296</td><td><br /></td></tr></tbody></table><p><br /></p><p><span><strong>八、</strong><strong>称号链接更换</strong></span><br /></p><p><span>活动专属称号&nbsp;添加称号链接，修改上线时间及白名单配置修改为否<br />链接见下方</span></p><table><tbody class=\"\"><tr class=\"\"><td>称号</td><td>娱乐新星</td><td>2209</td></tr><tr class=\"\"><td>称号</td><td>派对明星</td><td>2210</td></tr><tr class=\"\"><td>称号</td><td>娱乐霸主</td><td>2211</td></tr><tr class=\"\"><td>称号</td><td>荣耀巨星</td><td>2212</td></tr><tr class=\"\"><td>称号</td><td>娱乐王者</td><td>2213</td></tr><tr class=\"\"><td>称号</td><td>逐光而行</td><td>2214</td></tr></tbody></table><p><br /></p><p><span><strong>九、直播间小榜单</strong></span></p><p><span>半决赛：2026 年 3 月 30 日 00:00:00 - 23:59:59</span></p><p><span>总决赛：2026 年&nbsp;3 月 31 日 00:00:00 - 23:59:59</span><span><br /></span></p>",
+      "representation": "storage",
+      "_expandable": {
+        "content": "/rest/api/content/488352790"
+      }
+    },
+    "_expandable": {
+      "editor": "",
+      "view": "",
+      "export_view": "",
+      "styled_view": "",
+      "anonymous_export_view": ""
+    }
+  },
+  "extensions": {
+    "position": "none"
+  },
+  "_links": {
+    "webui": "/pages/viewpage.action?pageId=488352790",
+    "edit": "/pages/resumedraft.action?draftId=488352790&draftShareId=ac5f8b00-5d45-4445-a683-58f6f6d284d0",
+    "tinyui": "/x/FqwbHQ",
+    "collection": "/rest/api/content",
+    "base": "https://wiki.inkept.cn",
+    "context": "",
+    "self": "https://wiki.inkept.cn/rest/api/content/488352790"
+  },
+  "_expandable": {
+    "container": "/rest/api/space/xueyuan",
+    "metadata": "",
+    "operations": "",
+    "children": "/rest/api/content/488352790/child",
+    "restrictions": "/rest/api/content/488352790/restriction/byOperation",
+    "history": "/rest/api/content/488352790/history",
+    "descendants": "/rest/api/content/488352790/descendant"
+  }
+}

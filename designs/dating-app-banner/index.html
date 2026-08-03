@@ -1,0 +1,486 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>交友 App Banner</title>
+  <style>
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      min-height: 100vh;
+      display: grid;
+      place-items: center;
+      background: #eef2f8;
+      font-family: -apple-system, BlinkMacSystemFont, "PingFang SC", "Microsoft YaHei", sans-serif;
+    }
+
+    .banner {
+      position: relative;
+      width: 1200px;
+      height: 628px;
+      overflow: hidden;
+      color: #172033;
+      background:
+        radial-gradient(circle at 83% 18%, rgba(255, 214, 108, .42), transparent 24%),
+        radial-gradient(circle at 68% 80%, rgba(65, 195, 181, .34), transparent 28%),
+        linear-gradient(135deg, #fff6f1 0%, #ffe1e9 34%, #e8f5ff 100%);
+    }
+
+    .banner::before {
+      content: "";
+      position: absolute;
+      inset: 0;
+      background-image:
+        linear-gradient(rgba(255, 255, 255, .34) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(255, 255, 255, .34) 1px, transparent 1px);
+      background-size: 46px 46px;
+      opacity: .48;
+    }
+
+    .content {
+      position: relative;
+      z-index: 2;
+      display: grid;
+      grid-template-columns: 510px 1fr;
+      height: 100%;
+      padding: 76px 72px;
+      gap: 44px;
+    }
+
+    .copy {
+      align-self: center;
+    }
+
+    .eyebrow {
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      height: 40px;
+      padding: 0 18px;
+      border-radius: 999px;
+      background: rgba(255, 255, 255, .76);
+      color: #e04064;
+      font-size: 20px;
+      font-weight: 700;
+      box-shadow: 0 14px 34px rgba(217, 74, 111, .13);
+    }
+
+    .eyebrow span {
+      display: inline-grid;
+      place-items: center;
+      width: 24px;
+      height: 24px;
+      border-radius: 50%;
+      background: #ff5d7d;
+      color: white;
+      font-size: 15px;
+      line-height: 1;
+    }
+
+    h1 {
+      margin: 26px 0 16px;
+      font-size: 72px;
+      line-height: 1.05;
+      letter-spacing: 0;
+      color: #172033;
+    }
+
+    h1 strong {
+      color: #ff4f73;
+      font-style: normal;
+    }
+
+    .subtitle {
+      margin: 0;
+      width: 460px;
+      color: #4b5d73;
+      font-size: 30px;
+      line-height: 1.4;
+      font-weight: 600;
+    }
+
+    .actions {
+      display: flex;
+      align-items: center;
+      gap: 18px;
+      margin-top: 38px;
+    }
+
+    .cta {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      height: 62px;
+      padding: 0 34px;
+      border-radius: 31px;
+      background: #ff4f73;
+      color: white;
+      font-size: 24px;
+      font-weight: 800;
+      box-shadow: 0 18px 36px rgba(255, 79, 115, .28);
+    }
+
+    .trust {
+      color: #536780;
+      font-size: 19px;
+      line-height: 1.25;
+      font-weight: 650;
+    }
+
+    .visual {
+      position: relative;
+      height: 100%;
+    }
+
+    .phone {
+      position: absolute;
+      right: 62px;
+      top: 28px;
+      width: 300px;
+      height: 470px;
+      border-radius: 38px;
+      padding: 16px;
+      background: #172033;
+      box-shadow: 0 34px 70px rgba(25, 31, 49, .24);
+      transform: rotate(4deg);
+    }
+
+    .screen {
+      position: relative;
+      width: 100%;
+      height: 100%;
+      overflow: hidden;
+      border-radius: 28px;
+      background: linear-gradient(180deg, #fff 0%, #f6fbff 100%);
+    }
+
+    .status {
+      display: flex;
+      justify-content: space-between;
+      padding: 20px 22px 10px;
+      color: #172033;
+      font-size: 14px;
+      font-weight: 800;
+    }
+
+    .app-title {
+      padding: 0 22px;
+      color: #ff4f73;
+      font-size: 28px;
+      font-weight: 900;
+    }
+
+    .match-card {
+      position: absolute;
+      left: 22px;
+      right: 22px;
+      top: 92px;
+      height: 270px;
+      overflow: hidden;
+      border-radius: 24px;
+      background: linear-gradient(160deg, #4bc6b9 0%, #ffd66c 100%);
+      box-shadow: 0 18px 34px rgba(75, 198, 185, .26);
+    }
+
+    .person {
+      position: absolute;
+      left: 50%;
+      top: 38px;
+      width: 140px;
+      height: 170px;
+      transform: translateX(-50%);
+    }
+
+    .hair {
+      position: absolute;
+      left: 28px;
+      top: 0;
+      width: 84px;
+      height: 86px;
+      border-radius: 46px 46px 30px 30px;
+      background: #253044;
+    }
+
+    .face {
+      position: absolute;
+      left: 33px;
+      top: 20px;
+      width: 74px;
+      height: 82px;
+      border-radius: 42px;
+      background: #ffd0b7;
+    }
+
+    .neck {
+      position: absolute;
+      left: 58px;
+      top: 88px;
+      width: 24px;
+      height: 34px;
+      background: #f4b698;
+    }
+
+    .shirt {
+      position: absolute;
+      left: 14px;
+      top: 112px;
+      width: 112px;
+      height: 70px;
+      border-radius: 42px 42px 16px 16px;
+      background: #fff;
+    }
+
+    .eye {
+      position: absolute;
+      top: 53px;
+      width: 8px;
+      height: 8px;
+      border-radius: 50%;
+      background: #172033;
+    }
+
+    .eye.left {
+      left: 53px;
+    }
+
+    .eye.right {
+      left: 80px;
+    }
+
+    .smile {
+      position: absolute;
+      left: 64px;
+      top: 73px;
+      width: 24px;
+      height: 12px;
+      border-bottom: 4px solid #d85662;
+      border-radius: 0 0 18px 18px;
+    }
+
+    .name {
+      position: absolute;
+      left: 22px;
+      right: 22px;
+      bottom: 18px;
+      color: #fff;
+      font-size: 24px;
+      font-weight: 900;
+      text-shadow: 0 2px 8px rgba(0, 0, 0, .18);
+    }
+
+    .name small {
+      display: block;
+      margin-top: 4px;
+      font-size: 16px;
+      font-weight: 750;
+    }
+
+    .bottom-nav {
+      position: absolute;
+      left: 26px;
+      right: 26px;
+      bottom: 26px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      height: 62px;
+      padding: 0 18px;
+      border-radius: 22px;
+      background: #fff;
+      box-shadow: 0 14px 30px rgba(36, 45, 64, .1);
+    }
+
+    .nav-dot {
+      width: 30px;
+      height: 30px;
+      border-radius: 50%;
+      background: #eff4fb;
+    }
+
+    .nav-dot.hot {
+      width: 50px;
+      height: 50px;
+      background: #ff4f73;
+      position: relative;
+      box-shadow: 0 12px 20px rgba(255, 79, 115, .3);
+    }
+
+    .nav-dot.hot::before,
+    .nav-dot.hot::after {
+      content: "";
+      position: absolute;
+      top: 15px;
+      width: 16px;
+      height: 24px;
+      border-radius: 16px 16px 0 0;
+      background: white;
+    }
+
+    .nav-dot.hot::before {
+      left: 12px;
+      transform: rotate(-45deg);
+    }
+
+    .nav-dot.hot::after {
+      right: 12px;
+      transform: rotate(45deg);
+    }
+
+    .bubble {
+      position: absolute;
+      z-index: 3;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      height: 58px;
+      padding: 0 20px;
+      border-radius: 29px;
+      background: rgba(255, 255, 255, .9);
+      color: #2d4059;
+      font-size: 20px;
+      font-weight: 800;
+      box-shadow: 0 18px 42px rgba(48, 63, 91, .14);
+      backdrop-filter: blur(10px);
+    }
+
+    .bubble.one {
+      left: 44px;
+      top: 112px;
+      transform: rotate(-5deg);
+    }
+
+    .bubble.two {
+      right: 4px;
+      top: 354px;
+      transform: rotate(5deg);
+    }
+
+    .bubble.three {
+      left: 16px;
+      bottom: 78px;
+      transform: rotate(-3deg);
+      background: #172033;
+      color: white;
+    }
+
+    .icon {
+      display: inline-grid;
+      place-items: center;
+      width: 34px;
+      height: 34px;
+      border-radius: 50%;
+      background: #ffe5eb;
+      color: #ff4f73;
+      font-size: 19px;
+    }
+
+    .bubble.three .icon {
+      background: #4bc6b9;
+      color: white;
+    }
+
+    .avatar-stack {
+      position: absolute;
+      z-index: 4;
+      right: 360px;
+      bottom: 126px;
+      display: flex;
+      align-items: center;
+    }
+
+    .avatar {
+      width: 74px;
+      height: 74px;
+      margin-left: -16px;
+      border: 5px solid white;
+      border-radius: 50%;
+      background: linear-gradient(135deg, #ffd66c, #ff8a6c);
+      box-shadow: 0 14px 30px rgba(42, 54, 74, .15);
+    }
+
+    .avatar:nth-child(2) {
+      background: linear-gradient(135deg, #72d8d0, #4c8df6);
+    }
+
+    .avatar:nth-child(3) {
+      background: linear-gradient(135deg, #ff9fbb, #8d7bff);
+    }
+
+    .spark {
+      position: absolute;
+      width: 14px;
+      height: 14px;
+      border-radius: 50%;
+      background: #ff4f73;
+      box-shadow: 0 0 0 9px rgba(255, 79, 115, .15);
+    }
+
+    .spark.a {
+      right: 472px;
+      top: 78px;
+    }
+
+    .spark.b {
+      right: 36px;
+      bottom: 106px;
+      background: #4bc6b9;
+      box-shadow: 0 0 0 9px rgba(75, 198, 185, .16);
+    }
+  </style>
+</head>
+<body>
+  <main class="banner" aria-label="交友 App Banner">
+    <section class="content">
+      <div class="copy">
+        <div class="eyebrow"><span>❤</span> 附近真实交友</div>
+        <h1>遇见<br><strong>聊得来</strong>的人</h1>
+        <p class="subtitle">即时匹配兴趣相投的新朋友，让每一次聊天都有回应。</p>
+        <div class="actions">
+          <div class="cta">立即开始交友</div>
+          <div class="trust">真人认证<br>轻松开聊</div>
+        </div>
+      </div>
+
+      <div class="visual">
+        <div class="bubble one"><span class="icon">💬</span> 3km 内新朋友</div>
+        <div class="bubble two"><span class="icon">✨</span> 兴趣匹配</div>
+        <div class="bubble three"><span class="icon">✓</span> 真人在线</div>
+        <div class="avatar-stack" aria-hidden="true">
+          <div class="avatar"></div>
+          <div class="avatar"></div>
+          <div class="avatar"></div>
+        </div>
+        <div class="phone">
+          <div class="screen">
+            <div class="status"><span>9:41</span><span>● ● ●</span></div>
+            <div class="app-title">HiMatch</div>
+            <div class="match-card">
+              <div class="person">
+                <div class="hair"></div>
+                <div class="neck"></div>
+                <div class="shirt"></div>
+                <div class="face"></div>
+                <div class="eye left"></div>
+                <div class="eye right"></div>
+                <div class="smile"></div>
+              </div>
+              <div class="name">刚刚匹配成功<small>喜欢旅行、电影、咖啡</small></div>
+            </div>
+            <div class="bottom-nav">
+              <div class="nav-dot"></div>
+              <div class="nav-dot hot"></div>
+              <div class="nav-dot"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <span class="spark a"></span>
+    <span class="spark b"></span>
+  </main>
+</body>
+</html>

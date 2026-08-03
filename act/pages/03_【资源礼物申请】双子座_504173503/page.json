@@ -1,0 +1,261 @@
+{
+  "id": "504173503",
+  "type": "page",
+  "status": "current",
+  "title": "【资源礼物申请】双子座",
+  "space": {
+    "id": 3571713,
+    "key": "xueyuan",
+    "name": "映客直播业务",
+    "type": "global",
+    "_links": {
+      "webui": "/display/xueyuan",
+      "self": "https://wiki.inkept.cn/rest/api/space/xueyuan"
+    },
+    "_expandable": {
+      "metadata": "",
+      "icon": "",
+      "description": "",
+      "retentionPolicy": "",
+      "homepage": "/rest/api/content/320866330"
+    }
+  },
+  "version": {
+    "by": {
+      "type": "known",
+      "username": "chenziqi",
+      "userKey": "8aef08aa8de3822a018e35bdf3070081",
+      "profilePicture": {
+        "path": "/images/icons/profilepics/default.svg",
+        "width": 48,
+        "height": 48,
+        "isDefault": true
+      },
+      "displayName": "陈子琦",
+      "_links": {
+        "self": "https://wiki.inkept.cn/rest/api/user?key=8aef08aa8de3822a018e35bdf3070081"
+      },
+      "_expandable": {
+        "status": ""
+      }
+    },
+    "when": "2026-06-03T18:57:41.000+08:00",
+    "message": "",
+    "number": 2,
+    "minorEdit": false,
+    "hidden": false,
+    "_links": {
+      "self": "https://wiki.inkept.cn/rest/experimental/content/504173503/version/2"
+    },
+    "_expandable": {
+      "content": "/rest/api/content/504173503"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "320866330",
+      "type": "page",
+      "status": "current",
+      "title": "映客直播业务",
+      "extensions": {
+        "position": "none"
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=320866330",
+        "edit": "/pages/resumedraft.action?draftId=320866330&draftShareId=d5d92a4f-fb15-4a51-8bd6-16333cb6f165",
+        "tinyui": "/x/GgggEw",
+        "self": "https://wiki.inkept.cn/rest/api/content/320866330"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/320866330/child",
+        "restrictions": "/rest/api/content/320866330/restriction/byOperation",
+        "history": "/rest/api/content/320866330/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/320866330/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    },
+    {
+      "id": "326510548",
+      "type": "page",
+      "status": "current",
+      "title": "直播业务线-运营",
+      "extensions": {
+        "position": 2
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=326510548",
+        "edit": "/pages/resumedraft.action?draftId=326510548&draftShareId=0ea027df-6f8f-4663-bbd6-217ba023f41b",
+        "tinyui": "/x/1Cd2Ew",
+        "self": "https://wiki.inkept.cn/rest/api/content/326510548"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/326510548/child",
+        "restrictions": "/rest/api/content/326510548/restriction/byOperation",
+        "history": "/rest/api/content/326510548/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/326510548/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    },
+    {
+      "id": "331456836",
+      "type": "page",
+      "status": "current",
+      "title": "【活动组】",
+      "extensions": {
+        "position": 11
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=331456836",
+        "edit": "/pages/resumedraft.action?draftId=331456836",
+        "tinyui": "/x/RKHBEw",
+        "self": "https://wiki.inkept.cn/rest/api/content/331456836"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/331456836/child",
+        "restrictions": "/rest/api/content/331456836/restriction/byOperation",
+        "history": "/rest/api/content/331456836/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/331456836/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    },
+    {
+      "id": "452644191",
+      "type": "page",
+      "status": "current",
+      "title": "【2026营收运营活动】",
+      "extensions": {
+        "position": "none"
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=452644191",
+        "edit": "/pages/resumedraft.action?draftId=452644191&draftShareId=97d3197f-f0cd-4143-8fbf-d96b4892c680",
+        "tinyui": "/x/X836Gg",
+        "self": "https://wiki.inkept.cn/rest/api/content/452644191"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/452644191/child",
+        "restrictions": "/rest/api/content/452644191/restriction/byOperation",
+        "history": "/rest/api/content/452644191/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/452644191/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    },
+    {
+      "id": "499520099",
+      "type": "page",
+      "status": "current",
+      "title": "2026年6月份活动",
+      "extensions": {
+        "position": "none"
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=499520099",
+        "edit": "/pages/resumedraft.action?draftId=499520099&draftShareId=8219e83f-ace4-425f-acf0-d259b96ae98c",
+        "tinyui": "/x/YxLGHQ",
+        "self": "https://wiki.inkept.cn/rest/api/content/499520099"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/499520099/child",
+        "restrictions": "/rest/api/content/499520099/restriction/byOperation",
+        "history": "/rest/api/content/499520099/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/499520099/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    },
+    {
+      "id": "504173421",
+      "type": "page",
+      "status": "current",
+      "title": "6.7-6.115.11-5.15 守护十二星座-双子座",
+      "extensions": {
+        "position": "none"
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=504173421",
+        "edit": "/pages/resumedraft.action?draftId=504173421",
+        "tinyui": "/x/bRMNHg",
+        "self": "https://wiki.inkept.cn/rest/api/content/504173421"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/504173421/child",
+        "restrictions": "/rest/api/content/504173421/restriction/byOperation",
+        "history": "/rest/api/content/504173421/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/504173421/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    }
+  ],
+  "body": {
+    "storage": {
+      "value": "<p><br /></p><p><span style=\"color: rgb(0,0,0);\">Hi all，</span><br /><span style=\"color: rgb(0,0,0);\">【守护十二星座-双子座】活动将于5.8日进入测试阶段，现申请相关资源及礼物配置。</span><br /><span style=\"color: rgb(0,0,0);\">辛苦@叶导 审批，</span><span style=\"color: rgb(0,0,0);\">配置并返回相关id。<br /></span></p><p><br /></p><p><span style=\"color: rgb(0,0,0);\">具体需求如下：</span></p><p><span style=\"color: rgb(0,0,0);\">1、 礼物配置：</span></p><table><colgroup class=\"\"><col class=\"\" style=\"width: 127.5pt;\" /> <col class=\"\" style=\"width: 72.3pt;\" /> <col class=\"\" style=\"width: 65.0pt;\" /> <col class=\"\" style=\"width: 61.0pt;\" /> <col class=\"\" style=\"width: 240.75pt;\" /> <col class=\"\" style=\"width: 150.55pt;\" /> </colgroup><tbody class=\"\"><tr class=\"\"><td rowspan=\"13\">双子座-礼物墙礼物</td><td>礼物名</td><td>价格（钻）</td><td>礼物ID</td><td>url</td><td>备注</td></tr><tr class=\"\"><td>星愿小映</td><td>888</td><td><br /></td><td><br /></td><td>新配置，标签：新 幸</td></tr><tr class=\"\"><td>流光谒夜</td><td>10</td><td><br /></td><td><br /></td><td><br /></td></tr><tr class=\"\"><td>萌猫贴贴</td><td>99</td><td><br /></td><td><br /></td><td><br /></td></tr><tr class=\"\"><td>双子星愿</td><td>520</td><td><br /></td><td><br /></td><td><br /></td></tr><tr class=\"\"><td>双子座</td><td>999</td><td><br /></td><td><br /></td><td><br /></td></tr><tr class=\"\"><td>池畔情牵</td><td>1314</td><td><br /></td><td><br /></td><td><br /></td></tr><tr class=\"\"><td>缘起双子</td><td>3344</td><td><br /></td><td><br /></td><td>新配置，标签：新</td></tr><tr class=\"\"><td>灯影翩鸿</td><td>5200</td><td><br /></td><td><br /></td><td><br /></td></tr><tr class=\"\"><td>双子传说</td><td>13140</td><td><br /></td><td><br /></td><td>标签：高光</td></tr><tr class=\"\"><td>守护双子座</td><td>33440</td><td><br /></td><td><br /></td><td>标签：高光</td></tr><tr class=\"\"><td>双子恋人</td><td>52000</td><td><br /></td><td><br /></td><td>新配置，标签：新 高光</td></tr><tr class=\"\"><td>瑰梦时分</td><td>99999</td><td><br /></td><td><br /></td><td>标签：高光</td></tr></tbody></table><p class=\"auto-cursor-target\">2、资源配置</p><table><colgroup class=\"\"><col class=\"\" style=\"width: 102.9pt;\" /> <col class=\"\" style=\"width: 128.9pt;\" /> <col class=\"\" style=\"width: 32.5pt;\" /> <col class=\"\" style=\"width: 340.9pt;\" /> <col class=\"\" style=\"width: 278.4pt;\" /> <col class=\"\" style=\"width: 59.55pt;\" /> </colgroup><tbody class=\"\"><tr class=\"\"><td>类型</td><td>奖励名称</td><td>id</td><td>url</td><td>备注</td><td>备注2</td></tr><tr class=\"\"><td>头像框</td><td>双子座头像框</td><td><br /></td><td><br /></td><td>新配置</td><td>主播任务</td></tr><tr class=\"\"><td>上麦动效</td><td>守护星座上麦动效</td><td>2747</td><td><a href=\"https://img.ikstatic.cn/MTY0NjAzMjgwMTYwNyM5MzIjcG5n.png\">https://img.ikstatic.cn/MTY0NjAzMjgwMTYwNyM5MzIjcG5n.png</a></td><td><br /></td><td>主播任务</td></tr><tr class=\"\"><td>派对背景</td><td>星座守护者派对背景</td><td>278</td><td><a href=\"https://img.ikstatic.cn/MTcxMTAwOTkyODM3NSM0NDIjcG5n.png\">https://img.ikstatic.cn/MTcxMTAwOTkyODM3NSM0NDIjcG5n.png</a></td><td><br /></td><td>主播任务</td></tr><tr class=\"\"><td>麦序框</td><td>双子座麦序框</td><td><br /></td><td><br /></td><td>新配置</td><td>主播任务</td></tr><tr class=\"\"><td rowspan=\"2\">皮肤</td><td>星座守护者私信皮肤</td><td>2227</td><td><a href=\"https://img.ikstatic.cn/MTYyNzk4Mzg3NjgzMiM0NjEjcG5n.png\">https://img.ikstatic.cn/MTYyNzk4Mzg3NjgzMiM0NjEjcG5n.png</a></td><td><br /></td><td>主播任务</td></tr><tr class=\"\"><td>双子座公聊皮肤</td><td><br /></td><td><br /></td><td>新配置</td><td>用户榜单</td></tr><tr class=\"\"><td>公聊角标</td><td>双子座公聊角标</td><td><br /></td><td><br /></td><td>新配置</td><td>用户榜单</td></tr><tr class=\"\"><td rowspan=\"2\">浮屏</td><td>星座守护者浮屏</td><td>4903</td><td><a href=\"https://img.ikstatic.cn/MTcxMTAwODUzMjQ4OCM5NTQjcG5n.png\">https://img.ikstatic.cn/MTcxMTAwODUzMjQ4OCM5NTQjcG5n.png</a></td><td><br /></td><td>主播任务</td></tr><tr class=\"\"><td>星座守护者挂件</td><td>4904</td><td><a href=\"https://img.ikstatic.cn/MTcxMTAwODU2NTE3MSMxNDMjcG5n.png\">https://img.ikstatic.cn/MTcxMTAwODU2NTE3MSMxNDMjcG5n.png</a></td><td><br /></td><td>主播任务</td></tr><tr class=\"\"><td>点亮</td><td>星座守护者点亮</td><td>1036</td><td><a href=\"https://img.ikstatic.cn/MTYwNzA3NTU0MDU2NSMxMjQjcG5n.png\">https://img.ikstatic.cn/MTYwNzA3NTU0MDU2NSMxMjQjcG5n.png</a></td><td><br /></td><td>主播任务</td></tr><tr class=\"\"><td rowspan=\"2\">称号</td><td>双子座</td><td><br /></td><td><br /></td><td>新配置，描述：完成守护十二星座（双子座）任务获得～</td><td>主播任务</td></tr><tr class=\"\"><td>双子座代言人</td><td><br /></td><td><br /></td><td>新配置</td><td>主播榜单</td></tr><tr class=\"\"><td>PK背景</td><td>星座守护者PK背景</td><td>98</td><td><a href=\"https://img.ikstatic.cn/MTcxMTAwOTk3ODE2MiM5NDUjcG5n.png\">https://img.ikstatic.cn/MTcxMTAwOTk3ODE2MiM5NDUjcG5n.png</a></td><td><br /></td><td>主播任务</td></tr><tr class=\"\"><td rowspan=\"2\">勋章</td><td>双子流光</td><td><br /></td><td><br /></td><td>主播端、计数型、主播总榜TOP5获得</td><td>主播榜单</td></tr><tr class=\"\"><td>双子星河</td><td><br /></td><td><br /></td><td>用户端、计数型、用户总榜TOP10获得</td><td>用户榜单</td></tr></tbody></table><p class=\"auto-cursor-target\"><br /></p><p class=\"auto-cursor-target\">以上，如有问题及时沟通～</p>",
+      "representation": "storage",
+      "_expandable": {
+        "content": "/rest/api/content/504173503"
+      }
+    },
+    "_expandable": {
+      "editor": "",
+      "view": "",
+      "export_view": "",
+      "styled_view": "",
+      "anonymous_export_view": ""
+    }
+  },
+  "extensions": {
+    "position": "none"
+  },
+  "_links": {
+    "webui": "/pages/viewpage.action?pageId=504173503",
+    "edit": "/pages/resumedraft.action?draftId=504173503",
+    "tinyui": "/x/vxMNHg",
+    "collection": "/rest/api/content",
+    "base": "https://wiki.inkept.cn",
+    "context": "",
+    "self": "https://wiki.inkept.cn/rest/api/content/504173503"
+  },
+  "_expandable": {
+    "container": "/rest/api/space/xueyuan",
+    "metadata": "",
+    "operations": "",
+    "children": "/rest/api/content/504173503/child",
+    "restrictions": "/rest/api/content/504173503/restriction/byOperation",
+    "history": "/rest/api/content/504173503/history",
+    "descendants": "/rest/api/content/504173503/descendant"
+  }
+}

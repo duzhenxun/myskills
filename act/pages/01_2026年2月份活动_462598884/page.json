@@ -1,0 +1,205 @@
+{
+  "id": "462598884",
+  "type": "page",
+  "status": "current",
+  "title": "2026年2月份活动",
+  "space": {
+    "id": 3571713,
+    "key": "xueyuan",
+    "name": "映客直播业务",
+    "type": "global",
+    "_links": {
+      "webui": "/display/xueyuan",
+      "self": "https://wiki.inkept.cn/rest/api/space/xueyuan"
+    },
+    "_expandable": {
+      "metadata": "",
+      "icon": "",
+      "description": "",
+      "retentionPolicy": "",
+      "homepage": "/rest/api/content/320866330"
+    }
+  },
+  "version": {
+    "by": {
+      "type": "known",
+      "username": "yeyusong",
+      "userKey": "8aef971660112e1f01610c33c52f0049",
+      "profilePicture": {
+        "path": "/images/icons/profilepics/default.svg",
+        "width": 48,
+        "height": 48,
+        "isDefault": true
+      },
+      "displayName": "叶玉松",
+      "_links": {
+        "self": "https://wiki.inkept.cn/rest/api/user?key=8aef971660112e1f01610c33c52f0049"
+      },
+      "_expandable": {
+        "status": ""
+      }
+    },
+    "when": "2026-03-04T16:48:40.000+08:00",
+    "message": "",
+    "number": 11,
+    "minorEdit": false,
+    "hidden": false,
+    "_links": {
+      "self": "https://wiki.inkept.cn/rest/experimental/content/462598884/version/11"
+    },
+    "_expandable": {
+      "content": "/rest/api/content/462598884"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "320866330",
+      "type": "page",
+      "status": "current",
+      "title": "映客直播业务",
+      "extensions": {
+        "position": "none"
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=320866330",
+        "edit": "/pages/resumedraft.action?draftId=320866330&draftShareId=d5d92a4f-fb15-4a51-8bd6-16333cb6f165",
+        "tinyui": "/x/GgggEw",
+        "self": "https://wiki.inkept.cn/rest/api/content/320866330"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/320866330/child",
+        "restrictions": "/rest/api/content/320866330/restriction/byOperation",
+        "history": "/rest/api/content/320866330/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/320866330/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    },
+    {
+      "id": "326510548",
+      "type": "page",
+      "status": "current",
+      "title": "直播业务线-运营",
+      "extensions": {
+        "position": 2
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=326510548",
+        "edit": "/pages/resumedraft.action?draftId=326510548&draftShareId=0ea027df-6f8f-4663-bbd6-217ba023f41b",
+        "tinyui": "/x/1Cd2Ew",
+        "self": "https://wiki.inkept.cn/rest/api/content/326510548"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/326510548/child",
+        "restrictions": "/rest/api/content/326510548/restriction/byOperation",
+        "history": "/rest/api/content/326510548/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/326510548/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    },
+    {
+      "id": "331456836",
+      "type": "page",
+      "status": "current",
+      "title": "【活动组】",
+      "extensions": {
+        "position": 11
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=331456836",
+        "edit": "/pages/resumedraft.action?draftId=331456836",
+        "tinyui": "/x/RKHBEw",
+        "self": "https://wiki.inkept.cn/rest/api/content/331456836"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/331456836/child",
+        "restrictions": "/rest/api/content/331456836/restriction/byOperation",
+        "history": "/rest/api/content/331456836/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/331456836/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    },
+    {
+      "id": "452644191",
+      "type": "page",
+      "status": "current",
+      "title": "【2026营收运营活动】",
+      "extensions": {
+        "position": "none"
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=452644191",
+        "edit": "/pages/resumedraft.action?draftId=452644191&draftShareId=97d3197f-f0cd-4143-8fbf-d96b4892c680",
+        "tinyui": "/x/X836Gg",
+        "self": "https://wiki.inkept.cn/rest/api/content/452644191"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/452644191/child",
+        "restrictions": "/rest/api/content/452644191/restriction/byOperation",
+        "history": "/rest/api/content/452644191/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/452644191/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    }
+  ],
+  "body": {
+    "storage": {
+      "value": "<p><br /></p><p><br /></p><p><strong>预估数据现状</strong></p><p>2 月上半月涵盖月初及情人节节点，2 月 16 日起正式进入春节假期，下半月全程处于假期周期。结合近四年核心数据规律，适配 2026 年节日时间节奏，2月趋势预估如下：</p><ol><li>主播活跃：2 月 10 日（腊月二十二）后活跃出现下滑，2月14日（腊月二十七）活跃出现小幅回升，此后至2月18日（正月初二）为活跃最低点；正月初二至正月十一逐步回升，2 月 28 日（正月十二）基本恢复节前水平。</li><li>大盘消耗：2 月 10 日（腊月二十二）至除夕呈持续上升趋势，2月14日、除夕、初一三日为小高峰；正月初二至初四收礼触底，正月初五小幅回升后，初六至初七再度走低，正月初八至十一呈缓慢回升态势。</li></ol><p><strong>核心方向</strong></p><ol><li>春节聚焦主播侧，以简单直给式奖励为核心，重点干预年中日开播活跃维稳、年后开播活跃回归。</li><li>借情人节节日氛围，主攻 ARPPU 提升。</li><li>月初做好基础消耗维稳工作。</li></ol><p><strong>执行动作</strong></p><ol><li>春节主播侧分年中、年后两阶段落地：年中推行日打卡模式，发放映币奖励维稳日活；年后采用累计打卡形式，以映币激励推动活跃度回归。</li><li>春节用户侧结合活动专属礼物在对应消耗低点设置返钻券、特权资源类激励维稳消耗。</li><li>情人节于2 月 10 日上线，针对秀场、派对等不同场景，分层触达中小用户、大 R 用户，定制差异化玩法，精准拉升 ARPPU。</li><li>月初上线互动玩法 + 特殊礼物玩法组合，夯实大盘基础，实现消耗维稳。</li></ol><p><br /></p><p><strong>2月核心重点</strong></p><p class=\"ql-authorBlock-52559248 ql-direction-ltr ql-long-52559248\" style=\"text-align: left;\"><strong>【大盘目标】</strong></p><p class=\"ql-authorBlock-52559248 ql-direction-ltr ql-long-52559248\" style=\"text-align: left;\"><span style=\"color: rgb(23,43,77);\">2月实际消耗9.31e钻，B消耗目标8.69亿钻，完成度107.18%，领先6246w钻；</span>A目标9.43亿钻，完成度98.74%，落后1192w钻。</p><p class=\"ql-authorBlock-52559248 ql-direction-ltr ql-long-52559248\" style=\"text-align: left;\"><strong>【人数目标】</strong></p><p><span>活动礼物送礼人数目标4272人，实际4321人，完成度101%</span></p><p><span>基础礼物送礼人数目标12378人，实11088人，完成度90%</span></p><p><span>活动参与主播数目标5391人，实际5361人，完成度99%</span></p><p class=\"ql-authorBlock-52559248 ql-direction-ltr ql-long-52559248\" style=\"text-align: left;\"><strong>【活动目标】</strong></p><p style=\"text-align: left;\">截至2月28日，活动总消耗2.65e，其中礼物消耗1.73e，非礼物消耗3083w，小映礼物消耗2938w，特殊礼物消耗3185w。总月目标B（2.08e）完成127.14%</p><p><strong>【核心执行动作】</strong></p><p>本月以<strong>春节假期主播活跃维稳</strong>为核心，同步做好月初大盘消耗维稳与关键节点 ARPPU 提升。</p><ol><li><strong>春节主播活跃维稳</strong>分年中、年后两阶段执行：年中以日打卡 + 映币奖励保障开播；年后通过累计打卡 + 映币激励推动主播逐步回流。</li><li><strong>情人节 ARPPU 拉升</strong>以常规 CP 任务为核心框架，结合小映礼物、特殊礼物玩法优化，针对秀场、派对多场景及不同用户层级做分层刺激，提升 ARPPU。</li><li><strong>月初消耗维稳</strong>以互动玩法 + 特殊礼物玩法组合保障基础消耗，并针对 1 月洞察到的<strong>送礼人数下降</strong>问题进行优化。</li></ol><p><strong>【数据表现】</strong></p><p><strong>1. 春节主播活跃情况</strong></p><ul><li>节前未投入预算、未上玩法，主播活跃未出现异常下滑：2026 年节前 4 日主播活跃环比降幅 <strong>-6.55%</strong>（0 成本）；2025 年降幅 <strong>-6.08%</strong>（花费 27870.8 元）。</li><li>年中打卡模式依然有效：在降低最高返点、精简档位、整体花销减少 14 万的前提下，环比活动前日均有效开播下降 <strong>18.39%</strong>，与 2025 年 <strong>18.11%</strong> 基本持平。</li><li>年后累计打卡对主播回流效果有限：年后日均有效开播 1028 人，环比节前 7 日上涨<strong> 0.42%</strong>，较 2025 年同期提升 <strong>4.46%</strong>，主播整体回流偏慢，主要受动态 B 层级主播影响。</li></ul><p><strong>2. 情人节 ARPPU 提升</strong></p><ul><li>CP 任务结合节日热点依旧有效：活动日均消耗 <strong>1256w 钻石</strong>，环比活动前大盘提升 <strong>787w（+22%）</strong>；大盘礼物日均提升 <strong>569w（+27.8%）</strong>；活动礼物日均提升 <strong>596w（+89%）</strong>。</li><li>5 钻特殊礼物玩法优化有效：日均消耗 <strong>207w</strong>，较 2025 年女神节同价位礼物提升 <strong>81w</strong>，较中秋同价位礼物提升 <strong>91w</strong>。</li><li>去除情人节当天峰值后，活动期间环比活动前钻石消耗提升 <strong>256w（+7.5%）</strong>，大盘礼物提升 <strong>138w（+6.8%）</strong>，活动礼物提升 <strong>259w（+38%）</strong>。</li></ul><p><strong>3. 其他洞察</strong></p><ul><li>历史有效低价特殊礼物玩法优化有效效：日均送礼人数环比稳定期下降 <strong>1.75%（76 人）</strong>，低于大盘送礼人数降幅 <strong>9%（1194 人）</strong>；较 1 月活动礼物日均送礼人数提升 <strong>13.78%（514 人）</strong>。</li><li>节后高价值小映 + 一锤定金玩法对 ARPPU 拉动无效：假期后大盘 ARPPU 较 1 月正常均值下降 <strong>10.8%（115 钻）</strong>，玩法未形成有效作用。</li></ul><p><strong>【后续思考】</strong></p><ol><li><strong>假期活跃玩法：</strong>十一、春节等长假可继续<strong>降低预算</strong>，延用<strong>常规日打卡</strong>模式维稳主播活跃；五一等短假期可尝试<strong>非映币类激励</strong>，进一步控制成本。</li><li><strong>主播回流思考：</strong>现有手段对假期后主播快速回流效果无效，后续考虑针对<strong>签约主播、公会</strong>设置对应玩法。</li><li><strong>节后 &amp; 月末 ARPPU 提升：</strong>调整活动排期，在节后 ARPPU 未回升、月末 ARPPU 下滑等节点，采用<strong>礼物玩法 + 历史高消耗活动组合</strong>，从 3 月开始尝试。</li><li><strong>送礼人数玩法常规化：</strong>自 3 月起，将<strong>送礼人数维稳玩法</strong>固定为常规动作，并持续竞品、探索可稳定用户送礼人数的玩法。</li></ol><p><strong>【核心执行动作】</strong></p><p><span>本月以春节假期维稳大盘主播活跃为核心方向，辅助做好月初消耗维稳及关键节点ARPPU提升。</span></p><ol><li><strong>春节假期活跃维稳：</strong>分年中、年后两阶段落地：年中推行日打卡模式，发放映币奖励维稳日活；年后采用累计打卡形式，以映币激励推动活跃度回归。</li><li><strong>情人节ARPPU提升：</strong>以常规CP任务为核心骨架，搭配小映及特殊礼物玩法优化，针对秀场、派对等不同场景、不同层级用户制定玩法提升ARPPU。</li><li><strong>月初消耗基本维稳：</strong>月初核心以互动玩法 + 特殊礼物玩法组合为主，进行消耗维稳，同时针对1月份洞察活动送礼人数下降情况进行优化。</li></ol><p><br /></p><p style=\"text-align: left;\">【活动目标】<br />活跃目标：<br />年中：<span style=\"color: rgb(23,26,29);\">2月16日-2月23日=除夕-初七，8天</span><br />目标：<span style=\"color: rgb(23,26,29);\">有效开播主播数环比活动前下降幅度控制在15%以内</span><br />年后：<span style=\"color: rgb(23,26,29);\">2月24日-3月3日=初八-十五，8天</span><br />目标：<span style=\"color: rgb(23,43,77);\">有效开播人数对比活动前</span><span style=\"color: rgb(23,26,29);\">回升幅度在5%以上</span></p><p style=\"text-align: left;\">活跃目标完成情况：<br />①年中：<span style=\"color: rgb(23,43,77);\">年中日均有效开播人数835人，环比活动前8日日均有效开播1023人（目标值为870人），目标完成度96.02%（-35人），环比活动前8日下降18.39%。除S（+3%、+3人）外，其他层级有效开播均下降，其中AN层级降幅在10%-16%间，BB-CD层级降幅在18%-22%。2月14日开始，有效开播主播数开始下降，正月初二为最低点，后续开始回升。</span><br />②年后：年后日均有效开播人数1028人，环比活动前7日日均有效开播人数1023人（目标值1074人），目标完成度95.63%（-47人），环比活动前7日上涨0.42%。<span style=\"color: rgb(23,43,77);\">除D（+12%、+23人）、N（+5%、+4人）外，其他层级有效开播均下降，其中B-C层级降幅在2%-3%间，SAB层级降幅在8%-16%。初十主播活跃回归至情人节当天（腊月二十七）水平</span>。<br />【活动总结】<br />①改动一：对比25年春节，年前不再设置主播活跃下发映币奖励玩法。<br />根据25年的节奏对比，26年年前主播活跃降幅为-6.55%（日均-74人）、花费人民币0元；25年降幅为-6.08%（日均-121人）、花费人民币27870.8元。<br />两年各层级降幅趋势一致。<br />因此，后续年前可不再介入，在降幅趋近的情况下可节省预算。<br />②改动二：对比25年春节，年中减少了奖励挡位（10个档位降至4个档位），降低了最高返点比例和奖励数额（10% 13000映币 降至 8.33% 6666映币），抬高了最低档位的数值（450映币起始档位升至1500映币起始档位）。<br />根据26年的节奏对比，26年年前主播活跃降幅为-18.39%（日均-188人）、花费人民币108073.12元、日均覆盖342人；25年降幅为-18.11%（日均-329人）、花费人民币253980.28元、日均覆盖610人。<br />两年各层级降幅趋势一致。<br />因此，在降幅趋近的情况下，减少奖励档位可节省预算。<br />③改动三：对比25年，年后由累计打卡5天6天得当天收入4%7%的返点，调整至年后每日3个档位的返点任务，最后根据累计打卡按比例解锁。<br />根据26年的节奏对比，26年年前主播活跃降幅为+0.42%（日均+4人）、花费人民币31153.64元、合计覆盖811人；25年升幅为+4.46%（日均+81人）、花费人民币34396.28元、合计覆盖530人。<br />目前来看，主要是SABN层级主播回流人数减少，B-CD层级主播回流人数增多，考虑有层级跃迁的影响。<br />【后续思考】<br />①考虑是否为，在主播两年流失后，当前留存主播较为稳固，因此在减少预算的情况下主播依旧保持与去年一致的降幅趋势？因此后续在涉及预算时，均可采取本次的低预算方式。<br />②本次主播回流速度降低，可以考虑在年后阶段设置玩法加速召回主播。</p>",
+      "representation": "storage",
+      "_expandable": {
+        "content": "/rest/api/content/462598884"
+      }
+    },
+    "_expandable": {
+      "editor": "",
+      "view": "",
+      "export_view": "",
+      "styled_view": "",
+      "anonymous_export_view": ""
+    }
+  },
+  "extensions": {
+    "position": "none"
+  },
+  "_links": {
+    "webui": "/pages/viewpage.action?pageId=462598884",
+    "edit": "/pages/resumedraft.action?draftId=462598884&draftShareId=744b2fa4-aa8c-4445-a22d-8439470cf97f",
+    "tinyui": "/x/5LKSGw",
+    "collection": "/rest/api/content",
+    "base": "https://wiki.inkept.cn",
+    "context": "",
+    "self": "https://wiki.inkept.cn/rest/api/content/462598884"
+  },
+  "_expandable": {
+    "container": "/rest/api/space/xueyuan",
+    "metadata": "",
+    "operations": "",
+    "children": "/rest/api/content/462598884/child",
+    "restrictions": "/rest/api/content/462598884/restriction/byOperation",
+    "history": "/rest/api/content/462598884/history",
+    "descendants": "/rest/api/content/462598884/descendant"
+  }
+}

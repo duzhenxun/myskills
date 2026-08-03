@@ -1,3 +1,0 @@
-[   75830ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_TIMED_OUT @ https://js.stripe.com/dahlia/stripe.js:0
-[   75832ms] [WARNING] Error: Failed to load Stripe.js
-    at HTMLScriptElement.<anonymous> (https://codeapi.nexita.net/assets/vendor-misc-D6wMMNb-.js:89:44044) @ https://codeapi.nexita.net/assets/vendor-misc-D6wMMNb-.js:88

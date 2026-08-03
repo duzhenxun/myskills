@@ -1,0 +1,261 @@
+{
+  "id": "497224384",
+  "type": "page",
+  "status": "current",
+  "title": "【资源配置】-2026年527资源申请-平台运营组-20260429",
+  "space": {
+    "id": 3571713,
+    "key": "xueyuan",
+    "name": "映客直播业务",
+    "type": "global",
+    "_links": {
+      "webui": "/display/xueyuan",
+      "self": "https://wiki.inkept.cn/rest/api/space/xueyuan"
+    },
+    "_expandable": {
+      "metadata": "",
+      "icon": "",
+      "description": "",
+      "retentionPolicy": "",
+      "homepage": "/rest/api/content/320866330"
+    }
+  },
+  "version": {
+    "by": {
+      "type": "known",
+      "username": "maxiaona",
+      "userKey": "8aef97167d450205017db1d1e6df008b",
+      "profilePicture": {
+        "path": "/images/icons/profilepics/default.svg",
+        "width": 48,
+        "height": 48,
+        "isDefault": true
+      },
+      "displayName": "马晓娜",
+      "_links": {
+        "self": "https://wiki.inkept.cn/rest/api/user?key=8aef97167d450205017db1d1e6df008b"
+      },
+      "_expandable": {
+        "status": ""
+      }
+    },
+    "when": "2026-04-29T14:29:36.000+08:00",
+    "message": "",
+    "number": 1,
+    "minorEdit": false,
+    "hidden": false,
+    "_links": {
+      "self": "https://wiki.inkept.cn/rest/experimental/content/497224384/version/1"
+    },
+    "_expandable": {
+      "content": "/rest/api/content/497224384"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "320866330",
+      "type": "page",
+      "status": "current",
+      "title": "映客直播业务",
+      "extensions": {
+        "position": "none"
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=320866330",
+        "edit": "/pages/resumedraft.action?draftId=320866330&draftShareId=d5d92a4f-fb15-4a51-8bd6-16333cb6f165",
+        "tinyui": "/x/GgggEw",
+        "self": "https://wiki.inkept.cn/rest/api/content/320866330"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/320866330/child",
+        "restrictions": "/rest/api/content/320866330/restriction/byOperation",
+        "history": "/rest/api/content/320866330/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/320866330/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    },
+    {
+      "id": "326510548",
+      "type": "page",
+      "status": "current",
+      "title": "直播业务线-运营",
+      "extensions": {
+        "position": 2
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=326510548",
+        "edit": "/pages/resumedraft.action?draftId=326510548&draftShareId=0ea027df-6f8f-4663-bbd6-217ba023f41b",
+        "tinyui": "/x/1Cd2Ew",
+        "self": "https://wiki.inkept.cn/rest/api/content/326510548"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/326510548/child",
+        "restrictions": "/rest/api/content/326510548/restriction/byOperation",
+        "history": "/rest/api/content/326510548/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/326510548/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    },
+    {
+      "id": "331456836",
+      "type": "page",
+      "status": "current",
+      "title": "【活动组】",
+      "extensions": {
+        "position": 11
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=331456836",
+        "edit": "/pages/resumedraft.action?draftId=331456836",
+        "tinyui": "/x/RKHBEw",
+        "self": "https://wiki.inkept.cn/rest/api/content/331456836"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/331456836/child",
+        "restrictions": "/rest/api/content/331456836/restriction/byOperation",
+        "history": "/rest/api/content/331456836/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/331456836/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    },
+    {
+      "id": "452644191",
+      "type": "page",
+      "status": "current",
+      "title": "【2026营收运营活动】",
+      "extensions": {
+        "position": "none"
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=452644191",
+        "edit": "/pages/resumedraft.action?draftId=452644191&draftShareId=97d3197f-f0cd-4143-8fbf-d96b4892c680",
+        "tinyui": "/x/X836Gg",
+        "self": "https://wiki.inkept.cn/rest/api/content/452644191"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/452644191/child",
+        "restrictions": "/rest/api/content/452644191/restriction/byOperation",
+        "history": "/rest/api/content/452644191/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/452644191/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    },
+    {
+      "id": "488343729",
+      "type": "page",
+      "status": "current",
+      "title": "2026年5月份活动",
+      "extensions": {
+        "position": "none"
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=488343729",
+        "edit": "/pages/resumedraft.action?draftId=488343729&draftShareId=a59c298c-352d-4d86-b067-744efc521f4c",
+        "tinyui": "/x/sYgbHQ",
+        "self": "https://wiki.inkept.cn/rest/api/content/488343729"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/488343729/child",
+        "restrictions": "/rest/api/content/488343729/restriction/byOperation",
+        "history": "/rest/api/content/488343729/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/488343729/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    },
+    {
+      "id": "492700808",
+      "type": "page",
+      "status": "current",
+      "title": "2026年-527",
+      "extensions": {
+        "position": "none"
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=492700808",
+        "edit": "/pages/resumedraft.action?draftId=492700808&draftShareId=fce47150-8a7e-4970-80bb-df1fee922998",
+        "tinyui": "/x/iAReHQ",
+        "self": "https://wiki.inkept.cn/rest/api/content/492700808"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/492700808/child",
+        "restrictions": "/rest/api/content/492700808/restriction/byOperation",
+        "history": "/rest/api/content/492700808/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/492700808/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    }
+  ],
+  "body": {
+    "storage": {
+      "value": "<p style=\"\">Hi all，<br />【527】活动将于5.8日进入测试阶段，现申请相关资源及礼物配置。<br />辛苦@叶导 审批，&nbsp;<br />辛苦@灿灿配置并返回相关id。</p><p style=\"\">资源配置</p><table><colgroup class=\"\"><col class=\"\" style=\"width: 165.45pt;\" /> <col class=\"\" style=\"width: 352.8pt;\" /> <col class=\"\" style=\"width: 199.35pt;\" /> <col class=\"\" style=\"width: 48.0pt;\" /> </colgroup><tbody class=\"\"><tr class=\"\"><td>类型</td><td>用途</td><td>奖励名称</td><td>id</td><td>url</td><td>备注</td></tr><tr class=\"\"><td rowspan=\"5\">头像框</td><td>主播任务头像框</td><td>映客527头像框</td><td><br /></td><td><br /></td><td><br /></td></tr><tr class=\"\"><td>用户日榜头像框</td><td>万域尊主头像框</td><td><br /></td><td><br /></td><td><br /></td></tr><tr class=\"\"><td>主播日榜头像框</td><td>闪耀之巅头像框</td><td><br /></td><td><br /></td><td><br /></td></tr><tr class=\"\"><td>用户任务1头像框</td><td>星途相伴头像框</td><td><br /></td><td><br /></td><td><br /></td></tr><tr class=\"\"><td>用户任务2头像框</td><td>至尊引航头像框</td><td><br /></td><td><br /></td><td><br /></td></tr><tr class=\"\"><td rowspan=\"5\">麦序框</td><td>派对纪念麦序框</td><td>527纪念麦序框</td><td><br /></td><td><br /></td><td><br /></td></tr><tr class=\"\"><td>用户日榜麦序框</td><td>万域尊主麦序框</td><td><br /></td><td><br /></td><td><br /></td></tr><tr class=\"\"><td>主播日榜麦序框</td><td>闪耀之巅麦序框</td><td><br /></td><td><br /></td><td><br /></td></tr><tr class=\"\"><td>用户任务1麦序框</td><td>星途相伴麦序框</td><td><br /></td><td><br /></td><td><br /></td></tr><tr class=\"\"><td>用户任务2麦序框</td><td>至尊引航麦序框</td><td><br /></td><td><br /></td><td><br /></td></tr><tr class=\"\"><td rowspan=\"2\">直播间封面边框</td><td>主播热门晋级封面边框--新尺寸</td><td>映客527热门主播封面边框</td><td><br /></td><td><br /></td><td><br /></td></tr><tr class=\"\"><td>主播日榜封面边框+巨无霸角标融合版本--新版本</td><td>闪耀之巅封面边框</td><td><br /></td><td><br /></td><td><br /></td></tr><tr class=\"\"><td rowspan=\"12\">称号</td><td>大主播晋级称号</td><td>映客527风云主播称号</td><td><br /></td><td><br /></td><td>5.15-5.27，2026年527活动获得～</td></tr><tr class=\"\"><td>小主播晋级称号</td><td>映客527星势力主播称号</td><td><br /></td><td><br /></td><td><br /></td></tr><tr class=\"\"><td>派对晋级称号</td><td>映客527星辉派对称号</td><td><br /></td><td><br /></td><td><br /></td></tr><tr class=\"\"><td>嘉宾晋级称号</td><td>映客527心动嘉宾称号</td><td><br /></td><td><br /></td><td><br /></td></tr><tr class=\"\"><td>人气百强派对</td><td>人气百强派对</td><td><br /></td><td><br /></td><td><br /></td></tr><tr class=\"\"><td>人气百强主播</td><td>人气百强主播</td><td><br /></td><td><br /></td><td><br /></td></tr><tr class=\"\"><td>人气50强派对</td><td>人气50强派对</td><td><br /></td><td><br /></td><td><br /></td></tr><tr class=\"\"><td>人气50强主播</td><td>人气50强主播</td><td><br /></td><td><br /></td><td><br /></td></tr><tr class=\"\"><td>用户日榜称号</td><td>万域尊主称号</td><td><br /></td><td><br /></td><td><br /></td></tr><tr class=\"\"><td>主播日榜称号</td><td>闪耀之巅称号</td><td><br /></td><td><br /></td><td><br /></td></tr><tr class=\"\"><td>用户任务1称号</td><td>星途相伴称号</td><td><br /></td><td><br /></td><td><br /></td></tr><tr class=\"\"><td>用户任务2称号</td><td>至尊引航称号</td><td><br /></td><td><br /></td><td><br /></td></tr><tr class=\"\"><td rowspan=\"4\">公聊皮肤</td><td>主播任务公聊皮肤</td><td>映客527公聊皮肤-和公聊角标做融合</td><td><br /></td><td><br /></td><td><br /></td></tr><tr class=\"\"><td>用户日榜公聊皮肤</td><td>万域尊主公聊皮肤</td><td><br /></td><td><br /></td><td><br /></td></tr><tr class=\"\"><td>用户任务1公聊皮肤</td><td>星途相伴公聊皮肤</td><td><br /></td><td><br /></td><td><br /></td></tr><tr class=\"\"><td>用户任务2公聊皮肤</td><td>至尊引航公聊皮肤</td><td><br /></td><td><br /></td><td><br /></td></tr><tr class=\"\"><td rowspan=\"4\">公聊角标</td><td>主播任务公聊角标</td><td>映客527公聊角标</td><td><br /></td><td><br /></td><td><br /></td></tr><tr class=\"\"><td>用户日榜公聊角标</td><td>万域尊主公聊角标</td><td><br /></td><td><br /></td><td><br /></td></tr><tr class=\"\"><td>用户任务1公聊角标</td><td>星途相伴公聊角标</td><td><br /></td><td><br /></td><td><br /></td></tr><tr class=\"\"><td>用户任务2公聊角标</td><td>至尊引航公聊角标</td><td><br /></td><td><br /></td><td><br /></td></tr><tr class=\"\"><td rowspan=\"3\">弹幕边框</td><td>用户任务1弹幕边框</td><td>星途相伴弹幕边框</td><td><br /></td><td><br /></td><td><br /></td></tr><tr class=\"\"><td>用户任务2弹幕边框</td><td>至尊引航弹幕边框</td><td><br /></td><td><br /></td><td><br /></td></tr><tr class=\"\"><td>官方弹幕边框</td><td>官方弹幕边框</td><td><br /></td><td><br /></td><td><br /></td></tr><tr class=\"\"><td rowspan=\"3\">勋章</td><td>主播任务勋章</td><td>映客527勋章</td><td><br /></td><td><br /></td><td><br /></td></tr><tr class=\"\"><td>主播日榜勋章</td><td>闪耀之巅勋章</td><td><br /></td><td><br /></td><td><br /></td></tr><tr class=\"\"><td>用户日榜勋章</td><td>万域尊主勋章</td><td><br /></td><td><br /></td><td><br /></td></tr><tr class=\"\"><td rowspan=\"4\">巨无霸标签</td><td>大主播晋级巨无霸角标</td><td>热门风云主播巨无霸角标</td><td><br /></td><td><br /></td><td><br /></td></tr><tr class=\"\"><td>小主播晋级巨无霸角标</td><td>热门星势力主播巨无霸角标</td><td><br /></td><td><br /></td><td><br /></td></tr><tr class=\"\"><td>派对晋级巨无霸角标</td><td>热门星辉派对巨无霸角标</td><td><br /></td><td><br /></td><td><br /></td></tr><tr class=\"\"><td><br /></td><td>热门心动嘉宾巨无霸角标</td><td><br /></td><td><br /></td><td><br /></td></tr><tr class=\"\"><td rowspan=\"4\">发言波纹</td><td>用户日榜发言波纹</td><td>万域尊主发言波纹</td><td><br /></td><td><br /></td><td><br /></td></tr><tr class=\"\"><td>心动嘉宾任务发言波纹</td><td>映客527发言波纹</td><td><br /></td><td><br /></td><td><br /></td></tr><tr class=\"\"><td>用户任务1发言波纹</td><td>星途相伴发言波纹</td><td><br /></td><td><br /></td><td><br /></td></tr><tr class=\"\"><td>用户任务2发言波纹</td><td>至尊引航发言波纹</td><td><br /></td><td><br /></td><td><br /></td></tr><tr class=\"\"><td rowspan=\"4\">上麦动效</td><td>用户日榜上麦动效</td><td>万域尊主上麦动效</td><td><br /></td><td><br /></td><td><br /></td></tr><tr class=\"\"><td>心动嘉宾任务上麦动效</td><td>映客527上麦动效</td><td><br /></td><td><br /></td><td><br /></td></tr><tr class=\"\"><td>用户任务1上麦动效</td><td>星途相伴上麦动效</td><td><br /></td><td><br /></td><td><br /></td></tr><tr class=\"\"><td>用户任务2上麦动效</td><td>至尊引航上麦动效</td><td><br /></td><td><br /></td><td><br /></td></tr><tr class=\"\"><td rowspan=\"2\">观众席底纹</td><td>用户任务1观众席底纹</td><td>星途相伴观众席底纹</td><td><br /></td><td><br /></td><td><br /></td></tr><tr class=\"\"><td>用户任务2观众席底纹</td><td>至尊引航观众席底纹</td><td><br /></td><td><br /></td><td><br /></td></tr><tr class=\"\"><td rowspan=\"2\">送礼托盘</td><td>用户任务1送礼托盘</td><td>星途相伴送礼托盘</td><td><br /></td><td><br /></td><td><br /></td></tr><tr class=\"\"><td>用户任务2送礼托盘</td><td>至尊引航送礼托盘</td><td><br /></td><td><br /></td><td><br /></td></tr><tr class=\"\"><td>主页浮屏+挂件</td><td>主播任务挂件</td><td>映客527挂件</td><td><br /></td><td><br /></td><td><br /></td></tr><tr class=\"\"><td><br /></td><td>用户日榜主页浮屏+挂件</td><td>万域尊主主页挂件浮屏</td><td><br /></td><td><br /></td><td><br /></td></tr><tr class=\"\"><td><br /></td><td>主播日榜主页浮屏+挂件</td><td>闪耀之巅主页挂件浮屏</td><td><br /></td><td><br /></td><td><br /></td></tr><tr class=\"\"><td>资料卡浮屏</td><td>用户日榜--新版异形</td><td>万域尊主资料卡浮屏</td><td><br /></td><td><br /></td><td><br /></td></tr><tr class=\"\"><td>进房座驾</td><td>用户日榜全屏3D</td><td>万域尊主全屏3D座驾</td><td><br /></td><td><br /></td><td><br /></td></tr><tr class=\"\"><td><br /></td><td>用户任务1进房座驾</td><td>星途相伴进房座驾</td><td><br /></td><td><br /></td><td><br /></td></tr><tr class=\"\"><td><br /></td><td>用户任务2进房座驾</td><td>至尊引航进房座驾</td><td><br /></td><td><br /></td><td><br /></td></tr><tr class=\"\"><td>人气票</td><td>人气票*4</td><td><br /></td><td><br /></td><td><br /></td><td><br /></td></tr></tbody></table><p class=\"auto-cursor-target\">以上，如有问题及时沟通</p><p class=\"auto-cursor-target\"><br /></p><p class=\"auto-cursor-target\"><br /></p><p class=\"auto-cursor-target\"><br /></p><p class=\"auto-cursor-target\"><br /></p><p class=\"auto-cursor-target\"><br /></p>",
+      "representation": "storage",
+      "_expandable": {
+        "content": "/rest/api/content/497224384"
+      }
+    },
+    "_expandable": {
+      "editor": "",
+      "view": "",
+      "export_view": "",
+      "styled_view": "",
+      "anonymous_export_view": ""
+    }
+  },
+  "extensions": {
+    "position": "none"
+  },
+  "_links": {
+    "webui": "/pages/viewpage.action?pageId=497224384",
+    "edit": "/pages/resumedraft.action?draftId=497224384&draftShareId=0b8492a7-bd4c-4b5f-a6fe-2618f8342a54",
+    "tinyui": "/x/wAqjHQ",
+    "collection": "/rest/api/content",
+    "base": "https://wiki.inkept.cn",
+    "context": "",
+    "self": "https://wiki.inkept.cn/rest/api/content/497224384"
+  },
+  "_expandable": {
+    "container": "/rest/api/space/xueyuan",
+    "metadata": "",
+    "operations": "",
+    "children": "/rest/api/content/497224384/child",
+    "restrictions": "/rest/api/content/497224384/restriction/byOperation",
+    "history": "/rest/api/content/497224384/history",
+    "descendants": "/rest/api/content/497224384/descendant"
+  }
+}

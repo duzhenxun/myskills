@@ -1,0 +1,10 @@
+[
+  {
+    "type": "vertex",
+    "source": "attribute vec2 p;uniform float t;void main(){float s=sin(t);float c=cos(t);gl_Position=vec4(p*mat2(c,s,-s,c),1,1);}"
+  },
+  {
+    "type": "fragment",
+    "source": "void main(){gl_FragColor=vec4(1,0,0,1);}"
+  }
+]

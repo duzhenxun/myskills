@@ -1,0 +1,261 @@
+{
+  "id": "504173427",
+  "type": "page",
+  "status": "current",
+  "title": "6.7-6.11【礼物参考】双子座",
+  "space": {
+    "id": 3571713,
+    "key": "xueyuan",
+    "name": "映客直播业务",
+    "type": "global",
+    "_links": {
+      "webui": "/display/xueyuan",
+      "self": "https://wiki.inkept.cn/rest/api/space/xueyuan"
+    },
+    "_expandable": {
+      "metadata": "",
+      "icon": "",
+      "description": "",
+      "retentionPolicy": "",
+      "homepage": "/rest/api/content/320866330"
+    }
+  },
+  "version": {
+    "by": {
+      "type": "known",
+      "username": "chenziqi",
+      "userKey": "8aef08aa8de3822a018e35bdf3070081",
+      "profilePicture": {
+        "path": "/images/icons/profilepics/default.svg",
+        "width": 48,
+        "height": 48,
+        "isDefault": true
+      },
+      "displayName": "陈子琦",
+      "_links": {
+        "self": "https://wiki.inkept.cn/rest/api/user?key=8aef08aa8de3822a018e35bdf3070081"
+      },
+      "_expandable": {
+        "status": ""
+      }
+    },
+    "when": "2026-06-03T11:14:49.000+08:00",
+    "message": "",
+    "number": 1,
+    "minorEdit": false,
+    "hidden": false,
+    "_links": {
+      "self": "https://wiki.inkept.cn/rest/experimental/content/504173427/version/1"
+    },
+    "_expandable": {
+      "content": "/rest/api/content/504173427"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "320866330",
+      "type": "page",
+      "status": "current",
+      "title": "映客直播业务",
+      "extensions": {
+        "position": "none"
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=320866330",
+        "edit": "/pages/resumedraft.action?draftId=320866330&draftShareId=d5d92a4f-fb15-4a51-8bd6-16333cb6f165",
+        "tinyui": "/x/GgggEw",
+        "self": "https://wiki.inkept.cn/rest/api/content/320866330"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/320866330/child",
+        "restrictions": "/rest/api/content/320866330/restriction/byOperation",
+        "history": "/rest/api/content/320866330/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/320866330/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    },
+    {
+      "id": "326510548",
+      "type": "page",
+      "status": "current",
+      "title": "直播业务线-运营",
+      "extensions": {
+        "position": 2
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=326510548",
+        "edit": "/pages/resumedraft.action?draftId=326510548&draftShareId=0ea027df-6f8f-4663-bbd6-217ba023f41b",
+        "tinyui": "/x/1Cd2Ew",
+        "self": "https://wiki.inkept.cn/rest/api/content/326510548"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/326510548/child",
+        "restrictions": "/rest/api/content/326510548/restriction/byOperation",
+        "history": "/rest/api/content/326510548/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/326510548/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    },
+    {
+      "id": "331456836",
+      "type": "page",
+      "status": "current",
+      "title": "【活动组】",
+      "extensions": {
+        "position": 11
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=331456836",
+        "edit": "/pages/resumedraft.action?draftId=331456836",
+        "tinyui": "/x/RKHBEw",
+        "self": "https://wiki.inkept.cn/rest/api/content/331456836"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/331456836/child",
+        "restrictions": "/rest/api/content/331456836/restriction/byOperation",
+        "history": "/rest/api/content/331456836/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/331456836/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    },
+    {
+      "id": "452644191",
+      "type": "page",
+      "status": "current",
+      "title": "【2026营收运营活动】",
+      "extensions": {
+        "position": "none"
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=452644191",
+        "edit": "/pages/resumedraft.action?draftId=452644191&draftShareId=97d3197f-f0cd-4143-8fbf-d96b4892c680",
+        "tinyui": "/x/X836Gg",
+        "self": "https://wiki.inkept.cn/rest/api/content/452644191"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/452644191/child",
+        "restrictions": "/rest/api/content/452644191/restriction/byOperation",
+        "history": "/rest/api/content/452644191/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/452644191/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    },
+    {
+      "id": "499520099",
+      "type": "page",
+      "status": "current",
+      "title": "2026年6月份活动",
+      "extensions": {
+        "position": "none"
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=499520099",
+        "edit": "/pages/resumedraft.action?draftId=499520099&draftShareId=8219e83f-ace4-425f-acf0-d259b96ae98c",
+        "tinyui": "/x/YxLGHQ",
+        "self": "https://wiki.inkept.cn/rest/api/content/499520099"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/499520099/child",
+        "restrictions": "/rest/api/content/499520099/restriction/byOperation",
+        "history": "/rest/api/content/499520099/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/499520099/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    },
+    {
+      "id": "504173421",
+      "type": "page",
+      "status": "current",
+      "title": "6.7-6.115.11-5.15 守护十二星座-双子座",
+      "extensions": {
+        "position": "none"
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=504173421",
+        "edit": "/pages/resumedraft.action?draftId=504173421",
+        "tinyui": "/x/bRMNHg",
+        "self": "https://wiki.inkept.cn/rest/api/content/504173421"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/504173421/child",
+        "restrictions": "/rest/api/content/504173421/restriction/byOperation",
+        "history": "/rest/api/content/504173421/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/504173421/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    }
+  ],
+  "body": {
+    "storage": {
+      "value": "<p><br /></p><table class=\"relative-table wrapped\" style=\"width: 1735.0px;\"><colgroup><col style=\"width: 167.0px;\" /><col style=\"width: 121.0px;\" /><col style=\"width: 242.0px;\" /><col style=\"width: 848.0px;\" /><col style=\"width: 296.0px;\" /><col style=\"width: 60.0px;\" /></colgroup><tbody><tr><td style=\"text-align: left;\">礼物名称</td><td style=\"text-align: left;\">礼物价格（钻）</td><td style=\"text-align: left;\">礼物故事线需求</td><td style=\"text-align: left;\">参考图</td><td style=\"text-align: left;\">备注</td><td style=\"text-align: left;\">设计师</td></tr><tr><td style=\"text-align: left;\">缘起白羊</td><td style=\"text-align: left;\">3344</td><td style=\"text-align: left;\"><p><span style=\"color: rgb(23,43,77);\">场景一：一只小羊的展示镜头<br />场景二：小羊转场变成女主<br /></span></p></td><td style=\"text-align: left;\"><div class=\"content-wrapper\"><p>人物参考：</p><p>【单人】</p><p><span>注：</span></p><p><span>1、小羊不要太写实，质感参考女主的质感，整体画面质感参考女主的质感</span></p><p><ac:image ac:thumbnail=\"true\" ac:height=\"250\"><ri:attachment ri:filename=\"image-2026-3-31_17-26-20.png\"><ri:page ri:space-key=\"xueyuan\" ri:content-title=\"6.7-6.11【礼物参考】双子座\" /></ri:attachment></ac:image><ac:image ac:thumbnail=\"true\" ac:height=\"250\"><ri:attachment ri:filename=\"image-2026-3-31_20-20-37.png\"><ri:page ri:space-key=\"xueyuan\" ri:content-title=\"6.7-6.11【礼物参考】双子座\" /></ri:attachment></ac:image></p></div></td><td style=\"text-align: left;\"><br /></td><td style=\"text-align: left;\"><br /></td></tr><tr><td style=\"text-align: left;\">白羊恋人</td><td style=\"text-align: left;\">52000</td><td style=\"text-align: left;\"><p class=\"ds-markdown-paragraph\">白羊男主白羊女主从森林里跑出来，在大草地上奔跑，跑到河边戏水打闹，女主单手挥手把水挥到男主身上</p></td><td style=\"text-align: left;\"><div class=\"content-wrapper\"><p>人物参考：</p><p>【双人cp】</p><p><span>注：</span></p><p><span>1、两个礼物从色调上尽量不要一致，有差别。<br />2、春日油画风</span></p><p><span><ac:image ac:thumbnail=\"true\" ac:height=\"250\"><ri:attachment ri:filename=\"image-2026-3-31_20-13-2.png\"><ri:page ri:space-key=\"xueyuan\" ri:content-title=\"6.7-6.11【礼物参考】双子座\" /></ri:attachment></ac:image><ac:image ac:thumbnail=\"true\" ac:height=\"250\"><ri:attachment ri:filename=\"image-2026-3-31_20-15-24.png\"><ri:page ri:space-key=\"xueyuan\" ri:content-title=\"6.7-6.11【礼物参考】双子座\" /></ri:attachment></ac:image></span><ac:image ac:thumbnail=\"true\" ac:height=\"250\"><ri:attachment ri:filename=\"屏幕截图 2026-03-24 182144.png\"><ri:page ri:space-key=\"xueyuan\" ri:content-title=\"6.7-6.11【礼物参考】双子座\" /></ri:attachment></ac:image></p><p><br /></p></div></td><td style=\"text-align: left;\"><br /></td><td style=\"text-align: left;\"><br /></td></tr></tbody></table><p class=\"auto-cursor-target\"><br /></p><p><br /></p>",
+      "representation": "storage",
+      "_expandable": {
+        "content": "/rest/api/content/504173427"
+      }
+    },
+    "_expandable": {
+      "editor": "",
+      "view": "",
+      "export_view": "",
+      "styled_view": "",
+      "anonymous_export_view": ""
+    }
+  },
+  "extensions": {
+    "position": "none"
+  },
+  "_links": {
+    "webui": "/pages/viewpage.action?pageId=504173427",
+    "edit": "/pages/resumedraft.action?draftId=504173427",
+    "tinyui": "/x/cxMNHg",
+    "collection": "/rest/api/content",
+    "base": "https://wiki.inkept.cn",
+    "context": "",
+    "self": "https://wiki.inkept.cn/rest/api/content/504173427"
+  },
+  "_expandable": {
+    "container": "/rest/api/space/xueyuan",
+    "metadata": "",
+    "operations": "",
+    "children": "/rest/api/content/504173427/child",
+    "restrictions": "/rest/api/content/504173427/restriction/byOperation",
+    "history": "/rest/api/content/504173427/history",
+    "descendants": "/rest/api/content/504173427/descendant"
+  }
+}

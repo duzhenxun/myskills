@@ -1,0 +1,17 @@
+<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Team demo</title><link rel="stylesheet" href="../shared/slides.css"></head><body>
+<article class="slide" aria-label="Team 三分钟演示">
+  <div class="masthead">OH-MY-CODEX / TECHNICAL SHARING</div><h1 class="slide-title medium">三分钟演示：从任务描述到三条并行验证链</h1><div class="title-rule"></div>
+  <section class="content">
+    <div class="demo-grid">
+      <pre class="code demo-code">omx team 3:executor \
+  "修复失败测试：分别定位、实现、验证，\
+   并汇总证据"
+
+omx team status &lt;team-name&gt; --json
+
+omx team shutdown &lt;team-name&gt;</pre>
+      <section class="checks"><h2>演示观察点</h2><ul><li>Worker 收到相互独立的具体任务</li><li>任务状态按 claim → in_progress → completed 转换</li><li>每个 worktree 交付可集成的结果</li><li>Leader 收到测试证据，而不只是结论</li></ul></section>
+    </div>
+    <div class="demo-caption label">演示重点不是“同时开了几个窗口”，而是任务、状态、证据和集成责任都有明确归属</div>
+  </section><footer class="footer"><span class="source">演示建议：选择可独立定位、实现和验证的真实仓库任务</span><span class="page">10</span></footer>
+</article><script src="../shared/slide.js"></script></body></html>

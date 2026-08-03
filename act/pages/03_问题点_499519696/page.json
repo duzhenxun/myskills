@@ -1,0 +1,261 @@
+{
+  "id": "499519696",
+  "type": "page",
+  "status": "current",
+  "title": "问题点",
+  "space": {
+    "id": 3571713,
+    "key": "xueyuan",
+    "name": "映客直播业务",
+    "type": "global",
+    "_links": {
+      "webui": "/display/xueyuan",
+      "self": "https://wiki.inkept.cn/rest/api/space/xueyuan"
+    },
+    "_expandable": {
+      "metadata": "",
+      "icon": "",
+      "description": "",
+      "retentionPolicy": "",
+      "homepage": "/rest/api/content/320866330"
+    }
+  },
+  "version": {
+    "by": {
+      "type": "known",
+      "username": "wangpengjian",
+      "userKey": "8aef97167761f7520177dcf0884e004c",
+      "profilePicture": {
+        "path": "/images/icons/profilepics/default.svg",
+        "width": 48,
+        "height": 48,
+        "isDefault": true
+      },
+      "displayName": "王鹏鉴",
+      "_links": {
+        "self": "https://wiki.inkept.cn/rest/api/user?key=8aef97167761f7520177dcf0884e004c"
+      },
+      "_expandable": {
+        "status": ""
+      }
+    },
+    "when": "2026-05-14T15:04:49.000+08:00",
+    "message": "",
+    "number": 23,
+    "minorEdit": false,
+    "hidden": false,
+    "_links": {
+      "self": "https://wiki.inkept.cn/rest/experimental/content/499519696/version/23"
+    },
+    "_expandable": {
+      "content": "/rest/api/content/499519696"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "320866330",
+      "type": "page",
+      "status": "current",
+      "title": "映客直播业务",
+      "extensions": {
+        "position": "none"
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=320866330",
+        "edit": "/pages/resumedraft.action?draftId=320866330&draftShareId=d5d92a4f-fb15-4a51-8bd6-16333cb6f165",
+        "tinyui": "/x/GgggEw",
+        "self": "https://wiki.inkept.cn/rest/api/content/320866330"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/320866330/child",
+        "restrictions": "/rest/api/content/320866330/restriction/byOperation",
+        "history": "/rest/api/content/320866330/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/320866330/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    },
+    {
+      "id": "326510548",
+      "type": "page",
+      "status": "current",
+      "title": "直播业务线-运营",
+      "extensions": {
+        "position": 2
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=326510548",
+        "edit": "/pages/resumedraft.action?draftId=326510548&draftShareId=0ea027df-6f8f-4663-bbd6-217ba023f41b",
+        "tinyui": "/x/1Cd2Ew",
+        "self": "https://wiki.inkept.cn/rest/api/content/326510548"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/326510548/child",
+        "restrictions": "/rest/api/content/326510548/restriction/byOperation",
+        "history": "/rest/api/content/326510548/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/326510548/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    },
+    {
+      "id": "331456836",
+      "type": "page",
+      "status": "current",
+      "title": "【活动组】",
+      "extensions": {
+        "position": 11
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=331456836",
+        "edit": "/pages/resumedraft.action?draftId=331456836",
+        "tinyui": "/x/RKHBEw",
+        "self": "https://wiki.inkept.cn/rest/api/content/331456836"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/331456836/child",
+        "restrictions": "/rest/api/content/331456836/restriction/byOperation",
+        "history": "/rest/api/content/331456836/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/331456836/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    },
+    {
+      "id": "452644191",
+      "type": "page",
+      "status": "current",
+      "title": "【2026营收运营活动】",
+      "extensions": {
+        "position": "none"
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=452644191",
+        "edit": "/pages/resumedraft.action?draftId=452644191&draftShareId=97d3197f-f0cd-4143-8fbf-d96b4892c680",
+        "tinyui": "/x/X836Gg",
+        "self": "https://wiki.inkept.cn/rest/api/content/452644191"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/452644191/child",
+        "restrictions": "/rest/api/content/452644191/restriction/byOperation",
+        "history": "/rest/api/content/452644191/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/452644191/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    },
+    {
+      "id": "488343729",
+      "type": "page",
+      "status": "current",
+      "title": "2026年5月份活动",
+      "extensions": {
+        "position": "none"
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=488343729",
+        "edit": "/pages/resumedraft.action?draftId=488343729&draftShareId=a59c298c-352d-4d86-b067-744efc521f4c",
+        "tinyui": "/x/sYgbHQ",
+        "self": "https://wiki.inkept.cn/rest/api/content/488343729"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/488343729/child",
+        "restrictions": "/rest/api/content/488343729/restriction/byOperation",
+        "history": "/rest/api/content/488343729/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/488343729/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    },
+    {
+      "id": "492700808",
+      "type": "page",
+      "status": "current",
+      "title": "2026年-527",
+      "extensions": {
+        "position": "none"
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=492700808",
+        "edit": "/pages/resumedraft.action?draftId=492700808&draftShareId=fce47150-8a7e-4970-80bb-df1fee922998",
+        "tinyui": "/x/iAReHQ",
+        "self": "https://wiki.inkept.cn/rest/api/content/492700808"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/492700808/child",
+        "restrictions": "/rest/api/content/492700808/restriction/byOperation",
+        "history": "/rest/api/content/492700808/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/492700808/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    }
+  ],
+  "body": {
+    "storage": {
+      "value": "<p class=\"auto-cursor-target\"><br /></p><table class=\"relative-table wrapped\" style=\"width: 84.6053%;\"><colgroup><col style=\"width: 2.723%;\" /><col style=\"width: 64.6518%;\" /><col style=\"width: 15.171%;\" /><col style=\"width: 17.4975%;\" /></colgroup><tbody><tr><th scope=\"col\">问题</th><th scope=\"col\">截图</th><th scope=\"col\">需要改的地方</th><th scope=\"col\">板块</th></tr><tr><td><br /></td><td><div class=\"content-wrapper\"><p><ac:image ac:thumbnail=\"true\" ac:height=\"250\"><ri:attachment ri:filename=\"image-2026-5-12_11-33-0.png\" /></ac:image></p></div></td><td>文案更改为：<span style=\"color: rgb(0,51,102);\">星途相伴</span></td><td>思雨-done</td></tr><tr><td><br /></td><td><div class=\"content-wrapper\"><p><ac:image ac:height=\"250\"><ri:attachment ri:filename=\"image-2026-5-12_15-18-9.png\" /></ac:image></p></div></td><td>至尊引航</td><td>思雨-done</td></tr><tr><td><br /></td><td><div class=\"content-wrapper\"><p><ac:image ac:thumbnail=\"true\" ac:height=\"250\"><ri:attachment ri:filename=\"image-2026-5-12_15-36-23.png\" /></ac:image></p></div></td><td>这块没有1.2倍</td><td><div class=\"content-wrapper\"><p>-done</p></div></td></tr><tr><td><br /></td><td><div class=\"content-wrapper\"><p><ac:image ac:height=\"250\"><ri:attachment ri:filename=\"image-2026-5-12_15-45-20.png\" /></ac:image></p></div></td><td>遮挡了</td><td>-done</td></tr><tr><td><br /></td><td><div class=\"content-wrapper\"><p><ac:image ac:thumbnail=\"true\" ac:height=\"250\"><ri:attachment ri:filename=\"image-2026-5-12_17-0-45.png\" /></ac:image></p></div></td><td><p class=\"auto-cursor-target\">四个场次分别花费</p><table class=\"wrapped\" data-mce-resize=\"false\"><colgroup><col /><col /><col /><col /><col /></colgroup><tbody><tr><td>消耗碎片数量</td><td>9</td><td>18</td><td>36</td><td>72</td></tr></tbody></table><p class=\"auto-cursor-target\"><br /></p></td><td>找宏阳大哥-done</td></tr><tr><td><br /></td><td><div class=\"content-wrapper\"><p><ac:image ac:thumbnail=\"true\" ac:height=\"250\"><ri:attachment ri:filename=\"image-2026-5-12_17-3-44.png\" /></ac:image></p></div></td><td>碎片分别更改为：金箍碎片</td><td>done - wpj-done</td></tr><tr><td><br /></td><td><div class=\"content-wrapper\"><p><span class=\"font2\">星途相伴进房</span><span class=\"font0\">座驾有问题</span></p><p><br /></p></div></td><td><br /></td><td>-done</td></tr><tr><td><br /></td><td><div class=\"content-wrapper\"><p>置灰情况下，点击 领取按钮的时候，tosta：任务未完成</p></div></td><td><br /></td><td>✅</td></tr><tr><td><br /></td><td><div class=\"content-wrapper\"><p><ac:image ac:height=\"250\"><ri:attachment ri:filename=\"image-2026-5-12_20-33-24.png\" /></ac:image></p></div></td><td><p>时间没卡住</p></td><td>-done</td></tr><tr><td><br /></td><td><div class=\"content-wrapper\"><p><ac:image ac:height=\"250\"><ri:attachment ri:filename=\"image-2026-5-12_21-37-26.png\" /></ac:image></p></div></td><td><p>奖励页--风云主播、星势力主播</p></td><td>done - wpj</td></tr><tr><td><br /></td><td><div class=\"content-wrapper\"><p><ac:image ac:height=\"250\"><ri:attachment ri:filename=\"image-2026-5-12_21-41-33.png\" /></ac:image></p><p><ac:image ac:height=\"164\"><ri:attachment ri:filename=\"image-2026-5-12_21-41-52.png\" /></ac:image></p></div></td><td><p>我没配置下面的，重复展示了</p></td><td>✅</td></tr><tr><td><br /></td><td><div class=\"content-wrapper\"><p>二级缺少：年度盛典机酒<br />三级缺少：封面边框</p><p><br /></p></div></td><td><p><br /></p></td><td>找设计要图-done</td></tr><tr><td><br /></td><td><div class=\"content-wrapper\"><p><ac:image ac:height=\"250\"><ri:attachment ri:filename=\"image-2026-5-13_14-20-29.png\" /></ac:image></p></div></td><td><p>这个资源有问题</p></td><td>-done</td></tr><tr><td><br /></td><td><div class=\"content-wrapper\"><p><ac:image ac:thumbnail=\"true\" ac:height=\"250\"><ri:attachment ri:filename=\"image-2026-5-13_16-6-35.png\" /></ac:image></p></div></td><td><p>都改成点亮<br />充能都改成点亮</p></td><td>done - wpj</td></tr><tr><td><br /></td><td><div class=\"content-wrapper\"><p><ac:image ac:height=\"250\"><ri:attachment ri:filename=\"image-2026-5-12_16-37-41.png\" /></ac:image></p></div></td><td>兑换1次、10次、100次、自定义<br />都改成<br />确定要花费x钻兑换公聊角标，额外赠送x次充能机会么</td><td>done - wpj</td></tr><tr><td><br /></td><td><div class=\"content-wrapper\"><p><ac:image ac:height=\"250\"><ri:attachment ri:filename=\"image-2026-5-13_16-7-17.png\" /></ac:image></p></div></td><td><p>多了一个词</p></td><td>done - wpj</td></tr><tr><td><br /></td><td><div class=\"content-wrapper\"><p><ac:image ac:height=\"250\"><ri:attachment ri:filename=\"image-2026-5-13_16-9-33.png\" /></ac:image></p></div></td><td><p>10人气票*1张</p></td><td>找宏阳大哥</td></tr><tr><td><br /></td><td><div class=\"content-wrapper\"><p><ac:image ac:height=\"250\"><ri:attachment ri:filename=\"image-2026-5-13_16-9-33.png\" /></ac:image></p></div></td><td><p>没有对齐</p></td><td>done - wpj</td></tr><tr><td><br /></td><td><div class=\"content-wrapper\"><p><ac:image ac:thumbnail=\"true\" ac:height=\"250\"><ri:attachment ri:filename=\"image-2026-5-13_16-16-42.png\" /></ac:image></p></div></td><td><p>全部点亮3个水晶可获得礼物<br />点亮1个水晶X次<br /><br />全局：<br />充满改成点亮<br />能量柱改成水晶</p></td><td>done - wpj</td></tr><tr><td><br /></td><td><div class=\"content-wrapper\"><p>非工会的主播不展示工会任务</p><p><ac:image ac:thumbnail=\"true\" ac:height=\"250\"><ri:attachment ri:filename=\"image-2026-5-13_19-46-16.png\" /></ac:image></p></div></td><td><p>非工会的主播不展示工会任务</p></td><td>done - wpj</td></tr><tr><td><br /></td><td><div class=\"content-wrapper\"><p><ac:image ac:height=\"250\"><ri:attachment ri:filename=\"image-2026-5-13_21-8-17.png\" /></ac:image></p></div></td><td>公会任务人数：0/2人</td><td>done - wpj</td></tr><tr><td><br /></td><td><div class=\"content-wrapper\"><p><ac:image ac:height=\"250\"><ri:attachment ri:filename=\"image-2026-5-13_21-15-14.png\" /></ac:image></p></div></td><td>这个是 20万积分</td><td>done - wpj</td></tr><tr><td><br /></td><td><div class=\"content-wrapper\"><p><ac:image ac:height=\"250\"><ri:attachment ri:filename=\"image-2026-5-13_22-31-15.png\" /></ac:image></p></div></td><td>压边了</td><td>用户页✅</td></tr><tr><td><br /></td><td><div class=\"content-wrapper\"><p><ac:image ac:height=\"250\"><ri:attachment ri:filename=\"image-2026-5-13_22-33-50.png\" /></ac:image></p></div></td><td>压边了</td><td>奖励页✅</td></tr><tr><td><br /></td><td><div class=\"content-wrapper\"><p><ac:image ac:height=\"250\"><ri:attachment ri:filename=\"image-2026-5-13_22-38-1.png\" /></ac:image></p></div></td><td>多了一个次</td><td>done - wpj</td></tr><tr><td><br /></td><td><div class=\"content-wrapper\"><p><ac:image ac:height=\"250\"><ri:attachment ri:filename=\"image-2026-5-14_10-22-11.png\" /></ac:image></p></div></td><td>增加一个写规则的模块</td><td>✅</td></tr><tr><td><br /></td><td><div class=\"content-wrapper\"><p><ac:image ac:height=\"250\"><ri:attachment ri:filename=\"image-2026-5-14_12-41-6.png\" /></ac:image></p></div></td><td>压边了，这个文案更改为：送礼得全站曝光</td><td>✅</td></tr></tbody></table><p class=\"auto-cursor-target\"><br /></p>",
+      "representation": "storage",
+      "_expandable": {
+        "content": "/rest/api/content/499519696"
+      }
+    },
+    "_expandable": {
+      "editor": "",
+      "view": "",
+      "export_view": "",
+      "styled_view": "",
+      "anonymous_export_view": ""
+    }
+  },
+  "extensions": {
+    "position": "none"
+  },
+  "_links": {
+    "webui": "/pages/viewpage.action?pageId=499519696",
+    "edit": "/pages/resumedraft.action?draftId=499519696&draftShareId=86d3ddeb-f0ca-4a1a-aea5-ca18881e8ad9",
+    "tinyui": "/x/0BDGHQ",
+    "collection": "/rest/api/content",
+    "base": "https://wiki.inkept.cn",
+    "context": "",
+    "self": "https://wiki.inkept.cn/rest/api/content/499519696"
+  },
+  "_expandable": {
+    "container": "/rest/api/space/xueyuan",
+    "metadata": "",
+    "operations": "",
+    "children": "/rest/api/content/499519696/child",
+    "restrictions": "/rest/api/content/499519696/restriction/byOperation",
+    "history": "/rest/api/content/499519696/history",
+    "descendants": "/rest/api/content/499519696/descendant"
+  }
+}

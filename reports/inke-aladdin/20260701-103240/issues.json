@@ -1,0 +1,121 @@
+[
+  {
+    "id": "ISSUE-001",
+    "type": "missing_confirmation",
+    "category": "safety",
+    "severity": "major",
+    "evidence": [
+      {
+        "source": "/Users/dds/.codex/skills/inke-aladdin/SKILL.md",
+        "quote": "Treat production https://aladdin.inke.cn/... pages as read-only references unless the user explicitly asks to modify production."
+      }
+    ],
+    "reason": "生产写入只要求用户“明确要求”，但 Aladdin 保存会改变线上活动配置。Core Rules 没有要求保存前复述生产目标、活动 id、变更范围并二次确认，容易把引用页/目标页或测试/生产意图误用成线上写入。",
+    "suggestion": "把生产写入拆成两层门禁：默认只读；如用户要求改生产，保存前必须输出目标域名、活动 id、status、变更摘要、回滚/恢复方式，并获得最终确认后才能点击保存。",
+    "affectedDimensions": [
+      "safety",
+      "workflow"
+    ]
+  },
+  {
+    "id": "ISSUE-002",
+    "type": "low_consistency",
+    "category": "quality",
+    "severity": "major",
+    "evidence": [
+      {
+        "source": "/Users/dds/.codex/skills/inke-aladdin/SKILL.md",
+        "quote": "Do not mix domains when opening edit pages, service config pages, preview links, or rank-list pages."
+      },
+      {
+        "source": "/Users/dds/.codex/skills/inke-aladdin/SKILL.md",
+        "quote": "When copying a production page as reference for a test config, read from aladdin.inke.cn but save only to testaladdin.inke.cn."
+      }
+    ],
+    "reason": "Core Rules 用“Do not mix domains”作绝对规则，但后文允许生产引用页读、测试目标页写；Aladdin 预览/跳转还可能使用 boc.inke.cn。绝对表述会让执行者在合法的“读源 + 写目标”场景中误判。",
+    "suggestion": "改成“分离 source/read domain 与 target/write domain”：读参考可跨域，写入、服务配置、榜单配置必须跟随目标域名；跨环境链接只能在用户要求或临时占位时保留并在结果中标注。",
+    "affectedDimensions": [
+      "workflow",
+      "safety",
+      "content"
+    ]
+  },
+  {
+    "id": "ISSUE-003",
+    "type": "trigger_overlap",
+    "category": "trigger",
+    "severity": "major",
+    "evidence": [
+      {
+        "source": "/Users/dds/.codex/skills/inke-aladdin/SKILL.md",
+        "quote": "Use browser-control with browser-stealth only. Do not switch to ChromeDebug 9222, Playwright, or normal browser automation when the user requires Aladdin后台操作."
+      },
+      {
+        "source": "/Users/dds/.codex/skills/inke-aladdin-automation/SKILL.md",
+        "quote": "Prefer the page service fast path ... call app.$S.createActivity(payload) or app.$S.updateActivity(payload)"
+      }
+    ],
+    "reason": "当前 Core Rules 没有说明与 inke-aladdin-automation 的分工。用户要求“更快、批量、页面 service fast path、直接 createActivity/updateActivity”时，两个 skill 都可能被触发；本 skill 又强制禁止 Playwright/fast path，容易误阻断已有自动化能力。",
+    "suggestion": "在 Core Rules 增加路由边界：本 skill 负责可见 UI/browser-stealth 手工式配置；若用户明确要批量、快速、脚本、page service fast path，则交给 inke-aladdin-automation；本 skill 不调用手写 credential API，但可读取页面状态辅助 UI 保存。",
+    "affectedDimensions": [
+      "trigger",
+      "workflow",
+      "maintainability"
+    ]
+  },
+  {
+    "id": "ISSUE-004",
+    "type": "unverifiable_output",
+    "category": "quality",
+    "severity": "major",
+    "evidence": [
+      {
+        "source": "/Users/dds/.codex/skills/inke-aladdin/SKILL.md",
+        "quote": "Verify before reporting success: form validation passes, a save XHR fires, the status is 200, and the page state has an activity id."
+      }
+    ],
+    "reason": "仅验证保存 XHR 和当前页面 id 不足以证明配置持久化，尤其是 templateData、图片 URL、微信分享、榜单 id、跨页链接等可能只在前端状态里正确。",
+    "suggestion": "Core Rules 应要求保存后重开最终 edit URL，回读 activityInfo/templateData，校验 id/name/time/level/module order/关键 URL/分享状态一致；无法回读时不能报“完成”。",
+    "affectedDimensions": [
+      "workflow",
+      "content"
+    ]
+  },
+  {
+    "id": "ISSUE-005",
+    "type": "missing_inputs",
+    "category": "content",
+    "severity": "minor",
+    "evidence": [
+      {
+        "source": "/Users/dds/.codex/skills/inke-aladdin/SKILL.md",
+        "quote": "Ask only for decisions that affect the saved config; infer safe defaults and show them back."
+      }
+    ],
+    "reason": "Core Rules 没有列出“禁止默认保存”的阻塞字段集合，例如目标环境、创建/更新模式、活动名、时间、级别、模块结构、生产确认、跳转链接是否可占位。后文虽有细节，但 Core Rules 不够硬。",
+    "suggestion": "增加 required-vs-default 边界：活动名/时间/级别/目标环境/创建或更新/模块结构是保存前必备；英文名、常规模式、底色、分享关闭可默认；跳转、uid、榜单 id 可占位但必须标注。",
+    "affectedDimensions": [
+      "content",
+      "workflow"
+    ]
+  },
+  {
+    "id": "ISSUE-006",
+    "type": "missing_constraints",
+    "category": "content",
+    "severity": "minor",
+    "evidence": [
+      {
+        "source": "/Users/dds/.codex/skills/inke-aladdin/SKILL.md",
+        "quote": "---\nname: inke-aladdin\ndescription: ...\n---"
+      }
+    ],
+    "reason": "如果要进入 Skill Hub，frontmatter 缺少 riskLevel/category，且本地材料没有 metadata.yaml、trigger-examples.json。作为本地 Codex skill 可用，但作为 Hub 包评审信息不足。",
+    "suggestion": "补充 riskLevel: high、category: 后台配置，并在 Skill Hub 包中增加 metadata.yaml 与 trigger-examples.json。若本次只改本地 Core Rules，可把该项作为提交前补齐项。",
+    "affectedDimensions": [
+      "examples",
+      "maintainability",
+      "safety"
+    ]
+  }
+]

@@ -1,0 +1,524 @@
+[
+  {
+    "project": "busi.authority.management",
+    "path": "/Users/dds/go/src/git.inke.cn/bpc/server/busi/busi.authority.management",
+    "output": "/Users/dds/data/ai/work/code/busi.authority.management-技术图谱.md",
+    "files": 32,
+    "go_files": 23,
+    "domains": [
+      "权限/管理后台"
+    ]
+  },
+  {
+    "project": "busi.basic.app-entry",
+    "path": "/Users/dds/go/src/git.inke.cn/bpc/server/busi/busi.basic.app-entry",
+    "output": "/Users/dds/data/ai/work/code/busi.basic.app-entry-技术图谱.md",
+    "files": 28,
+    "go_files": 19,
+    "domains": [
+      "基础服务"
+    ]
+  },
+  {
+    "project": "busi.basic.clientproxy",
+    "path": "/Users/dds/go/src/git.inke.cn/bpc/server/busi/busi.basic.clientproxy",
+    "output": "/Users/dds/data/ai/work/code/busi.basic.clientproxy-技术图谱.md",
+    "files": 16,
+    "go_files": 11,
+    "domains": [
+      "基础服务"
+    ]
+  },
+  {
+    "project": "busi.basic.commonpush",
+    "path": "/Users/dds/go/src/git.inke.cn/bpc/server/busi/busi.basic.commonpush",
+    "output": "/Users/dds/data/ai/work/code/busi.basic.commonpush-技术图谱.md",
+    "files": 29,
+    "go_files": 22,
+    "domains": [
+      "基础服务"
+    ]
+  },
+  {
+    "project": "busi.basic.inke-sverviceinfo",
+    "path": "/Users/dds/go/src/git.inke.cn/bpc/server/busi/busi.basic.inke-sverviceinfo",
+    "output": "/Users/dds/data/ai/work/code/busi.basic.inke-sverviceinfo-技术图谱.md",
+    "files": 1,
+    "go_files": 0,
+    "domains": [
+      "基础服务"
+    ]
+  },
+  {
+    "project": "busi.basic.inout",
+    "path": "/Users/dds/go/src/git.inke.cn/bpc/server/busi/busi.basic.inout",
+    "output": "/Users/dds/data/ai/work/code/busi.basic.inout-技术图谱.md",
+    "files": 58,
+    "go_files": 53,
+    "domains": [
+      "基础服务"
+    ]
+  },
+  {
+    "project": "busi.basic.pc-proxy",
+    "path": "/Users/dds/go/src/git.inke.cn/bpc/server/busi/busi.basic.pc-proxy",
+    "output": "/Users/dds/data/ai/work/code/busi.basic.pc-proxy-技术图谱.md",
+    "files": 58,
+    "go_files": 44,
+    "domains": [
+      "基础服务"
+    ]
+  },
+  {
+    "project": "busi.basic.serviceinfo",
+    "path": "/Users/dds/go/src/git.inke.cn/bpc/server/busi/busi.basic.serviceinfo",
+    "output": "/Users/dds/data/ai/work/code/busi.basic.serviceinfo-技术图谱.md",
+    "files": 25,
+    "go_files": 19,
+    "domains": [
+      "基础服务"
+    ]
+  },
+  {
+    "project": "busi.basic.smartrobot",
+    "path": "/Users/dds/go/src/git.inke.cn/bpc/server/busi/busi.basic.smartrobot",
+    "output": "/Users/dds/data/ai/work/code/busi.basic.smartrobot-技术图谱.md",
+    "files": 57,
+    "go_files": 50,
+    "domains": [
+      "基础服务"
+    ]
+  },
+  {
+    "project": "busi.basic.survey",
+    "path": "/Users/dds/go/src/git.inke.cn/bpc/server/busi/busi.basic.survey",
+    "output": "/Users/dds/data/ai/work/code/busi.basic.survey-技术图谱.md",
+    "files": 21,
+    "go_files": 16,
+    "domains": [
+      "基础服务"
+    ]
+  },
+  {
+    "project": "busi.basic.user-label",
+    "path": "/Users/dds/go/src/git.inke.cn/bpc/server/busi/busi.basic.user-label",
+    "output": "/Users/dds/data/ai/work/code/busi.basic.user-label-技术图谱.md",
+    "files": 17,
+    "go_files": 11,
+    "domains": [
+      "基础服务"
+    ]
+  },
+  {
+    "project": "busi.business.charge-support-server",
+    "path": "/Users/dds/go/src/git.inke.cn/bpc/server/busi/busi.business.charge-support-server",
+    "output": "/Users/dds/data/ai/work/code/busi.business.charge-support-server-技术图谱.md",
+    "files": 28,
+    "go_files": 22,
+    "domains": [
+      "充值/计费支撑"
+    ]
+  },
+  {
+    "project": "busi.gift.billboard",
+    "path": "/Users/dds/go/src/git.inke.cn/bpc/server/busi/busi.gift.billboard",
+    "output": "/Users/dds/data/ai/work/code/busi.gift.billboard-技术图谱.md",
+    "files": 64,
+    "go_files": 57,
+    "domains": [
+      "礼物/打赏",
+      "充值/计费支撑"
+    ]
+  },
+  {
+    "project": "busi.gift.billboard_base",
+    "path": "/Users/dds/go/src/git.inke.cn/bpc/server/busi/busi.gift.billboard_base",
+    "output": "/Users/dds/data/ai/work/code/busi.gift.billboard_base-技术图谱.md",
+    "files": 34,
+    "go_files": 30,
+    "domains": [
+      "礼物/打赏",
+      "充值/计费支撑"
+    ]
+  },
+  {
+    "project": "busi.gift.groupbuy",
+    "path": "/Users/dds/go/src/git.inke.cn/bpc/server/busi/busi.gift.groupbuy",
+    "output": "/Users/dds/data/ai/work/code/busi.gift.groupbuy-技术图谱.md",
+    "files": 48,
+    "go_files": 40,
+    "domains": [
+      "礼物/打赏"
+    ]
+  },
+  {
+    "project": "busi.gift.props",
+    "path": "/Users/dds/go/src/git.inke.cn/bpc/server/busi/busi.gift.props",
+    "output": "/Users/dds/data/ai/work/code/busi.gift.props-技术图谱.md",
+    "files": 62,
+    "go_files": 55,
+    "domains": [
+      "礼物/打赏"
+    ]
+  },
+  {
+    "project": "busi.gift.user-bag-business",
+    "path": "/Users/dds/go/src/git.inke.cn/bpc/server/busi/busi.gift.user-bag-business",
+    "output": "/Users/dds/data/ai/work/code/busi.gift.user-bag-business-技术图谱.md",
+    "files": 79,
+    "go_files": 69,
+    "domains": [
+      "礼物/打赏",
+      "充值/计费支撑"
+    ]
+  },
+  {
+    "project": "busi.gift.user_growth",
+    "path": "/Users/dds/go/src/git.inke.cn/bpc/server/busi/busi.gift.user_growth",
+    "output": "/Users/dds/data/ai/work/code/busi.gift.user_growth-技术图谱.md",
+    "files": 95,
+    "go_files": 85,
+    "domains": [
+      "礼物/打赏",
+      "增长/玩法"
+    ]
+  },
+  {
+    "project": "busi.gift.user_props_base",
+    "path": "/Users/dds/go/src/git.inke.cn/bpc/server/busi/busi.gift.user_props_base",
+    "output": "/Users/dds/data/ai/work/code/busi.gift.user_props_base-技术图谱.md",
+    "files": 45,
+    "go_files": 39,
+    "domains": [
+      "礼物/打赏"
+    ]
+  },
+  {
+    "project": "busi.gift.wall",
+    "path": "/Users/dds/go/src/git.inke.cn/bpc/server/busi/busi.gift.wall",
+    "output": "/Users/dds/data/ai/work/code/busi.gift.wall-技术图谱.md",
+    "files": 183,
+    "go_files": 176,
+    "domains": [
+      "礼物/打赏",
+      "权益/特权"
+    ]
+  },
+  {
+    "project": "busi.giftwall.giftwall_whitelist_server",
+    "path": "/Users/dds/go/src/git.inke.cn/bpc/server/busi/busi.giftwall.giftwall_whitelist_server",
+    "output": "/Users/dds/data/ai/work/code/busi.giftwall.giftwall_whitelist_server-技术图谱.md",
+    "files": 29,
+    "go_files": 21,
+    "domains": [
+      "礼物/打赏"
+    ]
+  },
+  {
+    "project": "busi.giftwall.live-gift-dynamic",
+    "path": "/Users/dds/go/src/git.inke.cn/bpc/server/busi/busi.giftwall.live-gift-dynamic",
+    "output": "/Users/dds/data/ai/work/code/busi.giftwall.live-gift-dynamic-技术图谱.md",
+    "files": 14,
+    "go_files": 0,
+    "domains": [
+      "礼物/打赏"
+    ]
+  },
+  {
+    "project": "busi.giftwall.live-resource",
+    "path": "/Users/dds/go/src/git.inke.cn/bpc/server/busi/busi.giftwall.live-resource",
+    "output": "/Users/dds/data/ai/work/code/busi.giftwall.live-resource-技术图谱.md",
+    "files": 24,
+    "go_files": 0,
+    "domains": [
+      "礼物/打赏"
+    ]
+  },
+  {
+    "project": "busi.giftwall.live-resource-go",
+    "path": "/Users/dds/go/src/git.inke.cn/bpc/server/busi/busi.giftwall.live-resource-go",
+    "output": "/Users/dds/data/ai/work/code/busi.giftwall.live-resource-go-技术图谱.md",
+    "files": 23,
+    "go_files": 17,
+    "domains": [
+      "礼物/打赏"
+    ]
+  },
+  {
+    "project": "busi.play.lucky_bag",
+    "path": "/Users/dds/go/src/git.inke.cn/bpc/server/busi/busi.play.lucky_bag",
+    "output": "/Users/dds/data/ai/work/code/busi.play.lucky_bag-技术图谱.md",
+    "files": 13,
+    "go_files": 10,
+    "domains": [
+      "礼物/打赏",
+      "增长/玩法"
+    ]
+  },
+  {
+    "project": "busi.privilege.aggregation",
+    "path": "/Users/dds/go/src/git.inke.cn/bpc/server/busi/busi.privilege.aggregation",
+    "output": "/Users/dds/data/ai/work/code/busi.privilege.aggregation-技术图谱.md",
+    "files": 114,
+    "go_files": 63,
+    "domains": [
+      "权益/特权"
+    ]
+  },
+  {
+    "project": "busi.privilege.base",
+    "path": "/Users/dds/go/src/git.inke.cn/bpc/server/busi/busi.privilege.base",
+    "output": "/Users/dds/data/ai/work/code/busi.privilege.base-技术图谱.md",
+    "files": 6,
+    "go_files": 5,
+    "domains": [
+      "权益/特权"
+    ]
+  },
+  {
+    "project": "busi.privilege.common",
+    "path": "/Users/dds/go/src/git.inke.cn/bpc/server/busi/busi.privilege.common",
+    "output": "/Users/dds/data/ai/work/code/busi.privilege.common-技术图谱.md",
+    "files": 105,
+    "go_files": 98,
+    "domains": [
+      "权益/特权"
+    ]
+  },
+  {
+    "project": "busi.privilege.experiencecard",
+    "path": "/Users/dds/go/src/git.inke.cn/bpc/server/busi/busi.privilege.experiencecard",
+    "output": "/Users/dds/data/ai/work/code/busi.privilege.experiencecard-技术图谱.md",
+    "files": 25,
+    "go_files": 18,
+    "domains": [
+      "权益/特权"
+    ]
+  },
+  {
+    "project": "busi.privilege.family",
+    "path": "/Users/dds/go/src/git.inke.cn/bpc/server/busi/busi.privilege.family",
+    "output": "/Users/dds/data/ai/work/code/busi.privilege.family-技术图谱.md",
+    "files": 85,
+    "go_files": 78,
+    "domains": [
+      "权益/特权"
+    ]
+  },
+  {
+    "project": "busi.privilege.family_base",
+    "path": "/Users/dds/go/src/git.inke.cn/bpc/server/busi/busi.privilege.family_base",
+    "output": "/Users/dds/data/ai/work/code/busi.privilege.family_base-技术图谱.md",
+    "files": 308,
+    "go_files": 294,
+    "domains": [
+      "权益/特权"
+    ]
+  },
+  {
+    "project": "busi.privilege.family_bonus",
+    "path": "/Users/dds/go/src/git.inke.cn/bpc/server/busi/busi.privilege.family_bonus",
+    "output": "/Users/dds/data/ai/work/code/busi.privilege.family_bonus-技术图谱.md",
+    "files": 96,
+    "go_files": 92,
+    "domains": [
+      "权益/特权"
+    ]
+  },
+  {
+    "project": "busi.privilege.fans_club",
+    "path": "/Users/dds/go/src/git.inke.cn/bpc/server/busi/busi.privilege.fans_club",
+    "output": "/Users/dds/data/ai/work/code/busi.privilege.fans_club-技术图谱.md",
+    "files": 212,
+    "go_files": 203,
+    "domains": [
+      "权益/特权",
+      "增长/玩法"
+    ]
+  },
+  {
+    "project": "busi.privilege.fans_club_backend",
+    "path": "/Users/dds/go/src/git.inke.cn/bpc/server/busi/busi.privilege.fans_club_backend",
+    "output": "/Users/dds/data/ai/work/code/busi.privilege.fans_club_backend-技术图谱.md",
+    "files": 96,
+    "go_files": 86,
+    "domains": [
+      "权益/特权",
+      "增长/玩法",
+      "权限/管理后台"
+    ]
+  },
+  {
+    "project": "busi.privilege.goods",
+    "path": "/Users/dds/go/src/git.inke.cn/bpc/server/busi/busi.privilege.goods",
+    "output": "/Users/dds/data/ai/work/code/busi.privilege.goods-技术图谱.md",
+    "files": 44,
+    "go_files": 38,
+    "domains": [
+      "权益/特权"
+    ]
+  },
+  {
+    "project": "busi.privilege.guard",
+    "path": "/Users/dds/go/src/git.inke.cn/bpc/server/busi/busi.privilege.guard",
+    "output": "/Users/dds/data/ai/work/code/busi.privilege.guard-技术图谱.md",
+    "files": 185,
+    "go_files": 178,
+    "domains": [
+      "权益/特权"
+    ]
+  },
+  {
+    "project": "busi.privilege.guard_backend",
+    "path": "/Users/dds/go/src/git.inke.cn/bpc/server/busi/busi.privilege.guard_backend",
+    "output": "/Users/dds/data/ai/work/code/busi.privilege.guard_backend-技术图谱.md",
+    "files": 72,
+    "go_files": 64,
+    "domains": [
+      "权益/特权",
+      "权限/管理后台"
+    ]
+  },
+  {
+    "project": "busi.privilege.live_broadcast",
+    "path": "/Users/dds/go/src/git.inke.cn/bpc/server/busi/busi.privilege.live_broadcast",
+    "output": "/Users/dds/data/ai/work/code/busi.privilege.live_broadcast-技术图谱.md",
+    "files": 22,
+    "go_files": 15,
+    "domains": [
+      "权益/特权"
+    ]
+  },
+  {
+    "project": "busi.privilege.new_shopping",
+    "path": "/Users/dds/go/src/git.inke.cn/bpc/server/busi/busi.privilege.new_shopping",
+    "output": "/Users/dds/data/ai/work/code/busi.privilege.new_shopping-技术图谱.md",
+    "files": 110,
+    "go_files": 100,
+    "domains": [
+      "权益/特权"
+    ]
+  },
+  {
+    "project": "busi.privilege.new_userbag",
+    "path": "/Users/dds/go/src/git.inke.cn/bpc/server/busi/busi.privilege.new_userbag",
+    "output": "/Users/dds/data/ai/work/code/busi.privilege.new_userbag-技术图谱.md",
+    "files": 182,
+    "go_files": 174,
+    "domains": [
+      "礼物/打赏",
+      "权益/特权"
+    ]
+  },
+  {
+    "project": "busi.privilege.relation",
+    "path": "/Users/dds/go/src/git.inke.cn/bpc/server/busi/busi.privilege.relation",
+    "output": "/Users/dds/data/ai/work/code/busi.privilege.relation-技术图谱.md",
+    "files": 40,
+    "go_files": 32,
+    "domains": [
+      "权益/特权"
+    ]
+  },
+  {
+    "project": "busi.privilege.rpc",
+    "path": "/Users/dds/go/src/git.inke.cn/bpc/server/busi/busi.privilege.rpc",
+    "output": "/Users/dds/data/ai/work/code/busi.privilege.rpc-技术图谱.md",
+    "files": 10,
+    "go_files": 9,
+    "domains": [
+      "权益/特权"
+    ]
+  },
+  {
+    "project": "busi.privilege.sdk",
+    "path": "/Users/dds/go/src/git.inke.cn/bpc/server/busi/busi.privilege.sdk",
+    "output": "/Users/dds/data/ai/work/code/busi.privilege.sdk-技术图谱.md",
+    "files": 5,
+    "go_files": 4,
+    "domains": [
+      "权益/特权"
+    ]
+  },
+  {
+    "project": "busi.privilege.user_popups",
+    "path": "/Users/dds/go/src/git.inke.cn/bpc/server/busi/busi.privilege.user_popups",
+    "output": "/Users/dds/data/ai/work/code/busi.privilege.user_popups-技术图谱.md",
+    "files": 19,
+    "go_files": 13,
+    "domains": [
+      "权益/特权"
+    ]
+  },
+  {
+    "project": "busi.sendgift.core",
+    "path": "/Users/dds/go/src/git.inke.cn/bpc/server/busi/busi.sendgift.core",
+    "output": "/Users/dds/data/ai/work/code/busi.sendgift.core-技术图谱.md",
+    "files": 128,
+    "go_files": 98,
+    "domains": [
+      "礼物/打赏"
+    ]
+  },
+  {
+    "project": "busi.sendgift.feedback",
+    "path": "/Users/dds/go/src/git.inke.cn/bpc/server/busi/busi.sendgift.feedback",
+    "output": "/Users/dds/data/ai/work/code/busi.sendgift.feedback-技术图谱.md",
+    "files": 66,
+    "go_files": 54,
+    "domains": [
+      "礼物/打赏"
+    ]
+  },
+  {
+    "project": "busi.sendgift.live-user-statistic",
+    "path": "/Users/dds/go/src/git.inke.cn/bpc/server/busi/busi.sendgift.live-user-statistic",
+    "output": "/Users/dds/data/ai/work/code/busi.sendgift.live-user-statistic-技术图谱.md",
+    "files": 47,
+    "go_files": 39,
+    "domains": [
+      "礼物/打赏"
+    ]
+  },
+  {
+    "project": "busi.sendgift.play",
+    "path": "/Users/dds/go/src/git.inke.cn/bpc/server/busi/busi.sendgift.play",
+    "output": "/Users/dds/data/ai/work/code/busi.sendgift.play-技术图谱.md",
+    "files": 218,
+    "go_files": 210,
+    "domains": [
+      "礼物/打赏",
+      "增长/玩法"
+    ]
+  },
+  {
+    "project": "growth.base.play",
+    "path": "/Users/dds/go/src/git.inke.cn/bpc/server/busi/growth.base.play",
+    "output": "/Users/dds/data/ai/work/code/growth.base.play-技术图谱.md",
+    "files": 253,
+    "go_files": 178,
+    "domains": [
+      "增长/玩法"
+    ]
+  },
+  {
+    "project": "inf.serviceinfo.server",
+    "path": "/Users/dds/go/src/git.inke.cn/bpc/server/busi/inf.serviceinfo.server",
+    "output": "/Users/dds/data/ai/work/code/inf.serviceinfo.server-技术图谱.md",
+    "files": 24,
+    "go_files": 15,
+    "domains": [
+      "基础服务"
+    ]
+  },
+  {
+    "project": "inke.task.server",
+    "path": "/Users/dds/go/src/git.inke.cn/bpc/server/busi/inke.task.server",
+    "output": "/Users/dds/data/ai/work/code/inke.task.server-技术图谱.md",
+    "files": 192,
+    "go_files": 185,
+    "domains": [
+      "增长/玩法"
+    ]
+  }
+]

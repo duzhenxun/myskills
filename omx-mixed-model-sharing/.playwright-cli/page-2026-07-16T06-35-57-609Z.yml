@@ -1,0 +1,27 @@
+- generic [active] [ref=e1]:
+  - iframe [ref=e3]:
+    - generic [active] [ref=f2e1]:
+      - generic [ref=f2e2]:
+        - generic [ref=f2e3]: STEP 3
+        - generic [ref=f2e5]: PERSISTENT ROUTING
+      - generic [ref=f2e6]: 把稳定契约写进 shell 环境
+      - heading "最小永久配置：一条 CLI Map" [level=2] [ref=f2e7]
+      - generic [ref=f2e8]:
+        - generic [ref=f2e9]:
+          - generic [ref=f2e10]: ~/.zshrc
+          - generic [ref=f2e11]: "# 3 worker 时逐个分配 export OMX_TEAM_WORKER_CLI_MAP=\"codex,claude,gemini\" # 可选：启用运行时动态扩缩容 export OMX_TEAM_SCALING_ENABLED=1"
+          - generic [ref=f2e12]: $ source ~/.zshrc
+        - generic [ref=f2e13]:
+          - heading "Map 的长度规则" [level=3] [ref=f2e14]
+          - list [ref=f2e15]:
+            - listitem [ref=f2e16]:
+              - text: 单个值：广播给所有 worker，例如
+              - code [ref=f2e17]: claude
+            - listitem [ref=f2e18]: 多个值：数量必须与 worker 数完全一致
+            - listitem [ref=f2e19]: 5 worker 不能用 3 项 Map 自动循环，需写满 5 项
+            - listitem [ref=f2e20]:
+              - text: 可用值：
+              - code [ref=f2e21]: auto | codex | claude | gemini
+          - generic [ref=f2e22]: "不要依赖：未经当前版本验证的 `.omx-config.json` 自定义字段。"
+      - generic [ref=f2e23]: 06 / 10
+  - generic [ref=e6]: 6 / 10 永久配置

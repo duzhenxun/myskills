@@ -1,0 +1,205 @@
+{
+  "id": "504172214",
+  "type": "page",
+  "status": "current",
+  "title": "2026年7月份活动",
+  "space": {
+    "id": 3571713,
+    "key": "xueyuan",
+    "name": "映客直播业务",
+    "type": "global",
+    "_links": {
+      "webui": "/display/xueyuan",
+      "self": "https://wiki.inkept.cn/rest/api/space/xueyuan"
+    },
+    "_expandable": {
+      "metadata": "",
+      "icon": "",
+      "description": "",
+      "retentionPolicy": "",
+      "homepage": "/rest/api/content/320866330"
+    }
+  },
+  "version": {
+    "by": {
+      "type": "known",
+      "username": "chenziqi",
+      "userKey": "8aef08aa8de3822a018e35bdf3070081",
+      "profilePicture": {
+        "path": "/images/icons/profilepics/default.svg",
+        "width": 48,
+        "height": 48,
+        "isDefault": true
+      },
+      "displayName": "陈子琦",
+      "_links": {
+        "self": "https://wiki.inkept.cn/rest/api/user?key=8aef08aa8de3822a018e35bdf3070081"
+      },
+      "_expandable": {
+        "status": ""
+      }
+    },
+    "when": "2026-06-02T11:30:08.000+08:00",
+    "message": "",
+    "number": 3,
+    "minorEdit": false,
+    "hidden": false,
+    "_links": {
+      "self": "https://wiki.inkept.cn/rest/experimental/content/504172214/version/3"
+    },
+    "_expandable": {
+      "content": "/rest/api/content/504172214"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "320866330",
+      "type": "page",
+      "status": "current",
+      "title": "映客直播业务",
+      "extensions": {
+        "position": "none"
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=320866330",
+        "edit": "/pages/resumedraft.action?draftId=320866330&draftShareId=d5d92a4f-fb15-4a51-8bd6-16333cb6f165",
+        "tinyui": "/x/GgggEw",
+        "self": "https://wiki.inkept.cn/rest/api/content/320866330"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/320866330/child",
+        "restrictions": "/rest/api/content/320866330/restriction/byOperation",
+        "history": "/rest/api/content/320866330/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/320866330/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    },
+    {
+      "id": "326510548",
+      "type": "page",
+      "status": "current",
+      "title": "直播业务线-运营",
+      "extensions": {
+        "position": 2
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=326510548",
+        "edit": "/pages/resumedraft.action?draftId=326510548&draftShareId=0ea027df-6f8f-4663-bbd6-217ba023f41b",
+        "tinyui": "/x/1Cd2Ew",
+        "self": "https://wiki.inkept.cn/rest/api/content/326510548"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/326510548/child",
+        "restrictions": "/rest/api/content/326510548/restriction/byOperation",
+        "history": "/rest/api/content/326510548/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/326510548/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    },
+    {
+      "id": "331456836",
+      "type": "page",
+      "status": "current",
+      "title": "【活动组】",
+      "extensions": {
+        "position": 11
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=331456836",
+        "edit": "/pages/resumedraft.action?draftId=331456836",
+        "tinyui": "/x/RKHBEw",
+        "self": "https://wiki.inkept.cn/rest/api/content/331456836"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/331456836/child",
+        "restrictions": "/rest/api/content/331456836/restriction/byOperation",
+        "history": "/rest/api/content/331456836/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/331456836/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    },
+    {
+      "id": "452644191",
+      "type": "page",
+      "status": "current",
+      "title": "【2026营收运营活动】",
+      "extensions": {
+        "position": "none"
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=452644191",
+        "edit": "/pages/resumedraft.action?draftId=452644191&draftShareId=97d3197f-f0cd-4143-8fbf-d96b4892c680",
+        "tinyui": "/x/X836Gg",
+        "self": "https://wiki.inkept.cn/rest/api/content/452644191"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/452644191/child",
+        "restrictions": "/rest/api/content/452644191/restriction/byOperation",
+        "history": "/rest/api/content/452644191/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/452644191/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    }
+  ],
+  "body": {
+    "storage": {
+      "value": "<p><strong>数据现状</strong></p><p>结合近两年历史数据及近两月大盘走势判断，7 月整体送礼人数偏高，送礼arppu及大盘消耗在7月1日、15 日 / 31 日厅战有高点外，其他除受功能玩法影响等相关节点外，其他相对平稳。且派对侧消耗及礼物消耗与大盘走势基本一致，秀场侧礼物消耗对秀场整体消耗影响较低，整体送礼人数呈现全月逐步降低趋势，至月末达到最低点。</p><ol><li><strong>7 月 1 日 - 7 月 4 日</strong>：受派对侧送礼人数较高及月初影响，大盘整体全层级用户送礼人数较高， 大盘送礼 ARPPU 相对稳定。</li><li><strong>7 月 5 日 - 7 月 14 日</strong>：大盘及双侧送礼arppu相对稳定，但送礼人数偏低，整体大盘消耗呈现相对稳定的趋势。</li><li><strong>7 月 15 日 - 7 月 24 日</strong>：大盘及派对侧送礼人数呈现自厅战前后出现增长，后基本稳定在日均16000人以上，属整月仅次于月初阶段的送礼人数高值，但送礼arppu双侧呈现缓慢下降趋势。</li><li><strong>7 月 25 日 - 7 月 30 日</strong>：受底层用户送礼人数下降及秀场侧arppu下降影响，大盘整体消耗出现下滑趋势，派对侧送礼arppu相对稳定，秀场侧送礼arppu下降严重。7月31日受派对厅战影响，整体拔高</li><li>秀场主播活跃观察6月效果后，7月机动</li></ol><p><strong>执行动作</strong></p><p>月初：7月1日-7月4日期间，基础任务活动+配合低中高全层级礼物价值，月初提升全层级arppu。</p><p>月上旬：7月5日-7月14日期间，搭配情爱节日+小礼物玩法促进送礼人数转化，其余时间正常维稳消耗即可。</p><p>月中下旬：7月15日-7月24日期间，基础任务活动+配合低中高全层级礼物价值，刺激全层级arppu。</p><p>月末：7月25日-7月31日期间，双侧分开处理，派对侧以送礼人数转化为主，秀场侧以功能玩法上新+高价值礼物刺激送礼arppu。</p><p><br /></p><p><span>整体看，7 月大盘与大盘礼物走势基本一致，均呈现&ldquo;月初高点、中旬二次抬升、下旬回落、月底由派对侧拉回&rdquo;的结构。大盘及大盘礼物的主要波动来源都在派对侧，尤其是派对 E/F 对UV变化影响更大，派对 D/B/E 对消耗变化影响更大；秀场侧更多影响ARPPU和部分单日波动。</span></p><p><span>1、7月1日-7月4日：月初大盘及大盘礼物均处于高位，随后快速回落。UV下降主要受派对侧 F/E 层级回落影响；消耗回落主要来自派对侧 B/D 及秀场侧 S/B 的下降。</span></p><p><span>2、7月5日-7月14日：大盘及大盘礼物进入相对平稳阶段，UV整体偏低，主要受派对侧 E/F 影响。ARPPU阶段内有波动，主要由派对 A/S 高层级变化带动。</span></p><p><span>3、7月15日-7月24日：UV走高，但高层级ARPPU走弱。大盘和大盘礼物UV出现阶段性抬升，主要受厅战影响，由派对侧 F/E/D 拉动。大盘ARPPU下滑主要受派对侧 S/A、秀场侧 S/A/B 影响。</span></p><p><span>4、7月25日-7月30日：大盘及大盘礼物整体回落并波动，低点主要受派对侧 F/E/D UV下降影响；消耗下降主要来自派对侧D/B 及秀场侧 S/B 的走弱。阶段内个别日期有回升，主要由派对侧 A/C/B/S 或秀场侧 A 等高层级异动拉动，但未改变下旬整体偏弱的判断。</span></p><p><span>5、7月31日：月底大盘及大盘礼物均有回升，主要由派对侧拉动。消耗增长主要来自派对侧 E/D/B/C，UV增长主要来自派对侧 E层级；但秀场侧同步走弱，尤其是秀场 F/E/N/D UV下降、秀场 A/B/S 消耗下降，对整体拉升形成抵消。</span></p><p><span style=\"color: rgb(0,0,0);text-decoration: none;\"><ac:image ac:height=\"400\"><ri:attachment ri:filename=\"image-2026-5-29_14-44-37.png\" /></ac:image></span></p><p><span style=\"color: rgb(0,0,0);text-decoration: none;\"><ac:image ac:height=\"250\"><ri:attachment ri:filename=\"image-2026-5-29_15-3-57.png\" /></ac:image></span></p><p><span style=\"color: rgb(0,0,0);text-decoration: none;\"><ac:image ac:height=\"250\"><ri:attachment ri:filename=\"image-2026-5-29_15-3-24.png\" /></ac:image></span></p><p><span style=\"color: rgb(0,0,0);text-decoration: none;\"><ac:image ac:height=\"250\"><ri:attachment ri:filename=\"image-2026-5-29_14-41-41.png\" /></ac:image></span></p><p><span style=\"color: rgb(0,0,0);text-decoration: none;\"><ac:image ac:height=\"250\"><ri:attachment ri:filename=\"image-2026-5-29_14-50-35.png\" /></ac:image></span></p><p><span style=\"color: rgb(0,0,0);text-decoration: none;\"><ac:image ac:height=\"250\"><ri:attachment ri:filename=\"image-2026-5-29_14-54-50.png\" /></ac:image></span></p><p><span style=\"color: rgb(0,0,0);text-decoration: none;\"><ac:image ac:height=\"400\"><ri:attachment ri:filename=\"image-2026-5-29_14-43-11.png\" /></ac:image></span></p><p><span style=\"color: rgb(0,0,0);text-decoration: none;\"><ac:image ac:height=\"250\"><ri:attachment ri:filename=\"image-2026-5-29_14-52-1.png\" /></ac:image></span></p><p><span style=\"color: rgb(0,0,0);text-decoration: none;\"><ac:image ac:height=\"250\"><ri:attachment ri:filename=\"image-2026-5-29_14-56-3.png\" /></ac:image></span></p>",
+      "representation": "storage",
+      "_expandable": {
+        "content": "/rest/api/content/504172214"
+      }
+    },
+    "_expandable": {
+      "editor": "",
+      "view": "",
+      "export_view": "",
+      "styled_view": "",
+      "anonymous_export_view": ""
+    }
+  },
+  "extensions": {
+    "position": "none"
+  },
+  "_links": {
+    "webui": "/pages/viewpage.action?pageId=504172214",
+    "edit": "/pages/resumedraft.action?draftId=504172214&draftShareId=c84f3879-93d2-4d98-8398-cfa98324fc40",
+    "tinyui": "/x/tg4NHg",
+    "collection": "/rest/api/content",
+    "base": "https://wiki.inkept.cn",
+    "context": "",
+    "self": "https://wiki.inkept.cn/rest/api/content/504172214"
+  },
+  "_expandable": {
+    "container": "/rest/api/space/xueyuan",
+    "metadata": "",
+    "operations": "",
+    "children": "/rest/api/content/504172214/child",
+    "restrictions": "/rest/api/content/504172214/restriction/byOperation",
+    "history": "/rest/api/content/504172214/history",
+    "descendants": "/rest/api/content/504172214/descendant"
+  }
+}

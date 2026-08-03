@@ -1,0 +1,261 @@
+{
+  "id": "504168849",
+  "type": "page",
+  "status": "current",
+  "title": "【六一】资源礼物申请",
+  "space": {
+    "id": 3571713,
+    "key": "xueyuan",
+    "name": "映客直播业务",
+    "type": "global",
+    "_links": {
+      "webui": "/display/xueyuan",
+      "self": "https://wiki.inkept.cn/rest/api/space/xueyuan"
+    },
+    "_expandable": {
+      "metadata": "",
+      "icon": "",
+      "description": "",
+      "retentionPolicy": "",
+      "homepage": "/rest/api/content/320866330"
+    }
+  },
+  "version": {
+    "by": {
+      "type": "known",
+      "username": "chenziqi",
+      "userKey": "8aef08aa8de3822a018e35bdf3070081",
+      "profilePicture": {
+        "path": "/images/icons/profilepics/default.svg",
+        "width": 48,
+        "height": 48,
+        "isDefault": true
+      },
+      "displayName": "陈子琦",
+      "_links": {
+        "self": "https://wiki.inkept.cn/rest/api/user?key=8aef08aa8de3822a018e35bdf3070081"
+      },
+      "_expandable": {
+        "status": ""
+      }
+    },
+    "when": "2026-05-26T19:55:42.000+08:00",
+    "message": "",
+    "number": 1,
+    "minorEdit": false,
+    "hidden": false,
+    "_links": {
+      "self": "https://wiki.inkept.cn/rest/experimental/content/504168849/version/1"
+    },
+    "_expandable": {
+      "content": "/rest/api/content/504168849"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "320866330",
+      "type": "page",
+      "status": "current",
+      "title": "映客直播业务",
+      "extensions": {
+        "position": "none"
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=320866330",
+        "edit": "/pages/resumedraft.action?draftId=320866330&draftShareId=d5d92a4f-fb15-4a51-8bd6-16333cb6f165",
+        "tinyui": "/x/GgggEw",
+        "self": "https://wiki.inkept.cn/rest/api/content/320866330"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/320866330/child",
+        "restrictions": "/rest/api/content/320866330/restriction/byOperation",
+        "history": "/rest/api/content/320866330/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/320866330/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    },
+    {
+      "id": "326510548",
+      "type": "page",
+      "status": "current",
+      "title": "直播业务线-运营",
+      "extensions": {
+        "position": 2
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=326510548",
+        "edit": "/pages/resumedraft.action?draftId=326510548&draftShareId=0ea027df-6f8f-4663-bbd6-217ba023f41b",
+        "tinyui": "/x/1Cd2Ew",
+        "self": "https://wiki.inkept.cn/rest/api/content/326510548"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/326510548/child",
+        "restrictions": "/rest/api/content/326510548/restriction/byOperation",
+        "history": "/rest/api/content/326510548/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/326510548/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    },
+    {
+      "id": "331456836",
+      "type": "page",
+      "status": "current",
+      "title": "【活动组】",
+      "extensions": {
+        "position": 11
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=331456836",
+        "edit": "/pages/resumedraft.action?draftId=331456836",
+        "tinyui": "/x/RKHBEw",
+        "self": "https://wiki.inkept.cn/rest/api/content/331456836"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/331456836/child",
+        "restrictions": "/rest/api/content/331456836/restriction/byOperation",
+        "history": "/rest/api/content/331456836/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/331456836/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    },
+    {
+      "id": "452644191",
+      "type": "page",
+      "status": "current",
+      "title": "【2026营收运营活动】",
+      "extensions": {
+        "position": "none"
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=452644191",
+        "edit": "/pages/resumedraft.action?draftId=452644191&draftShareId=97d3197f-f0cd-4143-8fbf-d96b4892c680",
+        "tinyui": "/x/X836Gg",
+        "self": "https://wiki.inkept.cn/rest/api/content/452644191"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/452644191/child",
+        "restrictions": "/rest/api/content/452644191/restriction/byOperation",
+        "history": "/rest/api/content/452644191/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/452644191/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    },
+    {
+      "id": "488343729",
+      "type": "page",
+      "status": "current",
+      "title": "2026年5月份活动",
+      "extensions": {
+        "position": "none"
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=488343729",
+        "edit": "/pages/resumedraft.action?draftId=488343729&draftShareId=a59c298c-352d-4d86-b067-744efc521f4c",
+        "tinyui": "/x/sYgbHQ",
+        "self": "https://wiki.inkept.cn/rest/api/content/488343729"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/488343729/child",
+        "restrictions": "/rest/api/content/488343729/restriction/byOperation",
+        "history": "/rest/api/content/488343729/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/488343729/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    },
+    {
+      "id": "499520103",
+      "type": "page",
+      "status": "current",
+      "title": "5.30-6.1 六一：重返童趣拾光",
+      "extensions": {
+        "position": "none"
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=499520103",
+        "edit": "/pages/resumedraft.action?draftId=499520103&draftShareId=18f88334-cc87-48d0-ac40-f24dc2cac9ef",
+        "tinyui": "/x/ZxLGHQ",
+        "self": "https://wiki.inkept.cn/rest/api/content/499520103"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/499520103/child",
+        "restrictions": "/rest/api/content/499520103/restriction/byOperation",
+        "history": "/rest/api/content/499520103/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/499520103/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    }
+  ],
+  "body": {
+    "storage": {
+      "value": "<p><span style=\"color: rgb(0,0,0);\">Hi all，</span><br /><span style=\"color: rgb(0,0,0);\">【六一】活动将于5.27日进入测试阶段，现申请相关资源及礼物配置。</span><br /><span style=\"color: rgb(0,0,0);\">辛苦@叶导 审批，&nbsp;</span><br /><span style=\"color: rgb(0,0,0);\">辛苦@灿灿配置并返回相关id。<br /></span></p><p><br /></p><p><span style=\"color: rgb(0,0,0);\">具体需求如下：</span><br /><span style=\"color: rgb(0,0,0);\">1、 礼物配置：</span></p><table class=\"relative-table\" style=\"width: 26.012%;\"><colgroup class=\"\"><col class=\"\" style=\"width: 31.2634%;\" /> <col class=\"\" style=\"width: 25.5706%;\" /> <col class=\"\" style=\"width: 12.6803%;\" /> <col class=\"\" style=\"width: 6.996%;\" /> <col class=\"\" style=\"width: 8.08913%;\" /> <col class=\"\" style=\"width: 15.3038%;\" /> </colgroup><tbody class=\"\"><tr class=\"\"><td rowspan=\"10\">礼物墙礼物</td><td>礼物名称</td><td>价格</td><td>id</td><td>url</td><td>备注</td></tr><tr class=\"\"><td>童年放映机</td><td>6</td><td><br /></td><td><br /></td><td>新，幸</td></tr><tr class=\"\"><td>等你下课</td><td>10</td><td><br /></td><td><br /></td><td><br /></td></tr><tr class=\"\"><td>青空猫耳酱</td><td>99</td><td><br /></td><td><br /></td><td><br /></td></tr><tr class=\"\"><td>甜漾秋千</td><td>520</td><td><br /></td><td><br /></td><td>新</td></tr><tr class=\"\"><td>夏日稚趣</td><td>1314</td><td><br /></td><td><br /></td><td>新</td></tr><tr class=\"\"><td>心跳时区</td><td>5200</td><td><br /></td><td><br /></td><td><br /></td></tr><tr class=\"\"><td>荆棘诗篇</td><td>13140</td><td><br /></td><td><br /></td><td>高光</td></tr><tr class=\"\"><td>挚爱牵手</td><td>52000</td><td><br /></td><td><br /></td><td>高光</td></tr><tr class=\"\"><td>山海棋局</td><td>99999</td><td><br /></td><td><br /></td><td>高光</td></tr></tbody></table><p><span style=\"color: rgb(0,0,0);\">2、&nbsp;资源配置：</span></p><table><colgroup class=\"\"><col class=\"\" style=\"width: 80.9pt;\" /> <col class=\"\" style=\"width: 171.9pt;\" /> <col class=\"\" style=\"width: 63.45pt;\" /> <col class=\"\" style=\"width: 64.05pt;\" /> <col class=\"\" style=\"width: 70.75pt;\" /> </colgroup><tbody class=\"\"><tr class=\"\"><td>类型</td><td>名称</td><td>id</td><td>url</td><td>备注1</td></tr><tr class=\"\"><td>PK背景</td><td>童趣一夏PK背景</td><td><br /></td><td><br /></td><td>新</td></tr><tr class=\"\"><td>半屏座驾</td><td>重返童趣拾光半屏座驾</td><td><br /></td><td><br /></td><td>新</td></tr><tr class=\"\"><td>称号</td><td>重返童趣拾光</td><td><br /></td><td><br /></td><td>新</td></tr><tr class=\"\"><td>称号</td><td>童心不泯</td><td><br /></td><td><br /></td><td>新</td></tr><tr class=\"\"><td>称号</td><td>童趣一夏</td><td><br /></td><td><br /></td><td>新</td></tr><tr class=\"\"><td>称号</td><td>童心筑梦</td><td><br /></td><td><br /></td><td>新</td></tr><tr class=\"\"><td>称号</td><td>童真的你</td><td><br /></td><td><br /></td><td>新</td></tr><tr class=\"\"><td>发言波纹</td><td>童心不泯发言波纹</td><td><br /></td><td><br /></td><td>新</td></tr><tr class=\"\"><td>发言波纹</td><td>童心筑梦发言波纹</td><td>4173</td><td><br /></td><td><br /></td></tr><tr class=\"\"><td>公聊皮肤</td><td>童心不泯公聊皮肤</td><td><br /></td><td><br /></td><td>新</td></tr><tr class=\"\"><td>观众席底纹</td><td>重返童趣拾光观众席底纹</td><td><br /></td><td><br /></td><td>新</td></tr><tr class=\"\"><td>麦序框</td><td>童心不泯麦序框</td><td><br /></td><td><br /></td><td>新</td></tr><tr class=\"\"><td>麦序框</td><td>童趣一夏麦序框</td><td>7726</td><td><br /></td><td><br /></td></tr><tr class=\"\"><td>麦序框</td><td>童心筑梦麦序框</td><td>1954</td><td><br /></td><td><br /></td></tr><tr class=\"\"><td>麦序框</td><td>童真的你麦序框</td><td>7725</td><td><br /></td><td><br /></td></tr><tr class=\"\"><td>派对背景</td><td>童趣一夏派对背景</td><td><br /></td><td><br /></td><td>新</td></tr><tr class=\"\"><td>热门推荐卡</td><td>热13推荐卡</td><td><br /></td><td><br /></td><td><br /></td></tr><tr class=\"\"><td>上麦动效</td><td>童心不泯上麦动效</td><td><br /></td><td><br /></td><td>新</td></tr><tr class=\"\"><td>送礼托盘</td><td>重返童趣拾光送礼托盘</td><td><br /></td><td><br /></td><td>新</td></tr><tr class=\"\"><td>头像框</td><td>重返童趣拾光头像框</td><td><br /></td><td><br /></td><td>新</td></tr><tr class=\"\"><td>头像框</td><td>童心不泯头像框</td><td>2056</td><td><br /></td><td><br /></td></tr><tr class=\"\"><td>头像框</td><td>童趣一夏头像框</td><td>7728</td><td><br /></td><td><br /></td></tr><tr class=\"\"><td>头像框</td><td>童心筑梦头像框</td><td>1584</td><td><br /></td><td><br /></td></tr><tr class=\"\"><td>头像框</td><td>童真的你头像框</td><td>3741</td><td><br /></td><td><br /></td></tr><tr class=\"\"><td>勋章</td><td>童心不泯勋章</td><td><br /></td><td><br /></td><td>新</td></tr><tr class=\"\"><td>主页浮屏</td><td>童心不泯主页浮屏</td><td><br /></td><td><br /></td><td>新</td></tr><tr class=\"\"><td>主页浮屏</td><td>童趣一夏主页浮屏</td><td>3547</td><td><br /></td><td><br /></td></tr><tr class=\"\"><td>主页挂件</td><td>重返童趣拾光主页挂件</td><td><br /></td><td><br /></td><td>新</td></tr><tr class=\"\"><td>主页挂件</td><td>童心不泯主页挂件</td><td><br /></td><td><br /></td><td>新</td></tr><tr class=\"\"><td>主页挂件</td><td>童趣一夏主页挂件</td><td>3279</td><td><br /></td><td><br /></td></tr><tr class=\"\"><td>主页挂件</td><td>童心筑梦主页挂件</td><td>9447</td><td><br /></td><td><br /></td></tr><tr class=\"\"><td>主页挂件</td><td>童真的你主页挂件</td><td>9446</td><td><br /></td><td><br /></td></tr><tr class=\"\"><td>公聊角标</td><td>童心不泯公聊角标</td><td><br /></td><td><br /></td><td>新</td></tr><tr class=\"\"><td>资料卡浮屏</td><td>童真的你资料卡浮屏</td><td><br /></td><td><br /></td><td>新</td></tr></tbody></table><p><span style=\"color: rgb(0,0,0);\"><span style=\"color: rgb(23,43,77);\">以上，如有问题及时沟通～</span></span></p><p><br /></p>",
+      "representation": "storage",
+      "_expandable": {
+        "content": "/rest/api/content/504168849"
+      }
+    },
+    "_expandable": {
+      "editor": "",
+      "view": "",
+      "export_view": "",
+      "styled_view": "",
+      "anonymous_export_view": ""
+    }
+  },
+  "extensions": {
+    "position": "none"
+  },
+  "_links": {
+    "webui": "/pages/viewpage.action?pageId=504168849",
+    "edit": "/pages/resumedraft.action?draftId=504168849&draftShareId=e7a705ca-738c-4afa-a631-319c09621d5c",
+    "tinyui": "/x/kQENHg",
+    "collection": "/rest/api/content",
+    "base": "https://wiki.inkept.cn",
+    "context": "",
+    "self": "https://wiki.inkept.cn/rest/api/content/504168849"
+  },
+  "_expandable": {
+    "container": "/rest/api/space/xueyuan",
+    "metadata": "",
+    "operations": "",
+    "children": "/rest/api/content/504168849/child",
+    "restrictions": "/rest/api/content/504168849/restriction/byOperation",
+    "history": "/rest/api/content/504168849/history",
+    "descendants": "/rest/api/content/504168849/descendant"
+  }
+}

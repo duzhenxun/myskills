@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 1,
+  "skill": "inke-aladdin",
+  "evaluatedAt": "2026-07-01T10:32:40.249346+08:00",
+  "baseline": {
+    "available": false,
+    "source": null
+  },
+  "score": {
+    "total": 73,
+    "level": "建议修改后合入",
+    "recommendation": "先优化 Core Rules，再进入提交/合入"
+  },
+  "dimensions": {
+    "trigger": {
+      "score": 14,
+      "max": 20,
+      "summary": "与 inke-aladdin-automation 的触发边界不清，存在重叠与误阻断风险。"
+    },
+    "content": {
+      "score": 15,
+      "max": 20,
+      "summary": "核心输入和环境规则基本完整，但必填字段、可默认字段、占位字段的硬边界需要前置到 Core Rules。"
+    },
+    "workflow": {
+      "score": 14,
+      "max": 20,
+      "summary": "步骤可执行，但域名规则绝对化、生产确认不足、保存后回读验证不足。"
+    },
+    "safety": {
+      "score": 10,
+      "max": 15,
+      "summary": "有 SSO/密钥和生产只读意识，但线上写入缺少最终确认门禁。"
+    },
+    "examples": {
+      "score": 12,
+      "max": 15,
+      "summary": "正文有推荐 prompt 和场景，但缺少 Skill Hub trigger-examples 文件；Core Rules 本身缺少正反路由样例。"
+    },
+    "maintainability": {
+      "score": 8,
+      "max": 10,
+      "summary": "内容丰富但 Core Rules 可进一步分层，避免与自动化 skill 的策略重复和冲突。"
+    }
+  },
+  "issueSummary": {
+    "blocker": 0,
+    "major": 4,
+    "minor": 2,
+    "info": 0
+  },
+  "regression": {
+    "status": "not_available",
+    "fixed": 0,
+    "newFailures": 0,
+    "unchangedFailures": 0,
+    "notes": "未提供旧版报告或成对运行产物，本次只做静态和样本评测。"
+  },
+  "comparisonGate": {
+    "required": true,
+    "mode": "update",
+    "reason": "Core Rules 变更会影响触发边界、写入安全、保存方式和验证流程。"
+  },
+  "comparison": {
+    "available": false,
+    "mode": "update",
+    "variants": {
+      "with_skill": "优化后的 Core Rules",
+      "old_skill": "当前本地 SKILL.md"
+    },
+    "notes": "缺少 with_skill / old_skill 成对运行产物，无法判断实际 lift 或 regression。"
+  },
+  "evalQualityFlags": [
+    "missing_baseline_pair",
+    "process_evidence_unavailable",
+    "static_review_only"
+  ],
+  "trace": {
+    "status": "unavailable",
+    "reason": "缺少真实 router、skill 加载和模型输出日志。"
+  }
+}

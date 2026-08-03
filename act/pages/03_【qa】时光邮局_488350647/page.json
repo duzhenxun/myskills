@@ -1,0 +1,261 @@
+{
+  "id": "488350647",
+  "type": "page",
+  "status": "current",
+  "title": "【qa】时光邮局",
+  "space": {
+    "id": 3571713,
+    "key": "xueyuan",
+    "name": "映客直播业务",
+    "type": "global",
+    "_links": {
+      "webui": "/display/xueyuan",
+      "self": "https://wiki.inkept.cn/rest/api/space/xueyuan"
+    },
+    "_expandable": {
+      "metadata": "",
+      "icon": "",
+      "description": "",
+      "retentionPolicy": "",
+      "homepage": "/rest/api/content/320866330"
+    }
+  },
+  "version": {
+    "by": {
+      "type": "known",
+      "username": "maxiaona",
+      "userKey": "8aef97167d450205017db1d1e6df008b",
+      "profilePicture": {
+        "path": "/images/icons/profilepics/default.svg",
+        "width": 48,
+        "height": 48,
+        "isDefault": true
+      },
+      "displayName": "马晓娜",
+      "_links": {
+        "self": "https://wiki.inkept.cn/rest/api/user?key=8aef97167d450205017db1d1e6df008b"
+      },
+      "_expandable": {
+        "status": ""
+      }
+    },
+    "when": "2026-03-20T21:09:12.000+08:00",
+    "message": "",
+    "number": 1,
+    "minorEdit": false,
+    "hidden": false,
+    "_links": {
+      "self": "https://wiki.inkept.cn/rest/experimental/content/488350647/version/1"
+    },
+    "_expandable": {
+      "content": "/rest/api/content/488350647"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "320866330",
+      "type": "page",
+      "status": "current",
+      "title": "映客直播业务",
+      "extensions": {
+        "position": "none"
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=320866330",
+        "edit": "/pages/resumedraft.action?draftId=320866330&draftShareId=d5d92a4f-fb15-4a51-8bd6-16333cb6f165",
+        "tinyui": "/x/GgggEw",
+        "self": "https://wiki.inkept.cn/rest/api/content/320866330"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/320866330/child",
+        "restrictions": "/rest/api/content/320866330/restriction/byOperation",
+        "history": "/rest/api/content/320866330/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/320866330/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    },
+    {
+      "id": "326510548",
+      "type": "page",
+      "status": "current",
+      "title": "直播业务线-运营",
+      "extensions": {
+        "position": 2
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=326510548",
+        "edit": "/pages/resumedraft.action?draftId=326510548&draftShareId=0ea027df-6f8f-4663-bbd6-217ba023f41b",
+        "tinyui": "/x/1Cd2Ew",
+        "self": "https://wiki.inkept.cn/rest/api/content/326510548"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/326510548/child",
+        "restrictions": "/rest/api/content/326510548/restriction/byOperation",
+        "history": "/rest/api/content/326510548/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/326510548/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    },
+    {
+      "id": "331456836",
+      "type": "page",
+      "status": "current",
+      "title": "【活动组】",
+      "extensions": {
+        "position": 11
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=331456836",
+        "edit": "/pages/resumedraft.action?draftId=331456836",
+        "tinyui": "/x/RKHBEw",
+        "self": "https://wiki.inkept.cn/rest/api/content/331456836"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/331456836/child",
+        "restrictions": "/rest/api/content/331456836/restriction/byOperation",
+        "history": "/rest/api/content/331456836/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/331456836/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    },
+    {
+      "id": "452644191",
+      "type": "page",
+      "status": "current",
+      "title": "【2026营收运营活动】",
+      "extensions": {
+        "position": "none"
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=452644191",
+        "edit": "/pages/resumedraft.action?draftId=452644191&draftShareId=97d3197f-f0cd-4143-8fbf-d96b4892c680",
+        "tinyui": "/x/X836Gg",
+        "self": "https://wiki.inkept.cn/rest/api/content/452644191"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/452644191/child",
+        "restrictions": "/rest/api/content/452644191/restriction/byOperation",
+        "history": "/rest/api/content/452644191/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/452644191/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    },
+    {
+      "id": "478981918",
+      "type": "page",
+      "status": "current",
+      "title": "2026年3月份活动",
+      "extensions": {
+        "position": "none"
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=478981918",
+        "edit": "/pages/resumedraft.action?draftId=478981918&draftShareId=eb99f1fc-6661-4915-83e0-49b3a4c5a84b",
+        "tinyui": "/x/Hq_MH",
+        "self": "https://wiki.inkept.cn/rest/api/content/478981918"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/478981918/child",
+        "restrictions": "/rest/api/content/478981918/restriction/byOperation",
+        "history": "/rest/api/content/478981918/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/478981918/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    },
+    {
+      "id": "483790252",
+      "type": "page",
+      "status": "current",
+      "title": "3.23-3.26 云端小镇  时光邮局",
+      "extensions": {
+        "position": "none"
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=483790252",
+        "edit": "/pages/resumedraft.action?draftId=483790252&draftShareId=674454bb-c20a-4b1f-a499-69f33dfb9dbf",
+        "tinyui": "/x/rA3WH",
+        "self": "https://wiki.inkept.cn/rest/api/content/483790252"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/483790252/child",
+        "restrictions": "/rest/api/content/483790252/restriction/byOperation",
+        "history": "/rest/api/content/483790252/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/483790252/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    }
+  ],
+  "body": {
+    "storage": {
+      "value": "<h3 style=\"\"><span style=\"color: rgb(0,0,0);\">玩法说明：</span></h3><p style=\"\"><span style=\"color: rgb(0,0,0);\"><strong>主播任务-主播玩法--<span style=\"color: rgb(50,50,50);\">共计三个场景</span></strong></span></p><p style=\"\"><span style=\"color: rgb(0,0,0);\">玩法逻辑：</span></p><p style=\"\"><span style=\"color: rgb(50,50,50);\">活动期间，主播每收礼达21钻则获得1封信件，累计信件数量主播做升级任务拿奖励，共计三个场景</span></p><p style=\"\"><span style=\"color: rgb(50,50,50);\">三个场景，分别为：升级完成之后开启新的场景，且这个场景里送礼达到最高等级之后，剩余的钻石数进入进入场景二</span></p><p style=\"\"><span style=\"color: rgb(50,50,50);\">主播任务三个奖励奖励</span></p><p style=\"\"><span style=\"color: rgb(50,50,50);\">场景一：</span></p><table class=\"relative-table\" style=\"width: 565.0px;\"><colgroup class=\"\"><col class=\"\" style=\"width: 261.0px;\" /><col class=\"\" style=\"width: 310.0px;\" /><col class=\"\" style=\"width: 295.0px;\" /><col class=\"\" style=\"width: 385.0px;\" /></colgroup><tbody class=\"\"><tr class=\"\"><td style=\"text-align: left;\">关卡</td><td style=\"text-align: left;\">任务值</td><td style=\"text-align: left;\">资源类型</td><td style=\"text-align: left;\">资源名称</td></tr><tr class=\"\"><td style=\"text-align: left;\">task_key</td><td style=\"text-align: left;\">score_total</td><td style=\"text-align: left;\">prize_type</td><td style=\"text-align: left;\">prize_name</td></tr><tr class=\"\"><td style=\"text-align: left;\">1</td><td style=\"text-align: left;\">52</td><td style=\"text-align: left;\">头像框</td><td style=\"text-align: left;\">街边邮局头像框</td></tr><tr class=\"\"><td style=\"text-align: left;\">2</td><td style=\"text-align: left;\">199</td><td style=\"text-align: left;\">公聊角标</td><td style=\"text-align: left;\">街边邮局公聊角标</td></tr><tr class=\"\"><td style=\"text-align: left;\">3</td><td style=\"text-align: left;\">239</td><td style=\"text-align: left;\">称号</td><td style=\"text-align: left;\">街边邮局称号</td></tr><tr class=\"\"><td style=\"text-align: left;\">4</td><td style=\"text-align: left;\">399</td><td style=\"text-align: left;\">挂件</td><td style=\"text-align: left;\">街边邮局挂件</td></tr><tr class=\"\"><td style=\"text-align: left;\">5</td><td style=\"text-align: left;\">988</td><td style=\"text-align: left;\">浮屏</td><td style=\"text-align: left;\">街边邮局浮屏</td></tr><tr class=\"\"><td style=\"text-align: left;\">6</td><td style=\"text-align: left;\">999</td><td style=\"text-align: left;\">头像框</td><td style=\"text-align: left;\">海边邮局头像框</td></tr><tr class=\"\"><td style=\"text-align: left;\">7</td><td style=\"text-align: left;\">1099</td><td style=\"text-align: left;\">公聊角标</td><td style=\"text-align: left;\">海边邮局公聊角标</td></tr><tr class=\"\"><td style=\"text-align: left;\">8</td><td style=\"text-align: left;\">1199</td><td style=\"text-align: left;\">称号</td><td style=\"text-align: left;\">海边邮局称号</td></tr><tr class=\"\"><td style=\"text-align: left;\">9</td><td style=\"text-align: left;\">1499</td><td style=\"text-align: left;\">挂件</td><td style=\"text-align: left;\">海边邮局挂件</td></tr><tr class=\"\"><td style=\"text-align: left;\">10</td><td style=\"text-align: left;\">1899</td><td style=\"text-align: left;\">浮屏</td><td style=\"text-align: left;\">海边邮局浮屏</td></tr><tr class=\"\"><td style=\"text-align: left;\">11</td><td style=\"text-align: left;\">1999</td><td style=\"text-align: left;\">头像框</td><td style=\"text-align: left;\">天空邮局头像框</td></tr><tr class=\"\"><td style=\"text-align: left;\">12</td><td style=\"text-align: left;\">2099</td><td style=\"text-align: left;\">公聊角标</td><td style=\"text-align: left;\">天空邮局公聊角标</td></tr><tr class=\"\"><td style=\"text-align: left;\">13</td><td style=\"text-align: left;\">2199</td><td style=\"text-align: left;\">称号</td><td style=\"text-align: left;\">天空邮局称号</td></tr><tr class=\"\"><td style=\"text-align: left;\">14</td><td style=\"text-align: left;\">2399</td><td style=\"text-align: left;\">挂件</td><td style=\"text-align: left;\">天空邮局挂件</td></tr><tr class=\"\"><td style=\"text-align: left;\">15</td><td style=\"text-align: left;\">2899</td><td style=\"text-align: left;\">浮屏</td><td style=\"text-align: left;\">天空邮局浮屏</td></tr></tbody></table><p><br /></p><p class=\"auto-cursor-target\" style=\"\">陪陪奖励</p><table class=\"relative-table\" style=\"width: 576.0px;\"><colgroup class=\"\"><col class=\"\" style=\"width: 156.0px;\" /><col class=\"\" style=\"width: 185.0px;\" /><col class=\"\" style=\"width: 177.0px;\" /><col class=\"\" style=\"width: 206.0px;\" /><col class=\"\" style=\"width: 194.0px;\" /><col class=\"\" style=\"width: 148.0px;\" /></colgroup><tbody class=\"\"><tr class=\"\"><td style=\"text-align: left;\">关卡</td><td style=\"text-align: left;\">任务值</td><td style=\"text-align: left;\">资源类型</td><td style=\"text-align: left;\">资源名称</td><td style=\"text-align: left;\">资源id</td><td style=\"text-align: left;\">时长</td></tr><tr class=\"\"><td style=\"text-align: left;\">task_key</td><td style=\"text-align: left;\">score_total</td><td style=\"text-align: left;\">prize_type</td><td style=\"text-align: left;\">prize_name</td><td style=\"text-align: left;\">resource_id</td><td style=\"text-align: left;\">duration</td></tr><tr class=\"\"><td style=\"text-align: left;\">1</td><td style=\"text-align: left;\">52</td><td style=\"text-align: left;\">麦序框</td><td style=\"text-align: left;\">街边邮局麦序框</td><td style=\"text-align: left;\">9935</td><td style=\"text-align: left;\">5</td></tr><tr class=\"\"><td style=\"text-align: left;\">2</td><td style=\"text-align: left;\">199</td><td style=\"text-align: left;\">公聊角标</td><td style=\"text-align: left;\">街边邮局公聊角标</td><td style=\"text-align: left;\">9929</td><td style=\"text-align: left;\">5</td></tr><tr class=\"\"><td style=\"text-align: left;\">3</td><td style=\"text-align: left;\">239</td><td style=\"text-align: left;\">称号</td><td style=\"text-align: left;\">街边邮局称号</td><td style=\"text-align: left;\">2219</td><td style=\"text-align: left;\">5</td></tr><tr class=\"\"><td style=\"text-align: left;\">4</td><td style=\"text-align: left;\">399</td><td style=\"text-align: left;\">挂件</td><td style=\"text-align: left;\">街边邮局挂件</td><td style=\"text-align: left;\">9947</td><td style=\"text-align: left;\">5</td></tr><tr class=\"\"><td style=\"text-align: left;\">5</td><td style=\"text-align: left;\">988</td><td style=\"text-align: left;\">浮屏</td><td style=\"text-align: left;\">街边邮局浮屏</td><td style=\"text-align: left;\">9946</td><td style=\"text-align: left;\">5</td></tr><tr class=\"\"><td style=\"text-align: left;\">6</td><td style=\"text-align: left;\">999</td><td style=\"text-align: left;\">麦序框</td><td style=\"text-align: left;\">海边邮局麦序框</td><td style=\"text-align: left;\">9936</td><td style=\"text-align: left;\">5</td></tr><tr class=\"\"><td style=\"text-align: left;\">7</td><td style=\"text-align: left;\">1099</td><td style=\"text-align: left;\">公聊角标</td><td style=\"text-align: left;\">海边邮局公聊角标</td><td style=\"text-align: left;\">9930</td><td style=\"text-align: left;\">5</td></tr><tr class=\"\"><td style=\"text-align: left;\">8</td><td style=\"text-align: left;\">1199</td><td style=\"text-align: left;\">称号</td><td style=\"text-align: left;\">海边邮局称号</td><td style=\"text-align: left;\">2220</td><td style=\"text-align: left;\">5</td></tr><tr class=\"\"><td style=\"text-align: left;\">9</td><td style=\"text-align: left;\">1499</td><td style=\"text-align: left;\">挂件</td><td style=\"text-align: left;\">海边邮局挂件</td><td style=\"text-align: left;\">9949</td><td style=\"text-align: left;\">5</td></tr><tr class=\"\"><td style=\"text-align: left;\">10</td><td style=\"text-align: left;\">1899</td><td style=\"text-align: left;\">浮屏</td><td style=\"text-align: left;\">海边邮局浮屏</td><td style=\"text-align: left;\">9948</td><td style=\"text-align: left;\">5</td></tr><tr class=\"\"><td style=\"text-align: left;\">11</td><td style=\"text-align: left;\">1999</td><td style=\"text-align: left;\">麦序框</td><td style=\"text-align: left;\">天空邮局麦序框</td><td style=\"text-align: left;\">9937</td><td style=\"text-align: left;\">5</td></tr><tr class=\"\"><td style=\"text-align: left;\">12</td><td style=\"text-align: left;\">2099</td><td style=\"text-align: left;\">公聊角标</td><td style=\"text-align: left;\">天空邮局公聊角标</td><td style=\"text-align: left;\">9931</td><td style=\"text-align: left;\">5</td></tr><tr class=\"\"><td style=\"text-align: left;\">13</td><td style=\"text-align: left;\">2199</td><td style=\"text-align: left;\">称号</td><td style=\"text-align: left;\">天空邮局称号</td><td style=\"text-align: left;\">2221</td><td style=\"text-align: left;\">5</td></tr><tr class=\"\"><td style=\"text-align: left;\">14</td><td style=\"text-align: left;\">2399</td><td style=\"text-align: left;\">挂件</td><td style=\"text-align: left;\">天空邮局挂件</td><td style=\"text-align: left;\">9951</td><td style=\"text-align: left;\">5</td></tr><tr class=\"\"><td style=\"text-align: left;\">15</td><td style=\"text-align: left;\">2899</td><td style=\"text-align: left;\">浮屏</td><td style=\"text-align: left;\">天空邮局浮屏</td><td style=\"text-align: left;\">9950</td><td style=\"text-align: left;\">5</td></tr></tbody></table><p><br /></p><p style=\"\"><span style=\"color: rgb(0,0,0);\"><strong>用户任务-用户玩法--<span style=\"color: rgb(50,50,50);\">共计三个场景</span></strong></span></p><p style=\"\"><span style=\"color: rgb(50,50,50);\">每个场景下的用户玩法，用户根据所在直播间的主播/点击到对应的陪陪确定所属哪个阶段，获得对应阶段的奖励</span></p><p style=\"\"><span style=\"color: rgb(50,50,50);\">场景一：</span><span style=\"color: rgb(50,50,50);\">用户送礼满99钻，获得资源奖励1天，循环获得，每个奖励最多可获得15天</span></p><table class=\"relative-table\" style=\"width: 372.0px;\"><colgroup class=\"\"><col class=\"\" style=\"width: 182.0px;\" /><col class=\"\" style=\"width: 217.0px;\" /><col class=\"\" style=\"width: 207.0px;\" /><col class=\"\" style=\"width: 232.0px;\" /></colgroup><tbody class=\"\"><tr class=\"\"><td style=\"text-align: left;\">关卡</td><td style=\"text-align: left;\">任务值</td><td style=\"text-align: left;\">资源类型</td><td style=\"text-align: left;\">资源名称</td></tr><tr class=\"\"><td style=\"text-align: left;\">task_key</td><td style=\"text-align: left;\">score_total</td><td style=\"text-align: left;\">prize_type</td><td style=\"text-align: left;\">prize_name</td></tr><tr class=\"\"><td style=\"text-align: left;\">1</td><td style=\"text-align: left;\">99</td><td style=\"text-align: left;\">头像框</td><td style=\"text-align: left;\">时光邮局头像框</td></tr><tr class=\"\"><td style=\"text-align: left;\">2</td><td style=\"text-align: left;\">198</td><td style=\"text-align: left;\">麦序框</td><td style=\"text-align: left;\">时光邮局麦序框</td></tr><tr class=\"\"><td style=\"text-align: left;\">3</td><td style=\"text-align: left;\">297</td><td style=\"text-align: left;\">公聊角标</td><td style=\"text-align: left;\">时光邮局公聊角标</td></tr></tbody></table><p><br /></p><p style=\"\"><span style=\"color: rgb(50,50,50);\">场景二：用户送礼每满<strong>99</strong>钻，获得资源奖励1天，循环获得，每个奖励最多可获得15天</span></p><table><colgroup class=\"\"><col class=\"\" /><col class=\"\" /><col class=\"\" /><col class=\"\" /></colgroup><tbody class=\"\"><tr class=\"\"><td style=\"text-align: left;\">关卡</td><td style=\"text-align: left;\">任务值</td><td style=\"text-align: left;\">资源类型</td><td style=\"text-align: left;\">资源名称</td></tr><tr class=\"\"><td style=\"text-align: left;\">task_key</td><td style=\"text-align: left;\">score_total</td><td style=\"text-align: left;\">prize_type</td><td style=\"text-align: left;\">prize_name</td></tr><tr class=\"\"><td style=\"text-align: left;\">4</td><td style=\"text-align: left;\">396</td><td style=\"text-align: left;\">送礼托盘</td><td style=\"text-align: left;\">时光邮局送礼托盘</td></tr><tr class=\"\"><td style=\"text-align: left;\">5</td><td style=\"text-align: left;\">792</td><td style=\"text-align: left;\">观众席底纹</td><td style=\"text-align: left;\">时光邮局观众席底纹</td></tr><tr class=\"\"><td style=\"text-align: left;\">6</td><td style=\"text-align: left;\">1188</td><td style=\"text-align: left;\">公聊皮肤</td><td style=\"text-align: left;\">时光邮局公聊皮肤</td></tr></tbody></table><p><br /></p><p style=\"\"><span style=\"color: rgb(50,50,50);\">场景三：用户送礼每满<strong>99</strong>钻，获得资源奖励1天，循环获得，每个奖励最多可获得15天</span></p><table class=\"relative-table\" style=\"width: 385.0px;\"><colgroup class=\"\"><col class=\"\" style=\"width: 187.0px;\" /><col class=\"\" style=\"width: 224.0px;\" /><col class=\"\" style=\"width: 213.0px;\" /><col class=\"\" style=\"width: 238.0px;\" /></colgroup><tbody class=\"\"><tr class=\"\"><td style=\"text-align: left;\">关卡</td><td style=\"text-align: left;\">任务值</td><td style=\"text-align: left;\">资源类型</td><td style=\"text-align: left;\">资源名称</td></tr><tr class=\"\"><td style=\"text-align: left;\">task_key</td><td style=\"text-align: left;\">score_total</td><td style=\"text-align: left;\">prize_type</td><td style=\"text-align: left;\">prize_name</td></tr><tr class=\"\"><td style=\"text-align: left;\">7</td><td style=\"text-align: left;\">891</td><td style=\"text-align: left;\">称号</td><td style=\"text-align: left;\">时光邮局称号</td></tr><tr class=\"\"><td style=\"text-align: left;\">8</td><td style=\"text-align: left;\">1782</td><td style=\"text-align: left;\">主页挂件</td><td style=\"text-align: left;\">时光邮局主页挂件</td></tr><tr class=\"\"><td style=\"text-align: left;\">9</td><td style=\"text-align: left;\">2673</td><td style=\"text-align: left;\">主页浮屏</td><td style=\"text-align: left;\">时光邮局主页浮屏</td></tr></tbody></table><p style=\"\"><br /></p><p style=\"\"><br /></p><p style=\"\"><strong>主播</strong><strong>日榜</strong></p><p style=\"\"><strong><span style=\"color: rgb(51,153,102);\">玩法逻辑：</span></strong></p><ul style=\"\"><li><span style=\"color: rgb(51,153,102);\"><span style=\"color: rgb(17,31,44);\">活动期间，当红主播/新秀主播/派对嘉宾每日累计收礼参与日榜争夺，根据榜单排名点亮奖励。</span></span></li><li><span style=\"color: rgb(51,153,102);\"><span style=\"color: rgb(17,31,44);\">当红主播为近60天收礼大于等于70w，新秀主播为小于70w----统计普通视频直播间</span></span></li><li><span style=\"color: rgb(51,153,102);\"><span style=\"color: rgb(17,31,44);\">派对嘉宾（含厅主）为白名单----统计469直播间。</span></span></li><li>奖励与私信由研发实时下发</li></ul><p style=\"\"><br /><br /></p><table style=\"text-decoration: none;\"><tbody class=\"\"><tr class=\"\"><td style=\"text-align: left;\">排名</td><td style=\"text-align: left;\">资源类型</td><td style=\"text-align: left;\">资源名称</td></tr><tr class=\"\"><td style=\"text-align: left;\">rank</td><td style=\"text-align: left;\">prize_type</td><td style=\"text-align: left;\">prize_name</td></tr><tr class=\"\"><td style=\"text-align: left;\">1</td><td style=\"text-align: left;\">头像框</td><td style=\"text-align: left;\">时光信笺头像框</td></tr><tr class=\"\"><td style=\"text-align: left;\"><br /></td><td style=\"text-align: left;\">称号</td><td style=\"text-align: left;\">时光信笺称号</td></tr><tr class=\"\"><td style=\"text-align: left;\"><br /></td><td style=\"text-align: left;\">挂件</td><td style=\"text-align: left;\">时光信笺主页挂件</td></tr><tr class=\"\"><td style=\"text-align: left;\"><br /></td><td style=\"text-align: left;\">挂件</td><td style=\"text-align: left;\">时光信笺主页浮屏</td></tr><tr class=\"\"><td style=\"text-align: left;\"><br /></td><td style=\"text-align: left;\">热门卡</td><td style=\"text-align: left;\">热13推荐卡</td></tr><tr class=\"\"><td style=\"text-align: left;\">2_3</td><td style=\"text-align: left;\">头像框</td><td style=\"text-align: left;\">时光信笺头像框</td></tr><tr class=\"\"><td style=\"text-align: left;\"><br /></td><td style=\"text-align: left;\">称号</td><td style=\"text-align: left;\">时光信笺称号</td></tr><tr class=\"\"><td style=\"text-align: left;\"><br /></td><td style=\"text-align: left;\">挂件</td><td style=\"text-align: left;\">时光信笺主页挂件</td></tr><tr class=\"\"><td style=\"text-align: left;\"><br /></td><td style=\"text-align: left;\">挂件</td><td style=\"text-align: left;\">时光信笺主页浮屏</td></tr><tr class=\"\"><td style=\"text-align: left;\"><br /></td><td style=\"text-align: left;\">热门卡</td><td style=\"text-align: left;\">热13推荐卡</td></tr><tr class=\"\"><td style=\"text-align: left;\">4_10</td><td style=\"text-align: left;\">头像框</td><td style=\"text-align: left;\">时光信笺头像框</td></tr><tr class=\"\"><td style=\"text-align: left;\"><br /></td><td style=\"text-align: left;\">称号</td><td style=\"text-align: left;\">时光信笺称号</td></tr><tr class=\"\"><td style=\"text-align: left;\"><br /></td><td style=\"text-align: left;\">挂件</td><td style=\"text-align: left;\">时光信笺主页挂件</td></tr></tbody></table><p><br /></p><table style=\"text-decoration: none;\"><tbody class=\"\"><tr class=\"\"><td style=\"text-align: left;\">排名</td><td style=\"text-align: left;\">资源类型</td><td style=\"text-align: left;\">资源名称</td><td style=\"text-align: left;\">资源id</td></tr><tr class=\"\"><td style=\"text-align: left;\">rank</td><td style=\"text-align: left;\">prize_type</td><td style=\"text-align: left;\">prize_name</td><td style=\"text-align: left;\">resource_id</td></tr><tr class=\"\"><td style=\"text-align: left;\">1</td><td style=\"text-align: left;\">头像框</td><td style=\"text-align: left;\">时光信笺头像框</td><td style=\"text-align: left;\">9318</td></tr><tr class=\"\"><td style=\"text-align: left;\"><br /></td><td style=\"text-align: left;\">称号</td><td style=\"text-align: left;\">时光信笺称号</td><td style=\"text-align: left;\">2223</td></tr><tr class=\"\"><td style=\"text-align: left;\"><br /></td><td style=\"text-align: left;\">挂件</td><td style=\"text-align: left;\">时光信笺主页挂件</td><td style=\"text-align: left;\">5524</td></tr><tr class=\"\"><td style=\"text-align: left;\"><br /></td><td style=\"text-align: left;\">挂件</td><td style=\"text-align: left;\">时光信笺主页浮屏</td><td style=\"text-align: left;\">5259</td></tr><tr class=\"\"><td style=\"text-align: left;\"><br /></td><td style=\"text-align: left;\">热门卡</td><td style=\"text-align: left;\">热13推荐卡</td><td style=\"text-align: left;\">888</td></tr><tr class=\"\"><td style=\"text-align: left;\">2_3</td><td style=\"text-align: left;\">头像框</td><td style=\"text-align: left;\">时光信笺头像框</td><td style=\"text-align: left;\">9318</td></tr><tr class=\"\"><td style=\"text-align: left;\"><br /></td><td style=\"text-align: left;\">称号</td><td style=\"text-align: left;\">时光信笺称号</td><td style=\"text-align: left;\">2223</td></tr><tr class=\"\"><td style=\"text-align: left;\"><br /></td><td style=\"text-align: left;\">挂件</td><td style=\"text-align: left;\">时光信笺主页挂件</td><td style=\"text-align: left;\">5524</td></tr><tr class=\"\"><td style=\"text-align: left;\"><br /></td><td style=\"text-align: left;\">挂件</td><td style=\"text-align: left;\">时光信笺主页浮屏</td><td style=\"text-align: left;\">5259</td></tr><tr class=\"\"><td style=\"text-align: left;\">4_10</td><td style=\"text-align: left;\">头像框</td><td style=\"text-align: left;\">时光信笺头像框</td><td style=\"text-align: left;\">9318</td></tr><tr class=\"\"><td style=\"text-align: left;\"><br /></td><td style=\"text-align: left;\">称号</td><td style=\"text-align: left;\">时光信笺称号</td><td style=\"text-align: left;\">2223</td></tr><tr class=\"\"><td style=\"text-align: left;\"><br /></td><td style=\"text-align: left;\">挂件</td><td style=\"text-align: left;\">时光信笺主页挂件</td><td style=\"text-align: left;\">5524</td></tr></tbody></table><p><br /></p><table style=\"text-decoration: none;\"><tbody class=\"\"><tr class=\"\"><td style=\"text-align: left;\">排名</td><td style=\"text-align: left;\">资源类型</td><td style=\"text-align: left;\">资源名称</td></tr><tr class=\"\"><td style=\"text-align: left;\">rank</td><td style=\"text-align: left;\">prize_type</td><td style=\"text-align: left;\">prize_name</td></tr><tr class=\"\"><td style=\"text-align: left;\">1</td><td style=\"text-align: left;\">麦序框</td><td style=\"text-align: left;\">时光信笺麦序框</td></tr><tr class=\"\"><td style=\"text-align: left;\"><br /></td><td style=\"text-align: left;\">称号</td><td style=\"text-align: left;\">时光信笺称号</td></tr><tr class=\"\"><td style=\"text-align: left;\"><br /></td><td style=\"text-align: left;\">挂件</td><td style=\"text-align: left;\">时光信笺主页挂件</td></tr><tr class=\"\"><td style=\"text-align: left;\"><br /></td><td style=\"text-align: left;\">挂件</td><td style=\"text-align: left;\">时光信笺主页浮屏</td></tr><tr class=\"\"><td style=\"text-align: left;\"><br /></td><td style=\"text-align: left;\">发言波纹</td><td style=\"text-align: left;\">时光信笺发言波纹</td></tr><tr class=\"\"><td style=\"text-align: left;\">2_3</td><td style=\"text-align: left;\">麦序框</td><td style=\"text-align: left;\">时光信笺麦序框</td></tr><tr class=\"\"><td style=\"text-align: left;\"><br /></td><td style=\"text-align: left;\">称号</td><td style=\"text-align: left;\">时光信笺称号</td></tr><tr class=\"\"><td style=\"text-align: left;\"><br /></td><td style=\"text-align: left;\">挂件</td><td style=\"text-align: left;\">时光信笺主页挂件</td></tr><tr class=\"\"><td style=\"text-align: left;\"><br /></td><td style=\"text-align: left;\">挂件</td><td style=\"text-align: left;\">时光信笺主页浮屏</td></tr><tr class=\"\"><td style=\"text-align: left;\"><br /></td><td style=\"text-align: left;\">发言波纹</td><td style=\"text-align: left;\">时光信笺发言波纹</td></tr><tr class=\"\"><td style=\"text-align: left;\">4_10</td><td style=\"text-align: left;\">麦序框</td><td style=\"text-align: left;\">时光信笺麦序框</td></tr><tr class=\"\"><td style=\"text-align: left;\"><br /></td><td style=\"text-align: left;\">称号</td><td style=\"text-align: left;\">时光信笺称号</td></tr><tr class=\"\"><td style=\"text-align: left;\"><br /></td><td style=\"text-align: left;\">挂件</td><td style=\"text-align: left;\">时光信笺主页挂件</td></tr></tbody></table><p><br /></p><p style=\"\"><strong><span style=\"color: rgb(50,50,50);\">用户日榜奖励</span></strong></p><p style=\"\"><span style=\"color: rgb(50,50,50);\">活动期间用户每日送礼（1钻石=1积分），每日的top10获得资源奖励</span></p><table style=\"text-decoration: none;\"><tbody class=\"\"><tr class=\"\"><td style=\"text-align: left;\">排名</td><td style=\"text-align: left;\">资源类型</td><td style=\"text-align: left;\">资源名称</td></tr><tr class=\"\"><td style=\"text-align: left;\">rank</td><td style=\"text-align: left;\">prize_type</td><td style=\"text-align: left;\">prize_name</td></tr><tr class=\"\"><td style=\"text-align: left;\">1</td><td style=\"text-align: left;\">麦序框</td><td style=\"text-align: left;\">寄语未来麦序框</td></tr><tr class=\"\"><td style=\"text-align: left;\"><br /></td><td style=\"text-align: left;\">头像框</td><td style=\"text-align: left;\">寄语未来头像框</td></tr><tr class=\"\"><td style=\"text-align: left;\"><br /></td><td style=\"text-align: left;\">称号</td><td style=\"text-align: left;\">寄语未来称号</td></tr><tr class=\"\"><td style=\"text-align: left;\"><br /></td><td style=\"text-align: left;\">公聊皮肤</td><td style=\"text-align: left;\">时光信使公聊皮肤</td></tr><tr class=\"\"><td style=\"text-align: left;\"><br /></td><td style=\"text-align: left;\">资料卡浮屏</td><td style=\"text-align: left;\">闪耀羽翼资料卡浮屏</td></tr><tr class=\"\"><td style=\"text-align: left;\"><br /></td><td style=\"text-align: left;\">座驾</td><td style=\"text-align: left;\">时光信使座驾</td></tr><tr class=\"\"><td style=\"text-align: left;\">2_3</td><td style=\"text-align: left;\">麦序框</td><td style=\"text-align: left;\">寄语未来麦序框</td></tr><tr class=\"\"><td style=\"text-align: left;\"><br /></td><td style=\"text-align: left;\">头像框</td><td style=\"text-align: left;\">寄语未来头像框</td></tr><tr class=\"\"><td style=\"text-align: left;\"><br /></td><td style=\"text-align: left;\">称号</td><td style=\"text-align: left;\">寄语未来称号</td></tr><tr class=\"\"><td style=\"text-align: left;\"><br /></td><td style=\"text-align: left;\">公聊皮肤</td><td style=\"text-align: left;\">时光信使公聊皮肤</td></tr><tr class=\"\"><td style=\"text-align: left;\"><br /></td><td style=\"text-align: left;\">座驾</td><td style=\"text-align: left;\">时光信使座驾</td></tr><tr class=\"\"><td style=\"text-align: left;\">4_10</td><td style=\"text-align: left;\">麦序框</td><td style=\"text-align: left;\">寄语未来麦序框</td></tr><tr class=\"\"><td style=\"text-align: left;\"><br /></td><td style=\"text-align: left;\">头像框</td><td style=\"text-align: left;\">寄语未来头像框</td></tr><tr class=\"\"><td style=\"text-align: left;\"><br /></td><td style=\"text-align: left;\">称号</td><td style=\"text-align: left;\">寄语未来称号</td></tr></tbody></table><p><br /></p><h3 style=\"\"><span style=\"color: rgb(0,0,0);\">六、礼物玩法：</span></h3><ul style=\"\"><li><span style=\"color: rgb(0,51,102);\">单次赠送活动专属礼物，主播获得1映币（运营直接配置），然后再送给主播一个从奖励里出的奖励</span></li><li><span style=\"color: rgb(0,51,102);\">产出的礼物会直接赠送给主薄</span></li><li><span style=\"color: rgb(0,51,102);\">主播和用户获得奖励的公聊通知，仅2人可见</span></li><li><span style=\"color: rgb(0,51,102);\">文案不对：<span style=\"color: rgb(255,0,0);\">【飞信传情】</span>送了什么礼物</span></li><li><span style=\"color: rgb(0,51,102);\">每次送礼可以点亮一个模块，5个模块都点亮，则可获得一个新的道具礼物下发用户的道具里</span></li><li><span style=\"color: rgb(0,51,102);\">礼物价值分为10钻/200钻，10钻主播获得1 映币，200钻，主播获得5映币</span></li></ul><p style=\"\"><br /><br /></p><table style=\"text-decoration: none;\"><tbody class=\"\"><tr class=\"\"><td style=\"text-align: left;\">礼物id</td><td style=\"text-align: left;\">名称</td><td style=\"text-align: left;\">价值</td><td style=\"text-align: left;\">映币</td><td style=\"text-align: left;\">描述</td></tr><tr class=\"\"><td style=\"text-align: left;\">24268</td><td style=\"text-align: left;\">飞信传情</td><td style=\"text-align: left;\">10</td><td style=\"text-align: left;\">1</td><td style=\"text-align: left;\">主播获得1映币，剩下的参与玩法</td></tr><tr class=\"\"><td style=\"text-align: left;\">24269</td><td style=\"text-align: left;\">邮来心动</td><td style=\"text-align: left;\">200</td><td style=\"text-align: left;\">5</td><td style=\"text-align: left;\">主播获得5映币，剩下的参与玩法</td></tr></tbody></table><p><br /></p><p style=\"\"><span style=\"color: rgb(0,51,102);\"><br /></span></p><table class=\"relative-table\" style=\"width: 359.0px;\"><colgroup class=\"\"><col class=\"\" style=\"width: 86.0px;\" /><col class=\"\" style=\"width: 114.0px;\" /><col class=\"\" style=\"width: 74.0px;\" /><col class=\"\" style=\"width: 58.0px;\" /><col class=\"\" style=\"width: 94.0px;\" /></colgroup><tbody class=\"\"><tr class=\"\"><td style=\"text-align: left;\">序号</td><td style=\"text-align: left;\">资源名称</td><td style=\"text-align: left;\">数量</td><td style=\"text-align: left;\">价值</td><td style=\"text-align: left;\">权重</td></tr><tr class=\"\"><td style=\"text-align: left;\">prize_id</td><td style=\"text-align: left;\">prize_name</td><td style=\"text-align: left;\">num</td><td style=\"text-align: left;\">gold</td><td style=\"text-align: left;\">prize_bili</td></tr><tr class=\"\"><td style=\"text-align: left;\">1</td><td style=\"text-align: left;\">西瓜瓜</td><td style=\"text-align: left;\">1</td><td style=\"text-align: left;\">2</td><td style=\"text-align: left;\">2720</td></tr><tr class=\"\"><td style=\"text-align: left;\">2</td><td style=\"text-align: left;\">i miss u*2</td><td style=\"text-align: left;\">1</td><td style=\"text-align: left;\">4</td><td style=\"text-align: left;\">2322</td></tr><tr class=\"\"><td style=\"text-align: left;\">3</td><td style=\"text-align: left;\">小猪猪</td><td style=\"text-align: left;\">1</td><td style=\"text-align: left;\">11</td><td style=\"text-align: left;\">3760</td></tr><tr class=\"\"><td style=\"text-align: left;\">4</td><td style=\"text-align: left;\">冰淇淋车</td><td style=\"text-align: left;\">1</td><td style=\"text-align: left;\">12</td><td style=\"text-align: left;\">912</td></tr><tr class=\"\"><td style=\"text-align: left;\">5</td><td style=\"text-align: left;\">吉他少年</td><td style=\"text-align: left;\">1</td><td style=\"text-align: left;\">19</td><td style=\"text-align: left;\">200</td></tr><tr class=\"\"><td style=\"text-align: left;\">6</td><td style=\"text-align: left;\">口红</td><td style=\"text-align: left;\">1</td><td style=\"text-align: left;\">52</td><td style=\"text-align: left;\">58</td></tr><tr class=\"\"><td style=\"text-align: left;\">7</td><td style=\"text-align: left;\">心动丘比特</td><td style=\"text-align: left;\">1</td><td style=\"text-align: left;\">99</td><td style=\"text-align: left;\">20</td></tr><tr class=\"\"><td style=\"text-align: left;\">8</td><td style=\"text-align: left;\">梦之乐园</td><td style=\"text-align: left;\">1</td><td style=\"text-align: left;\">520</td><td style=\"text-align: left;\">8</td></tr><tr class=\"\"><td style=\"text-align: left;\"><br /></td><td style=\"text-align: left;\"><br /></td><td style=\"text-align: left;\"><br /></td><td style=\"text-align: left;\"><br /></td><td style=\"text-align: left;\"><br /></td></tr><tr class=\"\"><td style=\"text-align: left;\"><br /></td><td style=\"text-align: left;\"><br /></td><td style=\"text-align: left;\"><br /></td><td style=\"text-align: left;\"><br /></td><td style=\"text-align: left;\"><br /></td></tr></tbody></table><p><br /></p><p style=\"\"><br /><br /></p><p><br /></p><table><colgroup class=\"\"><col class=\"\" style=\"width: 57.6pt;\" /><col class=\"\" /><col class=\"\" /><col class=\"\" /><col class=\"\" /></colgroup><tbody class=\"\"><tr class=\"\"><td style=\"text-align: left;\">序号</td><td style=\"text-align: left;\">资源名称</td><td style=\"text-align: left;\">数量</td><td style=\"text-align: left;\">价值</td><td style=\"text-align: left;\">权重</td></tr><tr class=\"\"><td style=\"text-align: left;\">prize_id</td><td style=\"text-align: left;\">prize_name</td><td style=\"text-align: left;\">num</td><td style=\"text-align: left;\">gold</td><td style=\"text-align: left;\">prize_bili</td></tr><tr class=\"\"><td style=\"text-align: left;\">1</td><td style=\"text-align: left;\">仰卧起坐</td><td style=\"text-align: left;\">1</td><td style=\"text-align: left;\">33</td><td style=\"text-align: left;\">253</td></tr><tr class=\"\"><td style=\"text-align: left;\">2</td><td style=\"text-align: left;\">心动丘比特</td><td style=\"text-align: left;\">1</td><td style=\"text-align: left;\">99</td><td style=\"text-align: left;\">240</td></tr><tr class=\"\"><td style=\"text-align: left;\">3</td><td style=\"text-align: left;\">鲸落星海</td><td style=\"text-align: left;\">1</td><td style=\"text-align: left;\">199</td><td style=\"text-align: left;\">371</td></tr><tr class=\"\"><td style=\"text-align: left;\">4</td><td style=\"text-align: left;\">水晶之恋</td><td style=\"text-align: left;\">1</td><td style=\"text-align: left;\">388</td><td style=\"text-align: left;\">114</td></tr><tr class=\"\"><td style=\"text-align: left;\">5</td><td style=\"text-align: left;\">月光协奏曲</td><td style=\"text-align: left;\">1</td><td style=\"text-align: left;\">888</td><td style=\"text-align: left;\">15</td></tr><tr class=\"\"><td style=\"text-align: left;\">6</td><td style=\"text-align: left;\">恋语气球</td><td style=\"text-align: left;\">1</td><td style=\"text-align: left;\">1888</td><td style=\"text-align: left;\">4</td></tr><tr class=\"\"><td style=\"text-align: left;\">7</td><td style=\"text-align: left;\">威尼斯</td><td style=\"text-align: left;\">1</td><td style=\"text-align: left;\">2888</td><td style=\"text-align: left;\">2</td></tr><tr class=\"\"><td style=\"text-align: left;\">8</td><td style=\"text-align: left;\">蓝湾花语</td><td style=\"text-align: left;\">1</td><td style=\"text-align: left;\">13140</td><td style=\"text-align: left;\">1</td></tr><tr class=\"\"><td style=\"text-align: left;\"><br /></td><td style=\"text-align: left;\"><br /></td><td style=\"text-align: left;\"><br /></td><td style=\"text-align: left;\"><br /></td><td style=\"text-align: left;\"><br /></td></tr></tbody></table><p><br /></p><p style=\"\"><br /></p><p><br /></p>",
+      "representation": "storage",
+      "_expandable": {
+        "content": "/rest/api/content/488350647"
+      }
+    },
+    "_expandable": {
+      "editor": "",
+      "view": "",
+      "export_view": "",
+      "styled_view": "",
+      "anonymous_export_view": ""
+    }
+  },
+  "extensions": {
+    "position": "none"
+  },
+  "_links": {
+    "webui": "/pages/viewpage.action?pageId=488350647",
+    "edit": "/pages/resumedraft.action?draftId=488350647&draftShareId=800a4fa8-8615-4de2-b034-224908e2d7e6",
+    "tinyui": "/x/t6MbHQ",
+    "collection": "/rest/api/content",
+    "base": "https://wiki.inkept.cn",
+    "context": "",
+    "self": "https://wiki.inkept.cn/rest/api/content/488350647"
+  },
+  "_expandable": {
+    "container": "/rest/api/space/xueyuan",
+    "metadata": "",
+    "operations": "",
+    "children": "/rest/api/content/488350647/child",
+    "restrictions": "/rest/api/content/488350647/restriction/byOperation",
+    "history": "/rest/api/content/488350647/history",
+    "descendants": "/rest/api/content/488350647/descendant"
+  }
+}

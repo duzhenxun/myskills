@@ -1,0 +1,233 @@
+{
+  "id": "488343075",
+  "type": "page",
+  "status": "current",
+  "title": "4.16-4.19 白龙御空",
+  "space": {
+    "id": 3571713,
+    "key": "xueyuan",
+    "name": "映客直播业务",
+    "type": "global",
+    "_links": {
+      "webui": "/display/xueyuan",
+      "self": "https://wiki.inkept.cn/rest/api/space/xueyuan"
+    },
+    "_expandable": {
+      "metadata": "",
+      "icon": "",
+      "description": "",
+      "retentionPolicy": "",
+      "homepage": "/rest/api/content/320866330"
+    }
+  },
+  "version": {
+    "by": {
+      "type": "known",
+      "username": "yeyusong",
+      "userKey": "8aef971660112e1f01610c33c52f0049",
+      "profilePicture": {
+        "path": "/images/icons/profilepics/default.svg",
+        "width": 48,
+        "height": 48,
+        "isDefault": true
+      },
+      "displayName": "叶玉松",
+      "_links": {
+        "self": "https://wiki.inkept.cn/rest/api/user?key=8aef971660112e1f01610c33c52f0049"
+      },
+      "_expandable": {
+        "status": ""
+      }
+    },
+    "when": "2026-04-13T16:22:50.000+08:00",
+    "message": "",
+    "number": 11,
+    "minorEdit": false,
+    "hidden": false,
+    "_links": {
+      "self": "https://wiki.inkept.cn/rest/experimental/content/488343075/version/11"
+    },
+    "_expandable": {
+      "content": "/rest/api/content/488343075"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "320866330",
+      "type": "page",
+      "status": "current",
+      "title": "映客直播业务",
+      "extensions": {
+        "position": "none"
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=320866330",
+        "edit": "/pages/resumedraft.action?draftId=320866330&draftShareId=d5d92a4f-fb15-4a51-8bd6-16333cb6f165",
+        "tinyui": "/x/GgggEw",
+        "self": "https://wiki.inkept.cn/rest/api/content/320866330"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/320866330/child",
+        "restrictions": "/rest/api/content/320866330/restriction/byOperation",
+        "history": "/rest/api/content/320866330/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/320866330/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    },
+    {
+      "id": "326510548",
+      "type": "page",
+      "status": "current",
+      "title": "直播业务线-运营",
+      "extensions": {
+        "position": 2
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=326510548",
+        "edit": "/pages/resumedraft.action?draftId=326510548&draftShareId=0ea027df-6f8f-4663-bbd6-217ba023f41b",
+        "tinyui": "/x/1Cd2Ew",
+        "self": "https://wiki.inkept.cn/rest/api/content/326510548"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/326510548/child",
+        "restrictions": "/rest/api/content/326510548/restriction/byOperation",
+        "history": "/rest/api/content/326510548/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/326510548/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    },
+    {
+      "id": "331456836",
+      "type": "page",
+      "status": "current",
+      "title": "【活动组】",
+      "extensions": {
+        "position": 11
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=331456836",
+        "edit": "/pages/resumedraft.action?draftId=331456836",
+        "tinyui": "/x/RKHBEw",
+        "self": "https://wiki.inkept.cn/rest/api/content/331456836"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/331456836/child",
+        "restrictions": "/rest/api/content/331456836/restriction/byOperation",
+        "history": "/rest/api/content/331456836/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/331456836/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    },
+    {
+      "id": "452644191",
+      "type": "page",
+      "status": "current",
+      "title": "【2026营收运营活动】",
+      "extensions": {
+        "position": "none"
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=452644191",
+        "edit": "/pages/resumedraft.action?draftId=452644191&draftShareId=97d3197f-f0cd-4143-8fbf-d96b4892c680",
+        "tinyui": "/x/X836Gg",
+        "self": "https://wiki.inkept.cn/rest/api/content/452644191"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/452644191/child",
+        "restrictions": "/rest/api/content/452644191/restriction/byOperation",
+        "history": "/rest/api/content/452644191/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/452644191/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    },
+    {
+      "id": "483798763",
+      "type": "page",
+      "status": "current",
+      "title": "2026年4月份活动",
+      "extensions": {
+        "position": "none"
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=483798763",
+        "edit": "/pages/resumedraft.action?draftId=483798763&draftShareId=2571b8de-8fd1-438d-8dcd-f9e8a4a0d0a6",
+        "tinyui": "/x/6y7WH",
+        "self": "https://wiki.inkept.cn/rest/api/content/483798763"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/483798763/child",
+        "restrictions": "/rest/api/content/483798763/restriction/byOperation",
+        "history": "/rest/api/content/483798763/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/483798763/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    }
+  ],
+  "body": {
+    "storage": {
+      "value": "<p><strong>一、活动名称</strong><br />白龙御空</p><p><strong>二、活动目标</strong></p><p>日均礼物消耗达到500万钻石</p><p><strong>三、活动背景</strong></p><p>在相对平稳阶段，设置活动，维稳大盘消耗</p><p><strong>四、活动框架</strong></p><p><ac:image ac:height=\"250\"><ri:attachment ri:filename=\"image-2026-3-10_19-43-0.png\" /></ac:image></p><p><span style=\"color: rgb(50,50,50);\"><strong>五、活动详情</strong></span></p><h1>白龙御空</h1><ul><li>活动时间：4 月 16 日 00:00:00 - 4 月 19 日 23:59:59</li><li><span style=\"color: rgb(50,50,50);\">玩法介绍：活动期间，用户通过累计送礼提升自身段位，段位依次为：潜龙在渊 &rarr; 云龙风虎 &rarr; 御龙凌霄，用户在对应阶段达成门槛后，解锁对应身份及阶段奖励。</span></li><li><span style=\"color: rgb(50,50,50);\"> 逻辑 1：本玩法为累计送礼任务玩法，用户累计送礼达到对应阶级数值，即可解锁对应身份，并获得对应阶段奖励，同时解锁该阶段道具奖励。 </span></li><li><span style=\"color: rgb(50,50,50);\">逻辑 2：所有奖励实时下发至用户账户，奖励有效期按照对应资源规则统一计算。 </span></li><li><span style=\"color: rgb(50,50,50);\">任务机制：本任务为循环任务，用户完成当前阶段任务后，可重新进入下一循环，继续完成任务并领取对应阶段奖励。</span></li><li>循环后进度条重置为 0，段位回归「潜龙在渊」，但保留「循环次数」展示（如：已完成 X 轮）</li></ul><table><tbody class=\"\"><tr class=\"\"><td>关卡</td><td>任务值</td><td>资源类型</td><td>资源名称</td><td>资源id</td><td>时长</td><td>数量</td><td>私信内容</td></tr><tr class=\"\"><td>task_key</td><td>score_total</td><td>prize_type</td><td>prize_name</td><td>resource_id</td><td>duration</td><td>num</td><td>private_msg</td></tr><tr class=\"\"><td>1</td><td>2000</td><td>公聊角标</td><td>白龙御空公聊角标</td><td>10041</td><td>3</td><td>1</td><td>【白龙御空】恭喜您完成白龙御空任务一阶段，已获得公聊角标 &times;3 天，请注意查收。</td></tr><tr class=\"\"><td>2</td><td>5000</td><td>麦序框</td><td>白龙御空麦序框</td><td>10039</td><td>3</td><td>1</td><td>【白龙御空】恭喜您完成白龙御空任务二阶段，已获得麦序框 &times;3 天，请注意查收。</td></tr><tr class=\"\"><td>3</td><td>10000</td><td>头像框</td><td>白龙御空头像框</td><td>10037</td><td>3</td><td>1</td><td>【白龙御空】恭喜您完成白龙御空任务三阶段，已获得头像框 &times;3 天，请注意查收。</td></tr><tr class=\"\"><td>4</td><td>20000</td><td>公聊皮肤</td><td>白龙御空公聊皮肤</td><td>10042</td><td>3</td><td>1</td><td>【白龙御空】恭喜您完成白龙御空任务四阶段，已获得公聊皮肤 &times;3 天，请注意查收。</td></tr><tr class=\"\"><td>5</td><td>30000</td><td>称号</td><td>潜龙在渊称号</td><td>2237</td><td>3</td><td>1</td><td>【白龙御空】恭喜您完成白龙御空任务五阶段，已获得「潜龙在渊」称号 &times;3 天，请注意查收。</td></tr><tr class=\"\"><td>6</td><td>40000</td><td>送礼托盘</td><td>白龙御空送礼托盘</td><td>10044</td><td>3</td><td>1</td><td>【白龙御空】恭喜您完成白龙御空任务六阶段，已获得白龙御空送礼托盘 &times;3 天，请注意查收。</td></tr><tr class=\"\"><td>7</td><td>50000</td><td>主页挂件</td><td>白龙御空主页挂件浮屏</td><td>10025</td><td>3</td><td>1</td><td>【白龙御空】恭喜您完成白龙御空任务七阶段，已获得白龙御空主页挂件 &times;3 天，请注意查收。</td></tr><tr class=\"\"><td>8</td><td>60000</td><td>观众席底纹</td><td>白龙御空观众席底纹</td><td>10045</td><td>3</td><td>1</td><td>【白龙御空】恭喜您完成白龙御空任务八阶段，已获得白龙御空观众席底纹 &times;3 天，请注意查收。</td></tr><tr class=\"\"><td>9</td><td>80000</td><td>称号</td><td>云龙风虎称号</td><td>2238</td><td>3</td><td>1</td><td>【白龙御空】恭喜您完成白龙御空任务九阶段，已获得「云龙风虎」称号&times;3 天，请注意查收。</td></tr><tr class=\"\"><td>10</td><td>100000</td><td>道具礼物</td><td>全站悬浮公聊道具卡</td><td>24374</td><td>　</td><td>1</td><td>【白龙御空】恭喜您完成白龙御空任务十阶段，已获得全站悬浮公聊触发卡 &times;1 张，使用有效期为活动时间内，请注意查收。</td></tr><tr class=\"\"><td>11</td><td>150000</td><td>道具礼物</td><td>全站画面广播道具卡</td><td>24376</td><td>　</td><td>1</td><td>【白龙御空】恭喜您完成白龙御空任务十一阶段，已获得全站画面广播道具卡 &times;1 张，使用有效期为活动时间内，请注意查收。</td></tr><tr class=\"\"><td>12</td><td>180000</td><td>道具礼物</td><td>全站推荐道具卡</td><td>24377</td><td>　</td><td>1</td><td>【白龙御空】恭喜您完成白龙御空任务十二阶段，已获得全站画面 + 全站推荐道具卡 &times;1 张，使用有效期为活动时间内，请注意查收。</td></tr><tr class=\"\"><td>13</td><td>250000</td><td>进房座驾</td><td>白龙御空全屏座驾</td><td>10028</td><td>3</td><td>1</td><td>【白龙御空】恭喜您完成白龙御空任务十三阶段，已获得全屏座驾 &times;3 天，请注意查收。</td></tr></tbody></table><p class=\"auto-cursor-target\">各个道具卡使用逻辑如下：</p><p class=\"auto-cursor-target\"><strong>全站悬浮公聊：</strong>用户使用后触发全站悬浮公聊并展示在活动页面中：【白龙御空】用户昵称向全站推荐主播昵称，御龙而上气贯长虹！</p><p class=\"auto-cursor-target\">全站画面广播：用户使用后触发全站画面广播并展示在活动页面中：【白龙御空】用户昵称向全站推荐主播昵称，龙驭风云独领风骚！</p><p class=\"auto-cursor-target\">全站推荐卡：用户使用后可可触发全站推荐功能及画面并展示在活动页面中：【白龙御空】用户昵称向全站推荐主播昵称，龙吟九霄傲视群雄！</p><table><tbody class=\"\"><tr class=\"\"><td>道具礼物</td><td>全站悬浮公聊道具卡</td><td>24374</td></tr><tr class=\"\"><td>道具礼物</td><td>全站画面广播道具卡</td><td>24376</td></tr><tr class=\"\"><td>道具礼物</td><td>全站推荐道具卡</td><td>24377</td></tr><tr class=\"\"><td>直播间画面</td><td>白龙御空双头像礼物画面</td><td>6891</td></tr></tbody></table><p><strong>主播收礼任务</strong></p><ul><li><span style=\"color: rgb(50,50,50);\">活动时间：4月16日00:00:00-4月19日23:59:59</span></li><li><span style=\"color: rgb(50,50,50);\">用户为主播送出活动专属礼物，主播累计收礼达到对应阶段解锁奖励</span></li><li><span style=\"color: rgb(50,50,50);\">循环</span></li></ul><p><span style=\"color: rgb(50,50,50);\">秀场</span></p><table class=\"wrapped\"><thead><tr><th style=\"text-align: center;\">关卡</th><th style=\"text-align: center;\">任务值</th><th style=\"text-align: center;\">资源类型</th><th style=\"text-align: center;\">资源名称</th><th>资源 id</th><th>时长</th><th>数量</th><th style=\"text-align: center;\">私信内容</th></tr></thead><tbody><tr><td>task_key</td><td>score_total</td><td>prize_type</td><td>prize_name</td><td>resource_id</td><td>duration</td><td>num</td><td>private_msg</td></tr><tr><td style=\"text-align: center;\">1</td><td style=\"text-align: center;\">8000</td><td style=\"text-align: center;\">头像框</td><td style=\"text-align: center;\">白龙御使头像框</td><td style=\"text-align: center;\"><br /></td><td style=\"text-align: center;\"><br /></td><td style=\"text-align: center;\"><br /></td><td style=\"text-align: center;\">【白龙御空】恭喜您完成白龙御使任务一阶段，已获得白龙御使头像框 &times;1 天，请注意查收。</td></tr><tr><td style=\"text-align: center;\">2</td><td style=\"text-align: center;\">15000</td><td style=\"text-align: center;\">称号</td><td style=\"text-align: center;\">白龙御使称号</td><td style=\"text-align: center;\"><br /></td><td style=\"text-align: center;\"><br /></td><td style=\"text-align: center;\"><br /></td><td style=\"text-align: center;\">【白龙御空】恭喜您完成白龙御使任务二阶段，已获得「白龙御使」称号 &times;1 天，请注意查收。</td></tr><tr><td style=\"text-align: center;\">3</td><td style=\"text-align: center;\">30000</td><td style=\"text-align: center;\">主页挂件</td><td style=\"text-align: center;\">白龙御使主页挂件</td><td style=\"text-align: center;\"><br /></td><td style=\"text-align: center;\"><br /></td><td style=\"text-align: center;\"><br /></td><td style=\"text-align: center;\">【白龙御空】恭喜您完成白龙御使任务三阶段，已获得白龙御使主页挂件 &times;1 个，请注意查收。</td></tr><tr><td style=\"text-align: center;\">4</td><td style=\"text-align: center;\">50000</td><td style=\"text-align: center;\">主页浮屏</td><td style=\"text-align: center;\">白龙御使主页浮屏</td><td style=\"text-align: center;\"><br /></td><td style=\"text-align: center;\"><br /></td><td style=\"text-align: center;\"><br /></td><td style=\"text-align: center;\">【白龙御空】恭喜您完成白龙御使任务四阶段，已获得白龙御使主页浮屏 &times;1 个，请注意查收。</td></tr><tr><td style=\"text-align: center;\">5</td><td style=\"text-align: center;\">100000</td><td style=\"text-align: center;\">道具卡</td><td style=\"text-align: center;\">热门13推荐卡</td><td style=\"text-align: center;\"><br /></td><td style=\"text-align: center;\"><br /></td><td style=\"text-align: center;\"><br /></td><td style=\"text-align: center;\">【白龙御空】恭喜您完成白龙御使任务五阶段，已获得热门13推荐卡 &times;1 张，请注意查收。</td></tr></tbody></table><p class=\"auto-cursor-target\"><span style=\"color: rgb(50,50,50);letter-spacing: 0.0px;\">陪陪</span></p><table class=\"wrapped\"><tbody><tr><th style=\"text-align: center;\">关卡</th><th style=\"text-align: center;\">任务值</th><th style=\"text-align: center;\">资源类型</th><th style=\"text-align: center;\">资源名称</th><th style=\"text-align: center;\">资源 id</th><th style=\"text-align: center;\">时长</th><th style=\"text-align: center;\">数量</th><th style=\"text-align: center;\">私信内容</th></tr><tr><td style=\"text-align: center;\">task_key</td><td style=\"text-align: center;\">score_total</td><td style=\"text-align: center;\">prize_type</td><td style=\"text-align: center;\">prize_name</td><td style=\"text-align: center;\">resource_id</td><td style=\"text-align: center;\">duration</td><td style=\"text-align: center;\">num</td><td style=\"text-align: center;\">private_msg</td></tr><tr><td style=\"text-align: center;\">1</td><td style=\"text-align: center;\">5000</td><td style=\"text-align: center;\">麦序框</td><td style=\"text-align: center;\">白龙御使麦序框</td><td style=\"text-align: center;\"><br /></td><td style=\"text-align: center;\"><br /></td><td style=\"text-align: center;\"><br /></td><td style=\"text-align: center;\">【白龙御空】恭喜您完成白龙御使任务一阶段，已获得麦序框 &times;1 天，请注意查收。</td></tr><tr><td style=\"text-align: center;\">2</td><td style=\"text-align: center;\">8000</td><td style=\"text-align: center;\">头像框</td><td style=\"text-align: center;\">白龙御使头像框</td><td style=\"text-align: center;\"><br /></td><td style=\"text-align: center;\"><br /></td><td style=\"text-align: center;\"><br /></td><td style=\"text-align: center;\">【白龙御空】恭喜您完成白龙御使任务二阶段，已获得头像框 &times;1 天，请注意查收。</td></tr><tr><td style=\"text-align: center;\">5</td><td style=\"text-align: center;\">15000</td><td style=\"text-align: center;\">称号</td><td style=\"text-align: center;\">白龙御使称号</td><td style=\"text-align: center;\"><br /></td><td style=\"text-align: center;\"><br /></td><td style=\"text-align: center;\"><br /></td><td style=\"text-align: center;\">【白龙御空】恭喜您完成白龙御使任务三阶段，已获得称号 &times;1 天，请注意查收。</td></tr><tr><td style=\"text-align: center;\">7</td><td style=\"text-align: center;\">30000</td><td style=\"text-align: center;\"><span style=\"color: rgb(23,43,77);\">主页挂件</span></td><td style=\"text-align: center;\">白龙御使主页挂件</td><td style=\"text-align: center;\"><br /></td><td style=\"text-align: center;\"><br /></td><td style=\"text-align: center;\"><br /></td><td style=\"text-align: center;\">【白龙御空】恭喜您完成白龙御使任务四阶段，已获得白龙御使主页挂件&times;1 个，请注意查收。</td></tr><tr><td style=\"text-align: center;\">9</td><td style=\"text-align: center;\">50000</td><td style=\"text-align: center;\">发言波纹</td><td style=\"text-align: center;\">白龙御使发言波纹</td><td style=\"text-align: center;\"><br /></td><td style=\"text-align: center;\"><br /></td><td style=\"text-align: center;\"><br /></td><td style=\"text-align: center;\">【白龙御空】恭喜您完成白龙御使任务五阶段，已获得白龙御使发言波纹 &times;1 个，请注意查收。</td></tr></tbody></table><p><strong>小映礼物玩法</strong></p><ul><li><span style=\"color: rgb(50,50,50);\">活动时间：4月16日00:00:00-4月19日23:59:59</span></li><li><p class=\"auto-cursor-target\"><span style=\"color: rgb(50,50,50);\">玩法介绍：活动设置礼物玩法，活动期间用户每日00:00:00-19:59:59送出该礼物达到10次，可在每日20:00:00-23:59:59解锁指定双倍奖励（换奖池）</span></p></li><li><strong><span style=\"color: rgb(50,50,50);\">礼物送出后，主播获得1映币，然后在随机</span></strong></li><li>双倍期间，开出指定礼物，主播获得1个，用户获得1个</li><li><p class=\"auto-cursor-target\">同时双倍期间，开出指定礼物，触发全站悬浮公聊：【白龙小映】恭喜用户昵称开出指定双倍，获得礼物名称双倍奖励！！</p></li></ul><p>白天</p><table><tbody class=\"\"><tr class=\"\"><td>序号</td><td>资源类型</td><td>资源名称</td><td>背包ID</td><td>时长</td><td>数量</td><td>价值</td><td>权重</td><td>全站广播</td><td>H5跑马灯</td><td>用户上限</td><td>全站每日上限</td><td>图片url</td></tr><tr class=\"\"><td>prize_id</td><td>prize_type</td><td>prize_name</td><td>resource_id</td><td>duration</td><td>num</td><td>gold</td><td>prize_bili</td><td>is_send_broadcast</td><td>is_broadcast</td><td>user_limit</td><td>prize_max_num</td><td>img</td></tr><tr class=\"\"><td>1</td><td>直送礼物</td><td>圆滚滚</td><td>24413</td><td>　</td><td>1</td><td>188</td><td>197</td><td>　</td><td>1</td><td>　</td><td>　</td><td><a href=\"https://img.ikstatic.cn/MTY0NDU2MjQxNjYxNiMzMzcjcG5n.png\">https://img.ikstatic.cn/MTY0NDU2MjQxNjYxNiMzMzcjcG5n.png</a></td></tr><tr class=\"\"><td>2</td><td>直送礼物</td><td>流光幻境</td><td>24427</td><td>　</td><td>1</td><td>388</td><td>240</td><td>　</td><td>1</td><td>　</td><td>　</td><td><a href=\"https://img.ikstatic.cn/MTc2MTgwNzgzMjg1MiM5MjkjcG5n.png\">https://img.ikstatic.cn/MTc2MTgwNzgzMjg1MiM5MjkjcG5n.png</a></td></tr><tr class=\"\"><td>3</td><td>直送礼物</td><td>秋野漫行</td><td>24428</td><td>　</td><td>1</td><td>1040</td><td>330</td><td>　</td><td>1</td><td>　</td><td>　</td><td><a href=\"https://img.ikstatic.cn/MTc3MzM5ODU2MzgyOCMzODIjcG5n.png\">https://img.ikstatic.cn/MTc3MzM5ODU2MzgyOCMzODIjcG5n.png</a></td></tr><tr class=\"\"><td>4</td><td>直送礼物</td><td>高山仰止</td><td>24429</td><td>　</td><td>1</td><td>1314</td><td>150</td><td>　</td><td>1</td><td>　</td><td>　</td><td><a href=\"https://img.ikstatic.cn/MTc0NTQ4NTgzNDAxOSMgMjYjcG5n.png\">https://img.ikstatic.cn/MTc0NTQ4NTgzNDAxOSMgMjYjcG5n.png</a></td></tr><tr class=\"\"><td>5</td><td>直送礼物</td><td>帝王火箭</td><td>24430</td><td>　</td><td>1</td><td>1888</td><td>40</td><td>　</td><td>1</td><td>　</td><td>　</td><td><a href=\"https://img.ikstatic.cn/MTY3MDY3NDA5ODQ5NSM5NTAjcG5n.png\">https://img.ikstatic.cn/MTY3MDY3NDA5ODQ5NSM5NTAjcG5n.png</a></td></tr><tr class=\"\"><td>6</td><td>直送礼物</td><td>魔法少女焱</td><td>24431</td><td>　</td><td>1</td><td>3999</td><td>30</td><td>　</td><td>1</td><td>　</td><td>　</td><td><a href=\"https://img.ikstatic.cn/MTc2MzU0NzkzMjE5NCMxMzAjcG5n.png\">https://img.ikstatic.cn/MTc2MzU0NzkzMjE5NCMxMzAjcG5n.png</a></td></tr><tr class=\"\"><td>7</td><td>直送礼物</td><td>海岛之恋</td><td>24437</td><td>　</td><td>1</td><td>5200</td><td>10</td><td>　</td><td>1</td><td>　</td><td>　</td><td><a href=\"https://img.ikstatic.cn/MTcxNDQ2NjcxOTU2MiM0MDMjcG5n.png\">https://img.ikstatic.cn/MTcxNDQ2NjcxOTU2MiM0MDMjcG5n.png</a></td></tr><tr class=\"\"><td>8</td><td>直送礼物</td><td>龙啸于天</td><td>24433</td><td>　</td><td>1</td><td>13140</td><td>2</td><td>1</td><td>1</td><td>　</td><td>　</td><td><a href=\"https://img.ikstatic.cn/MTcwMzQ5MzEzNTY2NyM4MTYjcG5n.png\">https://img.ikstatic.cn/MTcwMzQ5MzEzNTY2NyM4MTYjcG5n.png</a></td></tr><tr class=\"\"><td>9</td><td>直送礼物</td><td>爱在日落黄昏时</td><td>24434</td><td>　</td><td>　</td><td>52000</td><td>1</td><td>1</td><td>1</td><td>　</td><td>　</td><td><a href=\"https://img.ikstatic.cn/MTczOTE4MzY5NTI4MyMyOTIjcG5n.png\">https://img.ikstatic.cn/MTczOTE4MzY5NTI4MyMyOTIjcG5n.png</a></td></tr></tbody></table><p>夜晚</p><p class=\"auto-cursor-target\"><br /></p><table><tbody class=\"\"><tr class=\"\"><td>序号</td><td>资源类型</td><td>资源名称</td><td>背包ID</td><td>时长</td><td>数量</td><td>价值</td><td>权重</td><td>全站广播</td><td>H5跑马灯</td><td>用户上限</td><td>全站每日上限</td><td>图片url</td></tr><tr class=\"\"><td>prize_id</td><td>prize_type</td><td>prize_name</td><td>resource_id</td><td>duration</td><td>num</td><td>gold</td><td>prize_bili</td><td>is_send_broadcast</td><td>is_broadcast</td><td>user_limit</td><td>prize_max_num</td><td>img</td></tr><tr class=\"\"><td>1</td><td>直送礼物</td><td>圆滚滚</td><td>24413</td><td>　</td><td>1</td><td>188</td><td>243</td><td>　</td><td>1</td><td>　</td><td>　</td><td><a href=\"https://img.ikstatic.cn/MTY0NDU2MjQxNjYxNiMzMzcjcG5n.png\">https://img.ikstatic.cn/MTY0NDU2MjQxNjYxNiMzMzcjcG5n.png</a></td></tr><tr class=\"\"><td>2</td><td>直送礼物</td><td>流光幻境</td><td>24427</td><td>　</td><td>1</td><td>388</td><td>250</td><td>　</td><td>1</td><td>　</td><td>　</td><td><a href=\"https://img.ikstatic.cn/MTc2MTgwNzgzMjg1MiM5MjkjcG5n.png\">https://img.ikstatic.cn/MTc2MTgwNzgzMjg1MiM5MjkjcG5n.png</a></td></tr><tr class=\"\"><td>3</td><td>直送礼物</td><td>秋野漫行</td><td>24428</td><td>　</td><td>1</td><td>1040</td><td>330</td><td>　</td><td>1</td><td>　</td><td>　</td><td><a href=\"https://img.ikstatic.cn/MTc3MzM5ODU2MzgyOCMzODIjcG5n.png\">https://img.ikstatic.cn/MTc3MzM5ODU2MzgyOCMzODIjcG5n.png</a></td></tr><tr class=\"\"><td>4</td><td>直送礼物</td><td>高山仰止</td><td>24429</td><td>　</td><td>1</td><td>1314</td><td>140</td><td>　</td><td>1</td><td>　</td><td>　</td><td><a href=\"https://img.ikstatic.cn/MTc0NTQ4NTgzNDAxOSMgMjYjcG5n.png\">https://img.ikstatic.cn/MTc0NTQ4NTgzNDAxOSMgMjYjcG5n.png</a></td></tr><tr class=\"\"><td>5</td><td>直送礼物</td><td>帝王火箭</td><td>24430</td><td>　</td><td>1</td><td>1888</td><td>23</td><td>　</td><td>1</td><td>　</td><td>　</td><td><a href=\"https://img.ikstatic.cn/MTY3MDY3NDA5ODQ5NSM5NTAjcG5n.png\">https://img.ikstatic.cn/MTY3MDY3NDA5ODQ5NSM5NTAjcG5n.png</a></td></tr><tr class=\"\"><td>6</td><td>直送礼物</td><td>魔法少女焱</td><td>24431</td><td>　</td><td>1</td><td>3999</td><td>8</td><td>　</td><td>1</td><td>　</td><td>　</td><td><a href=\"https://img.ikstatic.cn/MTc2MzU0NzkzMjE5NCMxMzAjcG5n.png\">https://img.ikstatic.cn/MTc2MzU0NzkzMjE5NCMxMzAjcG5n.png</a></td></tr><tr class=\"\"><td>7</td><td>直送礼物</td><td>海岛之恋</td><td>24437</td><td>　</td><td>1</td><td>5200</td><td>4</td><td>　</td><td>1</td><td>　</td><td>　</td><td><a href=\"https://img.ikstatic.cn/MTcxNDQ2NjcxOTU2MiM0MDMjcG5n.png\">https://img.ikstatic.cn/MTcxNDQ2NjcxOTU2MiM0MDMjcG5n.png</a></td></tr><tr class=\"\"><td>8</td><td>直送礼物</td><td>龙啸于天</td><td>24433</td><td>　</td><td>1</td><td>13140</td><td>1</td><td>1</td><td>1</td><td>　</td><td>　</td><td><a href=\"https://img.ikstatic.cn/MTcwMzQ5MzEzNTY2NyM4MTYjcG5n.png\">https://img.ikstatic.cn/MTcwMzQ5MzEzNTY2NyM4MTYjcG5n.png</a></td></tr><tr class=\"\"><td>9</td><td>直送礼物</td><td>爱在日落黄昏时</td><td>24434</td><td>　</td><td>　</td><td>52000</td><td>1</td><td>1</td><td>1</td><td>　</td><td>　</td><td><a href=\"https://img.ikstatic.cn/MTczOTE4MzY5NTI4MyMyOTIjcG5n.png\">https://img.ikstatic.cn/MTczOTE4MzY5NTI4MyMyOTIjcG5n.png</a></td></tr></tbody></table><p class=\"auto-cursor-target\"><br /></p><table><tbody class=\"\"><tr class=\"\"><td>礼物价值</td><td>礼物ID</td><td>背包ID</td><td>礼物名称</td><td>URL</td></tr><tr class=\"\"><td>1888</td><td>24435</td><td>6887</td><td>帝王火箭</td><td><a href=\"https://img.ikstatic.cn/MTY3MDY3NDA5ODQ5NSM5NTAjcG5n.png\">https://img.ikstatic.cn/MTY3MDY3NDA5ODQ5NSM5NTAjcG5n.png</a></td></tr><tr class=\"\"><td>3999</td><td>24436</td><td>6888</td><td>魔法少女焱</td><td><a href=\"https://img.ikstatic.cn/MTc2MzU0NzkzMjE5NCMxMzAjcG5n.png\">https://img.ikstatic.cn/MTc2MzU0NzkzMjE5NCMxMzAjcG5n.png</a></td></tr><tr class=\"\"><td>5200</td><td>24438</td><td>6889</td><td>海岛之恋</td><td><a href=\"https://img.ikstatic.cn/MTcxNDQ2NjcxOTU2MiM0MDMjcG5n.png\">https://img.ikstatic.cn/MTcxNDQ2NjcxOTU2MiM0MDMjcG5n.png</a></td></tr><tr class=\"\"><td>13140</td><td>24439</td><td>6890</td><td>龙啸于天</td><td><a href=\"https://img.ikstatic.cn/MTcwMzQ5MzEzNTY2NyM4MTYjcG5n.png\">https://img.ikstatic.cn/MTcwMzQ5MzEzNTY2NyM4MTYjcG5n.png</a></td></tr><tr class=\"\"><td>52000</td><td>24440</td><td>6891</td><td>爱在日落黄昏时</td><td><a href=\"https://img.ikstatic.cn/MTczOTE4MzY5NTI4MyMyOTIjcG5n.png\">https://img.ikstatic.cn/MTczOTE4MzY5NTI4MyMyOTIjcG5n.png</a></td></tr></tbody></table><p class=\"auto-cursor-target\"><span style=\"color: rgb(33,33,33);\">您申请的SourceType: [增加映币-赠送-平台运营组-白龙小映-直送映币专用-2026-04-08] 已经审批完成</span><br /><span style=\"color: rgb(33,33,33);\">SourceType:<span>&nbsp;</span></span><strong>5395</strong><br /><span style=\"color: rgb(33,33,33);\">您申请的操作对象为：映币，请把对应的soucetype提供给&ldquo;主播运营组(礼物墙管理)&rdquo;，用于配置背包礼物；</span><br /><span style=\"color: rgb(33,33,33);\">起始时间：2026-04-08 19:11:16</span><br /><span style=\"color: rgb(33,33,33);\">结束时间：2027-04-08 19:09:40</span><br /><span style=\"color: rgb(33,33,33);\">APP账单记录文案：直播收入</span><br /><span style=\"color: rgb(33,33,33);\">是否计入送礼流水：是</span><br /><span style=\"color: rgb(33,33,33);\">是否计入基准流水：是</span><br /><span style=\"color: rgb(33,33,33);\">是否计入无背包基准映币：否</span><br /><span style=\"color: rgb(33,33,33);\">否计入实际映币收入：是</span><br /><span style=\"color: rgb(33,33,33);\">是否为赠送钻石：否</span><br /><span style=\"color: rgb(33,33,33);\">SourceType Hash:<span>&nbsp;</span></span><strong>9da82d060b93d1212305aeee4638c94c</strong><br /><span style=\"color: rgb(33,33,33);\">* HASH使用时请保持小写，请及时关注SourceType预警邮件。</span></p><p><span style=\"color: rgb(33,33,33);\">您申请的SourceType: [背包礼物-赠送-平台运营组-白龙小映-下发礼物专用-2026-04-08] 已经审批完成<br />SourceType:<span>&nbsp;</span><strong>4368</strong><br />您申请的操作对象为：背包礼物，请把对应的soucetype提供给&ldquo;活动业务组&rdquo;，用于下发背包礼物；<br />起始时间：2026-04-08 19:14:36<br />结束时间：2027-04-08 19:14:36<br />APP账单记录文案：直播收入<br />是否计入送礼流水：是<br />是否计入基准流水：是<br />是否计入无背包基准映币：否<br />否计入实际映币收入：是<br />是否为赠送钻石：否<br />SourceType Hash:<span>&nbsp;</span><strong>bb408839fe62c88ca827b9206a1dce70</strong><br />* HASH使用时请保持小写，请及时关注SourceType预警邮件。</span></p>",
+      "representation": "storage",
+      "_expandable": {
+        "content": "/rest/api/content/488343075"
+      }
+    },
+    "_expandable": {
+      "editor": "",
+      "view": "",
+      "export_view": "",
+      "styled_view": "",
+      "anonymous_export_view": ""
+    }
+  },
+  "extensions": {
+    "position": "none"
+  },
+  "_links": {
+    "webui": "/pages/viewpage.action?pageId=488343075",
+    "edit": "/pages/resumedraft.action?draftId=488343075&draftShareId=68e9b9db-e3ce-4c66-9ac8-642f4b2c5a9f",
+    "tinyui": "/x/I4YbHQ",
+    "collection": "/rest/api/content",
+    "base": "https://wiki.inkept.cn",
+    "context": "",
+    "self": "https://wiki.inkept.cn/rest/api/content/488343075"
+  },
+  "_expandable": {
+    "container": "/rest/api/space/xueyuan",
+    "metadata": "",
+    "operations": "",
+    "children": "/rest/api/content/488343075/child",
+    "restrictions": "/rest/api/content/488343075/restriction/byOperation",
+    "history": "/rest/api/content/488343075/history",
+    "descendants": "/rest/api/content/488343075/descendant"
+  }
+}

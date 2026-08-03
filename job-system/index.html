@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>职位系统</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+  <div class="app-shell">
+    <header class="hero">
+      <div class="hero-copy">
+        <p class="eyebrow">Job Command Center</p>
+        <h1>职位系统</h1>
+        <p class="hero-text">集中查看 AI 工程师岗位，支持搜索、筛选、详情弹窗和缺失详情标记，方便你快速扫职位。</p>
+      </div>
+      <div class="hero-panel">
+        <div class="hero-stat">
+          <span>职位总数</span>
+          <strong id="totalCount">0</strong>
+        </div>
+        <div class="hero-stat">
+          <span>详情已抓取</span>
+          <strong id="detailCount">0</strong>
+        </div>
+        <div class="hero-stat">
+          <span>缺失详情</span>
+          <strong id="missingCount">0</strong>
+        </div>
+      </div>
+    </header>
+
+    <main class="workspace">
+      <section class="toolbar">
+        <label class="search-box">
+          <span>搜索职位 / 公司 / 技能</span>
+          <input id="searchInput" type="search" placeholder="例如：Agent、望京、Moka、Python">
+        </label>
+        <label class="filter-box">
+          <span>详情状态</span>
+          <select id="detailFilter">
+            <option value="all">全部</option>
+            <option value="ok">仅看已抓详情</option>
+            <option value="missing">仅看缺失详情</option>
+          </select>
+        </label>
+        <label class="filter-box">
+          <span>排序</span>
+          <select id="sortSelect">
+            <option value="default">默认顺序</option>
+            <option value="salary-desc">薪资高到低</option>
+            <option value="salary-asc">薪资低到高</option>
+          </select>
+        </label>
+      </section>
+
+      <section class="content-grid">
+        <aside class="sidebar">
+          <div class="sidebar-card">
+            <h2>筛选结果</h2>
+            <p id="resultSummary">正在加载职位数据...</p>
+          </div>
+          <div class="sidebar-card">
+            <h2>使用说明</h2>
+            <ul>
+              <li>支持按职位名、公司、技能、地区、描述全文搜索。</li>
+              <li>点击右侧职位卡片会弹出完整详情。</li>
+              <li>缺失详情的职位会明确标记，方便后续补抓。</li>
+            </ul>
+          </div>
+        </aside>
+
+        <section class="list-panel">
+          <div class="list-header">
+            <h2>职位列表</h2>
+            <span id="visibleCount" class="mono-pill">0</span>
+          </div>
+          <div id="jobList" class="job-list"></div>
+        </section>
+      </section>
+    </main>
+  </div>
+
+  <dialog id="jobDialog" class="job-dialog">
+    <div class="dialog-head">
+      <div>
+        <p id="dialogCompany" class="dialog-company"></p>
+        <h3 id="dialogTitle"></h3>
+      </div>
+      <button id="closeDialog" class="icon-button" aria-label="关闭详情">×</button>
+    </div>
+    <div class="dialog-meta" id="dialogMeta"></div>
+    <div class="dialog-sections">
+      <section>
+        <h4>职位描述</h4>
+        <div id="dialogStatus" class="dialog-status" hidden></div>
+        <div id="dialogDescription" class="rich-text"></div>
+      </section>
+      <section>
+        <h4>福利待遇</h4>
+        <div id="dialogWelfare" class="chip-wrap"></div>
+      </section>
+      <section>
+        <h4>更多信息</h4>
+        <dl id="dialogDetails" class="detail-grid"></dl>
+      </section>
+      <section>
+        <h4>原始链接</h4>
+        <a id="dialogLink" href="#" target="_blank" rel="noreferrer">打开 BOSS 职位页</a>
+      </section>
+    </div>
+  </dialog>
+
+  <script src="./app.js"></script>
+</body>
+</html>

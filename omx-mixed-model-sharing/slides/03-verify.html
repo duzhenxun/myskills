@@ -1,0 +1,9 @@
+<!DOCTYPE html><html lang="zh-CN"><head><meta charset="UTF-8"><link rel="stylesheet" href="../shared/tokens.css"><title>事实核验</title></head><body>
+<div class="mast"><div class="mark"><span class="dot"></span>VERSION CHECK</div><div>LOCAL EVIDENCE · 2026-07-16</div></div><div class="kicker">先纠正三处会导致照抄失败的内容</div><h2>不要把“看起来合理”当成“当前可运行”</h2>
+<table class="compare"><tr><th>原稿说法</th><th>当前核验结果</th><th>分享中的处理</th></tr>
+<tr><td><code>@google/antigravity-cli</code> / <code>agy</code></td><td><span class="status no">不可用</span> npm 返回 404，本机无 `agy`</td><td>改为官方包 <code>@google/gemini-cli</code>，命令 <code>gemini</code></td></tr>
+<tr><td>OMX 只识别内部名 gemini</td><td><span class="status ok">已验证</span> v0.20.2 runtime 接受 codex / claude / gemini</td><td>CLI Map 直接填写 <code>gemini</code></td></tr>
+<tr><td>固定写死旧模型名</td><td><span class="status fix">需调整</span> 模型名和账号权限会变化</td><td>先用各 CLI 默认模型跑通，再按需覆盖</td></tr>
+<tr><td><code>/set-role-model</code> 永久绑定</td><td><span class="status fix">未发现稳定契约</span></td><td>以角色任务拆分 + CLI Map 为主，不在教程中承诺该命令</td></tr></table>
+<div class="footer-note">本机：codex 0.144.5 · claude 2.1.110 · gemini 0.32.1 · omx 0.20.2</div><div class="page">03 / 10</div></body></html>
+

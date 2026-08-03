@@ -1,0 +1,261 @@
+{
+  "id": "502073993",
+  "type": "page",
+  "status": "current",
+  "title": "5.20-5.24 心动信号站：CP告白计划",
+  "space": {
+    "id": 3571713,
+    "key": "xueyuan",
+    "name": "映客直播业务",
+    "type": "global",
+    "_links": {
+      "webui": "/display/xueyuan",
+      "self": "https://wiki.inkept.cn/rest/api/space/xueyuan"
+    },
+    "_expandable": {
+      "metadata": "",
+      "icon": "",
+      "description": "",
+      "retentionPolicy": "",
+      "homepage": "/rest/api/content/320866330"
+    }
+  },
+  "version": {
+    "by": {
+      "type": "known",
+      "username": "chenziqi",
+      "userKey": "8aef08aa8de3822a018e35bdf3070081",
+      "profilePicture": {
+        "path": "/images/icons/profilepics/default.svg",
+        "width": 48,
+        "height": 48,
+        "isDefault": true
+      },
+      "displayName": "陈子琦",
+      "_links": {
+        "self": "https://wiki.inkept.cn/rest/api/user?key=8aef08aa8de3822a018e35bdf3070081"
+      },
+      "_expandable": {
+        "status": ""
+      }
+    },
+    "when": "2026-05-20T21:11:29.000+08:00",
+    "message": "",
+    "number": 1,
+    "minorEdit": false,
+    "hidden": false,
+    "_links": {
+      "self": "https://wiki.inkept.cn/rest/experimental/content/502073993/version/1"
+    },
+    "_expandable": {
+      "content": "/rest/api/content/502073993"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "320866330",
+      "type": "page",
+      "status": "current",
+      "title": "映客直播业务",
+      "extensions": {
+        "position": "none"
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=320866330",
+        "edit": "/pages/resumedraft.action?draftId=320866330&draftShareId=d5d92a4f-fb15-4a51-8bd6-16333cb6f165",
+        "tinyui": "/x/GgggEw",
+        "self": "https://wiki.inkept.cn/rest/api/content/320866330"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/320866330/child",
+        "restrictions": "/rest/api/content/320866330/restriction/byOperation",
+        "history": "/rest/api/content/320866330/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/320866330/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    },
+    {
+      "id": "326510548",
+      "type": "page",
+      "status": "current",
+      "title": "直播业务线-运营",
+      "extensions": {
+        "position": 2
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=326510548",
+        "edit": "/pages/resumedraft.action?draftId=326510548&draftShareId=0ea027df-6f8f-4663-bbd6-217ba023f41b",
+        "tinyui": "/x/1Cd2Ew",
+        "self": "https://wiki.inkept.cn/rest/api/content/326510548"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/326510548/child",
+        "restrictions": "/rest/api/content/326510548/restriction/byOperation",
+        "history": "/rest/api/content/326510548/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/326510548/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    },
+    {
+      "id": "331456836",
+      "type": "page",
+      "status": "current",
+      "title": "【活动组】",
+      "extensions": {
+        "position": 11
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=331456836",
+        "edit": "/pages/resumedraft.action?draftId=331456836",
+        "tinyui": "/x/RKHBEw",
+        "self": "https://wiki.inkept.cn/rest/api/content/331456836"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/331456836/child",
+        "restrictions": "/rest/api/content/331456836/restriction/byOperation",
+        "history": "/rest/api/content/331456836/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/331456836/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    },
+    {
+      "id": "452644191",
+      "type": "page",
+      "status": "current",
+      "title": "【2026营收运营活动】",
+      "extensions": {
+        "position": "none"
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=452644191",
+        "edit": "/pages/resumedraft.action?draftId=452644191&draftShareId=97d3197f-f0cd-4143-8fbf-d96b4892c680",
+        "tinyui": "/x/X836Gg",
+        "self": "https://wiki.inkept.cn/rest/api/content/452644191"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/452644191/child",
+        "restrictions": "/rest/api/content/452644191/restriction/byOperation",
+        "history": "/rest/api/content/452644191/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/452644191/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    },
+    {
+      "id": "488343729",
+      "type": "page",
+      "status": "current",
+      "title": "2026年5月份活动",
+      "extensions": {
+        "position": "none"
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=488343729",
+        "edit": "/pages/resumedraft.action?draftId=488343729&draftShareId=a59c298c-352d-4d86-b067-744efc521f4c",
+        "tinyui": "/x/sYgbHQ",
+        "self": "https://wiki.inkept.cn/rest/api/content/488343729"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/488343729/child",
+        "restrictions": "/rest/api/content/488343729/restriction/byOperation",
+        "history": "/rest/api/content/488343729/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/488343729/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    },
+    {
+      "id": "492731523",
+      "type": "page",
+      "status": "current",
+      "title": "5.19-5.21  心跳共振的瞬间",
+      "extensions": {
+        "position": "none"
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=492731523",
+        "edit": "/pages/resumedraft.action?draftId=492731523&draftShareId=5af62251-a447-4160-b957-c898ed2cf788",
+        "tinyui": "/x/g3xeHQ",
+        "self": "https://wiki.inkept.cn/rest/api/content/492731523"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/492731523/child",
+        "restrictions": "/rest/api/content/492731523/restriction/byOperation",
+        "history": "/rest/api/content/492731523/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/492731523/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    }
+  ],
+  "body": {
+    "storage": {
+      "value": "<h1>5.20-5.24 心动信号站：CP告白计划</h1>\n<p><strong>一、活动目标：</strong></p>\n<p>围绕520/情人节爱情节点，通过1V1 CP任务、告白曝光、CP勋章收集及榜单奖励，提升活动专属礼物消耗与主播/嘉宾收礼积极性。活动消耗目标建议：活动期累计消耗不低于3000万钻石，日均消耗600w钻。</p>\n\n<p><strong>二、活动时间</strong></p>\n<p>2026年5月20日00:00:00-5月24日23:59:59（<strong>所有玩法统计时间均为北京时间GMT+8:00</strong>）</p>\n\n<p><strong>三、活动范围</strong></p>\n<p>线上全层级用户可参与；活动覆盖普通视频直播间、公共直播间、PK送礼、友聊送礼及派对4人视频/6人视频/9人音频房间。</p>\n\n<p><strong>四、数据统计维度：</strong></p>\n<p>个人主播收礼（主播）：仅统计普通视频直播间、公共直播间、PK送礼和友聊送礼渠道的活动专属礼物收礼，其他送礼方式均不计入统计。</p>\n<p>嘉宾收礼：仅统计厅主及厅内嘉宾在4人视频、6人视频、9人音频房间收礼活动专属礼物收入，其余方式均不计入统计。谁收算谁。</p>\n<p>CP统计：以用户UID+主播/嘉宾UID组成1V1 CP关系，CP关系在活动期内自动生成、自动累计、自动发奖，同一用户可与多个主播/嘉宾形成不同CP；同一CP的任务进度独立统计。</p>\n\n<p><strong>五、原型图：</strong></p>\n<p>原型图：待补充</p>\n\n<p><strong>六、玩法详情：</strong></p>\n\n<h2>1、全程核心玩法--1V1 CP心动信号循环任务</h2>\n<p><strong>玩法时间：</strong>5月20日00:00:00-5月24日23:59:59</p>\n<p><strong>玩法逻辑：</strong></p>\n<p>用户向主播/嘉宾赠送任一活动专属礼物后，系统自动将送礼用户与收礼主播/嘉宾组成1V1 CP，开启CP心动信号循环任务。</p>\n<p>CP间每累计满52钻活动专属礼物收礼，记为1次心动信号。累计心动信号达到对应任务档位时，CP双方自动获得对应档位资源奖励，并自动发送私信通知。</p>\n<p>该任务为1V1 CP循环任务。完成阶段五后视为完成1轮任务，当前CP任务进度自动进入下一轮，活动期内可循环完成。</p>\n\n<table>\n<tbody>\n<tr><th>任务阶段</th><th>阶段一</th><th>阶段二</th><th>阶段三</th><th>阶段四</th><th>阶段五</th></tr>\n<tr><td>累计心动信号</td><td>52</td><td>266</td><td>520</td><td>1314</td><td>2666</td></tr>\n<tr><td>秀场主播奖励</td><td>心动信号点亮*1天</td><td>心动信号文字贴纸*1天</td><td>心动信号头像框*1天</td><td>心动信号称号*1天</td><td>心动信号主页挂件*1天</td></tr>\n<tr><td>用户奖励</td><td>告白来电公聊角标*1天</td><td>告白来电公聊皮肤*1天</td><td>告白来电头像框*1天</td><td>告白来电称号*1天</td><td>告白来电主页挂件*1天</td></tr>\n</tbody>\n</table>\n\n<p><strong>秀场主播私信：</strong></p>\n<p>阶段一：【520】恭喜宝宝与用户昵称完成心动信号任务一，获得心动信号点亮*1天奖励，继续加油呀~</p>\n<p>阶段二：【520】恭喜宝宝与用户昵称完成心动信号任务二，获得心动信号文字贴纸*1天奖励，继续加油呀~</p>\n<p>阶段三：【520】恭喜宝宝与用户昵称完成心动信号任务三，获得心动信号头像框*1天奖励，继续加油呀~</p>\n<p>阶段四：【520】恭喜宝宝与用户昵称完成心动信号任务四，获得心动信号称号*1天奖励，继续加油呀~</p>\n<p>阶段五：【520】恭喜宝宝与用户昵称完成心动信号任务五，获得心动信号主页挂件*1天奖励，继续加油呀~</p>\n\n<p><strong>用户私信：</strong></p>\n<p>阶段一：【520】恭喜宝宝与主播昵称完成心动信号任务一，获得告白来电公聊角标*1天奖励，继续加油呀~</p>\n<p>阶段二：【520】恭喜宝宝与主播昵称完成心动信号任务二，获得告白来电公聊皮肤*1天奖励，继续加油呀~</p>\n<p>阶段三：【520】恭喜宝宝与主播昵称完成心动信号任务三，获得告白来电头像框*1天奖励，继续加油呀~</p>\n<p>阶段四：【520】恭喜宝宝与主播昵称完成心动信号任务四，获得告白来电称号*1天奖励，继续加油呀~</p>\n<p>阶段五：【520】恭喜宝宝与主播昵称完成心动信号任务五，获得告白来电主页挂件*1天奖励，继续加油呀~</p>\n\n<table>\n<tbody>\n<tr><th>任务阶段</th><th>阶段一</th><th>阶段二</th><th>阶段三</th><th>阶段四</th><th>阶段五</th></tr>\n<tr><td>累计心动信号</td><td>52</td><td>266</td><td>520</td><td>1314</td><td>2666</td></tr>\n<tr><td>嘉宾奖励</td><td>心动信号上麦动效*1天</td><td>心动信号麦序框*1天</td><td>心动信号称号*1天</td><td>心动信号发言波纹*1天</td><td>心动信号主页挂件*1天</td></tr>\n<tr><td>用户奖励</td><td>告白来电上麦动效*1天</td><td>告白来电麦序框*1天</td><td>告白来电称号*1天</td><td>告白来电发言波纹*1天</td><td>告白来电主页挂件*1天</td></tr>\n</tbody>\n</table>\n\n<p><strong>嘉宾私信：</strong></p>\n<p>阶段一：【520】恭喜宝宝与用户昵称完成心动信号任务一，获得心动信号上麦动效*1天奖励，继续加油呀~</p>\n<p>阶段二：【520】恭喜宝宝与用户昵称完成心动信号任务二，获得心动信号麦序框*1天奖励，继续加油呀~</p>\n<p>阶段三：【520】恭喜宝宝与用户昵称完成心动信号任务三，获得心动信号称号*1天奖励，继续加油呀~</p>\n<p>阶段四：【520】恭喜宝宝与用户昵称完成心动信号任务四，获得心动信号发言波纹*1天奖励，继续加油呀~</p>\n<p>阶段五：【520】恭喜宝宝与用户昵称完成心动信号任务五，获得心动信号主页挂件*1天奖励，继续加油呀~</p>\n\n<p><strong>备注：</strong>本玩法所有CP关系生成、任务进度累计、奖励发放、私信发送均由系统自动触发，无需运营人工介入。</p>\n\n<h2>2、5月20日玩法--牵手日</h2>\n<p><strong>玩法时间：</strong>5月20日00:00:00-5月20日23:59:59</p>\n<p><strong>玩法逻辑：</strong></p>\n<p>单日循环任务：用户和主播/嘉宾的CP间，每完成2轮全程核心任务，CP双方可获得牵手日限定资料卡浮屏*3天奖励。</p>\n<table>\n<tbody>\n<tr><th>对象</th><th>资源名称</th><th>id</th><th>私信</th></tr>\n<tr><td>主播/嘉宾</td><td>心动信号资料卡浮屏</td><td>待配置</td><td>【520】恭喜宝宝与用户昵称完成今日牵手任务，获得CP限定心动信号资料卡浮屏*3天奖励，快去佩戴吧~</td></tr>\n<tr><td>用户</td><td>告白来电资料卡浮屏</td><td>待配置</td><td>【520】恭喜宝宝与主播昵称完成今日牵手任务，获得CP限定告白来电资料卡浮屏*3天奖励，快去佩戴吧~</td></tr>\n</tbody>\n</table>\n\n<h2>3、5月21日玩法--告白日</h2>\n<p><strong>玩法时间：</strong>5月21日00:00:00-5月21日23:59:59</p>\n<p><strong>玩法逻辑：</strong></p>\n<p>在全程玩法的基础上增加告白曝光。CP间每完成一个任务阶段，系统自动触发一次告白曝光；告白文案随机从文案库中抽取。</p>\n<p>单轮任务内，曝光等级随任务阶段升级；累计完成第1轮、第2轮、第3轮任务时，全站双头像画面样式与H5页面CP样式同步升级。</p>\n<p>直播间内公聊：【520】用户昵称向主播昵称发来心动信号，文案库随机短句~</p>\n<p>全站弹幕：【520】用户昵称为主播昵称点亮专属告白，文案库随机短句~</p>\n<p>全站悬浮公聊：【520】用户昵称把偏爱写给主播昵称，文案库随机短句~</p>\n\n<table>\n<tbody>\n<tr><th>任务阶段</th><th>阶段一</th><th>阶段二</th><th>阶段三</th><th>阶段四</th><th>阶段五</th></tr>\n<tr><td>累计心动信号</td><td>52</td><td>266</td><td>520</td><td>1314</td><td>2666</td></tr>\n<tr><td>告白轮次1</td><td>直播间内公聊</td><td>直播间内公聊</td><td>全站弹幕</td><td>全站悬浮公聊</td><td>全站双头像画面1+H5样式1</td></tr>\n<tr><td>告白轮次2</td><td>同上</td><td>同上</td><td>同上</td><td>同上</td><td>全站双头像画面2+H5样式2</td></tr>\n<tr><td>告白轮次3</td><td>同上</td><td>同上</td><td>同上</td><td>同上</td><td>全站双头像画面3+H5样式3</td></tr>\n</tbody>\n</table>\n\n<h2>4、5月22日玩法--定情日</h2>\n<p><strong>玩法时间：</strong>5月22日00:00:00-5月22日23:59:59</p>\n<p><strong>玩法逻辑：</strong></p>\n<p>在全程玩法基础上增加CP勋章收集。每完成1轮核心任务，主播/嘉宾与用户双方各获得1枚成对CP勋章。合计3组勋章，完成3轮循环可集齐3组勋章。集齐后系统自动触发双头像文字广播。</p>\n<p>双头像文字广播：【520】用户昵称与主播昵称完成心动约定，定格专属CP瞬间~</p>\n<table>\n<tbody>\n<tr><th>完成轮次</th><th>奖励</th></tr>\n<tr><td>完成一轮任务</td><td>CP勋章第一组</td></tr>\n<tr><td>完成两轮任务</td><td>CP勋章第二组</td></tr>\n<tr><td>完成三轮任务</td><td>CP勋章第三组+双头像文字广播</td></tr>\n</tbody>\n</table>\n\n<h2>5、5月23日-5月24日玩法--守护日</h2>\n<p><strong>玩法时间：</strong>5月23日00:00:00-5月24日23:59:59</p>\n<p><strong>玩法逻辑：</strong></p>\n<p>活动后两日强化CP持续付费目标。CP累计完成轮次达到对应档位时，双方自动升级CP守护等级，并延长部分已获得资源时长。</p>\n<table>\n<tbody>\n<tr><th>累计完成轮次</th><th>CP守护等级</th><th>奖励</th><th>私信</th></tr>\n<tr><td>3轮</td><td>心动守护Lv.1</td><td>双方头像框、称号各延长1天</td><td>【520】恭喜宝宝与CP完成心动守护Lv.1，头像框、称号奖励已自动延长1天~</td></tr>\n<tr><td>5轮</td><td>心动守护Lv.2</td><td>双方主页挂件、主页浮屏各延长2天</td><td>【520】恭喜宝宝与CP完成心动守护Lv.2，主页资源奖励已自动延长2天~</td></tr>\n<tr><td>8轮</td><td>心动守护Lv.3</td><td>双方核心身份资源各延长3天，并触发全站双头像广播1次</td><td>【520】恭喜宝宝与CP完成心动守护Lv.3，限定资源奖励已自动延长3天~</td></tr>\n</tbody>\n</table>\n\n<h2>6、小时榜</h2>\n<p><strong>玩法时间：</strong>5月21日00:00:00-5月24日23:59:59</p>\n<p><strong>玩法逻辑：</strong></p>\n<p>每自然小时内心动信号次数最多的CP登上下一小时直播间icon双头像位，点击双头像可跳转主播/嘉宾所在直播间。小时榜按CP维度自动统计、自动排序、自动刷新，无需人工配置。</p>\n<p>若同小时多个CP心动信号次数相同，则按该小时内活动专属礼物钻石消耗高低排序；仍相同则按最早达成时间排序。</p>\n\n<h2>7、CP日榜</h2>\n<p><strong>玩法时间：</strong>5月20日00:00:00-5月24日23:59:59每日00:00:00-23:59:59</p>\n<p><strong>玩法逻辑：</strong></p>\n<p>活动期间，当红主播、新秀主播、派对嘉宾每日累计心动信号次数参与日榜争夺，根据榜单排名解锁奖励。榜单每日24点后由系统自动结算并发奖。</p>\n\n<h3>当红主播</h3>\n<table>\n<tbody>\n<tr><th>排名</th><th>主播奖励</th><th>用户奖励</th><th>主播私信</th><th>用户私信</th></tr>\n<tr><td>1</td><td>一眼心动头像框*5天、一眼心动称号*5天、热门推荐卡*3张、一眼心动主页挂件*5天、一眼心动主页浮屏*5天</td><td>命中偏爱头像框*5天、命中偏爱称号*5天、命中偏爱主页挂件*5天、命中偏爱主页浮屏*5天</td><td>【520】恭喜宝宝与用户昵称成为当红CP日榜TOP1，奖励已自动发放，继续加油啊~</td><td>【520】恭喜宝宝与主播昵称成为当红CP日榜TOP1，奖励已自动发放，继续加油啊~</td></tr>\n<tr><td>2-5</td><td>一眼心动头像框*3天、一眼心动称号*3天、热门推荐卡*1张、一眼心动主页挂件*3天、一眼心动主页浮屏*3天</td><td>命中偏爱头像框*3天、命中偏爱称号*3天、命中偏爱主页挂件*3天、命中偏爱主页浮屏*3天</td><td>【520】恭喜宝宝与用户昵称成为当红CP日榜TOP5，奖励已自动发放，继续加油啊~</td><td>【520】恭喜宝宝与主播昵称成为当红CP日榜TOP5，奖励已自动发放，继续加油啊~</td></tr>\n<tr><td>6-10</td><td>一眼心动头像框*2天、一眼心动称号*2天、一眼心动主页挂件*2天、一眼心动主页浮屏*2天</td><td>命中偏爱头像框*2天、命中偏爱称号*2天、命中偏爱主页挂件*2天、命中偏爱主页浮屏*2天</td><td>【520】恭喜宝宝与用户昵称成为当红CP日榜TOP10，奖励已自动发放，继续加油啊~</td><td>【520】恭喜宝宝与主播昵称成为当红CP日榜TOP10，奖励已自动发放，继续加油啊~</td></tr>\n</tbody>\n</table>\n\n<h3>新秀主播</h3>\n<table>\n<tbody>\n<tr><th>排名</th><th>主播奖励</th><th>用户奖励</th><th>主播私信</th><th>用户私信</th></tr>\n<tr><td>1</td><td>一眼心动头像框*3天、一眼心动称号*3天、热门推荐卡*1张、一眼心动主页挂件*3天、一眼心动主页浮屏*3天</td><td>命中偏爱头像框*3天、命中偏爱称号*3天、命中偏爱主页挂件*3天、命中偏爱主页浮屏*3天</td><td>【520】恭喜宝宝与用户昵称成为新秀CP日榜TOP1，奖励已自动发放，继续加油啊~</td><td>【520】恭喜宝宝与主播昵称成为新秀CP日榜TOP1，奖励已自动发放，继续加油啊~</td></tr>\n<tr><td>2-5</td><td>一眼心动头像框*2天、一眼心动称号*2天、一眼心动主页挂件*2天、一眼心动主页浮屏*2天</td><td>命中偏爱头像框*2天、命中偏爱称号*2天、命中偏爱主页挂件*2天、命中偏爱主页浮屏*2天</td><td>【520】恭喜宝宝与用户昵称成为新秀CP日榜TOP5，奖励已自动发放，继续加油啊~</td><td>【520】恭喜宝宝与主播昵称成为新秀CP日榜TOP5，奖励已自动发放，继续加油啊~</td></tr>\n<tr><td>6-10</td><td>一眼心动头像框*1天、一眼心动称号*1天、一眼心动主页挂件*1天、一眼心动主页浮屏*1天</td><td>命中偏爱头像框*1天、命中偏爱称号*1天、命中偏爱主页挂件*1天、命中偏爱主页浮屏*1天</td><td>【520】恭喜宝宝与用户昵称成为新秀CP日榜TOP10，奖励已自动发放，继续加油啊~</td><td>【520】恭喜宝宝与主播昵称成为新秀CP日榜TOP10，奖励已自动发放，继续加油啊~</td></tr>\n</tbody>\n</table>\n\n<h3>派对嘉宾</h3>\n<table>\n<tbody>\n<tr><th>排名</th><th>嘉宾奖励</th><th>用户奖励</th><th>嘉宾私信</th><th>用户私信</th></tr>\n<tr><td>1</td><td>一眼心动麦序框*5天、一眼心动称号*5天、一眼心动主页挂件*5天、一眼心动主页浮屏*5天、一眼心动上麦动效*5天、一眼心动发言波纹*5天</td><td>命中偏爱麦序框*5天、命中偏爱称号*5天、命中偏爱主页挂件*5天、命中偏爱主页浮屏*5天、命中偏爱上麦动效*5天、命中偏爱发言波纹*5天</td><td>【520】恭喜宝宝与用户昵称成为嘉宾CP日榜TOP1，奖励已自动发放，继续加油啊~</td><td>【520】恭喜宝宝与主播昵称成为嘉宾CP日榜TOP1，奖励已自动发放，继续加油啊~</td></tr>\n<tr><td>2-5</td><td>一眼心动麦序框*3天、一眼心动称号*3天、一眼心动主页挂件*3天、一眼心动主页浮屏*3天、一眼心动上麦动效*3天、一眼心动发言波纹*3天</td><td>命中偏爱麦序框*3天、命中偏爱称号*3天、命中偏爱主页挂件*3天、命中偏爱主页浮屏*3天、命中偏爱上麦动效*3天、命中偏爱发言波纹*3天</td><td>【520】恭喜宝宝与用户昵称成为嘉宾CP日榜TOP5，奖励已自动发放，继续加油啊~</td><td>【520】恭喜宝宝与主播昵称成为嘉宾CP日榜TOP5，奖励已自动发放，继续加油啊~</td></tr>\n<tr><td>6-10</td><td>一眼心动麦序框*2天、一眼心动称号*2天、一眼心动主页挂件*2天、一眼心动主页浮屏*2天、一眼心动上麦动效*2天、一眼心动发言波纹*2天</td><td>命中偏爱麦序框*2天、命中偏爱称号*2天、命中偏爱主页挂件*2天、命中偏爱主页浮屏*2天、命中偏爱上麦动效*2天、命中偏爱发言波纹*2天</td><td>【520】恭喜宝宝与用户昵称成为嘉宾CP日榜TOP10，奖励已自动发放，继续加油啊~</td><td>【520】恭喜宝宝与主播昵称成为嘉宾CP日榜TOP10，奖励已自动发放，继续加油啊~</td></tr>\n</tbody>\n</table>\n\n<h2>8、活动专属礼物</h2>\n<p><strong>玩法时间：</strong>5月20日00:00:00-5月24日23:59:59</p>\n<p><strong>玩法逻辑：</strong>配置520爱情主题活动专属礼物，礼物进入礼物墙并参与全程CP任务、单日任务、小时榜、日榜统计。</p>\n<table>\n<tbody>\n<tr><th>礼物名称</th><th>价格</th><th>id</th><th>备注</th></tr>\n<tr><td>心动信笺</td><td>52</td><td>待配置</td><td>新，活动基础礼物</td></tr>\n<tr><td>告白玫瑰</td><td>99</td><td>待配置</td><td>复用/换肤均可</td></tr>\n<tr><td>月光热气球</td><td>520</td><td>待配置</td><td>新，520主题</td></tr>\n<tr><td>恋爱电台</td><td>1314</td><td>待配置</td><td>复用/换肤均可</td></tr>\n<tr><td>余生约定</td><td>5200</td><td>待配置</td><td>高光礼物</td></tr>\n</tbody>\n</table>\n\n<h2>9、资源配置</h2>\n<table>\n<tbody>\n<tr><th>类型</th><th>名称</th><th>id</th><th>备注</th></tr>\n<tr><td>称号</td><td>心动信号称号</td><td>待配置</td><td>主播/嘉宾任务奖励</td></tr>\n<tr><td>称号</td><td>告白来电称号</td><td>待配置</td><td>用户任务奖励</td></tr>\n<tr><td>点亮</td><td>心动信号点亮</td><td>待配置</td><td>主播任务奖励</td></tr>\n<tr><td>发言波纹</td><td>心动信号发言波纹</td><td>待配置</td><td>嘉宾任务奖励</td></tr>\n<tr><td>发言波纹</td><td>告白来电发言波纹</td><td>待配置</td><td>用户任务奖励</td></tr>\n<tr><td>公聊角标</td><td>告白来电公聊角标</td><td>待配置</td><td>用户任务奖励</td></tr>\n<tr><td>公聊皮肤</td><td>告白来电公聊皮肤</td><td>待配置</td><td>用户任务奖励</td></tr>\n<tr><td>麦序框</td><td>心动信号麦序框</td><td>待配置</td><td>嘉宾任务奖励</td></tr>\n<tr><td>麦序框</td><td>告白来电麦序框</td><td>待配置</td><td>用户任务奖励</td></tr>\n<tr><td>上麦动效</td><td>心动信号上麦动效</td><td>待配置</td><td>嘉宾任务奖励</td></tr>\n<tr><td>上麦动效</td><td>告白来电上麦动效</td><td>待配置</td><td>用户任务奖励</td></tr>\n<tr><td>头像框</td><td>心动信号头像框</td><td>待配置</td><td>主播任务/日榜奖励</td></tr>\n<tr><td>头像框</td><td>告白来电头像框</td><td>待配置</td><td>用户任务奖励</td></tr>\n<tr><td>主页挂件</td><td>心动信号主页挂件</td><td>待配置</td><td>主播/嘉宾任务奖励</td></tr>\n<tr><td>主页挂件</td><td>告白来电主页挂件</td><td>待配置</td><td>用户任务奖励</td></tr>\n<tr><td>资料卡浮屏</td><td>心动信号资料卡浮屏</td><td>待配置</td><td>牵手日奖励</td></tr>\n<tr><td>资料卡浮屏</td><td>告白来电资料卡浮屏</td><td>待配置</td><td>牵手日奖励</td></tr>\n<tr><td>勋章</td><td>心动约定勋章组</td><td>待配置</td><td>定情日奖励</td></tr>\n<tr><td>双头像画面</td><td>全站双头像画面1/2/3</td><td>待配置</td><td>告白日曝光</td></tr>\n<tr><td>双头像文字广播</td><td>心动约定双头像文字广播</td><td>待配置</td><td>定情日曝光</td></tr>\n</tbody>\n</table>\n\n<h2>10、自动触发链路</h2>\n<table>\n<tbody>\n<tr><th>触发节点</th><th>系统动作</th><th>是否需要人工</th></tr>\n<tr><td>用户送活动专属礼物</td><td>自动识别收礼对象并生成/更新1V1 CP关系</td><td>否</td></tr>\n<tr><td>CP累计满52钻</td><td>自动累计1次心动信号</td><td>否</td></tr>\n<tr><td>达到任务阶段</td><td>自动发放双方奖励、发送双方私信、刷新H5进度</td><td>否</td></tr>\n<tr><td>完成1轮任务</td><td>自动进入下一轮循环，并触发单日玩法判断</td><td>否</td></tr>\n<tr><td>触发告白曝光</td><td>自动从文案库随机取文案，并按曝光等级展示</td><td>否</td></tr>\n<tr><td>每自然小时结束</td><td>自动计算小时榜，并更新下一小时icon双头像位</td><td>否</td></tr>\n<tr><td>每日24点后</td><td>自动结算CP日榜、自动发奖、自动发送私信</td><td>否</td></tr>\n</tbody>\n</table>\n\n<h2>11、异常及限制说明</h2>\n<p>1、非活动专属礼物不计入本活动任务、榜单及曝光统计。</p>\n<p>2、活动期内同一用户可与多个主播/嘉宾形成不同CP，不同CP进度相互独立。</p>\n<p>3、榜单结算后奖励自动发放至对应账号，若账号处于封禁、注销等异常状态，则不发放奖励且不递补。</p>\n<p>4、如出现刷量、作弊、异常交易等风险行为，系统按平台风控规则自动剔除异常数据；必要时运营可在活动结束后复核，但主链路不依赖人工介入。</p>\n\n<h2>12、文案库</h2>\n<p>世界吵闹，我只想安静喜欢你</p>\n<p>没什么大事，就想和你过一生</p>\n<p>日子平平淡淡，有你就刚刚好</p>\n<p>偏爱不用讲理由，心里只有你</p>\n<p>慢慢相逢，慢慢相爱，慢慢到老</p>\n<p>我的温柔和例外，全都给了你</p>\n<p>不慌不忙，余生刚好遇见你</p>\n<p>平凡烟火里，只想偏爱你一人</p>\n<p>往后晨昏四季，都想和你共度</p>\n<p>把心动收藏，私藏岁岁年年</p>\n<p>人间理想千万，偏爱只给你</p>\n<p>我的世界不大，刚好装下一个你</p>\n<p>余生很长，麻烦你多多指教</p>\n<p>我的所有偏爱，专属限定给你</p>\n<p>遇见你的那一刻，万物都温柔</p>",
+      "representation": "storage",
+      "_expandable": {
+        "content": "/rest/api/content/502073993"
+      }
+    },
+    "_expandable": {
+      "editor": "",
+      "view": "",
+      "export_view": "",
+      "styled_view": "",
+      "anonymous_export_view": ""
+    }
+  },
+  "extensions": {
+    "position": "none"
+  },
+  "_links": {
+    "webui": "/pages/viewpage.action?pageId=502073993",
+    "edit": "/pages/resumedraft.action?draftId=502073993",
+    "tinyui": "/x/iQrtHQ",
+    "collection": "/rest/api/content",
+    "base": "https://wiki.inkept.cn",
+    "context": "",
+    "self": "https://wiki.inkept.cn/rest/api/content/502073993"
+  },
+  "_expandable": {
+    "container": "/rest/api/space/xueyuan",
+    "metadata": "",
+    "operations": "",
+    "children": "/rest/api/content/502073993/child",
+    "restrictions": "/rest/api/content/502073993/restriction/byOperation",
+    "history": "/rest/api/content/502073993/history",
+    "descendants": "/rest/api/content/502073993/descendant"
+  }
+}

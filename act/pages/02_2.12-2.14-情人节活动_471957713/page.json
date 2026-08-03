@@ -1,0 +1,233 @@
+{
+  "id": "471957713",
+  "type": "page",
+  "status": "current",
+  "title": "2.12-2.14-情人节活动",
+  "space": {
+    "id": 3571713,
+    "key": "xueyuan",
+    "name": "映客直播业务",
+    "type": "global",
+    "_links": {
+      "webui": "/display/xueyuan",
+      "self": "https://wiki.inkept.cn/rest/api/space/xueyuan"
+    },
+    "_expandable": {
+      "metadata": "",
+      "icon": "",
+      "description": "",
+      "retentionPolicy": "",
+      "homepage": "/rest/api/content/320866330"
+    }
+  },
+  "version": {
+    "by": {
+      "type": "known",
+      "username": "yeyusong",
+      "userKey": "8aef971660112e1f01610c33c52f0049",
+      "profilePicture": {
+        "path": "/images/icons/profilepics/default.svg",
+        "width": 48,
+        "height": 48,
+        "isDefault": true
+      },
+      "displayName": "叶玉松",
+      "_links": {
+        "self": "https://wiki.inkept.cn/rest/api/user?key=8aef971660112e1f01610c33c52f0049"
+      },
+      "_expandable": {
+        "status": ""
+      }
+    },
+    "when": "2026-03-06T16:01:51.000+08:00",
+    "message": "",
+    "number": 29,
+    "minorEdit": false,
+    "hidden": false,
+    "_links": {
+      "self": "https://wiki.inkept.cn/rest/experimental/content/471957713/version/29"
+    },
+    "_expandable": {
+      "content": "/rest/api/content/471957713"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "320866330",
+      "type": "page",
+      "status": "current",
+      "title": "映客直播业务",
+      "extensions": {
+        "position": "none"
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=320866330",
+        "edit": "/pages/resumedraft.action?draftId=320866330&draftShareId=d5d92a4f-fb15-4a51-8bd6-16333cb6f165",
+        "tinyui": "/x/GgggEw",
+        "self": "https://wiki.inkept.cn/rest/api/content/320866330"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/320866330/child",
+        "restrictions": "/rest/api/content/320866330/restriction/byOperation",
+        "history": "/rest/api/content/320866330/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/320866330/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    },
+    {
+      "id": "326510548",
+      "type": "page",
+      "status": "current",
+      "title": "直播业务线-运营",
+      "extensions": {
+        "position": 2
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=326510548",
+        "edit": "/pages/resumedraft.action?draftId=326510548&draftShareId=0ea027df-6f8f-4663-bbd6-217ba023f41b",
+        "tinyui": "/x/1Cd2Ew",
+        "self": "https://wiki.inkept.cn/rest/api/content/326510548"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/326510548/child",
+        "restrictions": "/rest/api/content/326510548/restriction/byOperation",
+        "history": "/rest/api/content/326510548/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/326510548/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    },
+    {
+      "id": "331456836",
+      "type": "page",
+      "status": "current",
+      "title": "【活动组】",
+      "extensions": {
+        "position": 11
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=331456836",
+        "edit": "/pages/resumedraft.action?draftId=331456836",
+        "tinyui": "/x/RKHBEw",
+        "self": "https://wiki.inkept.cn/rest/api/content/331456836"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/331456836/child",
+        "restrictions": "/rest/api/content/331456836/restriction/byOperation",
+        "history": "/rest/api/content/331456836/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/331456836/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    },
+    {
+      "id": "452644191",
+      "type": "page",
+      "status": "current",
+      "title": "【2026营收运营活动】",
+      "extensions": {
+        "position": "none"
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=452644191",
+        "edit": "/pages/resumedraft.action?draftId=452644191&draftShareId=97d3197f-f0cd-4143-8fbf-d96b4892c680",
+        "tinyui": "/x/X836Gg",
+        "self": "https://wiki.inkept.cn/rest/api/content/452644191"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/452644191/child",
+        "restrictions": "/rest/api/content/452644191/restriction/byOperation",
+        "history": "/rest/api/content/452644191/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/452644191/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    },
+    {
+      "id": "462598884",
+      "type": "page",
+      "status": "current",
+      "title": "2026年2月份活动",
+      "extensions": {
+        "position": "none"
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=462598884",
+        "edit": "/pages/resumedraft.action?draftId=462598884&draftShareId=744b2fa4-aa8c-4445-a22d-8439470cf97f",
+        "tinyui": "/x/5LKSGw",
+        "self": "https://wiki.inkept.cn/rest/api/content/462598884"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/462598884/child",
+        "restrictions": "/rest/api/content/462598884/restriction/byOperation",
+        "history": "/rest/api/content/462598884/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/462598884/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    }
+  ],
+  "body": {
+    "storage": {
+      "value": "<p class=\"auto-cursor-target\"><br /></p><table class=\"wrapped\"><tbody class=\"\"><tr class=\"\"><td>礼物名称</td><td>价格</td><td>礼物ID</td><td>备注</td></tr><tr class=\"\"><td>玫瑰小映</td><td>1666</td><td>23871</td><td>banner链接已更改</td></tr><tr class=\"\"><td>星河玫瑰</td><td>5</td><td>23884</td><td>banner链接已更改</td></tr><tr class=\"\"><td>炽焰玫瑰</td><td>21</td><td>23947</td><td>　</td></tr><tr class=\"\"><td>指尖星光</td><td>99</td><td>23948</td><td>　</td></tr><tr class=\"\"><td>爱意定格</td><td>520</td><td>23949</td><td>　</td></tr><tr class=\"\"><td>以爱为名</td><td>3344</td><td>23950</td><td>　</td></tr><tr class=\"\"><td>雪落倾心</td><td>8888</td><td>23951</td><td>　</td></tr><tr class=\"\"><td>公主的骑士</td><td>13140</td><td>23952</td><td>　</td></tr><tr class=\"\"><td>星河女神</td><td>33440</td><td>23953</td><td>　</td></tr><tr class=\"\"><td>挚爱牵手</td><td>52000</td><td>23954</td><td>　</td></tr><tr class=\"\"><td>星辰予你</td><td>99999​</td><td>23955</td><td>　</td></tr></tbody></table><h2>&nbsp;</h2><h2><strong>一、活动背景</strong></h2><p>1、在情人节期间，设置&ldquo;情人节专属&rdquo;活动，带动消耗。</p><h2><strong>二、活动目标</strong></h2><p>活动钻石消耗达到4500万钻石消耗，日均消耗900万钻石</p><h2><strong>三、活动时间</strong></h2><p>2月10日00:00:00-2月14日23:59:59（共5天）</p><h2><strong>四、活动框架</strong></h2><p><strong><ac:image ac:height=\"400\"><ri:attachment ri:filename=\"image-2026-1-13_18-51-4.png\" /></ac:image><br /></strong></p><h2><strong>五、</strong><strong>活动详情</strong></h2><h3><s><strong>2.10-2.12&nbsp; &nbsp; 爱神巡礼</strong></s></h3><ul><li><s><span style=\"color: rgb(50,50,50);\">活动期间，用户每次在直播间做出<span style=\"color: rgb(255,0,0);\"><strong>发送公聊、送出免费小映</strong></span>等（礼物ID：3039）两个活跃行为，每次均有10%概率获得1朵花瓣道具、每日活跃获得玫瑰花行为获得上限为10朵，获得道具后下发至背包；每日首次获得触发仅自己可见公聊提醒：</span></s></li></ul><table class=\"wrapped\"><colgroup><col /><col /></colgroup><tbody><tr><th scope=\"col\"><s>类型</s></th><th scope=\"col\"><s>文案</s></th></tr><tr><td><s>发送公聊</s></td><td><s><span style=\"color: rgb(50,50,50);\">【情人节】恭喜宝宝完成发送公聊消息行为，获得花瓣道具*1，送出道具达到对应数值可成为爱神丘比特哦~</span></s></td></tr><tr><td><s>送出免费小映</s></td><td><s><span style=\"color: rgb(50,50,50);\">【情人节】恭喜宝宝完成送出免费小映行为，获得花瓣道具*1，送出道具达到对应数值可成为爱神丘比特哦~</span></s></td></tr></tbody></table><ul><li class=\"auto-cursor-target\"><s><span style=\"color: rgb(50,50,50);\">活动期间，用户每送出活动专属礼物达到21钻均有机会获得花瓣道具，机会按照下表随机下发，每日首次获得触发仅自己可见公聊提醒：【情人节】恭喜宝宝送礼行为，获得花瓣道具*<span style=\"color: rgb(255,0,0);\"><strong>对应数量</strong></span>，送出道具达到对应数值可成为爱神丘比特哦~</span></s></li><li class=\"auto-cursor-target\"><p class=\"auto-cursor-target\"><s><strong><span style=\"color: rgb(50,50,50);\">给表格</span></strong></s></p><table class=\"wrapped\"><colgroup><col style=\"width: 60.0pt;\" /><col /></colgroup><tbody><tr><td style=\"text-align: center;\"><s>朵数</s></td><td style=\"text-align: center;\"><s>比例</s></td></tr><tr><td style=\"text-align: center;\"><s>0</s></td><td style=\"text-align: center;\"><s>42.40%</s></td></tr><tr><td style=\"text-align: center;\"><s>1</s></td><td style=\"text-align: center;\"><s>30.00%</s></td></tr><tr><td style=\"text-align: center;\"><s>9</s></td><td style=\"text-align: center;\"><s>15.00%</s></td></tr><tr><td style=\"text-align: center;\"><s>21</s></td><td style=\"text-align: center;\"><s>8.00%</s></td></tr><tr><td style=\"text-align: center;\"><s>52</s></td><td style=\"text-align: center;\"><s>3.00%</s></td></tr><tr><td style=\"text-align: center;\"><s>99</s></td><td style=\"text-align: center;\"><s>1.00%</s></td></tr><tr><td style=\"text-align: center;\"><s>520</s></td><td style=\"text-align: center;\"><s>0.50%</s></td></tr><tr><td style=\"text-align: center;\"><s>999</s></td><td style=\"text-align: center;\"><s>0.10%</s></td></tr></tbody></table><p class=\"auto-cursor-target\"><br /></p></li><li><s><span style=\"color: rgb(50,50,50);\">活动期间，用户送出花瓣道具给到主播达到对应数量可解锁对应奖励，每送出999朵必得直播间画面，每送出9999朵解锁&ldquo;爱神丘比特&rdquo;身份*2小时，解锁以下奖励：</span></s></li><li><s><span style=\"color: rgb(50,50,50);\">注：爱神奖励下发为累计，资源按照正常下发即可，进房通知、进房动效奖励可延续至2月14日23:59:59结束；</span></s></li><li><s><span style=\"color: rgb(50,50,50);\">进房通知文案：【情人节】欢迎爱神丘比特&ldquo;用户昵称&rdquo;进入直播间，爱神降临，以箭为信，心向所爱~</span></s></li><li><s>资源奖励</s></li></ul><p class=\"auto-cursor-target\"><br /></p><table class=\"wrapped\"><colgroup><col /><col /><col /></colgroup><tbody><tr><th scope=\"col\"><s>资源奖励</s></th><th scope=\"col\"><s>资源ID</s></th><th scope=\"col\"><s>URL</s></th></tr><tr><td><s>称号</s></td><td><br /></td><td><br /></td></tr><tr><td><s>头像框</s></td><td><br /></td><td><br /></td></tr><tr><td><s>麦序框</s></td><td><br /></td><td><br /></td></tr><tr><td><s>进房动效</s></td><td><br /></td><td><br /></td></tr></tbody></table><ul><li><s><span style=\"color: rgb(50,50,50);\">活动期间，主播每收取玫瑰花达到999朵，可参与一次奖励抽取，具体如下：</span></s></li><li><s><strong><span style=\"color: rgb(50,50,50);\">给表格</span></strong></s></li></ul><table class=\"wrapped\"><tbody><tr><td><s>主播奖品</s></td><td><s>机会</s></td><td><s>陪陪奖品</s></td><td><s>机会</s></td><td><s>机会</s></td></tr><tr><td><s>映宝</s></td><td><s>0.10%</s></td><td><s>映宝</s></td><td><s>0.10%</s></td><td><s>限制每日全站1个</s></td></tr><tr><td><s>水果挂件</s></td><td><s>0.50%</s></td><td><s>水果挂件</s></td><td><s>0.50%</s></td><td><s>限制每日全站3个</s></td></tr><tr><td><s>头像框</s></td><td><s>39.40%</s></td><td><s>头像</s></td><td><s>39.40%</s></td><td><s>　</s></td></tr><tr><td><s>头像框</s></td><td><s>30.00%</s></td><td><s>麦序</s></td><td><s>30.00%</s></td><td><s>　</s></td></tr><tr><td><s>称号</s></td><td><s>20.00%</s></td><td><s>称号</s></td><td><s>20.00%</s></td><td><s>　</s></td></tr><tr><td><s>主页挂件</s></td><td><s>5.00%</s></td><td><s>发言波纹</s></td><td><s>5.00%</s></td><td><s>　</s></td></tr><tr><td><s>主页挂件</s></td><td><s>5.00%</s></td><td><s>上麦动效</s></td><td><s>5.00%</s></td><td><s>　</s></td></tr></tbody></table><p class=\"auto-cursor-target\"><strong style=\"font-size: 16.0px;letter-spacing: -0.006em;\">2.12-2.14&nbsp; &nbsp; &nbsp;情人节礼包</strong></p><p class=\"auto-cursor-target\"><strong style=\"font-size: 16.0px;letter-spacing: -0.006em;\"><span style=\"color: rgb(33,33,33);\">您申请的SourceType: [减少钻石-消耗-平台运营组-情人节礼包专用-2026-01-29] 已经审批完成</span><br /><span style=\"color: rgb(33,33,33);\">SourceType:<span>&nbsp;</span></span><strong>765</strong><br /><span style=\"color: rgb(33,33,33);\">起始时间：2026-01-29 16:19:27</span><br /><span style=\"color: rgb(33,33,33);\">结束时间：2026-05-28 16:19:27</span><br /><span style=\"color: rgb(33,33,33);\">APP账单记录文案：直播收入</span><br /><span style=\"color: rgb(33,33,33);\">是否计入送礼流水：是</span><br /><span style=\"color: rgb(33,33,33);\">是否计入基准流水：是</span><br /><span style=\"color: rgb(33,33,33);\">是否计入无背包基准映币：否</span><br /><span style=\"color: rgb(33,33,33);\">否计入实际映币收入：是</span><br /><span style=\"color: rgb(33,33,33);\">是否为赠送钻石：否</span><br /><span style=\"color: rgb(33,33,33);\">SourceType Hash:<span>&nbsp;</span></span><strong>25512ddd5f7dea2a1d484c2b70fe674d</strong><br /><span style=\"color: rgb(33,33,33);\">* HASH使用时请保持小写，请及时关注SourceType预警邮件。</span></strong></p><p class=\"auto-cursor-target\"><br /></p><p class=\"auto-cursor-target\"><strong style=\"font-size: 16.0px;letter-spacing: -0.006em;\"><span style=\"color: rgb(33,33,33);\">您申请的SourceType: [背包礼物-赠送-平台运营组-情人节小映、礼包专用-2026-01-29] 已经审批完成<br />SourceType:<span>&nbsp;</span><strong>4350</strong><br />您申请的操作对象为：背包礼物，请把对应的soucetype提供给&ldquo;活动业务组&rdquo;，用于下发背包礼物；<br />起始时间：2026-01-29 16:18:01<br />结束时间：2026-05-28 16:18:01<br />APP账单记录文案：直播收入<br />是否计入送礼流水：是<br />是否计入基准流水：是<br />是否计入无背包基准映币：否<br />否计入实际映币收入：是<br />是否为赠送钻石：否<br />SourceType Hash:<span>&nbsp;</span><strong>221e13096cf6a20a6e6dd800556752b4</strong><br />* HASH使用时请保持小写，请及时关注SourceType预警邮件。</span></strong></p><ul><li>活动期间，用户每日可通过购买情人节礼包获取特权、背包礼物奖励，<strong><span style=\"color: rgb(50,50,50);\">每日购买上限为5次，每次限制购买1个。</span></strong></li><li><span style=\"color: rgb(50,50,50);\">情人节礼包，<strong>用户花费2钻石购买礼包，礼包内包含</strong>头像框*12小时<strong>、有机会获得</strong>10钻礼物<strong>。</strong></span></li><li><span style=\"color: rgb(50,50,50);\">购买方式为：每日首次进入直播间可触发直播间弹窗购买，后续仅可进入活动页面购买，用户点击我要购买后，出2次弹窗给到结果&nbsp; &nbsp;&ldquo;恭喜宝宝购买获得以下特权&rdquo;</span></li><li><span style=\"color: rgb(50,50,50);\">购买成功后下发至背包</span></li><li><span style=\"color: rgb(50,50,50);\"><strong>时间段不同礼包内容不同</strong></span></li></ul><table class=\"wrapped\"><colgroup><col /></colgroup><tbody><tr><th style=\"text-align: center;\" scope=\"col\">2月12日-2月14日</th></tr><tr><td><strong><span style=\"color: rgb(50,50,50);\">心动时刻头像框，心动时刻麦序框，概率获得10钻礼物</span></strong></td></tr></tbody></table><p class=\"auto-cursor-target\"><br /></p><table class=\"wrapped\"><tbody><tr><td>心动时刻头像框</td><td>6287</td><td><a href=\"https://img.ikstatic.cn/MTczNTExOTgyMjYwOCM4NzQjcG5n.png\">https://img.ikstatic.cn/MTczNTExOTgyMjYwOCM4NzQjcG5n.png</a></td></tr><tr><td>心动时刻麦序框</td><td>6291</td><td><a href=\"https://img.ikstatic.cn/MTczNTExOTgyMjYwOCM4NzQjcG5n.png\">https://img.ikstatic.cn/MTczNTExOTgyMjYwOCM4NzQjcG5n.png</a></td></tr></tbody></table><p class=\"auto-cursor-target\"><br /></p><table class=\"wrapped\"><tbody><tr><td>序号</td><td>资源类型</td><td>资源名称</td><td>背包ID</td><td>价值</td><td>权重</td><td>图片url</td></tr><tr><td>prize_id</td><td>prize_type</td><td>prize_name</td><td>resource_id</td><td>gold</td><td>prize_bili</td><td>img</td></tr><tr><td>1</td><td>　</td><td>　</td><td><br /></td><td>　</td><td>80</td><td><br /></td></tr><tr><td>2</td><td>背包礼物</td><td>璀璨星河</td><td>6681</td><td>10</td><td>20</td><td><a href=\"https://img.ikstatic.cn/MTY3NTkxMzk1MDI4MyMgODMjcG5n.png\">https://img.ikstatic.cn/MTY3NTkxMzk1MDI4MyMgODMjcG5n.png</a></td></tr></tbody></table><p><strong>2.12-2.14&nbsp; &nbsp; 浪漫告白</strong></p><p><strong>1、CP任务</strong></p><ul><li><span style=\"color: rgb(50,50,50);\">活动期间，用户为主播送出活动专属礼物，即可与主播完成CP任务，用户每为主播送礼达到X值即可触发一次直播间画面及榜单积分加成及全站告白。</span></li><li><span style=\"color: rgb(255,0,0);\"><strong>用户完成任务时需判断主播/用户性别，若为女则下发女性装扮，为男则下发男性装扮，若相同性别，就按照各自性别发，榜单同理。</strong></span></li><li><span style=\"color: rgb(255,0,0);\"><strong>送礼满2000钻以后，后续每送礼达到520钻可直播间公聊告白1次，h5飘屏，送礼满60000钻以后，告白样式升级为直播间弹幕（单次送礼触发多次告白发1条），H5飘屏，文案库运营提供随机发。</strong></span></li><li><strong><span style=\"color: rgb(50,50,50);\">给表格</span></strong></li></ul><table class=\"relative-table wrapped\" style=\"width: 1562.0px;\"><colgroup><col style=\"width: 125.0px;\" /><col style=\"width: 204.0px;\" /><col style=\"width: 125.0px;\" /><col style=\"width: 143.0px;\" /><col style=\"width: 123.0px;\" /><col style=\"width: 113.0px;\" /><col style=\"width: 113.0px;\" /><col style=\"width: 113.0px;\" /><col style=\"width: 113.0px;\" /><col style=\"width: 388.0px;\" /></colgroup><thead><tr><th style=\"text-align: center;\"><p>蓄能阶段</p></th><th style=\"text-align: center;\"><p>阶段一</p></th><th style=\"text-align: center;\"><p>阶段二</p></th><th style=\"text-align: center;\"><p>阶段三</p></th><th style=\"text-align: center;\"><p>阶段四</p></th><th style=\"text-align: center;\"><p>阶段五</p></th><th style=\"text-align: center;\"><p>阶段六</p></th><th style=\"text-align: center;\"><p>阶段七</p></th><th style=\"text-align: center;\"><p>阶段八</p></th><th style=\"text-align: center;\">无限任务</th></tr></thead><tbody><tr><td style=\"text-align: center;\">蓄能值</td><td style=\"text-align: center;\">2000</td><td style=\"text-align: center;\">5000</td><td style=\"text-align: center;\">8000</td><td style=\"text-align: center;\">13140</td><td style=\"text-align: center;\">33440</td><td style=\"text-align: center;\">60000</td><td style=\"text-align: center;\">80000</td><td style=\"text-align: center;\">100000</td><td style=\"text-align: center;\">100000</td></tr><tr><td style=\"text-align: center;\">用户奖励</td><td style=\"text-align: center;\">CP麦序框</td><td style=\"text-align: center;\">CP头像框</td><td style=\"text-align: center;\">CP公聊角标</td><td style=\"text-align: center;\">CP公聊皮肤</td><td style=\"text-align: center;\">CP称号</td><td style=\"text-align: center;\">CP主页挂件</td><td style=\"text-align: center;\">CP主页浮屏</td><td style=\"text-align: center;\">CP进房座驾</td><td style=\"text-align: center;\" rowspan=\"2\"><p>全站告白（画面广播）</p><p><br /></p></td></tr><tr><td style=\"text-align: center;\">主播奖励</td><td style=\"text-align: center;\">CP麦序框</td><td style=\"text-align: center;\">CP头像框</td><td style=\"text-align: center;\">CP公聊角标</td><td style=\"text-align: center;\">CP公聊皮肤</td><td style=\"text-align: center;\">CP称号</td><td style=\"text-align: center;\">CP主页挂件</td><td style=\"text-align: center;\">CP主页挂件</td><td style=\"text-align: center;\">CP进房座驾</td></tr><tr><td style=\"text-align: center;\">用户私信</td><td style=\"text-align: center;\"><span style=\"color: rgb(0,0,0);\">【情人节】恭喜宝宝和主播昵称完成</span><span style=\"color: rgb(0,0,0);\">任务一，获得奖励名称*5天</span><span style=\"color: rgb(0,0,0);\">奖励，快去看看吧~</span></td><td style=\"text-align: center;\"><span style=\"color: rgb(0,0,0);\">【情人节】恭喜宝宝和主播昵称完成</span><span style=\"color: rgb(0,0,0);\">任务二，获得奖励名称*5天</span><span style=\"color: rgb(0,0,0);\">奖励，快去看看吧~</span></td><td style=\"text-align: center;\"><span style=\"color: rgb(0,0,0);\">【情人节】恭喜宝宝和主播昵称完成</span><span style=\"color: rgb(0,0,0);\">任务三，获得奖励名称*5天</span><span style=\"color: rgb(0,0,0);\">奖励，快去看看吧~</span></td><td style=\"text-align: center;\"><span style=\"color: rgb(0,0,0);\">【情人节】恭喜宝宝和主播昵称完成</span><span style=\"color: rgb(0,0,0);\">任务四，获得奖励名称*5天</span><span style=\"color: rgb(0,0,0);\">奖励，快去看看吧~</span></td><td style=\"text-align: center;\"><span style=\"color: rgb(0,0,0);\">【情人节】恭喜宝宝和主播昵称完成</span><span style=\"color: rgb(0,0,0);\">任务五，获得奖励名称*5天</span><span style=\"color: rgb(0,0,0);\">奖励，快去看看吧~</span></td><td style=\"text-align: center;\"><span style=\"color: rgb(0,0,0);\">【情人节】恭喜宝宝和主播昵称完成</span><span style=\"color: rgb(0,0,0);\">任务六，获得奖励名称*5天</span><span style=\"color: rgb(0,0,0);\">奖励，快去看看吧~</span></td><td style=\"text-align: center;\"><span style=\"color: rgb(0,0,0);\">【情人节】恭喜宝宝和主播昵称完成</span><span style=\"color: rgb(0,0,0);\">任务七，获得奖励名称*5天</span><span style=\"color: rgb(0,0,0);\">奖励，快去看看吧~</span></td><td style=\"text-align: center;\"><span style=\"color: rgb(0,0,0);\">【情人节】恭喜宝宝和主播昵称完成</span><span style=\"color: rgb(0,0,0);\">任务八，获得奖励名称*5天</span><span style=\"color: rgb(0,0,0);\">奖励，快去看看吧~</span></td><td style=\"text-align: center;\"><p><span style=\"color: rgb(0,0,0);\">【情人节】恭喜您携手主播昵称完成任务</span><span style=\"color: rgb(0,0,0);\">，获得全站告白和全站双头像画面告白</span><span style=\"color: rgb(0,0,0);\">奖励，快去看看吧~</span></p><p><br /></p></td></tr><tr><td style=\"text-align: center;\">主播私信</td><td style=\"text-align: center;\"><span style=\"color: rgb(0,0,0);\">【情人节】恭喜宝宝和用户昵称完成</span><span style=\"color: rgb(0,0,0);\">任务一，获得奖励名称*5天</span><span style=\"color: rgb(0,0,0);\">奖励，快去看看吧~</span></td><td style=\"text-align: center;\"><span style=\"color: rgb(0,0,0);\">【情人节】恭喜宝宝和用户昵称完成</span><span style=\"color: rgb(0,0,0);\">任务二，获得奖励名称*5天</span><span style=\"color: rgb(0,0,0);\">奖励，快去看看吧~</span></td><td style=\"text-align: center;\"><span style=\"color: rgb(0,0,0);\">【情人节】恭喜宝宝和用户昵称完成</span><span style=\"color: rgb(0,0,0);\">任务三，获得奖励名称*5天</span><span style=\"color: rgb(0,0,0);\">奖励，快去看看吧~</span></td><td style=\"text-align: center;\"><span style=\"color: rgb(0,0,0);\">【情人节】恭喜宝宝和用户昵称完成</span><span style=\"color: rgb(0,0,0);\">任务四，获得奖励名称*5天</span><span style=\"color: rgb(0,0,0);\">奖励，快去看看吧~</span></td><td style=\"text-align: center;\"><span style=\"color: rgb(0,0,0);\">【情人节】恭喜宝宝和用户昵称完成</span><span style=\"color: rgb(0,0,0);\">任务五，获得奖励名称*5天</span><span style=\"color: rgb(0,0,0);\">奖励，快去看看吧~</span></td><td style=\"text-align: center;\"><span style=\"color: rgb(0,0,0);\">【情人节】恭喜宝宝和用户昵称完成</span><span style=\"color: rgb(0,0,0);\">任务六，获得奖励名称*5天</span><span style=\"color: rgb(0,0,0);\">奖励，快去看看吧~</span></td><td style=\"text-align: center;\"><span style=\"color: rgb(0,0,0);\">【情人节】恭喜宝宝和用户昵称完成</span><span style=\"color: rgb(0,0,0);\">任务七，获得奖励名称*5天</span><span style=\"color: rgb(0,0,0);\">奖励，快去看看吧~</span></td><td style=\"text-align: center;\"><span style=\"color: rgb(0,0,0);\">【情人节】恭喜宝宝和用户昵称完成</span><span style=\"color: rgb(0,0,0);\">任务八，获得奖励名称*5天</span><span style=\"color: rgb(0,0,0);\">奖励，快去看看吧~</span></td><td style=\"text-align: center;\"><span style=\"color: rgb(0,0,0);\">【情人节】恭喜用户昵称携手宝宝完成</span><span style=\"color: rgb(0,0,0);\">任务，获得全站告白</span></td></tr></tbody></table><p><span style=\"color: rgb(23,43,77);\"><strong>2、霸屏玩法</strong></span></p><p><span style=\"color: rgb(23,43,77);\"><ac:inline-comment-marker ac:ref=\"5e81dbc9-6eb4-4bd3-a907-e5677fe3343a\">每自然小时</ac:inline-comment-marker>全站送礼最多的用户且符合门槛值（送礼大于等于10000映币）可对其送礼最多的主播告白，<ac:inline-comment-marker ac:ref=\"f4fae30d-b034-4e95-af3d-081116c4c735\">并霸屏告白墙1小时<u>恋爱传送门（ICON跳转主播直播间）+告白文案（走文案库）</u></ac:inline-comment-marker>奖励。</span></p><p class=\"auto-cursor-target\"><strong>活动全程玩法</strong></p><p class=\"auto-cursor-target\"><strong>榜单玩法</strong></p><p>活动日榜：</p><p><strong><span style=\"color: rgb(51,153,102);\">玩法逻辑：</span></strong></p><ul><li><span style=\"color: rgb(0,0,0);\"><span style=\"color: rgb(17,31,44);\">活动每日为主播贡献TOP1即可和主播成为每日最佳情侣，并展示在页面中。</span></span></li><li><strong><span style=\"color: rgb(50,50,50);\">给表格</span></strong></li></ul><table class=\"relative-table wrapped\" style=\"width: 1108.33px;\"><colgroup><col style=\"width: 54.3125px;\" /><col style=\"width: 290.135px;\" /><col style=\"width: 276.104px;\" /></colgroup><thead><tr><td style=\"text-align: center;\" colspan=\"3\">大主播</td></tr><tr><th style=\"text-align: center;\"><p>排名</p></th><th style=\"text-align: center;\"><p>主播奖励</p></th><th style=\"text-align: center;\" colspan=\"1\">用户奖励</th></tr></thead><tbody><tr><td style=\"text-align: center;\">1</td><td style=\"text-align: center;\"><div class=\"content-wrapper\"><p><span style=\"color: rgb(0,0,0);\">CP头像框*5天、CP称号*5天、热门推荐卡*3张、CP主页挂件*5天、CP主页浮屏</span></p><p><br /></p></div></td><td style=\"text-align: center;\" colspan=\"1\"><p><span style=\"color: rgb(0,0,0);\">CP头像框*5天、CP称号*5天、CP主页挂件*5天、CP主页浮屏*5天</span></p></td></tr><tr><td style=\"text-align: center;\" colspan=\"1\">2-5</td><td style=\"text-align: center;\" colspan=\"1\"><p><span style=\"color: rgb(0,0,0);\">CP头像框*3天、CP称号*3天、热门推荐卡*1张、CP主页挂件*3天、CP主页浮屏*3天</span></p></td><td style=\"text-align: center;\" colspan=\"1\"><p><span style=\"color: rgb(0,0,0);\">CP头像框*3天、CP称号*3天、CP主页挂件*3天、CP主页浮屏*3天</span></p></td></tr><tr><td style=\"text-align: center;\" colspan=\"1\">6-10</td><td style=\"text-align: center;\" colspan=\"1\"><p><span style=\"color: rgb(0,0,0);\">CP头像框*2天、CP称号*2天、CP主页挂件*2天、CP主页浮屏*2天</span></p></td><td style=\"text-align: center;\" colspan=\"1\"><p><span style=\"color: rgb(0,0,0);\">CP头像框*2天、CP称号*2天、CP主页挂件*2天、CP主页浮屏*2天</span></p></td></tr></tbody></table><p class=\"auto-cursor-target\"><br /></p><table class=\"relative-table wrapped\" style=\"width: 1114.0px;\"><colgroup><col style=\"width: 138.0px;\" /><col style=\"width: 483.0px;\" /><col style=\"width: 492.0px;\" /></colgroup><thead><tr><td style=\"text-align: center;\" colspan=\"3\"><span style=\"color: rgb(0,0,0);\">小主播</span></td></tr><tr><th style=\"text-align: center;\"><p><span style=\"color: rgb(0,0,0);\">排名</span></p></th><th style=\"text-align: center;\"><p><span style=\"color: rgb(0,0,0);\">主播奖励</span></p></th><th style=\"text-align: center;\" colspan=\"1\"><span style=\"color: rgb(0,0,0);\">用户奖励</span></th></tr></thead><tbody><tr><td style=\"text-align: center;\"><span style=\"color: rgb(0,0,0);\">1</span></td><td style=\"text-align: center;\"><div class=\"content-wrapper\"><p><span style=\"color: rgb(0,0,0);\">CP头像框*3天、CP称号*3天、热门推荐卡*1张、CP主页挂件*3天、CP主页浮屏*3天</span></p></div></td><td style=\"text-align: center;\" colspan=\"1\"><p><span style=\"color: rgb(0,0,0);\">CP头像框*3天、CP称号*3天、CP主页挂件*3天、CP主页浮屏*3天</span></p></td></tr><tr><td style=\"text-align: center;\" colspan=\"1\"><span style=\"color: rgb(0,0,0);\">2-5</span></td><td style=\"text-align: center;\" colspan=\"1\"><p><span style=\"color: rgb(0,0,0);\">CP头像框*2天、CP称号*2天、CP主页挂件*2天、CP主页浮屏*2天</span></p></td><td style=\"text-align: center;\" colspan=\"1\"><p><span style=\"color: rgb(0,0,0);\">CP头像框*2天、CP称号*2天、CP主页挂件*2天、CP主页浮屏*2天</span></p></td></tr><tr><td style=\"text-align: center;\" colspan=\"1\"><span style=\"color: rgb(0,0,0);\">6-10</span></td><td style=\"text-align: center;\" colspan=\"1\"><p><span style=\"color: rgb(0,0,0);\">CP头像框*1天、CP称号*1天、CP主页挂件*1天、CP主页浮屏*1天</span></p></td><td style=\"text-align: center;\" colspan=\"1\"><p><span style=\"color: rgb(0,0,0);\">CP头像框*1天、CP称号*1天、CP主页挂件*1天、CP主页浮屏*1天</span></p></td></tr></tbody></table><p class=\"auto-cursor-target\"><br /></p><table class=\"relative-table wrapped\" style=\"width: 1108.33px;\"><colgroup><col style=\"width: 73.0312px;\" /><col style=\"width: 390.417px;\" /><col style=\"width: 419.385px;\" /></colgroup><thead><tr><td style=\"text-align: center;\" colspan=\"3\">陪陪</td></tr><tr><th style=\"text-align: center;\"><p>排名</p></th><th style=\"text-align: center;\"><p>主播奖励</p></th><th style=\"text-align: center;\">用户奖励</th></tr></thead><tbody><tr><td style=\"text-align: center;\">1</td><td style=\"text-align: center;\"><div class=\"content-wrapper\"><p>CP麦序框*5天、CP称号*5天、CP主页挂件*5天、CP主页浮屏*5天、上麦动效*5天、发言波纹*5天</p></div></td><td style=\"text-align: center;\"><p>CP麦序框*5天、CP称号*5天、CP主页挂件*5天、CP主页浮屏*5天、上麦动效*5天、发言波纹*5天</p></td></tr><tr><td style=\"text-align: center;\">2-5</td><td style=\"text-align: center;\"><div class=\"content-wrapper\"><p>CP麦序框*3天、CP称号*3天、CP主页挂件*3天、CP主页浮屏*3天、上麦动效*3天、发言波纹*3天</p></div><p><br /></p></td><td style=\"text-align: center;\"><p>CP麦序框*5天、CP称号*5天、CP主页挂件*5天、CP主页浮屏*5天、CP主页浮屏*3天、上麦动效*3天、发言波纹*3天</p><p><br /></p></td></tr><tr><td style=\"text-align: center;\">6-10</td><td style=\"text-align: center;\"><p>CP头像框*2天、CP称号*2天、CP主页挂件*2天、CP主页浮屏*2天、上麦动效*2天、发言波纹*2天</p></td><td style=\"text-align: center;\"><p>CP头像框*2天、CP称号*2天、CP主页挂件*2天、CP主页浮屏*2天、上麦动效*2天、发言波纹*2天</p></td></tr></tbody></table><p>CP总榜</p><ul><li>勋章（uid定制）</li><li>混榜top-1：情侣短位靓号15天：5201314&amp;1314521</li><li>混榜top-1：定制AI礼物</li></ul><p>主播CP榜</p><ul><li><strong><span style=\"color: rgb(50,50,50);\">给表格</span></strong></li></ul><table class=\"wrapped\"><colgroup><col /><col /></colgroup><tbody><tr><td style=\"text-align: left;\">1</td><td style=\"text-align: left;\">CP勋章、CP称号、CP头像框、CP主页挂件、开屏、热推卡</td></tr><tr><td style=\"text-align: left;\">2</td><td style=\"text-align: left;\">CP勋章、CP称号、CP头像框、CP主页挂件、开屏、热推卡</td></tr><tr><td style=\"text-align: left;\">3</td><td style=\"text-align: left;\">CP勋章、CP称号、CP头像框、CP主页挂件、开屏、热推卡</td></tr><tr><td style=\"text-align: left;\">4-10</td><td style=\"text-align: left;\">勋章、CP称号、CP头像框</td></tr></tbody></table><p>嘉宾CP榜</p><table class=\"wrapped\"><colgroup><col /><col /></colgroup><tbody><tr><td style=\"text-align: left;\">1</td><td style=\"text-align: left;\">CP勋章、CP称号、房间靓号、发言波纹、上麦动效、麦序框</td></tr><tr><td style=\"text-align: left;\" colspan=\"1\">2</td><td style=\"text-align: left;\" colspan=\"1\"><span>CP勋章、CP称号、房间靓号、发言波纹、上麦动效、麦序框</span></td></tr><tr><td style=\"text-align: left;\" colspan=\"1\">3</td><td style=\"text-align: left;\" colspan=\"1\"><span>CP勋章、CP称号、房间靓号、发言波纹、上麦动效、麦序框</span></td></tr><tr><td style=\"text-align: left;\" colspan=\"1\">4-10</td><td style=\"text-align: left;\" colspan=\"1\"><span>勋章、CP称号、发言波纹、上麦动效、麦序框</span></td></tr></tbody></table><p><strong>大R用户玩法---弹窗</strong></p><p><span style=\"color: rgb(50,50,50);\">用户充值达到门槛值可解锁专属礼物+专属礼物套（礼物双头像画面+礼物画面）+专属告白套装</span></p><table class=\"relative-table wrapped\" style=\"width: 604.232px;\"><colgroup><col style=\"width: 170.716px;\" /><col style=\"width: 166.198px;\" /><col style=\"width: 266.484px;\" /></colgroup><tbody><tr><td style=\"text-align: left;\" colspan=\"1\">任务</td><td style=\"text-align: left;\">充值档位</td><td style=\"text-align: center;\">解锁奖励</td></tr><tr><td style=\"text-align: left;\" colspan=\"1\">任务一</td><td style=\"text-align: left;\">3999元</td><td style=\"text-align: center;\">解锁礼物送出权</td></tr><tr><td style=\"text-align: left;\" colspan=\"1\">任务二</td><td style=\"text-align: left;\">6999元</td><td style=\"text-align: center;\"><span>解锁礼物送出权</span></td></tr><tr><td style=\"text-align: left;\" colspan=\"1\">任务三</td><td style=\"text-align: left;\">9999元</td><td style=\"text-align: center;\">解锁专属告白套装</td></tr><tr><td style=\"text-align: left;\" colspan=\"1\">任务四</td><td style=\"text-align: left;\">19999元</td><td style=\"text-align: center;\">解锁礼物使用权</td></tr></tbody></table><p><br /></p>",
+      "representation": "storage",
+      "_expandable": {
+        "content": "/rest/api/content/471957713"
+      }
+    },
+    "_expandable": {
+      "editor": "",
+      "view": "",
+      "export_view": "",
+      "styled_view": "",
+      "anonymous_export_view": ""
+    }
+  },
+  "extensions": {
+    "position": "none"
+  },
+  "_links": {
+    "webui": "/pages/viewpage.action?pageId=471957713",
+    "edit": "/pages/resumedraft.action?draftId=471957713&draftShareId=9ac6fff8-7239-4d66-a744-5426b07f3e56",
+    "tinyui": "/x/0YAhH",
+    "collection": "/rest/api/content",
+    "base": "https://wiki.inkept.cn",
+    "context": "",
+    "self": "https://wiki.inkept.cn/rest/api/content/471957713"
+  },
+  "_expandable": {
+    "container": "/rest/api/space/xueyuan",
+    "metadata": "",
+    "operations": "",
+    "children": "/rest/api/content/471957713/child",
+    "restrictions": "/rest/api/content/471957713/restriction/byOperation",
+    "history": "/rest/api/content/471957713/history",
+    "descendants": "/rest/api/content/471957713/descendant"
+  }
+}

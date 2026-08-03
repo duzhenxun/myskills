@@ -1,0 +1,13 @@
+<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Team worktree</title><link rel="stylesheet" href="../shared/slides.css"></head><body>
+<article class="slide" aria-label="Team worktree 隔离">
+  <div class="masthead">OH-MY-CODEX / TECHNICAL SHARING</div><h1 class="slide-title">每个 Team Worker 默认拥有独立 worktree</h1><div class="title-rule"></div>
+  <section class="content">
+    <div class="worktree-map">
+      <section class="repo"><h2>REPO / LEADER</h2><p>integration owner</p></section>
+      <div class="worktree-arrows"><div class="arrow"></div><div class="arrow"></div><div class="arrow"></div></div>
+      <div class="worktrees"><section class="worktree"><h3>worker-1 worktree</h3><p>isolated checkout + commit</p></section><section class="worktree"><h3>worker-2 worktree</h3><p>isolated checkout + commit</p></section><section class="worktree"><h3>worker-3 worktree</h3><p>isolated checkout + commit</p></section></div>
+      <div class="worktree-arrows"><div class="arrow"></div><div class="arrow"></div><div class="arrow"></div></div>
+      <section class="integration"><h2>INTEGRATION GATE</h2><p>review<br>merge / conflict handling<br>regression tests</p></section>
+    </div><div class="worktree-warning label">独立 worktree 降低冲突概率，但不保证自动无冲突合并</div>
+  </section><footer class="footer"><span class="source">来源：本机 v0.20.2 README / Team runtime；omx team --help</span><span class="page">08</span></footer>
+</article><script src="../shared/slide.js"></script></body></html>

@@ -1,0 +1,233 @@
+{
+  "id": "483795095",
+  "type": "page",
+  "status": "current",
+  "title": "3.19-3.22 假面舞会",
+  "space": {
+    "id": 3571713,
+    "key": "xueyuan",
+    "name": "映客直播业务",
+    "type": "global",
+    "_links": {
+      "webui": "/display/xueyuan",
+      "self": "https://wiki.inkept.cn/rest/api/space/xueyuan"
+    },
+    "_expandable": {
+      "metadata": "",
+      "icon": "",
+      "description": "",
+      "retentionPolicy": "",
+      "homepage": "/rest/api/content/320866330"
+    }
+  },
+  "version": {
+    "by": {
+      "type": "known",
+      "username": "chenziqi",
+      "userKey": "8aef08aa8de3822a018e35bdf3070081",
+      "profilePicture": {
+        "path": "/images/icons/profilepics/default.svg",
+        "width": 48,
+        "height": 48,
+        "isDefault": true
+      },
+      "displayName": "陈子琦",
+      "_links": {
+        "self": "https://wiki.inkept.cn/rest/api/user?key=8aef08aa8de3822a018e35bdf3070081"
+      },
+      "_expandable": {
+        "status": ""
+      }
+    },
+    "when": "2026-03-18T17:14:07.000+08:00",
+    "message": "",
+    "number": 22,
+    "minorEdit": false,
+    "hidden": false,
+    "_links": {
+      "self": "https://wiki.inkept.cn/rest/experimental/content/483795095/version/22"
+    },
+    "_expandable": {
+      "content": "/rest/api/content/483795095"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "320866330",
+      "type": "page",
+      "status": "current",
+      "title": "映客直播业务",
+      "extensions": {
+        "position": "none"
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=320866330",
+        "edit": "/pages/resumedraft.action?draftId=320866330&draftShareId=d5d92a4f-fb15-4a51-8bd6-16333cb6f165",
+        "tinyui": "/x/GgggEw",
+        "self": "https://wiki.inkept.cn/rest/api/content/320866330"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/320866330/child",
+        "restrictions": "/rest/api/content/320866330/restriction/byOperation",
+        "history": "/rest/api/content/320866330/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/320866330/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    },
+    {
+      "id": "326510548",
+      "type": "page",
+      "status": "current",
+      "title": "直播业务线-运营",
+      "extensions": {
+        "position": 2
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=326510548",
+        "edit": "/pages/resumedraft.action?draftId=326510548&draftShareId=0ea027df-6f8f-4663-bbd6-217ba023f41b",
+        "tinyui": "/x/1Cd2Ew",
+        "self": "https://wiki.inkept.cn/rest/api/content/326510548"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/326510548/child",
+        "restrictions": "/rest/api/content/326510548/restriction/byOperation",
+        "history": "/rest/api/content/326510548/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/326510548/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    },
+    {
+      "id": "331456836",
+      "type": "page",
+      "status": "current",
+      "title": "【活动组】",
+      "extensions": {
+        "position": 11
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=331456836",
+        "edit": "/pages/resumedraft.action?draftId=331456836",
+        "tinyui": "/x/RKHBEw",
+        "self": "https://wiki.inkept.cn/rest/api/content/331456836"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/331456836/child",
+        "restrictions": "/rest/api/content/331456836/restriction/byOperation",
+        "history": "/rest/api/content/331456836/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/331456836/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    },
+    {
+      "id": "452644191",
+      "type": "page",
+      "status": "current",
+      "title": "【2026营收运营活动】",
+      "extensions": {
+        "position": "none"
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=452644191",
+        "edit": "/pages/resumedraft.action?draftId=452644191&draftShareId=97d3197f-f0cd-4143-8fbf-d96b4892c680",
+        "tinyui": "/x/X836Gg",
+        "self": "https://wiki.inkept.cn/rest/api/content/452644191"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/452644191/child",
+        "restrictions": "/rest/api/content/452644191/restriction/byOperation",
+        "history": "/rest/api/content/452644191/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/452644191/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    },
+    {
+      "id": "478981918",
+      "type": "page",
+      "status": "current",
+      "title": "2026年3月份活动",
+      "extensions": {
+        "position": "none"
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=478981918",
+        "edit": "/pages/resumedraft.action?draftId=478981918&draftShareId=eb99f1fc-6661-4915-83e0-49b3a4c5a84b",
+        "tinyui": "/x/Hq_MH",
+        "self": "https://wiki.inkept.cn/rest/api/content/478981918"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/478981918/child",
+        "restrictions": "/rest/api/content/478981918/restriction/byOperation",
+        "history": "/rest/api/content/478981918/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/478981918/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    }
+  ],
+  "body": {
+    "storage": {
+      "value": "<p><span style=\"color: rgb(0,51,102);\"><strong><span style=\"color: rgb(33,33,33);\">您申请的SourceType: [增加映币-赠送-活动运营-10钻版宝剑炼化-2026-03-16] 已经审批完成</span><br /><span style=\"color: rgb(33,33,33);\">SourceType:<span>&nbsp;</span></span><strong>5392</strong><br /><span style=\"color: rgb(33,33,33);\">您申请的操作对象为：映币，请把对应的soucetype提供给&ldquo;主播运营组(礼物墙管理)&rdquo;，用于配置背包礼物；</span><br /><span style=\"color: rgb(33,33,33);\">起始时间：2026-03-16 18:29:28</span><br /><span style=\"color: rgb(33,33,33);\">结束时间：2027-03-16 18:29:28</span><br /><span style=\"color: rgb(33,33,33);\">APP账单记录文案：【假面邀约】活动获得</span><br /><span style=\"color: rgb(33,33,33);\">是否计入送礼流水：是</span><br /><span style=\"color: rgb(33,33,33);\">是否计入基准流水：是</span><br /><span style=\"color: rgb(33,33,33);\">是否计入无背包基准映币：否</span><br /><span style=\"color: rgb(33,33,33);\">否计入实际映币收入：是</span><br /><span style=\"color: rgb(33,33,33);\">是否为赠送钻石：否</span><br /><span style=\"color: rgb(33,33,33);\">SourceType Hash:<span>&nbsp;</span></span><strong>aa7092259273546824834b33b9e315ed</strong><br /><span style=\"color: rgb(33,33,33);\">* HASH使用时请保持小写，请及时关注SourceType预警邮件。</span></strong></span></p><p><br /></p><p><span style=\"color: rgb(0,51,102);\"><strong><span style=\"color: rgb(33,33,33);\">您申请的SourceType: [背包礼物-赠送-活动运营-10钻版宝剑炼化-2026-03-16] 已经审批完成<br />SourceType:<span>&nbsp;</span><strong>4360</strong><br />您申请的操作对象为：背包礼物，请把对应的soucetype提供给&ldquo;活动业务组&rdquo;，用于下发背包礼物；<br />起始时间：2026-03-16 18:27:32<br />结束时间：2027-03-16 18:27:32<br />APP账单记录文案：【假面邀约】活动获得<br />是否计入送礼流水：是<br />是否计入基准流水：是<br />是否计入无背包基准映币：否<br />否计入实际映币收入：是<br />是否为赠送钻石：否<br />SourceType Hash:<span>&nbsp;</span><strong>561b82e55829c11c5145bcf68bdf210e</strong><br />* HASH使用时请保持小写，请及时关注SourceType预警邮件。</span></strong></span></p><p><br /></p><p><br /></p><p><span style=\"color: rgb(0,51,102);\"><strong><span style=\"color: rgb(33,33,33);\">所有礼物id统计：24209,21111,24210,24211,24212,24213,24214,24215,24216,24217,24218,24219,24220,24221,24222</span></strong></span></p><p><span style=\"color: rgb(0,51,102);\"><strong><span style=\"color: rgb(33,33,33);\">礼物墙id统计：<span style=\"color: rgb(0,51,102);\"><span style=\"color: rgb(33,33,33);\">24209,21111,24210,24211,24212,24213,24214,24215,24216,24217,24218,24219</span></span></span></strong></span></p><table class=\"wrapped\"><tbody><tr><td colspan=\"1\" rowspan=\"13\">礼物墙礼物</td><td>礼物名称</td><td>价格</td><td>id</td><td>url</td><td>备注</td><td><br /></td></tr><tr><td>假面邀约</td><td>10</td><td>24209</td><td><a href=\"https://img.ikstatic.cn/MTc3MzY1NTMxMDM0MCMyOTUjcG5n.png\">https://img.ikstatic.cn/MTc3MzY1NTMxMDM0MCMyOTUjcG5n.png</a></td><td>新，幸 不参与全礼物打折,5级以下不可见 全凭</td><td>用户送给主播，主播获得1热力值，剩余参与假面的邀约，邀约最高可获得20倍礼物暴击。</td></tr><tr><td>喷钞机小映</td><td>2888</td><td>21111</td><td><a href=\"https://img.ikstatic.cn/MTc0MjM2ODA5Nzc2OCM0NzYjcG5n.png\">https://img.ikstatic.cn/MTc0MjM2ODA5Nzc2OCM0NzYjcG5n.png</a></td><td>幸</td><td><br /></td></tr><tr><td>炽焰玫瑰</td><td>21</td><td>24210</td><td><a href=\"https://img.ikstatic.cn/MTc3MDM2MjAwOTUyMCM4NTIjcG5n.png\">https://img.ikstatic.cn/MTc3MDM2MjAwOTUyMCM4NTIjcG5n.png</a></td><td><br /></td><td><br /></td></tr><tr><td>舞动芭蕾</td><td>99</td><td>24211</td><td><a href=\"https://img.ikstatic.cn/MTc2MTAxNzk2NDg0NSM5NjQjcG5n.png\">https://img.ikstatic.cn/MTc2MTAxNzk2NDg0NSM5NjQjcG5n.png</a></td><td><br /></td><td><br /></td></tr><tr><td>缚心之吻</td><td>520</td><td>24212</td><td><a href=\"https://img.ikstatic.cn/MTc1ODEwMzkwMzQzMSM4MDMjcG5n.png\">https://img.ikstatic.cn/MTc1ODEwMzkwMzQzMSM4MDMjcG5n.png</a></td><td><br /></td><td><br /></td></tr><tr><td>星空奇遇</td><td>999</td><td>24213</td><td><a href=\"https://img.ikstatic.cn/MTc0NTkxMjgwNDc1MCMyODEjcG5n.png\">https://img.ikstatic.cn/MTc0NTkxMjgwNDc1MCMyODEjcG5n.png</a></td><td><br /></td><td><br /></td></tr><tr><td>春光共许</td><td>1314</td><td>24214</td><td><a href=\"https://img.ikstatic.cn/MTc0MjQzNzMyNzI5NyMyNjYjcG5n.png\">https://img.ikstatic.cn/MTc0MjQzNzMyNzI5NyMyNjYjcG5n.png</a></td><td><br /></td><td><br /></td></tr><tr><td>泛舟湖上</td><td>5200</td><td>24215</td><td><a href=\"https://img.ikstatic.cn/MTc0NTczNjU1MzQ0NSM0ODMjcG5n.png\">https://img.ikstatic.cn/MTc0NTczNjU1MzQ0NSM0ODMjcG5n.png</a></td><td><br /></td><td><br /></td></tr><tr><td>王炸甜蜜</td><td>13140</td><td>24216</td><td><a href=\"https://img.ikstatic.cn/MTc1ODEwNDAzNDg5OCMyMDYjcG5n.png\">https://img.ikstatic.cn/MTc1ODEwNDAzNDg5OCMyMDYjcG5n.png</a></td><td>高光</td><td><br /></td></tr><tr><td>来自雪夜的你</td><td>33440</td><td>24217</td><td><a href=\"https://img.ikstatic.cn/MTc2MTI5MDQ0MzEzMiM5NjAjcG5n.png\">https://img.ikstatic.cn/MTc2MTI5MDQ0MzEzMiM5NjAjcG5n.png</a></td><td>高光</td><td><br /></td></tr><tr><td>永恒梦境</td><td>52000</td><td>24218</td><td><a href=\"https://img.ikstatic.cn/MTc2NTk0MTY5Nzg0OCM3OTAjcG5n.png\">https://img.ikstatic.cn/MTc2NTk0MTY5Nzg0OCM3OTAjcG5n.png</a></td><td>高光</td><td><br /></td></tr><tr><td>时代传奇</td><td>99999</td><td>24219</td><td><a href=\"https://img.ikstatic.cn/MTc2NTk0MTc2NzM3NSMgMjYjcG5n.png\">https://img.ikstatic.cn/MTc2NTk0MTc2NzM3NSMgMjYjcG5n.png</a></td><td>高光</td><td><br /></td></tr></tbody></table><p class=\"auto-cursor-target\"><br /></p><table class=\"wrapped\"><tbody><tr><td colspan=\"1\" rowspan=\"10\">喷钞机小映-礼物B</td><td>资源名称</td><td>资源id</td><td>价值</td><td>图片url</td></tr><tr><td>告白花火</td><td>2274</td><td>1314</td><td><a href=\"https://img.ikstatic.cn/MTYxMjUxNDUwNzMwMSM1NDIjcG5n.png\">https://img.ikstatic.cn/MTYxMjUxNDUwNzMwMSM1NDIjcG5n.png</a></td></tr><tr><td>格莱美传奇</td><td>532</td><td>1888</td><td><a href=\"http://img2.inke.cn/MTUxNTM5MjA0MzAxMCM5OTcjanBn.jpg\">http://img2.inke.cn/MTUxNTM5MjA0MzAxMCM5OTcjanBn.jpg</a></td></tr><tr><td>火锅</td><td>1044</td><td>2999</td><td><a href=\"http://img.ikstatic.cn/MTU2NDEzMzk0NjY5NyM4MTUjcG5n.png\">http://img.ikstatic.cn/MTU2NDEzMzk0NjY5NyM4MTUjcG5n.png</a></td></tr><tr><td>粉红法拉利</td><td>3255</td><td>3344</td><td><a href=\"https://img.ikstatic.cn/MTYzNjM2NTAwNjYyOSM5ODIjcG5n.png\">https://img.ikstatic.cn/MTYzNjM2NTAwNjYyOSM5ODIjcG5n.png</a></td></tr><tr><td>心之守护</td><td>4466</td><td>5200</td><td><a href=\"https://img.ikstatic.cn/MTY3OTk4NDcwMzA3NiM0MzcjcG5n.png\">https://img.ikstatic.cn/MTY3OTk4NDcwMzA3NiM0MzcjcG5n.png</a></td></tr><tr><td>冰雪圆舞曲</td><td>3595</td><td>6666</td><td><a href=\"https://img.ikstatic.cn/MTY0NTE4OTEyNzUxNSMyMjIjcG5n.png\">https://img.ikstatic.cn/MTY0NTE4OTEyNzUxNSMyMjIjcG5n.png</a></td></tr><tr><td>一吻定情</td><td>3868</td><td>9999</td><td><a href=\"https://img.ikstatic.cn/MTY1NDU5MTcwNDMwNiMzMjIjcG5n.png\">https://img.ikstatic.cn/MTY1NDU5MTcwNDMwNiMzMjIjcG5n.png</a></td></tr><tr><td>夏日游乐园</td><td>1853</td><td>13140</td><td><a href=\"http://img.ikstatic.cn/MTU5ODI0ODgyMzg4MSM3ODgjcG5n.png\">http://img.ikstatic.cn/MTU5ODI0ODgyMzg4MSM3ODgjcG5n.png</a></td></tr><tr><td>三千明灯</td><td>2969</td><td>28888</td><td><a href=\"https://img.ikstatic.cn/MTYyODE0Mjk1NjU1OSM4OTUjcG5n.png\">https://img.ikstatic.cn/MTYyODE0Mjk1NjU1OSM4OTUjcG5n.png</a></td></tr></tbody></table><p class=\"auto-cursor-target\"><br /></p><table class=\"relative-table wrapped\" style=\"width: 35.9484%;\"><colgroup><col style=\"width: 16.5494%;\" /><col style=\"width: 16.5494%;\" /><col style=\"width: 10.6481%;\" /><col style=\"width: 13.0856%;\" /><col style=\"width: 11.6744%;\" /><col style=\"width: 31.4395%;\" /></colgroup><tbody><tr><td colspan=\"1\" rowspan=\"4\">假面邀约-礼物B，BB礼物，5天有效期</td><td>礼物名称</td><td>价格</td><td>礼物id</td><td>BB ID</td><td>备注</td></tr><tr><td>蒙面侍从</td><td>50</td><td>24220</td><td>6854</td><td>BB礼物，5天有效期</td></tr><tr><td>假面贵族</td><td>100</td><td>24221</td><td>6855</td><td>BB礼物，5天有效期</td></tr><tr><td>暗夜公爵</td><td>200</td><td>24222</td><td>6856</td><td>BB礼物，5天有效期</td></tr></tbody></table><h2><span style=\"color: rgb(0,51,102);\"><strong>一、活动时间</strong></span></h2><p><span style=\"color: rgb(0,51,102);\">3月19日-3月22日</span></p><p><br /></p><h2><span style=\"color: rgb(0,51,102);\"><strong>二、活动目标：</strong></span></h2><p><span style=\"color: rgb(0,51,102);\">活动期间消耗达2000万钻；</span></p><p><br /></p><h2><span style=\"color: rgb(0,51,102);\"><strong>三、</strong><strong>活动框架</strong></span></h2><p><ac:image ac:height=\"250\"><ri:attachment ri:filename=\"111.png\" /></ac:image></p><p><span style=\"color: rgb(0,51,102);\">&nbsp;原型图：<a href=\"https://modao.cc/proto/Le5ZpVRtbbm8fKQriIIBt/sharing?view_mode=read_only&amp;screen=rbpVCnoHZCMTwkUhi\">https://modao.cc/proto/Le5ZpVRtbbm8fKQriIIBt/sharing?view_mode=read_only&amp;screen=rbpVCnoHZCMTwkUhi</a> #假面舞会-分享</span></p><p><br /></p><h2><span style=\"color: rgb(0,51,102);\"><strong>四、活动玩法</strong></span></h2><h3><span style=\"color: rgb(0,51,102);\"><strong>1、核心玩法：主播任务--假面舞会进行时</strong></span></h3><ul><li><span style=\"color: rgb(0,0,0);\">活动期间，主播收礼开启舞会。舞会分为初级舞会和高级舞会。主播活动期间累计收礼达20000钻，可以由初级舞会升级至高级舞会，该升级玩法单项不循环。</span></li><li><span style=\"color: rgb(0,0,0);\">活动期间，累计主播收礼映币数，得对应档位的资源奖励。</span></li></ul><table class=\"wrapped\"><colgroup><col style=\"width: 117.5pt;\" /><col style=\"width: 87.5pt;\" /><col style=\"width: 106.85pt;\" /><col style=\"width: 106.85pt;\" /></colgroup><tbody><tr><td>舞会</td><td>数值（不循环）</td><td>秀场</td><td>派对</td></tr><tr><td rowspan=\"3\">初级舞会</td><td>1000</td><td>PK背景*4天</td><td>公聊皮肤*4天</td></tr><tr><td>3888</td><td>贴纸*4天</td><td>麦序框*4天</td></tr><tr><td>8888</td><td>头像框*4天</td><td>上麦动效*4天</td></tr><tr><td rowspan=\"3\">高级舞会</td><td>18888</td><td>称号*4天</td><td>称号*4天</td></tr><tr><td>39999</td><td>主页挂件*4天</td><td>主页挂件*4天</td></tr><tr><td>52000</td><td>主页浮屏*4天</td><td>主页浮屏*4天</td></tr></tbody></table><p class=\"auto-cursor-target\"><br /></p><table class=\"wrapped\"><tbody><tr><td>关卡</td><td>任务值</td><td>资源类型</td><td>资源名称</td><td>资源id</td><td>时长</td><td>数量</td><td>私信内容</td></tr><tr><td>task_key</td><td>score_total</td><td>prize_type</td><td>prize_name</td><td>resource_id</td><td>duration</td><td>num</td><td>private_msg</td></tr><tr><td>1</td><td>1000</td><td>背包资源</td><td class=\"highlight-#e6fcff\" data-highlight-colour=\"#e6fcff\">假面舞会PK背景</td><td>207</td><td>4</td><td><br /></td><td>【假面舞会】恭喜宝宝进入初级舞会，完成主播任务一，获得假面舞会PK背景*4天，奖励已下发，快去查看吧～</td></tr><tr><td>2</td><td>3888</td><td>背包资源</td><td class=\"highlight-#e6fcff\" data-highlight-colour=\"#e6fcff\">假面舞会贴纸</td><td>237</td><td>4</td><td><br /></td><td>【假面舞会】恭喜宝宝进入初级舞会，完成主播任务二，获得假面舞会贴纸*4天，奖励已下发，快去查看吧～</td></tr><tr><td>3</td><td>8888</td><td>背包资源</td><td class=\"highlight-#e6fcff\" data-highlight-colour=\"#e6fcff\">假面舞会头像框</td><td>9889</td><td>4</td><td><br /></td><td>【假面舞会】恭喜宝宝进入初级舞会，完成主播任务三，获得假面舞会头像框*4天，奖励已下发，快去查看吧～</td></tr><tr><td>4</td><td>18888</td><td>称号</td><td class=\"highlight-#e6fcff\" data-highlight-colour=\"#e6fcff\">流光捕手</td><td>2215</td><td>4</td><td><br /></td><td>【假面舞会】恭喜宝宝进入高级舞会，完成主播任务四，获得流光捕手称号*4天，奖励已下发，快去查看吧～</td></tr><tr><td>5</td><td>39999</td><td>背包资源</td><td class=\"highlight-#e6fcff\" data-highlight-colour=\"#e6fcff\">假面舞会主页挂件</td><td>6855</td><td>4</td><td><br /></td><td>【假面舞会】恭喜宝宝进入高级舞会，完成主播任务五，获得假面舞会主页挂件*4天，奖励已下发，快去查看吧～</td></tr><tr><td>6</td><td>52000</td><td>背包资源</td><td class=\"highlight-#e6fcff\" data-highlight-colour=\"#e6fcff\">假面舞会主页浮屏</td><td>6857</td><td>4</td><td><br /></td><td><p>【假面舞会】恭喜宝宝进入高级舞会，完成主播任务六，获得假面舞会主页浮屏*4天，奖励已下发，快去查看吧～</p></td></tr></tbody></table><p class=\"auto-cursor-target\"><br /></p><table class=\"wrapped\"><tbody><tr><td>关卡</td><td>任务值</td><td>资源类型</td><td>资源名称</td><td>资源id</td><td>时长</td><td>数量</td><td>私信内容</td></tr><tr><td>task_key</td><td>score_total</td><td>prize_type</td><td>prize_name</td><td>resource_id</td><td>duration</td><td>num</td><td>private_msg</td></tr><tr><td>1</td><td>1000</td><td>背包资源</td><td class=\"highlight-#e6fcff\" data-highlight-colour=\"#e6fcff\">假面舞会公聊皮肤</td><td>7188</td><td>4</td><td><br /></td><td>【假面舞会】恭喜宝宝进入初级舞会，完成嘉宾任务一，获得假面舞会公聊皮肤*4天，奖励已下发，快去查看吧～</td></tr><tr><td>2</td><td>3888</td><td>背包资源</td><td class=\"highlight-#e6fcff\" data-highlight-colour=\"#e6fcff\">假面舞会麦序框</td><td>9887</td><td>4</td><td><br /></td><td>【假面舞会】恭喜宝宝进入初级舞会，完成嘉宾任务二，获得假面舞会麦序框*4天，奖励已下发，快去查看吧～</td></tr><tr><td>3</td><td>8888</td><td>背包资源</td><td class=\"highlight-#e6fcff\" data-highlight-colour=\"#e6fcff\">假面舞会上麦动效</td><td>9890</td><td>4</td><td><br /></td><td>【假面舞会】恭喜宝宝进入初级舞会，完成嘉宾任务三，获得假面舞会上麦动效*4天，奖励已下发，快去查看吧～</td></tr><tr><td>4</td><td>18888</td><td>称号</td><td class=\"highlight-#e6fcff\" data-highlight-colour=\"#e6fcff\">流光捕手</td><td>2215</td><td>4</td><td><br /></td><td>【假面舞会】恭喜宝宝进入高级舞会，完成嘉宾任务四，获得流光捕手称号*4天，奖励已下发，快去查看吧～</td></tr><tr><td>5</td><td>39999</td><td>背包资源</td><td class=\"highlight-#e6fcff\" data-highlight-colour=\"#e6fcff\">假面舞会主页挂件</td><td>6855</td><td>4</td><td><br /></td><td>【假面舞会】恭喜宝宝进入高级舞会，完成嘉宾任务五，获得假面舞会主页挂件*4天，奖励已下发，快去查看吧～</td></tr><tr><td>6</td><td>52000</td><td>背包资源</td><td class=\"highlight-#e6fcff\" data-highlight-colour=\"#e6fcff\">假面舞会主页浮屏</td><td>6857</td><td>4</td><td><br /></td><td>【假面舞会】恭喜宝宝进入高级舞会，完成嘉宾任务六，获得假面舞会主页浮屏*4天，奖励已下发，快去查看吧～</td></tr></tbody></table><p><br /></p><p><br /></p><ul><li><p><span style=\"color: rgb(0,0,0);\">用户送礼每21钻，有机会获得拼图碎片，累计拼图碎片合成<span style=\"color: rgb(255,0,0);\">1套-5套-8套</span>，可得对应资源奖励。</span></p></li><li><span style=\"color: rgb(0,0,0);\">根据用户送礼的主播所在的阶段不同，拼图碎片也不同，合成拼图的奖励也不同。</span></li><li><span style=\"color: rgb(0,0,0);\"><span style=\"color: rgb(0,0,0);\">若用户为多个主播送礼，在不同主播处均获得过不同拼图模块，均可使用组装成完整拼图。</span></span></li><li><span style=\"color: rgb(0,0,0);\">若送出一个大礼物，阶段值直接拉满，则直接将用户送出的所有钻石数直接在主播当前所处的最新阶段进行抽奖。</span></li></ul><table class=\"relative-table wrapped\" style=\"width: 22.2635%;\"><colgroup><col style=\"width: 38.3079%;\" /><col style=\"width: 32.7104%;\" /><col style=\"width: 28.8772%;\" /></colgroup><tbody><tr><td scope=\"col\">初级拼图碎片</td><td scope=\"col\">高级拼图碎片</td><td scope=\"col\">获得机会</td></tr><tr><td>空</td><td>空</td><td>60%</td></tr><tr><td>1号</td><td>A号</td><td>10%</td></tr><tr><td>2号</td><td>B号</td><td>10%</td></tr><tr><td>3号</td><td>C号</td><td>5%</td></tr><tr><td>4号</td><td>D号</td><td>5%</td></tr><tr><td>5号</td><td>E号</td><td>5%</td></tr><tr><td>6号</td><td>F号</td><td>5%</td></tr></tbody></table><p class=\"auto-cursor-target\"><br /></p><table class=\"relative-table wrapped\" style=\"width: 13.1196%;\"><colgroup><col style=\"width: 24.7725%;\" /><col style=\"width: 75.0793%;\" /></colgroup><tbody><tr><td scope=\"col\">套数</td><td scope=\"col\">预计花费钻石数</td></tr><tr><td>1</td><td>882</td></tr><tr><td>2</td><td>1491</td></tr><tr><td>3</td><td>2058</td></tr><tr><td>4</td><td>2604</td></tr><tr><td>5</td><td>3129</td></tr><tr><td>6</td><td>3633</td></tr><tr><td>7</td><td>4137</td></tr><tr><td>8</td><td>4641</td></tr><tr><td>9</td><td>5124</td></tr><tr><td>10</td><td>5628</td></tr></tbody></table><p class=\"auto-cursor-target\"><br /></p><table class=\"relative-table wrapped\" style=\"width: 25.5562%;\"><colgroup><col style=\"width: 63.896%;\" /><col style=\"width: 36.0102%;\" /></colgroup><tbody><tr><td scope=\"col\">初级完整成套拼图（不循环）</td><td scope=\"col\">用户获得奖励</td></tr><tr><td><span style=\"color: rgb(255,0,0);\">1套</span></td><td>称号*4天</td></tr><tr><td><span style=\"color: rgb(255,0,0);\">5套</span></td><td>观众席底纹*4天</td></tr><tr><td><span style=\"color: rgb(255,0,0);\">8套</span></td><td>送礼托盘*4天</td></tr></tbody></table><p class=\"auto-cursor-target\"><br /></p><table class=\"wrapped\"><tbody><tr><td>关卡</td><td>任务值</td><td>资源类型</td><td>资源名称</td><td>资源id</td><td>时长</td><td>数量</td><td>私信内容</td></tr><tr><td>task_key</td><td>score_total</td><td>prize_type</td><td>prize_name</td><td>resource_id</td><td>duration</td><td>num</td><td>private_msg</td></tr><tr><td>1</td><td><span style=\"color: rgb(255,0,0);\">1</span></td><td>背包资源</td><td class=\"highlight-#e6fcff\" data-highlight-colour=\"#e6fcff\">公爵的舞伴公聊皮肤</td><td>6863</td><td>4</td><td><br /></td><td class=\"highlight-#ffebe6\" data-highlight-colour=\"#ffebe6\">【假面舞会】恭喜宝宝在初级舞会场集齐了1整套拼图，获得公爵的舞伴公聊皮肤*4天奖励，奖励已下发，快去看看~</td></tr><tr><td>2</td><td><span style=\"color: rgb(255,0,0);\">5</span></td><td>背包资源</td><td class=\"highlight-#e6fcff\" data-highlight-colour=\"#e6fcff\">公爵的舞伴观众席底纹</td><td>9886</td><td>4</td><td><br /></td><td class=\"highlight-#ffebe6\" data-highlight-colour=\"#ffebe6\">【假面舞会】恭喜宝宝在初级舞会场集齐了<strong title=\"\"><span style=\"color: rgb(255,0,0);\">5</span></strong>整套拼图，获得公爵的舞伴观众席底纹*4天奖励，奖励已下发，快去看看~</td></tr><tr><td>3</td><td><span style=\"color: rgb(255,0,0);\">8</span></td><td>背包资源</td><td class=\"highlight-#e6fcff\" data-highlight-colour=\"#e6fcff\">公爵的舞伴动态头像框</td><td>9481</td><td>4</td><td><br /></td><td class=\"highlight-#ffebe6\" data-highlight-colour=\"#ffebe6\">【假面舞会】恭喜宝宝在初级舞会场集齐了<strong title=\"\"><span style=\"color: rgb(255,0,0);\">8</span></strong>整套拼图，获得公爵的舞伴动态头像框*4天奖励，奖励已下发，快去看看~</td></tr></tbody></table><p class=\"auto-cursor-target\"><br /></p><table class=\"relative-table wrapped\" style=\"width: 24.8183%;\"><colgroup><col style=\"width: 34.3796%;\" /><col style=\"width: 34.9569%;\" /></colgroup><tbody><tr><td>高级完整成套拼图（不循环）</td><td>用户获得奖励</td></tr><tr><td>1套</td><td>弹幕边框*4天</td></tr><tr><td>2套</td><td>动态头像框*4天</td></tr><tr><td>3套</td><td>半屏座驾*4天</td></tr></tbody></table><p class=\"auto-cursor-target\"><br /></p><table class=\"wrapped\"><tbody><tr><td>关卡</td><td>任务值</td><td>资源类型</td><td>资源名称</td><td>资源id</td><td>时长</td><td>数量</td><td>私信内容</td></tr><tr><td>task_key</td><td>score_total</td><td>prize_type</td><td>prize_name</td><td>resource_id</td><td>duration</td><td>num</td><td>private_msg</td></tr><tr><td>1</td><td><span style=\"color: rgb(255,0,0);\">1</span></td><td>称号</td><td class=\"highlight-#e6fcff\" data-highlight-colour=\"#e6fcff\">公爵的舞伴</td><td>2216</td><td>4</td><td><br /></td><td class=\"highlight-#ffebe6\" data-highlight-colour=\"#ffebe6\">【假面舞会】恭喜宝宝在高级舞会场集齐了1整套拼图，获得公爵的舞伴称号*4天奖励，奖励已下发，快去看看~</td></tr><tr><td>2</td><td><span style=\"color: rgb(255,0,0);\">5</span></td><td>背包资源</td><td class=\"highlight-#e6fcff\" data-highlight-colour=\"#e6fcff\">公爵的舞伴送礼托盘</td><td>9888</td><td>4</td><td><br /></td><td class=\"highlight-#ffebe6\" data-highlight-colour=\"#ffebe6\">【假面舞会】恭喜宝宝在高级舞会场集齐了<strong title=\"\"><span style=\"color: rgb(255,0,0);\">5</span></strong>整套拼图，获得公爵的舞伴送礼托盘*4天奖励，奖励已下发，快去看看~</td></tr><tr><td>3</td><td><span style=\"color: rgb(255,0,0);\">8</span></td><td>背包资源</td><td class=\"highlight-#e6fcff\" data-highlight-colour=\"#e6fcff\">公爵的舞伴座驾</td><td>9472</td><td>4</td><td><br /></td><td class=\"highlight-#ffebe6\" data-highlight-colour=\"#ffebe6\">【假面舞会】恭喜宝宝在高级舞会场集齐了<strong title=\"\"><span style=\"color: rgb(255,0,0);\">8</span></strong>整套拼图，获得公爵的舞伴座驾*4天奖励，奖励已下发，快去看看~</td></tr></tbody></table><p class=\"auto-cursor-target\"><br /></p><p class=\"auto-cursor-target\"><span style=\"color: rgb(0,51,102);font-size: 16.0px;font-weight: bold;letter-spacing: -0.006em;\"><strong>2、</strong></span><span style=\"color: rgb(0,51,102);font-size: 16.0px;font-weight: bold;letter-spacing: -0.006em;\"><strong>用户--贡献榜单</strong></span></p><ul><li><span style=\"color: rgb(0,51,102);\">主播开启高级舞会，即可开启用户贡献总榜榜单奖励，用户活动期间贡献钻石数达到TOP3即可获得以下资源奖励。</span></li></ul><table class=\"wrapped\"><tbody><tr><td>排名</td><td>资源类型</td><td>资源名称</td><td>资源id</td><td>时长</td><td>数量</td><td>私信内容</td></tr><tr><td>rank</td><td>prize_type</td><td>prize_name</td><td>resource_id</td><td>duration</td><td>num</td><td>private_msg</td></tr><tr><td>1</td><td>称号</td><td class=\"highlight-#e6fcff\" data-highlight-colour=\"#e6fcff\">假面的邀约</td><td>2217</td><td>3</td><td><br /></td><td>【假面舞会】恭喜宝宝成为主播昵称贡献榜TOP1，获得假面的邀约称号*3天、假面的邀约头像框*3天、假面的邀约麦序框*3天、假面的邀约资料卡浮屏*3天奖励，快去看看吧~</td></tr><tr><td><br /></td><td>背包资源</td><td class=\"highlight-#e6fcff\" data-highlight-colour=\"#e6fcff\">假面的邀约麦序框</td><td>7179</td><td>3</td><td><br /></td><td><br /></td></tr><tr><td><br /></td><td>背包资源</td><td class=\"highlight-#e6fcff\" data-highlight-colour=\"#e6fcff\">假面的邀约头像框</td><td>7177</td><td>3</td><td><br /></td><td><br /></td></tr><tr><td><br /></td><td>背包资源</td><td class=\"highlight-#e6fcff\" data-highlight-colour=\"#e6fcff\">假面的邀约资料卡浮屏</td><td>3307</td><td>3</td><td><br /></td><td><br /></td></tr><tr><td>2_3</td><td>称号</td><td class=\"highlight-#e6fcff\" data-highlight-colour=\"#e6fcff\">假面的邀约</td><td>2217</td><td>1</td><td><br /></td><td>【假面舞会】恭喜宝宝成为主播昵称贡献榜TOP3，获得假面的邀约称号*1天、假面的邀约头像框*1天、假面的邀约麦序框*1天奖励，快去看看吧~</td></tr><tr><td><br /></td><td>背包资源</td><td class=\"highlight-#e6fcff\" data-highlight-colour=\"#e6fcff\">假面的邀约麦序框</td><td>7179</td><td>1</td><td><br /></td><td><br /></td></tr><tr><td><br /></td><td>背包资源</td><td class=\"highlight-#e6fcff\" data-highlight-colour=\"#e6fcff\">假面的邀约头像框</td><td>7177</td><td>1</td><td><br /></td><td><br /></td></tr></tbody></table><p class=\"auto-cursor-target\"><br /></p><h3><span style=\"color: rgb(0,51,102);\"><strong>3、用户--冠名玩法：</strong></span></h3><ul><li><span style=\"color: rgb(0,51,102);\">首个送礼达10000钻的用户将直接冠名主播的直播间（即：用户的头像和昵称显示在主播的H5页面上），并获得专属进房提示<s><span style=\"color: rgb(255,0,0);\">（时间截至3月23日23:59:59）</span></s>。</span></li><li><span style=\"color: rgb(0,51,102);\">专属进房提示：只要冠名没有被覆盖，则该用户一直拥有1V1的进房提示。</span></li><li><span style=\"color: rgb(255,0,0);\">进房提示文案：心跳漏拍、灯光就位，专属舞伴用户昵称为主播昵称而来，请尽情享受这场假面狂欢。</span></li><li><span style=\"color: rgb(0,51,102);\">后续达5w/10w/20w/50w可以覆盖冠名权。（该分数为用户在活动期间为该主播累计送礼钻石数）</span></li><li><s><span style=\"color: rgb(255,0,0);\">可以隐榜、隐名</span></s></li></ul><h3><span style=\"color: rgb(0,51,102);\"><strong>4、</strong></span><span style=\"color: rgb(0,51,102);\"><strong>日榜</strong></span></h3><p><span style=\"color: rgb(0,51,102);\"><strong>玩法逻辑：</strong></span></p><ul><li><span style=\"color: rgb(0,51,102);\"><strong>秀场主播收礼每日TOP1（当红+新秀）、派对嘉宾收礼每日TOP1两人登上app<span style=\"color: rgb(0,51,102);\">首页弹窗曝光。</span></strong></span></li><li><span style=\"color: rgb(0,51,102);\">活动期间，当红主播/新秀主播/派对嘉宾每日累计收礼参与日榜争夺，根据榜单排名点亮奖励。</span></li><li><span style=\"color: rgb(0,51,102);\">当红主播为近60天收礼大于等于70w，新秀主播为小于70w----统计普通视频直播间</span></li><li><span style=\"color: rgb(0,51,102);\">派对嘉宾（含厅主）为白名单----统计469直播间。</span></li><li><span style=\"color: rgb(0,51,102);\">奖励与私信由研发实时下发</span></li></ul><table class=\"wrapped relative-table\" style=\"width: 99.9601%;\"><colgroup><col style=\"width: 4.61473%;\" /><col style=\"width: 7.91096%;\" /><col style=\"width: 12.2432%;\" /><col style=\"width: 8.57021%;\" /><col style=\"width: 6.875%;\" /><col style=\"width: 4.61473%;\" /><col style=\"width: 55.1884%;\" /></colgroup><tbody><tr><td>排名</td><td>资源类型</td><td>资源名称</td><td>资源id</td><td>时长</td><td>数量</td><td>私信内容</td></tr><tr><td>rank</td><td>prize_type</td><td>prize_name</td><td>resource_id</td><td>duration</td><td>num</td><td>private_msg</td></tr><tr><td>1</td><td>称号</td><td class=\"highlight-#e6fcff\" data-highlight-colour=\"#e6fcff\">宫廷舞者称号*5天</td><td>2218</td><td>5</td><td><br /></td><td>【假面舞会】恭喜宝宝成为当红日榜TOP1，获得宫廷舞者头像框*5天、宫廷舞者称号*5天、热门推荐卡*3张、宫廷舞者主页挂件*5天奖励，继续加油啊~</td></tr><tr><td><br /></td><td>头像框</td><td class=\"highlight-#e6fcff\" data-highlight-colour=\"#e6fcff\">宫廷舞者头像框*5天</td><td>6853</td><td>5</td><td><br /></td><td><br /></td></tr><tr><td><br /></td><td>主页挂件</td><td class=\"highlight-#e6fcff\" data-highlight-colour=\"#e6fcff\">宫廷舞者主页挂件*5天</td><td>6856</td><td>5</td><td><br /></td><td><br /></td></tr><tr><td><br /></td><td>推荐卡</td><td class=\"highlight-#e6fcff\" data-highlight-colour=\"#e6fcff\">热门推荐卡*3张</td><td>887</td><td><br /></td><td>3</td><td><br /></td></tr><tr><td>2_5</td><td>称号</td><td class=\"highlight-#e6fcff\" data-highlight-colour=\"#e6fcff\">宫廷舞者称号*3天</td><td>2218</td><td>3</td><td><br /></td><td>【假面舞会】恭喜宝宝成为当红日榜TOP5，获得宫廷舞者头像框*3天、宫廷舞者称号*3天、热门推荐卡*1张、宫廷舞者主页挂件*3天奖励，继续加油啊~</td></tr><tr><td><br /></td><td>头像框</td><td class=\"highlight-#e6fcff\" data-highlight-colour=\"#e6fcff\">宫廷舞者头像框*3天</td><td>6853</td><td>3</td><td><br /></td><td><br /></td></tr><tr><td><br /></td><td>主页挂件</td><td class=\"highlight-#e6fcff\" data-highlight-colour=\"#e6fcff\">宫廷舞者主页挂件*3天</td><td>6856</td><td>3</td><td><br /></td><td><br /></td></tr><tr><td><br /></td><td>推荐卡</td><td class=\"highlight-#e6fcff\" data-highlight-colour=\"#e6fcff\">热门推荐卡*1张</td><td>887</td><td><br /></td><td>1</td><td><br /></td></tr><tr><td>6_10</td><td>称号</td><td class=\"highlight-#e6fcff\" data-highlight-colour=\"#e6fcff\">宫廷舞者称号*2天</td><td>2218</td><td>2</td><td><br /></td><td>【假面舞会】恭喜宝宝成为当红日榜TOP10，获得宫廷舞者头像框*2天、宫廷舞者称号*2天、宫廷舞者主页挂件*2天奖励，继续加油啊~</td></tr><tr><td><br /></td><td>头像框</td><td class=\"highlight-#e6fcff\" data-highlight-colour=\"#e6fcff\">宫廷舞者头像框*2天</td><td>6853</td><td>2</td><td><br /></td><td><br /></td></tr><tr><td><br /></td><td>主页挂件</td><td class=\"highlight-#e6fcff\" data-highlight-colour=\"#e6fcff\">宫廷舞者主页挂件*2天</td><td>6856</td><td>2</td><td><br /></td><td><br /></td></tr></tbody></table><p class=\"auto-cursor-target\"><br /></p><table class=\"wrapped\"><tbody><tr><td>排名</td><td>资源类型</td><td>资源名称</td><td>资源id</td><td>时长</td><td>数量</td><td>私信内容</td></tr><tr><td>rank</td><td>prize_type</td><td>prize_name</td><td>resource_id</td><td>duration</td><td>num</td><td>private_msg</td></tr><tr><td>1</td><td>称号</td><td class=\"highlight-#e6fcff\" data-highlight-colour=\"#e6fcff\">宫廷舞者称号*3天</td><td>2218</td><td>3</td><td><br /></td><td>【假面舞会】恭喜宝宝成为新秀日榜TOP1，获得宫廷舞者头像框*3天、宫廷舞者称号*3天、热门推荐卡*1张、宫廷舞者主页挂件*3天奖励，继续加油啊~</td></tr><tr><td><br /></td><td>头像框</td><td class=\"highlight-#e6fcff\" data-highlight-colour=\"#e6fcff\">宫廷舞者头像框*3天</td><td>6853</td><td>3</td><td><br /></td><td><br /></td></tr><tr><td><br /></td><td>主页挂件</td><td class=\"highlight-#e6fcff\" data-highlight-colour=\"#e6fcff\">宫廷舞者主页挂件*3天</td><td>6856</td><td>3</td><td><br /></td><td><br /></td></tr><tr><td><br /></td><td>推荐卡</td><td class=\"highlight-#e6fcff\" data-highlight-colour=\"#e6fcff\">热门推荐卡*1张</td><td>887</td><td><br /></td><td>1</td><td><br /></td></tr><tr><td>2_5</td><td>称号</td><td class=\"highlight-#e6fcff\" data-highlight-colour=\"#e6fcff\">宫廷舞者称号*2天</td><td>2218</td><td>2</td><td><br /></td><td>【假面舞会】】恭喜宝宝成为新秀日榜TOP5，获得宫廷舞者头像框*2天、宫廷舞者称号*2天、宫廷舞者主页挂件*2天奖励，继续加油啊~</td></tr><tr><td><br /></td><td>头像框</td><td class=\"highlight-#e6fcff\" data-highlight-colour=\"#e6fcff\">宫廷舞者头像框*2天</td><td>6853</td><td>2</td><td><br /></td><td><br /></td></tr><tr><td><br /></td><td>主页挂件</td><td class=\"highlight-#e6fcff\" data-highlight-colour=\"#e6fcff\">宫廷舞者主页挂件*2天</td><td>6856</td><td>2</td><td><br /></td><td><br /></td></tr><tr><td>6_10</td><td>称号</td><td>宫廷舞者称号*1天</td><td>2218</td><td>1</td><td><br /></td><td>【假面舞会】】恭喜宝宝成为新秀日榜TOP10，获得宫廷舞者头像框*1天、宫廷舞者称号*1天、宫廷舞者主页挂件*1天奖励，继续加油啊~</td></tr><tr><td><br /></td><td>头像框</td><td>宫廷舞者头像框*1天</td><td>6853</td><td>1</td><td><br /></td><td><br /></td></tr><tr><td><br /></td><td>主页挂件</td><td>宫廷舞者主页挂件*1天</td><td>6856</td><td>1</td><td><br /></td><td><br /></td></tr></tbody></table><p class=\"auto-cursor-target\"><br /></p><table class=\"wrapped\"><tbody><tr><td>排名</td><td>资源类型</td><td>资源名称</td><td>资源id</td><td>时长</td><td>数量</td><td>私信内容</td></tr><tr><td>rank</td><td>prize_type</td><td>prize_name</td><td>resource_id</td><td>duration</td><td>num</td><td>private_msg</td></tr><tr><td>1</td><td>称号</td><td class=\"highlight-#e6fcff\" data-highlight-colour=\"#e6fcff\">宫廷舞者称号*5天</td><td>2218</td><td>5</td><td><br /></td><td>【假面舞会】恭喜宝宝成为嘉宾日榜TOP1，获得宫廷舞者麦序框*5天、宫廷舞者称号*5天、宫廷舞者主页挂件*5天、宫廷舞者发言波纹*5天奖励，继续加油啊~</td></tr><tr><td><br /></td><td>麦序框</td><td class=\"highlight-#e6fcff\" data-highlight-colour=\"#e6fcff\">宫廷舞者麦序框*5天</td><td>7181</td><td>5</td><td><br /></td><td><br /></td></tr><tr><td><br /></td><td>主页挂件</td><td class=\"highlight-#e6fcff\" data-highlight-colour=\"#e6fcff\">宫廷舞者主页挂件*5天</td><td>6856</td><td>5</td><td><br /></td><td><br /></td></tr><tr><td><br /></td><td>发言波纹</td><td class=\"highlight-#e6fcff\" data-highlight-colour=\"#e6fcff\">宫廷舞者发言波纹*5天</td><td>9330</td><td>5</td><td><br /></td><td><br /></td></tr><tr><td>2_5</td><td>称号</td><td class=\"highlight-#e6fcff\" data-highlight-colour=\"#e6fcff\">宫廷舞者称号*3天</td><td>2218</td><td>3</td><td><br /></td><td>【假面舞会】恭喜宝宝成为嘉宾日榜TOP5，获得宫廷舞者麦序框*3天、宫廷舞者称号*3天、宫廷舞者主页挂件*3天、宫廷舞者发言波纹*3天奖励，继续加油啊~</td></tr><tr><td><br /></td><td>麦序框</td><td class=\"highlight-#e6fcff\" data-highlight-colour=\"#e6fcff\">宫廷舞者麦序框*3天</td><td>7181</td><td>3</td><td><br /></td><td><br /></td></tr><tr><td><br /></td><td>主页挂件</td><td class=\"highlight-#e6fcff\" data-highlight-colour=\"#e6fcff\">宫廷舞者主页挂件*3天</td><td>6856</td><td>3</td><td><br /></td><td><br /></td></tr><tr><td><br /></td><td>发言波纹</td><td class=\"highlight-#e6fcff\" data-highlight-colour=\"#e6fcff\">宫廷舞者发言波纹*3天</td><td>9330</td><td>3</td><td><br /></td><td><br /></td></tr><tr><td>6_10</td><td>称号</td><td class=\"highlight-#e6fcff\" data-highlight-colour=\"#e6fcff\">宫廷舞者称号*2天</td><td>2218</td><td>2</td><td><br /></td><td>【假面舞会】恭喜宝宝成为嘉宾日榜TOP10，获得宫廷舞者麦序框*2天、宫廷舞者称号*2天、宫廷舞者主页挂件*2天奖励，继续加油啊~</td></tr><tr><td><br /></td><td>麦序框</td><td class=\"highlight-#e6fcff\" data-highlight-colour=\"#e6fcff\">宫廷舞者麦序框*2天</td><td>7181</td><td>2</td><td><br /></td><td><br /></td></tr><tr><td><br /></td><td>主页挂件</td><td class=\"highlight-#e6fcff\" data-highlight-colour=\"#e6fcff\">宫廷舞者主页挂件*2天</td><td>6856</td><td>2</td><td><br /></td><td><br /></td></tr></tbody></table><h3><span style=\"color: rgb(0,51,102);\"><strong>5、</strong></span><span style=\"color: rgb(0,51,102);\"><strong>小礼物玩法（10钻版宝剑炼化<s>，全站进度条礼物</s>）</strong></span></h3><p><span style=\"color: rgb(50,50,50);\">假面邀约</span></p><ul><li><span style=\"color: rgb(50,50,50);\">活动时间：3月19日18:00:00-3月22日23:59:59</span></li></ul><p><span style=\"color: rgb(50,50,50);\">逻辑如下：</span></p><ul><li><span style=\"color: rgb(50,50,50);\">用户送出指定10钻礼物（GIF礼物）参与宝剑锻造炼化，主播获得10%的收益（1映币）作为炼化手续费（由后台配置，主播直接得到1映币），剩余钻石参与宝剑炼化池进行宝剑锻造炼化。</span></li><li><span style=\"color: rgb(50,50,50);\">活动期间用户送出价值10钻礼物参与宝剑炼化，主播获得10%的收益作为，剩余钻石进入宝剑炼化池中与他人一起进行宝剑炼化。</span></li><li>宝剑炼化成功需要90钻石，当宝剑炼化达到90钻石时（也就是池子中满足90钻石），宝剑将自动选择1位用户认主，获得宝剑奖励，奖励以背包礼物的形式进行下发。&ndash;逻辑为，从池子中的人中随机选出1个认主。</li><li><span style=\"color: rgb(50,50,50);\">初级宝剑需投入90钻石，最终当宝剑达到炼化金额时，宝剑将自动选择1位用户认主，用户获得宝剑（背包礼物）奖励。--逻辑为参与此次炼化的人（<strong><span style=\"color: rgb(255,0,0);\">坑</span></strong>）按照百分比选出一个，如1个人，则这个人百分百获得，若两个人则1/2，若3个人则1/3，若10个人则1/10。一共10个坑位，每送一个，占一个坑----<strong>按照全站次数来</strong></span></li><li><span style=\"color: rgb(50,50,50);\">宝剑在炼化过程中有机会损坏或者升级，或者不变</span></li><li><span style=\"color: rgb(50,50,50);\"><strong><span style=\"color: rgb(33,33,33);\">兜底逻辑：如果随机得到200钻礼物，如不满足200钻，则兜底50</span></strong></span></li><li><span style=\"color: rgb(50,50,50);\"><strong><span style=\"color: rgb(33,33,33);\">曝光逻辑：小礼物、中礼物无曝光，大礼物可以<span style=\"color: rgb(50,50,50);\"><span style=\"color: rgb(33,33,33);\">触发</span></span>全站悬浮公聊（限制每半小时触发一次）。<span style=\"color: rgb(255,0,0);\">【假面邀约】恭喜用户昵称邀约成功，成为暗夜公爵的舞伴~&nbsp;</span></span></strong></span></li></ul><p class=\"auto-cursor-target\"><br /></p><table class=\"wrapped\"><tbody><tr><th rowspan=\"4\">假面邀约-礼物B，BB礼物，5天有效期</th><th>礼物名称</th><th>价格</th><th>礼物id</th><th>BB ID</th><th>获得机会</th><th>核算</th></tr><tr><td>蒙面侍从</td><td>50</td><td>24220</td><td>6854</td><td>50%</td><td>25</td></tr><tr><td>假面贵族</td><td>100</td><td>24221</td><td>6855</td><td>35%</td><td>35</td></tr><tr><td>暗夜公爵</td><td>200</td><td>24222</td><td>6856</td><td>15%</td><td>30</td></tr><tr><td><br /></td><td><br /></td><td><br /></td><td><br /></td><td><br /></td><td><br /></td><td>90</td></tr></tbody></table><p class=\"auto-cursor-target\"><br /></p><p><br /></p><p><br /></p><p><strong>五、icon逻辑</strong></p><p>A面：任务（展示主播最高的）<span style=\"color: rgb(255,0,255);\">---点击跳转tab1</span></p><p>B面：日榜<span style=\"color: rgb(255,0,255);\">---点击跳转tab2</span></p><p><br /></p><p><strong>六、运营查询工具</strong></p><p>1、主播日榜榜单查询（支持按照日期、榜单类型、主播uid进行查询，展示主播uid、排名、当前积分，一页1000条数据）<br />2、用户日榜榜单查询（支持按照日期、榜单类型、用户uid进行查询，展示uid、排名、当前积分，一页1000条数据）<br />3、任务查询（支持按照日期、关卡，主播uid、用户uid查询）</p><p><br /></p><p><strong>六、数据埋点</strong></p><p><br /></p><p><strong>七、数据需求<br /></strong></p><p>数据提需<br />活动名称：假面舞会<br />活动时间：3.19-3.22<br />活动研发：训哥</p><p>具体需求：</p><p>1、专属礼物消耗：日期、礼物名称、礼物价格、消耗个数、消耗金额、区分派对/主播</p><p>2、主播专属礼物收礼数据：日期、层级、礼物名、收礼人数、收礼个数、收礼金额、区分派对/主播</p><p>3、用户专属礼物送礼数据：日期、层级、礼物名、送礼人数、送礼个数、送礼金额、区分派对/主播</p><p>4、主播任务的完成数据：日期、主播层级、任务关卡、完成人数、区分主播类型</p><p>5、用户任务完成数据：日期、用户层级、任务关卡、完成人数、区分初级场高级场</p><p>6、用户冠名玩法：日期、用户层级、任务关卡（1w/5w/10w/20w/50w）、完成人数、区分派对/秀场</p><p>7、资源位曝光pv、uv</p><p>专属礼物id：</p><p class=\"p1pkss0x\"><br /></p><p><br /></p>",
+      "representation": "storage",
+      "_expandable": {
+        "content": "/rest/api/content/483795095"
+      }
+    },
+    "_expandable": {
+      "editor": "",
+      "view": "",
+      "export_view": "",
+      "styled_view": "",
+      "anonymous_export_view": ""
+    }
+  },
+  "extensions": {
+    "position": "none"
+  },
+  "_links": {
+    "webui": "/pages/viewpage.action?pageId=483795095",
+    "edit": "/pages/resumedraft.action?draftId=483795095&draftShareId=2946b101-873b-42f4-800e-216db1379f34",
+    "tinyui": "/x/lyDWH",
+    "collection": "/rest/api/content",
+    "base": "https://wiki.inkept.cn",
+    "context": "",
+    "self": "https://wiki.inkept.cn/rest/api/content/483795095"
+  },
+  "_expandable": {
+    "container": "/rest/api/space/xueyuan",
+    "metadata": "",
+    "operations": "",
+    "children": "/rest/api/content/483795095/child",
+    "restrictions": "/rest/api/content/483795095/restriction/byOperation",
+    "history": "/rest/api/content/483795095/history",
+    "descendants": "/rest/api/content/483795095/descendant"
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "id": "456559661",
+  "type": "page",
+  "status": "current",
+  "title": "1.23-1.26 集福腊八",
+  "space": {
+    "id": 3571713,
+    "key": "xueyuan",
+    "name": "映客直播业务",
+    "type": "global",
+    "_links": {
+      "webui": "/display/xueyuan",
+      "self": "https://wiki.inkept.cn/rest/api/space/xueyuan"
+    },
+    "_expandable": {
+      "metadata": "",
+      "icon": "",
+      "description": "",
+      "retentionPolicy": "",
+      "homepage": "/rest/api/content/320866330"
+    }
+  },
+  "version": {
+    "by": {
+      "type": "known",
+      "username": "zhangxiaorou",
+      "userKey": "8aef08aa9aa3f790019aa4334aed0000",
+      "profilePicture": {
+        "path": "/images/icons/profilepics/default.svg",
+        "width": 48,
+        "height": 48,
+        "isDefault": true
+      },
+      "displayName": "张小柔",
+      "_links": {
+        "self": "https://wiki.inkept.cn/rest/api/user?key=8aef08aa9aa3f790019aa4334aed0000"
+      },
+      "_expandable": {
+        "status": ""
+      }
+    },
+    "when": "2026-01-22T18:59:16.000+08:00",
+    "message": "",
+    "number": 43,
+    "minorEdit": false,
+    "hidden": false,
+    "_links": {
+      "self": "https://wiki.inkept.cn/rest/experimental/content/456559661/version/43"
+    },
+    "_expandable": {
+      "content": "/rest/api/content/456559661"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "320866330",
+      "type": "page",
+      "status": "current",
+      "title": "映客直播业务",
+      "extensions": {
+        "position": "none"
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=320866330",
+        "edit": "/pages/resumedraft.action?draftId=320866330&draftShareId=d5d92a4f-fb15-4a51-8bd6-16333cb6f165",
+        "tinyui": "/x/GgggEw",
+        "self": "https://wiki.inkept.cn/rest/api/content/320866330"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/320866330/child",
+        "restrictions": "/rest/api/content/320866330/restriction/byOperation",
+        "history": "/rest/api/content/320866330/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/320866330/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    },
+    {
+      "id": "326510548",
+      "type": "page",
+      "status": "current",
+      "title": "直播业务线-运营",
+      "extensions": {
+        "position": 2
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=326510548",
+        "edit": "/pages/resumedraft.action?draftId=326510548&draftShareId=0ea027df-6f8f-4663-bbd6-217ba023f41b",
+        "tinyui": "/x/1Cd2Ew",
+        "self": "https://wiki.inkept.cn/rest/api/content/326510548"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/326510548/child",
+        "restrictions": "/rest/api/content/326510548/restriction/byOperation",
+        "history": "/rest/api/content/326510548/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/326510548/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    },
+    {
+      "id": "331456836",
+      "type": "page",
+      "status": "current",
+      "title": "【活动组】",
+      "extensions": {
+        "position": 11
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=331456836",
+        "edit": "/pages/resumedraft.action?draftId=331456836",
+        "tinyui": "/x/RKHBEw",
+        "self": "https://wiki.inkept.cn/rest/api/content/331456836"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/331456836/child",
+        "restrictions": "/rest/api/content/331456836/restriction/byOperation",
+        "history": "/rest/api/content/331456836/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/331456836/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    },
+    {
+      "id": "452644191",
+      "type": "page",
+      "status": "current",
+      "title": "【2026营收运营活动】",
+      "extensions": {
+        "position": "none"
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=452644191",
+        "edit": "/pages/resumedraft.action?draftId=452644191&draftShareId=97d3197f-f0cd-4143-8fbf-d96b4892c680",
+        "tinyui": "/x/X836Gg",
+        "self": "https://wiki.inkept.cn/rest/api/content/452644191"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/452644191/child",
+        "restrictions": "/rest/api/content/452644191/restriction/byOperation",
+        "history": "/rest/api/content/452644191/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/452644191/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    },
+    {
+      "id": "452644194",
+      "type": "page",
+      "status": "current",
+      "title": "2026年1月份活动",
+      "extensions": {
+        "position": "none"
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=452644194",
+        "edit": "/pages/resumedraft.action?draftId=452644194&draftShareId=6602d5e9-9116-4e43-8c02-43039176fbc5",
+        "tinyui": "/x/Ys36Gg",
+        "self": "https://wiki.inkept.cn/rest/api/content/452644194"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/452644194/child",
+        "restrictions": "/rest/api/content/452644194/restriction/byOperation",
+        "history": "/rest/api/content/452644194/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/452644194/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    }
+  ],
+  "body": {
+    "storage": {
+      "value": "<p class=\"ne-p\"><strong><span class=\"ne-text\">一、活动名称</span></strong><span class=\"ne-text\"><br /></span><span class=\"ne-text\">集福腊八</span></p><p class=\"ne-p\"><strong><span class=\"ne-text\">二、活动目标</span></strong></p><p class=\"ne-p\"><span class=\"ne-text\">日均消耗达到500万钻石</span></p><p class=\"ne-p\"><strong><span class=\"ne-text\">三、活动框架</span></strong></p><p class=\"ne-p\"><ac:image ac:height=\"0\"><ri:attachment ri:filename=\"image.png\" /></ac:image><ac:image ac:width=\"1000\"><ri:attachment ri:filename=\"image-2025-12-18_16-14-28.png\" /></ac:image></p><p class=\"ne-p\"><strong><span class=\"ne-text\" style=\"color: rgb(50,50,50);\">活动详情</span></strong></p><p class=\"ne-p\"><strong><span class=\"ne-text\" style=\"color: rgb(50,50,50);\">集福腊八</span></strong></p><ul class=\"ne-ul\"><li><span class=\"ne-text\" style=\"color: rgb(50,50,50);\">活动时间：2026年1月23日-1月26日 每日00:00:00-23:59:59</span></li><li><span class=\"ne-text\" style=\"color: rgb(50,50,50);\">玩法时间范围内，用户<span style=\"color: rgb(255,0,0);\"><strong>每送出</strong></span>活动专属礼物达到21钻，即可有机会抽取卡牌1张，具体按照下方表格产出，</span><strong><span class=\"ne-text\" style=\"color: rgb(255,0,0);\">任务为日任务，每日重新开启，每日卡牌数量清零重新计算。</span></strong></li><li><span class=\"ne-text\" style=\"color: rgb(50,50,50);\">用户每送出活动专属达到</span><strong><span class=\"ne-text\" style=\"color: rgb(50,50,50);\">21*1000钻（21000钻）</span></strong><span class=\"ne-text\" style=\"color: rgb(50,50,50);\">自动触发直播间对应特效（特效ID：<strong><span style=\"color: rgb(255,0,0);\">提需求</span></strong>）</span></li><li><span style=\"color: rgb(50,50,50);\">每抽中一张卡牌，用户可获得卡牌所对应的奖励，奖励记录，页面飘屏（跑马灯）</span></li><li><span class=\"ne-text\" style=\"color: rgb(50,50,50);\">玩法共设置6张卡牌，用户抽取卡牌达到</span><strong><span class=\"ne-text\" style=\"color: rgb(50,50,50);\">对应数量</span></strong><span class=\"ne-text\" style=\"color: rgb(50,50,50);\">解锁对应奖励。</span></li><li><span class=\"ne-text\" style=\"color: rgb(50,50,50);\">用户每集齐一套卡牌，必得半屏座驾*1天（<strong><span style=\"color: rgb(255,0,0);\">提需求</span></strong>），后续累加奖励。</span></li><li><strong><span class=\"ne-text\" style=\"color: rgb(50,50,50);\">注：如果用户每日送礼超过10w钻以后，仍未集齐一套卡牌，后续送礼则按照逻辑补齐，补齐逻辑：送礼超过10w钻以后，后续的送礼或剩余钻石按照每21钻抽一张的逻辑将缺少的卡牌补齐。</span></strong></li><li><strong><span class=\"ne-text\" style=\"color: rgb(50,50,50);\">原型图：<a href=\"https://modao.cc/proto/mZszWpakt7cqadqqnRqkN/sharing?view_mode=read_only&amp;screen=rbpV5We3vIFZTvzkv\">https://modao.cc/proto/mZszWpakt7cqadqqnRqkN/sharing?view_mode=read_only&amp;screen=rbpV5We3vIFZTvzkv</a></span></strong></li></ul><p><br /></p><table class=\"wrapped\"><tbody><tr><td>礼物名</td><td>价格（钻）</td><td>礼物ID</td><td>url</td></tr><tr><td>姻缘上上签</td><td>10</td><td>23812</td><td><a href=\"https://img.ikstatic.cn/MTc1NTg1NTI5MjY1MSM5ODUjcG5n.png\">https://img.ikstatic.cn/MTc1NTg1NTI5MjY1MSM5ODUjcG5n.png</a></td></tr><tr><td>福气鼓鼓</td><td>66</td><td>23813</td><td><a href=\"https://img.ikstatic.cn/MTczNzM2OTAzOTY3MyM5OTkjcG5n.png\">https://img.ikstatic.cn/MTczNzM2OTAzOTY3MyM5OTkjcG5n.png</a></td></tr><tr><td>鲸落星海</td><td>199</td><td>23814</td><td><a href=\"https://img.ikstatic.cn/MTcyMTEyNTMyMjQ1MSM4NjMjcG5n.png\">https://img.ikstatic.cn/MTcyMTEyNTMyMjQ1MSM4NjMjcG5n.png</a></td></tr><tr><td>传情腊八</td><td>520</td><td>23815</td><td><a href=\"https://img.ikstatic.cn/MTYxMDUzOTY4MDU4NSM0NzYjcG5n.png\">https://img.ikstatic.cn/MTYxMDUzOTY4MDU4NSM0NzYjcG5n.png</a></td></tr><tr><td>来碗腊八粥</td><td>520</td><td>23816</td><td><a href=\"https://img.ikstatic.cn/MTcwNDUyOTI3MTA0MiMxMzgjcG5n.png\">https://img.ikstatic.cn/MTcwNDUyOTI3MTA0MiMxMzgjcG5n.png</a></td></tr><tr><td>舞狮子</td><td>1666</td><td>23817</td><td><a href=\"https://img.ikstatic.cn/MTY0MzAyNDI2NjA1MiMxMTEjcG5n.png\">https://img.ikstatic.cn/MTY0MzAyNDI2NjA1MiMxMTEjcG5n.png</a></td></tr><tr><td>与卿书</td><td>3344</td><td>23818</td><td><a href=\"https://img.ikstatic.cn/MTY5MjA3OTk0NDMxOCMzMDIjcG5n.png\">https://img.ikstatic.cn/MTY5MjA3OTk0NDMxOCMzMDIjcG5n.png</a></td></tr><tr><td>赏月约定</td><td>3344</td><td>23819</td><td><a href=\"https://img.ikstatic.cn/MTY5NTIwMDMwMzIzMCM5NjMjcG5n.png\">https://img.ikstatic.cn/MTY5NTIwMDMwMzIzMCM5NjMjcG5n.png</a></td></tr><tr><td>凤凰之约</td><td>5200</td><td>23820</td><td><a href=\"https://img.ikstatic.cn/MTc2NTk0MTU5ODAyNSMxMjEjcG5n.png\">https://img.ikstatic.cn/MTc2NTk0MTU5ODAyNSMxMjEjcG5n.png</a></td></tr><tr><td>柔情芳华</td><td>5200</td><td>23821</td><td><a href=\"https://img.ikstatic.cn/MTc1NTg1NjczMzYxMCM5NTQjcG5n.png\">https://img.ikstatic.cn/MTc1NTg1NjczMzYxMCM5NTQjcG5n.png</a></td></tr><tr><td>月起相思</td><td>8888</td><td>23822</td><td><span style=\"color: rgb(0,96,0);text-decoration: underline;\"><a href=\"https://img.ikstatic.cn/MTY5NTYyOTA1NDkyMSM1MDMjcG5n.png\">https://img.ikstatic.cn/MTY5NTYyOTA1NDkyMSM1MDMjcG5n.png</a></span></td></tr><tr><td>甜心蜜约</td><td>13140</td><td>23823</td><td><a href=\"https://img.ikstatic.cn/MTc1MTk2NTAwNDY4MSM0ODMjcG5n.png\">https://img.ikstatic.cn/MTc1MTk2NTAwNDY4MSM0ODMjcG5n.png</a></td></tr><tr><td>哥哥我好怕</td><td>29999</td><td>23824</td><td><span style=\"color: rgb(0,96,0);text-decoration: underline;\"><a href=\"https://img.ikstatic.cn/MTY0NDIwNDM2NDI5MCM5MzUjcG5n.png\">https://img.ikstatic.cn/MTY0NDIwNDM2NDI5MCM5MzUjcG5n.png</a></span></td></tr><tr><td>爱在日落黄昏时</td><td>52000</td><td>23825</td><td><a href=\"https://img.ikstatic.cn/MTczOTE4MzcwMzQ5OSMgNjAjcG5n.png\">https://img.ikstatic.cn/MTczOTE4MzcwMzQ5OSMgNjAjcG5n.png</a></td></tr><tr><td>月光交响曲</td><td>99999</td><td>23826</td><td><a href=\"https://img.ikstatic.cn/MTYzODc4MzMyODQ2NSM0NzQjcG5n.png\">https://img.ikstatic.cn/MTYzODc4MzMyODQ2NSM0NzQjcG5n.png</a></td></tr></tbody></table><p class=\"auto-cursor-target\"><br /></p><table class=\"wrapped\"><tbody><tr><td>步步高升称号</td><td>2127</td><td><a href=\"https://img.ikstatic.cn/MTc2ODkwOTUzNjg1OCM4MzUjcG5n.png\">https://img.ikstatic.cn/MTc2ODkwOTUzNjg1OCM4MzUjcG5n.png</a></td></tr><tr><td>福气满满称号</td><td>2128</td><td><a href=\"https://img.ikstatic.cn/MTc2ODkwOTU0NzE5OCM2MTYjcG5n.png\">https://img.ikstatic.cn/MTc2ODkwOTU0NzE5OCM2MTYjcG5n.png</a></td></tr><tr><td>好运连连称号</td><td>2129</td><td><a href=\"https://img.ikstatic.cn/MTc2ODkwOTU1MjE0OCM0MjAjcG5n.png\">https://img.ikstatic.cn/MTc2ODkwOTU1MjE0OCM0MjAjcG5n.png</a></td></tr><tr><td>运起腊八称号</td><td>2130</td><td><a href=\"https://img.ikstatic.cn/MTc2ODkwOTU2MDEyNiM2OTAjcG5n.png\">https://img.ikstatic.cn/MTc2ODkwOTU2MDEyNiM2OTAjcG5n.png</a></td></tr><tr><td>福满腊八称号</td><td>2131</td><td><a href=\"https://img.ikstatic.cn/MTc2ODkwOTU0MzI1NiM0MTgjcG5n.png\">https://img.ikstatic.cn/MTc2ODkwOTU0MzI1NiM0MTgjcG5n.png</a></td></tr></tbody></table><p><br /></p><p>金福禄小映</p><p><br /></p><table class=\"wrapped relative-table\" style=\"width: 104.838%;\"><colgroup><col style=\"width: 6.23523%;\" /><col style=\"width: 8.1203%;\" /><col style=\"width: 11.3829%;\" /><col style=\"width: 4.85768%;\" /><col style=\"width: 2.6826%;\" /><col style=\"width: 38.0639%;\" /><col style=\"width: 28.7111%;\" /></colgroup><tbody><tr><td><p class=\"ne-p\" style=\"text-align: center;\"><span class=\"ne-text\">抽中概率</span></p></td><td><p class=\"ne-p\" style=\"text-align: center;\"><span class=\"ne-text\">卡面</span></p></td><td><p class=\"ne-p\" style=\"text-align: center;\"><span class=\"ne-text\">奖励</span></p></td><td><p class=\"ne-p\" style=\"text-align: center;\"><span class=\"ne-text\">奖励id</span></p></td><td><p class=\"ne-p\" style=\"text-align: center;\"><span class=\"ne-text\">url</span></p></td><td><p class=\"ne-p\" style=\"text-align: center;\"><span class=\"ne-text\">跑马灯</span></p></td><td><p class=\"ne-p\" style=\"text-align: center;\"><span class=\"ne-text\">直播间公聊文案</span></p></td></tr><tr><td style=\"text-align: left;\"><p class=\"ne-p\"><span style=\"color: rgb(0,0,0);\"><strong><span class=\"ne-text\">10%</span></strong></span></p></td><td><p class=\"ne-p\"><span class=\"ne-text\">卡面1-粥香卡</span></p></td><td><p class=\"ne-p\"><span class=\"ne-text\" style=\"color: rgb(50,50,50);\">好运连连公聊角标*1h</span></p></td><td><p class=\"ne-p\"><br /></p></td><td><p class=\"ne-p\"><br /></p></td><td><p class=\"ne-p\"><span class=\"ne-text\">【集福腊八】「用户昵称」抽中 &ldquo;粥香卡&rdquo;，</span><span class=\"ne-text\">腊八粥暖咕嘟送福～</span></p></td><td><p class=\"ne-p\" style=\"text-align: center;\"><span class=\"ne-text\"><br /><br /></span></p></td></tr><tr><td style=\"text-align: left;\"><p class=\"ne-p\"><span style=\"color: rgb(0,0,0);\"><strong><span class=\"ne-text\">3%</span></strong></span></p></td><td><p class=\"ne-p\"><span class=\"ne-text\" style=\"color: rgb(50,50,50);\">卡面2-麦仁卡</span></p></td><td><p class=\"ne-p\"><span class=\"ne-text\" style=\"color: rgb(50,50,50);\">好运连连公聊皮肤*1h</span></p></td><td><p class=\"ne-p\"><br /></p></td><td><p class=\"ne-p\"><br /></p></td><td><p class=\"ne-p\"><span class=\"ne-text\" style=\"color: rgb(50,50,50);\">【集福腊八】「用户昵称」抽中 &ldquo;麦仁卡&rdquo;，颗颗麦仁藏福运！</span></p></td><td><p class=\"ne-p\" style=\"text-align: center;\"><span class=\"ne-text\"><br /><br /></span></p></td></tr><tr><td style=\"text-align: left;\"><p class=\"ne-p\"><span style=\"color: rgb(0,0,0);\"><strong><span class=\"ne-text\">1%</span></strong></span></p></td><td><p class=\"ne-p\"><span class=\"ne-text\" style=\"color: rgb(50,50,50);\">卡面3-蒜香卡</span></p></td><td><p class=\"ne-p\"><span class=\"ne-text\" style=\"color: rgb(50,50,50);\">好运连连头像框*1h</span></p></td><td><p class=\"ne-p\"><br /></p></td><td><p class=\"ne-p\"><br /></p></td><td><p class=\"ne-p\"><span class=\"ne-text\">【集福腊八】「用户昵称」抽中 &ldquo;蒜香卡&rdquo;，</span><span class=\"ne-text\">腊八泡蒜，福气不散～</span></p></td><td><p class=\"ne-p\" style=\"text-align: center;\"><br /></p></td></tr><tr><td style=\"text-align: left;\"><p class=\"ne-p\"><span style=\"color: rgb(0,0,0);\"><strong><span class=\"ne-text\">0.3%</span></strong></span></p></td><td><p class=\"ne-p\"><span class=\"ne-text\">卡面4-豆福卡</span></p></td><td><p class=\"ne-p\"><span class=\"ne-text\" style=\"color: rgb(50,50,50);\">好运连连主页挂件*1h</span></p></td><td><p class=\"ne-p\"><br /></p></td><td><p class=\"ne-p\"><br /></p></td><td><p class=\"ne-p\"><span class=\"ne-text\">【集福腊八】「用户昵称」抽中 &ldquo;豆福卡&rdquo;，</span><span class=\"ne-text\">腊八存豆，岁岁有福～</span></p></td><td><p class=\"ne-p\" style=\"text-align: center;\"><span class=\"ne-text\"><br /><br /></span></p></td></tr><tr><td style=\"text-align: left;\"><p class=\"ne-p\"><span style=\"color: rgb(255,0,0);\"><strong><span class=\"ne-text\">0.1%</span></strong></span></p></td><td><p class=\"ne-p\"><span style=\"color: rgb(255,0,0);\"><strong><span class=\"ne-text\">卡面5-八宝卡</span></strong></span></p></td><td><p class=\"ne-p\"><span style=\"color: rgb(255,0,0);\"><strong><span class=\"ne-text\">好运连连普通座驾*1h</span></strong></span></p></td><td><p class=\"ne-p\"><br /></p></td><td><p class=\"ne-p\"><br /></p></td><td><p class=\"ne-p\"><span style=\"color: rgb(255,0,0);\"><strong><span class=\"ne-text\">【集福腊八】「用户昵称」抽中 &ldquo;八宝卡&rdquo;，八宝齐聚福满堂～</span></strong></span></p></td><td><p class=\"ne-p\" style=\"text-align: center;\"><span style=\"color: rgb(255,0,0);\"><strong><span class=\"ne-text\">【集福腊八】恭喜用户昵称成功抽中&ldquo;八宝卡&rdquo;，获得</span><span class=\"ne-text\">好运连连座驾*1h使用权</span><span class=\"ne-text\">！</span></strong></span></p></td></tr><tr><td style=\"text-align: left;\"><p class=\"ne-p\"><span style=\"color: rgb(255,0,0);\"><strong><span class=\"ne-text\">0.01%</span></strong></span></p></td><td><p class=\"ne-p\"><span style=\"color: rgb(255,0,0);\"><strong><span class=\"ne-text\">卡面6-年福卡</span></strong></span></p></td><td><p class=\"ne-p\"><span style=\"color: rgb(255,0,0);\"><strong><span class=\"ne-text\">好运连连全站画面广播奖励</span></strong></span></p></td><td><p class=\"ne-p\"><br /></p></td><td><p class=\"ne-p\"><br /></p></td><td><p class=\"ne-p\"><span style=\"color: rgb(255,0,0);\"><strong><span class=\"ne-text\">【集福腊八】「用户昵称」抽中 &ldquo;年福卡&rdquo;，</span><span class=\"ne-text\">福卡到手，年运全有～</span></strong></span></p></td><td><p class=\"ne-p\" style=\"text-align: center;\"><span style=\"color: rgb(255,0,0);\"><strong><span class=\"ne-text\">【集福腊八】恭喜用户昵称成功抽中&ldquo;年福卡&rdquo;，获得全站画面广播奖励！</span></strong></span></p></td></tr><tr><td style=\"text-align: left;\"><p class=\"ne-p\"><span style=\"color: rgb(255,0,0);\"><strong><span class=\"ne-text\">85.59%</span></strong></span></p></td><td><p class=\"ne-p\"><span style=\"color: rgb(255,0,0);\"><strong><span class=\"ne-text\">空</span></strong></span></p></td><td><p class=\"ne-p\"><span style=\"color: rgb(255,0,0);\"><strong><span class=\"ne-text\"><br /></span></strong></span></p></td><td><p class=\"ne-p\"><br /></p></td><td><p class=\"ne-p\"><br /></p></td><td><p class=\"ne-p\"><span style=\"color: rgb(255,0,0);\"><strong><span class=\"ne-text\"><br /></span></strong></span></p></td><td><p class=\"ne-p\" style=\"text-align: center;\"><span style=\"color: rgb(255,0,0);\"><strong><span class=\"ne-text\"><br /></span></strong></span></p></td></tr></tbody></table><p><span class=\"ne-text\" style=\"color: rgb(50,50,50);\">用户每集齐一套卡牌，必得半屏座驾*1天（<strong><span style=\"color: rgb(255,0,0);\">提需求</span></strong>），后续累加奖励。</span></p><table class=\"relative-table wrapped\" style=\"width: 100.347%;\"><colgroup><col style=\"width: 6.82279%;\" /><col style=\"width: 11.3713%;\" /><col style=\"width: 3.81273%;\" /><col style=\"width: 2.87627%;\" /><col style=\"width: 43.612%;\" /><col style=\"width: 31.4383%;\" /></colgroup><tbody><tr><td><p class=\"ne-p\">集齐全套</p><p class=\"ne-p\">（送出活动专属礼物达10w自动补齐）</p></td><td><p class=\"ne-p\"><span class=\"ne-text\">福气满满半屏进房座驾*1天</span></p></td><td><p class=\"ne-p\"><br /></p></td><td><p class=\"ne-p\"><br /></p></td><td><p class=\"ne-p\"><span class=\"ne-text\">【集福腊八】「用户昵称」集齐全套卡牌，获得</span><span class=\"ne-text\" style=\"color: rgb(50,50,50);\">福气满满半</span><span class=\"ne-text\">屏座驾*1天奖励，过了腊八就是年，福卡加身全年顺～</span></p></td><td><p class=\"ne-p\"><span class=\"ne-text\">【集福腊八】「用户昵称」集齐全套卡牌，获得</span><span class=\"ne-text\" style=\"color: rgb(50,50,50);\">福气满满半</span><span class=\"ne-text\">屏座驾*1天奖励，过了腊八就是年，福卡加身全年顺～</span></p></td></tr></tbody></table><p><span class=\"ne-text\" style=\"color: rgb(50,50,50);\">玩法共设置6张卡牌，用户抽取卡牌达到</span><strong><span class=\"ne-text\" style=\"color: rgb(50,50,50);\">对应数量</span></strong><span class=\"ne-text\" style=\"color: rgb(50,50,50);\">解锁对应奖励。</span></p><table class=\"wrapped\"><tbody><tr><td><p class=\"ne-p\" style=\"text-align: left;\"><span class=\"ne-text\">卡牌数量</span></p></td><td><p class=\"ne-p\" style=\"text-align: center;\"><span class=\"ne-text\">获得8张</span></p></td><td><p class=\"ne-p\" style=\"text-align: center;\"><span class=\"ne-text\">获得21张</span></p></td><td><p class=\"ne-p\" style=\"text-align: center;\"><span class=\"ne-text\">获得66张</span></p></td><td><p class=\"ne-p\" style=\"text-align: center;\"><span class=\"ne-text\">获得88张</span></p></td><td><p class=\"ne-p\" style=\"text-align: center;\"><span class=\"ne-text\">获得188张</span></p></td><td><p class=\"ne-p\" style=\"text-align: center;\"><span class=\"ne-text\">获得521张</span></p></td></tr><tr><td><p class=\"ne-p\" style=\"text-align: left;\"><span class=\"ne-text\">解锁奖励</span></p></td><td><p class=\"ne-p\" style=\"text-align: center;\"><span class=\"ne-text\">福气满满头像框*1天、福气满满麦序框*1天</span></p></td><td><p class=\"ne-p\" style=\"text-align: center;\"><span class=\"ne-text\">福气满满公聊皮肤*1天、福气满满公聊角标*1天</span></p></td><td><p class=\"ne-p\" style=\"text-align: center;\"><span class=\"ne-text\">福气满满上麦动效*2天</span></p></td><td><p class=\"ne-p\" style=\"text-align: center;\"><span class=\"ne-text\">福气满满发言波纹*2天</span></p></td><td><p class=\"ne-p\"><span class=\"ne-text\">福气满满称号*3天</span></p></td><td><p class=\"ne-p\"><span class=\"ne-text\">福气满满主页挂件*2天</span></p></td></tr></tbody></table><p><span class=\"ne-text\" style=\"color: rgb(50,50,50);\">用户每送出活动专属达到</span><strong><span class=\"ne-text\" style=\"color: rgb(50,50,50);\">21*1000钻（21000钻）</span></strong><span class=\"ne-text\" style=\"color: rgb(50,50,50);\">自动触发直播间对应特效</span></p><table class=\"wrapped\"><colgroup><col /><col /></colgroup><tbody><tr><th scope=\"col\">特效id</th><th scope=\"col\">直播间公聊文案</th></tr><tr><td><br /></td><td><span class=\"ne-text\" style=\"color: rgb(23,43,77);\">【集福腊八】用户昵称累计抽卡1000次触发腊八限定特效，过了腊八就是年，愿各位腊八安康，福气满满！</span></td></tr></tbody></table><p><br /></p><p class=\"ne-p\"><strong><span class=\"ne-text\">用户日榜</span></strong></p><ul class=\"ne-ul\"><li><span style=\"color: rgb(50,50,50);\">用户每日抽中卡牌数量超过<strong>52个</strong>可进入日榜，根据卡牌数量进行排名，每日最终TOP10解锁对应奖励</span></li></ul><table class=\"wrapped\"><tbody><tr><td><p class=\"ne-p\" style=\"text-align: center;\"><span class=\"ne-text\">排名</span></p></td><td><p class=\"ne-p\" style=\"text-align: center;\"><span class=\"ne-text\">资源奖励</span></p></td></tr><tr><td><p class=\"ne-p\" style=\"text-align: center;\"><span class=\"ne-text\">TOP1</span></p></td><td><p class=\"ne-p\" style=\"text-align: center;\"><span class=\"ne-text\">福满腊八头像框*1天、福满腊八</span><span class=\"ne-text\">麦序框*1天、福满腊八主页挂件*1天、步步高升发言波纹</span><span class=\"ne-text\">*1天、步步高升公聊皮肤*1天、步步高升称号*1天、步步高升上麦动效*1天</span></p></td></tr><tr><td><p class=\"ne-p\" style=\"text-align: center;\"><span class=\"ne-text\">TOP2-5</span></p></td><td><p class=\"ne-p\" style=\"text-align: center;\"><span class=\"ne-text\">福满腊八主页挂件*1天、步步高升发言波纹*1天、步步高升公聊皮肤*1天、步步高升称号*1天、步步高升上麦动效*1天<br /></span></p></td></tr><tr><td><p class=\"ne-p\" style=\"text-align: center;\"><span class=\"ne-text\">TOP6-10</span></p></td><td><p class=\"ne-p\" style=\"text-align: center;\"><span class=\"ne-text\">福满腊八头像框*1天、福满腊八麦序框*1天<br /></span></p></td></tr></tbody></table><p class=\"ne-p\"><strong><span class=\"ne-text\" style=\"color: rgb(50,50,50);\">主播玩法</span></strong></p><ul class=\"ne-ul\"><li><span class=\"ne-text\" style=\"color: rgb(50,50,50);\">活动时间：2026年1月23日-1月26日 每日00:00:00-23:59:59</span></li><li><span class=\"ne-text\" style=\"color: rgb(50,50,50);\">逻辑1：玩法时间范围内，用户每送出活动专属礼物达到21钻，即可有机会抽取卡牌1张，主播累计在直播间内开启的卡牌数量，只算总数。</span></li><li><span class=\"ne-text\" style=\"color: rgb(50,50,50);\">任务区分陪陪嘉宾/主播，</span><strong><span class=\"ne-text\" style=\"color: rgb(255,0,0);\">任务为日任务，每日重新开启，每日卡牌数量清零重新计算。</span></strong></li></ul><table class=\"wrapped\"><tbody><tr><td colspan=\"9\"><p class=\"ne-p\" style=\"text-align: center;\"><span class=\"ne-text\">陪陪</span></p></td></tr><tr><td><p class=\"ne-p\" style=\"text-align: center;\"><span class=\"ne-text\">卡牌数量</span></p></td><th style=\"text-align: center;\"><span style=\"color: rgb(0,51,102);\">9</span></th><th style=\"text-align: center;\"><span style=\"color: rgb(0,51,102);\">21</span></th><th style=\"text-align: center;\"><span style=\"color: rgb(0,51,102);\">66</span></th><th style=\"text-align: center;\"><span style=\"color: rgb(0,51,102);\">99</span></th><th style=\"text-align: center;\"><span style=\"color: rgb(0,51,102);\">188</span></th><th style=\"text-align: center;\"><span style=\"color: rgb(0,51,102);\">333</span></th><th style=\"text-align: center;\"><span style=\"color: rgb(0,51,102);\">521</span></th><th style=\"text-align: center;\"><span style=\"color: rgb(0,51,102);\">1314</span></th></tr><tr><td><p class=\"ne-p\" style=\"text-align: center;\"><span class=\"ne-text\">奖励资源</span></p></td><td><p class=\"ne-p\" style=\"text-align: center;\"><span class=\"ne-text\">公聊角标</span></p></td><td><p class=\"ne-p\" style=\"text-align: center;\"><span class=\"ne-text\">麦序框</span></p></td><td><p class=\"ne-p\" style=\"text-align: center;\"><span class=\"ne-text\">头像框</span></p></td><td><p class=\"ne-p\" style=\"text-align: center;\"><span class=\"ne-text\">公聊皮肤</span></p></td><td><p class=\"ne-p\" style=\"text-align: center;\"><span class=\"ne-text\">称号</span></p></td><td><p class=\"ne-p\" style=\"text-align: center;\"><span class=\"ne-text\">发言波纹</span></p></td><td><p class=\"ne-p\" style=\"text-align: center;\"><span class=\"ne-text\">上麦动效</span></p></td><td><p class=\"ne-p\" style=\"text-align: center;\"><span class=\"ne-text\">主页挂件</span></p></td></tr><tr><td><p class=\"ne-p\" style=\"text-align: center;\"><span class=\"ne-text\">奖励有效期</span></p></td><td><p class=\"ne-p\" style=\"text-align: center;\"><span class=\"ne-text\">1</span></p></td><td><p class=\"ne-p\" style=\"text-align: center;\"><span class=\"ne-text\">1</span></p></td><td><p class=\"ne-p\" style=\"text-align: center;\"><span class=\"ne-text\">1</span></p></td><td><p class=\"ne-p\" style=\"text-align: center;\"><span class=\"ne-text\">1</span></p></td><td><p class=\"ne-p\" style=\"text-align: center;\"><span class=\"ne-text\">1</span></p></td><td><p class=\"ne-p\" style=\"text-align: center;\"><span class=\"ne-text\">1</span></p></td><td><p class=\"ne-p\" style=\"text-align: center;\"><span class=\"ne-text\">1</span></p></td><td><p class=\"ne-p\" style=\"text-align: center;\"><span class=\"ne-text\">1</span></p></td></tr></tbody></table><p class=\"auto-cursor-target\"><br /></p><table class=\"wrapped\" style=\"letter-spacing: 0.0px;\"><tbody><tr><td colspan=\"9\"><p class=\"ne-p\" style=\"text-align: center;\"><span class=\"ne-text\">主播</span></p></td></tr><tr><td><p class=\"ne-p\" style=\"text-align: center;\"><span class=\"ne-text\">卡牌数量</span></p></td><th style=\"text-align: center;\"><span style=\"color: rgb(0,51,102);\">9</span></th><th style=\"text-align: center;\"><span style=\"color: rgb(0,51,102);\">21</span></th><th style=\"text-align: center;\"><span style=\"color: rgb(0,51,102);\">66</span></th><th style=\"text-align: center;\"><span style=\"color: rgb(0,51,102);\">99</span></th><th style=\"text-align: center;\"><span style=\"color: rgb(0,51,102);\">188</span></th><th style=\"text-align: center;\"><span style=\"color: rgb(0,51,102);\">333</span></th><th style=\"text-align: center;\"><span style=\"color: rgb(0,51,102);\">521</span></th><th style=\"text-align: center;\"><span style=\"color: rgb(0,51,102);\">1314</span></th></tr><tr><td><p class=\"ne-p\" style=\"text-align: center;\"><span class=\"ne-text\">奖励资源</span></p></td><td><p class=\"ne-p\" style=\"text-align: center;\"><span class=\"ne-text\">公聊角标</span></p></td><td><p class=\"ne-p\" style=\"text-align: center;\"><span class=\"ne-text\">麦序框</span></p></td><td><p class=\"ne-p\" style=\"text-align: center;\"><span class=\"ne-text\">头像框</span></p></td><td><p class=\"ne-p\" style=\"text-align: center;\"><span class=\"ne-text\">公聊皮肤</span></p></td><td><p class=\"ne-p\" style=\"text-align: center;\"><span class=\"ne-text\">称号</span></p></td><td><p class=\"ne-p\" style=\"text-align: center;\"><span class=\"ne-text\">发言波纹</span></p></td><td><p class=\"ne-p\" style=\"text-align: center;\"><span class=\"ne-text\">上麦动效</span></p></td><td><p class=\"ne-p\" style=\"text-align: center;\"><span class=\"ne-text\">主页挂件</span></p></td></tr><tr><td><p class=\"ne-p\" style=\"text-align: center;\"><span class=\"ne-text\">奖励有效期</span></p></td><td><p class=\"ne-p\" style=\"text-align: center;\"><span class=\"ne-text\">1</span></p></td><td><p class=\"ne-p\" style=\"text-align: center;\"><span class=\"ne-text\">1</span></p></td><td><p class=\"ne-p\" style=\"text-align: center;\"><span class=\"ne-text\">1</span></p></td><td><p class=\"ne-p\" style=\"text-align: center;\"><span class=\"ne-text\">1</span></p></td><td><p class=\"ne-p\" style=\"text-align: center;\"><span class=\"ne-text\">1</span></p></td><td><p class=\"ne-p\" style=\"text-align: center;\"><span class=\"ne-text\">1</span></p></td><td><p class=\"ne-p\" style=\"text-align: center;\"><span class=\"ne-text\">1</span></p></td><td><p class=\"ne-p\" style=\"text-align: center;\"><span class=\"ne-text\">1</span></p></td></tr></tbody></table><p class=\"ne-p\"><br /></p><p class=\"ne-p\"><br /></p><p class=\"ne-p\"><strong><span class=\"ne-text\">主播日榜：</span></strong></p><p class=\"ne-p\"><strong><span class=\"ne-text\" style=\"color: rgb(51,153,102);\">玩法逻辑：</span></strong></p><ul class=\"ne-ul\"><li><span class=\"ne-text\" style=\"color: rgb(50,50,50);\">活动时间：1月23日-1月26日 每日00:00:00-23:59:59</span></li><li><span class=\"ne-text\" style=\"color: rgb(50,50,50);\">逻辑1：玩法时间范围内，参与活动的主播累计收礼</span><span class=\"ne-text\" style=\"color: rgb(17,31,44);\">参与日榜争夺，根据榜单排名解锁奖励。</span></li><li><span class=\"ne-text\" style=\"color: rgb(17,31,44);\">分为大小主播及嘉宾三个榜单，仅看个人收礼。</span></li><li><span class=\"ne-text\" style=\"color: rgb(17,31,44);\">看钻石</span></li></ul><table class=\"wrapped\"><tbody><tr><td colspan=\"2\"><p class=\"ne-p\" style=\"text-align: center;\"><span class=\"ne-text\">大主播</span></p></td></tr><tr><td><p class=\"ne-p\" style=\"text-align: center;\"><span class=\"ne-text\">排名</span></p></td><td><p class=\"ne-p\" style=\"text-align: center;\"><span class=\"ne-text\">主播奖励</span></p></td></tr><tr><td><p class=\"ne-p\" style=\"text-align: center;\"><span class=\"ne-text\">1</span></p></td><td><p class=\"ne-p\" style=\"text-align: center;\"><span class=\"ne-text\">头像框*5天、称号*5天、</span><strong><span class=\"ne-text\" style=\"color: rgb(255,0,0);\">热门推荐卡*3张、福满腊八主页挂件*5天、福满腊八PK背景*5天</span></strong></p></td></tr><tr><td><p class=\"ne-p\" style=\"text-align: center;\"><span class=\"ne-text\">2-5</span></p></td><td><p class=\"ne-p\" style=\"text-align: center;\"><span class=\"ne-text\">头像框*3天、称号*3天、</span><strong><span class=\"ne-text\" style=\"color: rgb(255,0,0);\">热门推荐卡*1张、福满腊八主页挂件*3天、福满腊八PK背景*3天</span></strong></p></td></tr><tr><td><p class=\"ne-p\" style=\"text-align: center;\"><span class=\"ne-text\">6-10</span></p></td><td><p class=\"ne-p\" style=\"text-align: center;\"><span class=\"ne-text\">头像框*2天、称号*2天、</span><strong><span class=\"ne-text\" style=\"color: rgb(255,0,0);\">福满腊八主页挂件*2天、福满腊八PK背景*2天</span></strong></p></td></tr></tbody></table><p class=\"auto-cursor-target\"><br /></p><table class=\"wrapped\" style=\"letter-spacing: 0.0px;\"><tbody><tr><td colspan=\"2\"><p class=\"ne-p\" style=\"text-align: center;\"><span class=\"ne-text\">小主播</span></p></td></tr><tr><td><p class=\"ne-p\" style=\"text-align: center;\"><span class=\"ne-text\">排名</span></p></td><td><p class=\"ne-p\" style=\"text-align: center;\"><span class=\"ne-text\">主播奖励</span></p></td></tr><tr><td><p class=\"ne-p\" style=\"text-align: center;\"><span class=\"ne-text\">1</span></p></td><td><p class=\"ne-p\" style=\"text-align: center;\"><span class=\"ne-text\">头像框*3天、称号*3天、</span><strong><span class=\"ne-text\" style=\"color: rgb(255,0,0);\">热门推荐卡*1张、福满腊八主页挂件*3天、福满腊八PK背景*3天</span></strong></p></td></tr><tr><td><p class=\"ne-p\" style=\"text-align: center;\"><span class=\"ne-text\">2-5</span></p></td><td><p class=\"ne-p\" style=\"text-align: center;\"><span class=\"ne-text\">头像框*2天、称号*2天、</span><strong><span class=\"ne-text\" style=\"color: rgb(255,0,0);\">福满腊八主页挂件*2天、福满腊八PK背景*2天</span></strong></p></td></tr><tr><td><p class=\"ne-p\" style=\"text-align: center;\"><span class=\"ne-text\">6-10</span></p></td><td><p class=\"ne-p\" style=\"text-align: center;\"><span class=\"ne-text\">头像框*1天、称号*1天、</span><strong><span class=\"ne-text\" style=\"color: rgb(255,0,0);\">福满腊八主页挂件*1天、福满腊八PK背景*1天</span></strong></p></td></tr></tbody></table><p class=\"auto-cursor-target\"><br /></p><table class=\"wrapped\" style=\"letter-spacing: 0.0px;\"><tbody><tr><td colspan=\"2\"><p class=\"ne-p\" style=\"text-align: center;\"><span class=\"ne-text\">陪陪</span></p></td></tr><tr><td><p class=\"ne-p\" style=\"text-align: center;\"><span class=\"ne-text\">排名</span></p></td><td><p class=\"ne-p\" style=\"text-align: center;\"><span class=\"ne-text\">主播奖励</span></p></td></tr><tr><td><p class=\"ne-p\" style=\"text-align: center;\"><span class=\"ne-text\">1</span></p></td><td><p class=\"ne-p\" style=\"text-align: center;\"><span class=\"ne-text\">麦序框*5天、称号*5天、</span><strong><span class=\"ne-text\" style=\"color: rgb(255,0,0);\">福满腊八主页挂件*5天</span></strong><span class=\"ne-text\">、发言波纹*5天、上麦动效*5天</span></p></td></tr><tr><td><p class=\"ne-p\" style=\"text-align: center;\"><span class=\"ne-text\">2-5</span></p></td><td><p class=\"ne-p\" style=\"text-align: center;\"><span class=\"ne-text\">麦序框*3天、称号*3天、</span><strong><span class=\"ne-text\" style=\"color: rgb(255,0,0);\">福满腊八主页挂件*3天</span></strong><span class=\"ne-text\">、发言波纹*3天</span></p></td></tr><tr><td><p class=\"ne-p\" style=\"text-align: center;\"><span class=\"ne-text\">6-10</span></p></td><td><p class=\"ne-p\" style=\"text-align: center;\"><span class=\"ne-text\">麦序框*2天、称号*2天、</span><strong><span class=\"ne-text\" style=\"color: rgb(255,0,0);\">福满腊八主页挂件*2天</span></strong></p></td></tr></tbody></table><p class=\"auto-cursor-target\"><br /></p><p class=\"ne-p\"><strong><span class=\"ne-text\">小映玩法</span></strong></p><p class=\"ne-p\"><span class=\"ne-text\" style=\"color: rgb(50,50,50);\">活动期间，用户可送出高额价值小映</span></p><p class=\"ne-p\"><br /></p><p class=\"ne-p\"><span class=\"ne-text\" style=\"color: rgb(50,50,50);\">数据埋点</span></p><p>具体需求：</p><p>1、专属礼物消耗：日期、礼物名称、礼物价格、消耗个数、消耗金额、区分派对/主播</p><p>2、主播专属礼物收礼数据：日期、层级、礼物名、收礼人数、收礼个数、收礼金额、区分派对/主播</p><p>3、用户专属礼物送礼数据：日期、层级、礼物名、送礼人数、送礼个数、送礼金额、区分派对/主播</p><p>4、用户任务数据：日期、用户层级、用户角色、完成用户数（去重）、完成次数、轮次、关卡</p><p>5、完成集卡（每套）的用户人数、次数、层级、单人触发的次数</p><p>6、主播任务数据：日期、主播层级、完成主播数（去重）、完成次数、关卡</p><p>7、资源位曝光pv、uv</p><p class=\"ne-p\"><br /></p><p class=\"ne-p\"><br /></p><p class=\"ne-p\"><br /></p>",
+      "representation": "storage",
+      "_expandable": {
+        "content": "/rest/api/content/456559661"
+      }
+    },
+    "_expandable": {
+      "editor": "",
+      "view": "",
+      "export_view": "",
+      "styled_view": "",
+      "anonymous_export_view": ""
+    }
+  },
+  "extensions": {
+    "position": "none"
+  },
+  "_links": {
+    "webui": "/pages/viewpage.action?pageId=456559661",
+    "edit": "/pages/resumedraft.action?draftId=456559661&draftShareId=050d5330-7fb7-4311-afb3-7b74e32a16da",
+    "tinyui": "/x/LYw2Gw",
+    "collection": "/rest/api/content",
+    "base": "https://wiki.inkept.cn",
+    "context": "",
+    "self": "https://wiki.inkept.cn/rest/api/content/456559661"
+  },
+  "_expandable": {
+    "container": "/rest/api/space/xueyuan",
+    "metadata": "",
+    "operations": "",
+    "children": "/rest/api/content/456559661/child",
+    "restrictions": "/rest/api/content/456559661/restriction/byOperation",
+    "history": "/rest/api/content/456559661/history",
+    "descendants": "/rest/api/content/456559661/descendant"
+  }
+}

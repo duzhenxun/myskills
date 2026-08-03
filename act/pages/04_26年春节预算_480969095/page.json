@@ -1,0 +1,289 @@
+{
+  "id": "480969095",
+  "type": "page",
+  "status": "current",
+  "title": "26年春节预算",
+  "space": {
+    "id": 3571713,
+    "key": "xueyuan",
+    "name": "映客直播业务",
+    "type": "global",
+    "_links": {
+      "webui": "/display/xueyuan",
+      "self": "https://wiki.inkept.cn/rest/api/space/xueyuan"
+    },
+    "_expandable": {
+      "metadata": "",
+      "icon": "",
+      "description": "",
+      "retentionPolicy": "",
+      "homepage": "/rest/api/content/320866330"
+    }
+  },
+  "version": {
+    "by": {
+      "type": "known",
+      "username": "chenziqi",
+      "userKey": "8aef08aa8de3822a018e35bdf3070081",
+      "profilePicture": {
+        "path": "/images/icons/profilepics/default.svg",
+        "width": 48,
+        "height": 48,
+        "isDefault": true
+      },
+      "displayName": "陈子琦",
+      "_links": {
+        "self": "https://wiki.inkept.cn/rest/api/user?key=8aef08aa8de3822a018e35bdf3070081"
+      },
+      "_expandable": {
+        "status": ""
+      }
+    },
+    "when": "2026-02-05T19:18:16.000+08:00",
+    "message": "",
+    "number": 3,
+    "minorEdit": false,
+    "hidden": false,
+    "_links": {
+      "self": "https://wiki.inkept.cn/rest/experimental/content/480969095/version/3"
+    },
+    "_expandable": {
+      "content": "/rest/api/content/480969095"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "320866330",
+      "type": "page",
+      "status": "current",
+      "title": "映客直播业务",
+      "extensions": {
+        "position": "none"
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=320866330",
+        "edit": "/pages/resumedraft.action?draftId=320866330&draftShareId=d5d92a4f-fb15-4a51-8bd6-16333cb6f165",
+        "tinyui": "/x/GgggEw",
+        "self": "https://wiki.inkept.cn/rest/api/content/320866330"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/320866330/child",
+        "restrictions": "/rest/api/content/320866330/restriction/byOperation",
+        "history": "/rest/api/content/320866330/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/320866330/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    },
+    {
+      "id": "326510548",
+      "type": "page",
+      "status": "current",
+      "title": "直播业务线-运营",
+      "extensions": {
+        "position": 2
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=326510548",
+        "edit": "/pages/resumedraft.action?draftId=326510548&draftShareId=0ea027df-6f8f-4663-bbd6-217ba023f41b",
+        "tinyui": "/x/1Cd2Ew",
+        "self": "https://wiki.inkept.cn/rest/api/content/326510548"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/326510548/child",
+        "restrictions": "/rest/api/content/326510548/restriction/byOperation",
+        "history": "/rest/api/content/326510548/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/326510548/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    },
+    {
+      "id": "331456836",
+      "type": "page",
+      "status": "current",
+      "title": "【活动组】",
+      "extensions": {
+        "position": 11
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=331456836",
+        "edit": "/pages/resumedraft.action?draftId=331456836",
+        "tinyui": "/x/RKHBEw",
+        "self": "https://wiki.inkept.cn/rest/api/content/331456836"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/331456836/child",
+        "restrictions": "/rest/api/content/331456836/restriction/byOperation",
+        "history": "/rest/api/content/331456836/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/331456836/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    },
+    {
+      "id": "452644191",
+      "type": "page",
+      "status": "current",
+      "title": "【2026营收运营活动】",
+      "extensions": {
+        "position": "none"
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=452644191",
+        "edit": "/pages/resumedraft.action?draftId=452644191&draftShareId=97d3197f-f0cd-4143-8fbf-d96b4892c680",
+        "tinyui": "/x/X836Gg",
+        "self": "https://wiki.inkept.cn/rest/api/content/452644191"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/452644191/child",
+        "restrictions": "/rest/api/content/452644191/restriction/byOperation",
+        "history": "/rest/api/content/452644191/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/452644191/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    },
+    {
+      "id": "462598884",
+      "type": "page",
+      "status": "current",
+      "title": "2026年2月份活动",
+      "extensions": {
+        "position": "none"
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=462598884",
+        "edit": "/pages/resumedraft.action?draftId=462598884&draftShareId=744b2fa4-aa8c-4445-a22d-8439470cf97f",
+        "tinyui": "/x/5LKSGw",
+        "self": "https://wiki.inkept.cn/rest/api/content/462598884"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/462598884/child",
+        "restrictions": "/rest/api/content/462598884/restriction/byOperation",
+        "history": "/rest/api/content/462598884/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/462598884/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    },
+    {
+      "id": "462598896",
+      "type": "page",
+      "status": "current",
+      "title": "2026年春节",
+      "extensions": {
+        "position": "none"
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=462598896",
+        "edit": "/pages/resumedraft.action?draftId=462598896&draftShareId=101ce755-9d84-4b49-b3df-53c8b06ae19c",
+        "tinyui": "/x/8LKSGw",
+        "self": "https://wiki.inkept.cn/rest/api/content/462598896"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/462598896/child",
+        "restrictions": "/rest/api/content/462598896/restriction/byOperation",
+        "history": "/rest/api/content/462598896/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/462598896/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    },
+    {
+      "id": "476553571",
+      "type": "page",
+      "status": "current",
+      "title": "主播嘉宾春节玩法",
+      "extensions": {
+        "position": "none"
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=476553571",
+        "edit": "/pages/resumedraft.action?draftId=476553571&draftShareId=824952e1-c79b-4a90-89d0-4def4fdbcf26",
+        "tinyui": "/x/Y6FnH",
+        "self": "https://wiki.inkept.cn/rest/api/content/476553571"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/476553571/child",
+        "restrictions": "/rest/api/content/476553571/restriction/byOperation",
+        "history": "/rest/api/content/476553571/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/476553571/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    }
+  ],
+  "body": {
+    "storage": {
+      "value": "<p>Hi&nbsp; all</p><p>为维稳春节期间主播活跃，设置年中年后奖励映币玩法，现申请活动预算：</p><p><br /></p><p>辛苦<strong>@叶导</strong>确认；</p><p>烦请老板<strong>@岚老板</strong>确认！</p><p>辛苦<strong>@成武</strong><strong>&nbsp;</strong>核对；</p><p><br /></p><p>2026年春节活动总共16天（2月16日-3月3日），<span style=\"color: rgb(23,26,29);\">年中每日开播门槛任务和收礼任务得映币奖励，目标为日均有效开播主播数环比活动前下降幅度控制在15%以内；年后每日开播门槛任务和收礼任务得映币 累计打卡按比例解锁</span>，目标为有效开播人数对比<span style=\"color: rgb(23,26,29);\">活动前回升幅度为5%</span><span style=\"color: rgb(0,0,0);\">。</span></p><p>参考25年春节数据及26年1月份数据核算，26年春节合计产出预算<strong> 3,377,203&nbsp;映币</strong>，折合人民币<strong>135,088&nbsp;</strong><strong>元，</strong>最高额度申请为<strong>140000元</strong>。</p><table class=\"wrapped\"><colgroup><col /><col /><col /><col /><col /></colgroup><tbody><tr><td rowspan=\"2\">任务</td><td colspan=\"2\">年中</td><td>年后</td><td rowspan=\"2\">合计</td></tr><tr><td>每日开播任务奖励</td><td>累计开播奖励</td><td>累积开播奖励</td></tr><tr><td>映币</td><td>2,323,870&nbsp;</td><td>230,825&nbsp;</td><td>822508</td><td><strong>3,377,203&nbsp;</strong></td></tr><tr><td>人民币</td><td>92,955&nbsp;</td><td>9,233&nbsp;</td><td>32900</td><td><strong>135,088&nbsp;</strong></td></tr></tbody></table><p class=\"auto-cursor-target\"><br /></p><p>以下为活动详情介绍：</p><p><br /></p><p><strong><span style=\"color: rgb(23,26,29);\">一、活动名称</span></strong></p><p>&nbsp;<span>福马迎春送财运</span></p><p><br /></p><p><strong><span style=\"color: rgb(23,26,29);\">二、活动时间</span></strong></p><p><span style=\"color: rgb(23,26,29);\"><strong>年中：</strong>2月16日-2月23日 除夕-初七，8天</span></p><p><span style=\"color: rgb(23,26,29);\"><strong>年后：</strong>2月24日-3月3日 正月初七-正月十二，8天</span></p><p><br /></p><p><strong>三、背景：</strong></p><h3>23年春节节奏：14天</h3><p>年前：1月18日-1月20日&nbsp; &nbsp;腊月二十七-腊月二十九、周三-周五，3天；年前阶段环比活动前，日均有效开播人数2293人，日均环比下降9.52%，其中S层级主播开播人数降幅在5%左右，ABCD层级主播开播人数降幅10%左右，B-层级主播开播人数降幅15%左右。</p><p>年中：1月21日-1月27日&nbsp; &nbsp;除夕-初六、周六-周五，7天；年中阶段对比活动前一周，整体下降18.08%，其中S层级主播降幅10%左右，ABD层级主播降幅15%左右，B-C层级降幅25%左右。年中阶段环比年前，日均有效开播人数2076人，日均环比下降9.46%，其中SA层级主播降幅5%左右，BD层级主播降幅10%左右，B-C层级降幅15%以内。</p><p>年后：1月28日-1月31日&nbsp; &nbsp;初七-初十、周六-周二，4天；年后阶段对比活动前一周，整体下降8.46%，其中S层级主播降幅2%左右，BD层级降幅10%以内，AB-C层级降幅15%左右。年后阶段对比年前阶段，日均有效开播人数2320人，整体提升1.17%，SB-D层级有小幅提升，其余层级均下降。</p><p>主播侧合计消耗奖励8579050映币奖励（合343162元），主要为SAB层级主播获得奖励，其中B层级主播获奖占比最高，与22年一致。对比22年，获得映币奖励的人数减少48%，支出奖励减少56.77%，基本受领奖人数影响。此外，各阶段获得映币奖励的主播人数参与率（对比开播人数）低于22年活动期间。</p><h3>23年国庆：7天</h3><p>活动期间日均开播人数3261人，活动前日均3483&nbsp;人，环比活动前下降6.39%；目标有效开播人数3380人，完成度96.47%。活动期间开播人数下降主要为ABB-C层级下降影响。其中A层级环比下降18.44%，C层级环比下降14.29%。</p><p>主播侧合计消耗奖励5388840映币（人民币217573.2元），获奖人数共5351人次。</p><h3>24年春节节奏：20天</h3><p>年前：1月31日-2月6日&nbsp;&nbsp;&nbsp;腊月二十一-腊月二十七、周五-下周二，7天；年前阶段环比活动前，日均有效开播人数2207人，日均环比下降5.57%，其中SBD层级主播开播人数降幅在5%左右，AB-C层级主播开播人数降幅10%左右。</p><p>年中：2月7日-2月15日&nbsp;&nbsp;腊月二十八-初六、周三-下周四，9天；年中阶段对比活动前一周，整体下降21.90%，其中S层级主播降幅10%左右，BCD层级主播降幅20%左右，B-A层级降幅30%-46%。年中阶段环比年前，日均有效开播人数1825人，日均环比下降17.29%，其中S层级主播降幅5%左右，BCD层级主播降幅15%-20%，B-层级降幅25%，A层级降幅40%。</p><p>年后：2月16日-2月19日&nbsp;&nbsp;初七-初十、周五-下周一，4天；年后阶段对比活动前一周，整体下降11.75%，其中SBCD层级降幅在10%左右，B-A层级降幅20%-40%。年后阶段对比年前阶段，日均有效开播人数2063人，日均环比下降6.54%，SBD层级降幅在10%以内，C层级主播开播人数降幅1%以内，B-A层级降幅14%-33%。</p><p>主播侧合计消耗奖励7220366映币奖励（合288814.64元），获得映币奖励的主播人数以SAB为主，B层级占比最高，与23一致。</p><h3>24年国庆：14天</h3><p>国庆前：9月24日-9月30日&nbsp; 7天；有效开播人数环比活动前下降2.73%（-73人），SN层级活跃上涨（赛事影响），涨幅在7%-10%左右，C层级下降9.59%幅度最大。</p><p>国庆期间：10月1日-10月7日 7天；有效开播人数环比假期前下降2.95%（-77人），S层级上涨，B-层级下降12.08%幅度最大，AN层级下降6%左右，其余层级小幅下降。</p><p>合计支出6413500映币奖励（合256540元），折合人民币256540元，下发人数1055人。主要为SAB层级主播获得奖励，其中B层级主播获奖占比最高。其中9.24-9.30期间完成对应任务获得映币奖励的主播共计930人，合计实际获得映币奖励1276650映币，折合人民币51066元；10.1-10.7期间完成对应任务获得映币奖励的主播共计889人，合计实际获得映币奖励5136850映币，折合人民币205474元。</p><h3>25年春节节奏：20天</h3><p>年前：<span style=\"color: rgb(23,26,29);\">1月21日-1月24日&nbsp; &nbsp;腊月二十二-腊月二十五、周二-周五，4天</span>；<span style=\"color: rgb(23,43,77);\">年前日均有效开播人数2552人，环比活动前7日日均有效开播人数2662人（目标值为2582人），目标完成度98.80%（-110人），环比活动前下降4.16%。年前阶段C（-7.37%、-30人）N（-5.41%、-18人）D（-3.14%、-43人）日均受影响最大，受影响最小的为A层级（+3.81%、+1人）。</span></p><p>年中：<span style=\"color: rgb(23,26,29);\">1月25日-2月3日 腊月二十六-初六、周六-下下周一，10天</span>；<span style=\"color: rgb(23,43,77);\">年中日均有效开播人数2087人，环比活动前7日日均有效开播2662人（目标值为2263人），目标完成度92.22%（-575人），环比活动前7日下降21.61%。年中阶段C（-39.71%、-161人）A（-27.30%、-9人）D（-18.54%、-256人）日均受影响最大，受影响最小的为S层级（+3.3%、+1人），年中阶段开始有效开播持续下降，春节当天达到最低点，初二开始回升。</span></p><p>年后：<span style=\"color: rgb(23,26,29);\">2月4日-2月9日 正月初七-正月十二 周二-周日，6天</span>；<span style=\"color: rgb(23,43,77);\">年后日均有效开播人数2379人，环比活动前7日日均有效开播人数2662人（目标值2529人），目标完成度94.05%（-283人），环比活动前7日下降10.65%。年后阶段C（-24.20%、-98人）A（-22.88%、-8人）D（-9.01%、-124人）日均受影响最大，受影响最小的为S（+10.99%、+3人）N（+1.34%、+5人）。</span></p><p>主播侧合计消耗奖励7906184映币奖励（合316247.36<span style=\"letter-spacing: 0.0px;\">元），获得映币奖励的主播人数以SAB为主，B层级占比最高。</span></p><h3>25年国庆：14天</h3><p>国庆前：9月24日-9月30日&nbsp; 7天；<span style=\"color: rgb(0,0,0);\">有效开播人数环比活动前下降7.61%（-114人），除S（+0人 +0.53%）层级其他层级全部下降，降幅在1%--13%，N层级降幅最大（-16 -13.24%）。</span></p><p>国庆期间：10月1日-10月7日 7天；<span style=\"color: rgb(0,0,0);\">有效开播人数环比活动前下降15.44%（-231人），除S（+1人 +6.12%）层级其他层级全部下降，降幅在4%--20%，C层级降幅最大（-61 -20.25%）。<span>&nbsp;</span></span></p><p><span style=\"color: rgb(0,0,0);\">25年活动期间合计支出</span><span style=\"color: rgb(0,51,102);\">4824225映币奖励（合192969元），下发人数1345人。SA层级主播获奖金额占比最高，BCN层级主播获奖人数占比最高。实际下发人数高于预估下发人数。</span></p><p><br /></p><p><br /></p><p><strong>四、目标：</strong></p><p><strong><span style=\"color: rgb(23,26,29);\">年中：</span></strong></p><p><span style=\"color: rgb(23,26,29);\">以每日开播时长+收礼任务刺激主播每日开播赚钱。额外再给一笔映币奖励累计打卡后按比例解锁<span style=\"color: rgb(0,0,0);\">。</span></span></p><p><span style=\"color: rgb(23,26,29);\">参考去年春节及今年国庆期间趋势，</span><span style=\"color: rgb(23,26,29);\">保障日均有效开播主播数环比活动前下降幅度控制在15%以内</span></p><p><span style=\"color: rgb(23,26,29);\">（参考：22年有效开播主播数对比活动前下降30.33%，23年有效开播主播数对比活动前</span><span style=\"color: rgb(23,26,29);\">下降16.27%，24年有效开播主播数对比活动前下降20.44%，24年有效开播主播数对比活动前下降18.11%</span><span style=\"color: rgb(23,26,29);\">）</span></p><p><strong>年后：</strong></p><p><span style=\"color: rgb(23,26,29);\">以每日开播时长+收礼任务，累计打卡按比例解锁</span>刺激主播回流开播。</p><p><span style=\"color: rgb(23,26,29);\">参考去年春节及今年国庆期间趋势，</span>有效开播人数对比活动前<span style=\"color: rgb(23,26,29);\">回升幅度为5%以上</span></p><p><span style=\"color: rgb(0,0,0);\">（参考：<span style=\"color: rgb(23,26,29);\">24年有效开播主播数对比活动前回升4.46%</span>）</span></p><p><br /></p><p><strong>五</strong><strong style=\"letter-spacing: 0.0px;\">、玩法及预算拆分：</strong></p><p><strong>1、</strong><span style=\"color: rgb(255,0,0);\"><strong>年中（2026年2月16日00:00:00-2026年2月23日23:59:59）</strong></span></p><p><span style=\"color: rgb(255,0,0);\"><span style=\"color: rgb(255,0,0);\"><span style=\"color: rgb(0,0,0);\">方式一：开播时长+收礼任务</span><br /></span></span></p><p><span style=\"color: rgb(255,0,0);\"><span style=\"color: rgb(255,0,0);\"><span style=\"color: rgb(0,0,0);\">方式二：额外再给一笔映币奖励，累计打卡后按比例解锁</span></span></span></p><p><br /></p><p>活动期间主播完成开播120分钟+最低收礼1500映币可得定额奖励66映币，单人单日每日可完成4个档位的关卡任务，最高可得<span style=\"letter-spacing: 0.0px;\">6666</span>映币</p><p><span style=\"color: rgb(23,26,29);letter-spacing: 0.0px;\">参考去年春节趋势及26年1月份数据，</span>预估此玩法每日覆盖主播<span style=\"letter-spacing: 0.0px;\">325</span>人。</p><p>年中阶段共计8天，合计产出预算<strong>2,554,695&nbsp;映币</strong><span style=\"letter-spacing: 0.0px;\">，折合人民币<strong>102188 </strong></span><strong>&nbsp;元<span style=\"letter-spacing: 0.0px;\">。</span></strong></p><table><tbody class=\"\"><tr class=\"\"><td>日均uv</td><td>开播门槛（分钟）</td><td>收礼金额</td><td>实际返点</td><td>返还映币数</td><td>单日预算</td><td class=\"highlight-#e3fcef\" data-highlight-colour=\"#e3fcef\">八日任务总预算</td><td>额外再给</td><td class=\"highlight-#e3fcef\" data-highlight-colour=\"#e3fcef\">所有人累计打卡合计</td><td class=\"highlight-#ffebe6\" data-highlight-colour=\"#ffebe6\">任务+累计打卡合计</td></tr><tr class=\"\"><td>151&nbsp;</td><td>120</td><td>1500</td><td>4.40%</td><td>66</td><td>9,949&nbsp;</td><td class=\"highlight-#e3fcef\" data-highlight-colour=\"#e3fcef\">79,591&nbsp;</td><td>6</td><td class=\"highlight-#e3fcef\" data-highlight-colour=\"#e3fcef\">7,236&nbsp;</td><td class=\"highlight-#ffebe6\" data-highlight-colour=\"#ffebe6\">86,827&nbsp;</td></tr><tr class=\"\"><td>131&nbsp;</td><td>120</td><td>10000</td><td>6.66%</td><td>666</td><td>87,109&nbsp;</td><td class=\"highlight-#e3fcef\" data-highlight-colour=\"#e3fcef\">696,873&nbsp;</td><td>66</td><td class=\"highlight-#e3fcef\" data-highlight-colour=\"#e3fcef\">69,059&nbsp;</td><td class=\"highlight-#ffebe6\" data-highlight-colour=\"#ffebe6\">765,932&nbsp;</td></tr><tr class=\"\"><td>25&nbsp;</td><td>120</td><td>35000</td><td>7.62%</td><td>2666</td><td>65,786&nbsp;</td><td class=\"highlight-#e3fcef\" data-highlight-colour=\"#e3fcef\">526,288&nbsp;</td><td>266</td><td class=\"highlight-#e3fcef\" data-highlight-colour=\"#e3fcef\">52,510&nbsp;</td><td class=\"highlight-#ffebe6\" data-highlight-colour=\"#ffebe6\">578,799&nbsp;</td></tr><tr class=\"\"><td>19&nbsp;</td><td>120</td><td>80000</td><td>8.33%</td><td>6666</td><td>127,640&nbsp;</td><td class=\"highlight-#e3fcef\" data-highlight-colour=\"#e3fcef\">1,021,117&nbsp;</td><td>666</td><td class=\"highlight-#e3fcef\" data-highlight-colour=\"#e3fcef\">102,020&nbsp;</td><td class=\"highlight-#ffebe6\" data-highlight-colour=\"#ffebe6\">1,123,137&nbsp;</td></tr><tr class=\"\"><td>325&nbsp;</td><td><br /></td><td><br /></td><td><br /></td><td>总计</td><td>290,484&nbsp;</td><td class=\"highlight-#e3fcef\" data-highlight-colour=\"#e3fcef\">2,323,870&nbsp;</td><td><br /></td><td class=\"highlight-#e3fcef\" data-highlight-colour=\"#e3fcef\">230,825&nbsp;</td><td class=\"highlight-#ffebe6\" data-highlight-colour=\"#ffebe6\">2,554,695&nbsp;</td></tr><tr class=\"\"><td>日均覆盖人数</td><td><br /></td><td><br /></td><td><br /></td><td>人民币</td><td>11,619&nbsp;</td><td class=\"highlight-#e3fcef\" data-highlight-colour=\"#e3fcef\">92,955&nbsp;</td><td><br /></td><td class=\"highlight-#e3fcef\" data-highlight-colour=\"#e3fcef\">9,233&nbsp;</td><td class=\"highlight-#ffebe6\" data-highlight-colour=\"#ffebe6\"><strong title=\"\">102,188&nbsp;</strong></td></tr></tbody></table><p><br /></p><p><br /></p><p><span style=\"color: rgb(255,0,0);\"><span style=\"color: rgb(255,0,0);\"><span style=\"color: rgb(0,0,0);\"><strong>2、</strong></span><strong><span style=\"color: rgb(255,0,0);\">年后（2026年2月24日00:00:00-2026年3月3日23:59:59）</span></strong></span></span></p><p>方式：<span style=\"color: rgb(255,0,0);\"><span style=\"color: rgb(0,0,0);\">开播时长+收礼任务得映币奖励，需</span></span><span style=\"color: rgb(255,0,0);\"><span style=\"color: rgb(0,0,0);\">累计打卡后可按比例解锁</span></span></p><p><br /></p><p>活动期间主播完成开播120分钟+最低收礼1500映币可存入定额奖励39映币，单人单日每日可完成3个档位的关卡任务，最高可得<span>999</span>映币。累计年后打卡天数，按比例解锁已存映币奖励。</p><p><span style=\"color: rgb(23,26,29);\">参考去年春节趋势及26年1月份数据，</span>预估此玩法每日覆盖主播<span>448</span>人。</p><p>年中阶段共计8天，合计产出预算 <strong>822508&nbsp;映币</strong><span>，折合人民币 <strong>32900 </strong></span><strong>元<span>。</span></strong></p><table><tbody class=\"\"><tr class=\"\"><td>日均uv</td><td>开播门槛（分钟）</td><td>收礼金额</td><td>实际返点</td><td>返还映币数</td><td>单日预算</td><td class=\"highlight-#ffebe6\" data-highlight-colour=\"#ffebe6\">八日总预算</td></tr><tr class=\"\"><td>228&nbsp;</td><td>120</td><td>1500</td><td>2.60%</td><td>39</td><td>8874</td><td class=\"highlight-#ffebe6\" data-highlight-colour=\"#ffebe6\">70992</td></tr><tr class=\"\"><td>158&nbsp;</td><td>120</td><td>8000</td><td>2.49%</td><td>199</td><td>31426</td><td class=\"highlight-#ffebe6\" data-highlight-colour=\"#ffebe6\">251411</td></tr><tr class=\"\"><td>63&nbsp;</td><td>120</td><td>30000</td><td>3.33%</td><td>999</td><td>62513</td><td class=\"highlight-#ffebe6\" data-highlight-colour=\"#ffebe6\">500105</td></tr><tr class=\"\"><td>448&nbsp;</td><td><br /></td><td><br /></td><td><br /></td><td>总计</td><td>102814</td><td class=\"highlight-#ffebe6\" data-highlight-colour=\"#ffebe6\">822508</td></tr><tr class=\"\"><td>日均覆盖人数</td><td><br /></td><td><br /></td><td><br /></td><td>人民币</td><td>4113</td><td class=\"highlight-#ffebe6\" data-highlight-colour=\"#ffebe6\"><strong>32900</strong></td></tr></tbody></table><p><br /></p><p><br /></p><p><br /></p><p>以上，感谢！</p><p>如有疑问钉钉联系~</p>",
+      "representation": "storage",
+      "_expandable": {
+        "content": "/rest/api/content/480969095"
+      }
+    },
+    "_expandable": {
+      "editor": "",
+      "view": "",
+      "export_view": "",
+      "styled_view": "",
+      "anonymous_export_view": ""
+    }
+  },
+  "extensions": {
+    "position": "none"
+  },
+  "_links": {
+    "webui": "/pages/viewpage.action?pageId=480969095",
+    "edit": "/pages/resumedraft.action?draftId=480969095&draftShareId=f863ec04-0a4c-4e69-aae8-976a13d0bca0",
+    "tinyui": "/x/hwGrH",
+    "collection": "/rest/api/content",
+    "base": "https://wiki.inkept.cn",
+    "context": "",
+    "self": "https://wiki.inkept.cn/rest/api/content/480969095"
+  },
+  "_expandable": {
+    "container": "/rest/api/space/xueyuan",
+    "metadata": "",
+    "operations": "",
+    "children": "/rest/api/content/480969095/child",
+    "restrictions": "/rest/api/content/480969095/restriction/byOperation",
+    "history": "/rest/api/content/480969095/history",
+    "descendants": "/rest/api/content/480969095/descendant"
+  }
+}

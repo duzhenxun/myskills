@@ -1,0 +1,289 @@
+{
+  "id": "483794738",
+  "type": "page",
+  "status": "current",
+  "title": "【活动数据】2026年春节",
+  "space": {
+    "id": 3571713,
+    "key": "xueyuan",
+    "name": "映客直播业务",
+    "type": "global",
+    "_links": {
+      "webui": "/display/xueyuan",
+      "self": "https://wiki.inkept.cn/rest/api/space/xueyuan"
+    },
+    "_expandable": {
+      "metadata": "",
+      "icon": "",
+      "description": "",
+      "retentionPolicy": "",
+      "homepage": "/rest/api/content/320866330"
+    }
+  },
+  "version": {
+    "by": {
+      "type": "known",
+      "username": "maxiaona",
+      "userKey": "8aef97167d450205017db1d1e6df008b",
+      "profilePicture": {
+        "path": "/images/icons/profilepics/default.svg",
+        "width": 48,
+        "height": 48,
+        "isDefault": true
+      },
+      "displayName": "马晓娜",
+      "_links": {
+        "self": "https://wiki.inkept.cn/rest/api/user?key=8aef97167d450205017db1d1e6df008b"
+      },
+      "_expandable": {
+        "status": ""
+      }
+    },
+    "when": "2026-03-03T11:45:48.000+08:00",
+    "message": "",
+    "number": 1,
+    "minorEdit": false,
+    "hidden": false,
+    "_links": {
+      "self": "https://wiki.inkept.cn/rest/experimental/content/483794738/version/1"
+    },
+    "_expandable": {
+      "content": "/rest/api/content/483794738"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "320866330",
+      "type": "page",
+      "status": "current",
+      "title": "映客直播业务",
+      "extensions": {
+        "position": "none"
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=320866330",
+        "edit": "/pages/resumedraft.action?draftId=320866330&draftShareId=d5d92a4f-fb15-4a51-8bd6-16333cb6f165",
+        "tinyui": "/x/GgggEw",
+        "self": "https://wiki.inkept.cn/rest/api/content/320866330"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/320866330/child",
+        "restrictions": "/rest/api/content/320866330/restriction/byOperation",
+        "history": "/rest/api/content/320866330/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/320866330/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    },
+    {
+      "id": "326510548",
+      "type": "page",
+      "status": "current",
+      "title": "直播业务线-运营",
+      "extensions": {
+        "position": 2
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=326510548",
+        "edit": "/pages/resumedraft.action?draftId=326510548&draftShareId=0ea027df-6f8f-4663-bbd6-217ba023f41b",
+        "tinyui": "/x/1Cd2Ew",
+        "self": "https://wiki.inkept.cn/rest/api/content/326510548"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/326510548/child",
+        "restrictions": "/rest/api/content/326510548/restriction/byOperation",
+        "history": "/rest/api/content/326510548/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/326510548/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    },
+    {
+      "id": "331456836",
+      "type": "page",
+      "status": "current",
+      "title": "【活动组】",
+      "extensions": {
+        "position": 11
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=331456836",
+        "edit": "/pages/resumedraft.action?draftId=331456836",
+        "tinyui": "/x/RKHBEw",
+        "self": "https://wiki.inkept.cn/rest/api/content/331456836"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/331456836/child",
+        "restrictions": "/rest/api/content/331456836/restriction/byOperation",
+        "history": "/rest/api/content/331456836/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/331456836/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    },
+    {
+      "id": "452644191",
+      "type": "page",
+      "status": "current",
+      "title": "【2026营收运营活动】",
+      "extensions": {
+        "position": "none"
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=452644191",
+        "edit": "/pages/resumedraft.action?draftId=452644191&draftShareId=97d3197f-f0cd-4143-8fbf-d96b4892c680",
+        "tinyui": "/x/X836Gg",
+        "self": "https://wiki.inkept.cn/rest/api/content/452644191"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/452644191/child",
+        "restrictions": "/rest/api/content/452644191/restriction/byOperation",
+        "history": "/rest/api/content/452644191/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/452644191/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    },
+    {
+      "id": "462598884",
+      "type": "page",
+      "status": "current",
+      "title": "2026年2月份活动",
+      "extensions": {
+        "position": "none"
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=462598884",
+        "edit": "/pages/resumedraft.action?draftId=462598884&draftShareId=744b2fa4-aa8c-4445-a22d-8439470cf97f",
+        "tinyui": "/x/5LKSGw",
+        "self": "https://wiki.inkept.cn/rest/api/content/462598884"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/462598884/child",
+        "restrictions": "/rest/api/content/462598884/restriction/byOperation",
+        "history": "/rest/api/content/462598884/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/462598884/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    },
+    {
+      "id": "462598896",
+      "type": "page",
+      "status": "current",
+      "title": "2026年春节",
+      "extensions": {
+        "position": "none"
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=462598896",
+        "edit": "/pages/resumedraft.action?draftId=462598896&draftShareId=101ce755-9d84-4b49-b3df-53c8b06ae19c",
+        "tinyui": "/x/8LKSGw",
+        "self": "https://wiki.inkept.cn/rest/api/content/462598896"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/462598896/child",
+        "restrictions": "/rest/api/content/462598896/restriction/byOperation",
+        "history": "/rest/api/content/462598896/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/462598896/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    },
+    {
+      "id": "471957989",
+      "type": "page",
+      "status": "current",
+      "title": "2月17日-2月21日 用户福马迎春送财运",
+      "extensions": {
+        "position": "none"
+      },
+      "_links": {
+        "webui": "/pages/viewpage.action?pageId=471957989",
+        "edit": "/pages/resumedraft.action?draftId=471957989&draftShareId=8a12ebc1-2cdb-4ae1-b0d5-1b9ca844b53a",
+        "tinyui": "/x/5YEhH",
+        "self": "https://wiki.inkept.cn/rest/api/content/471957989"
+      },
+      "_expandable": {
+        "container": "/rest/api/space/xueyuan",
+        "metadata": "",
+        "operations": "",
+        "children": "/rest/api/content/471957989/child",
+        "restrictions": "/rest/api/content/471957989/restriction/byOperation",
+        "history": "/rest/api/content/471957989/history",
+        "ancestors": "",
+        "body": "",
+        "version": "",
+        "descendants": "/rest/api/content/471957989/descendant",
+        "space": "/rest/api/space/xueyuan"
+      }
+    }
+  ],
+  "body": {
+    "storage": {
+      "value": "<p><br />活动期间（初一<span class=\"font1\">-</span><span class=\"font2\">初五，</span><span class=\"font1\">5</span><span class=\"font2\">日）合计消耗</span><span class=\"font1\">2212</span><span class=\"font2\">万钻，日均消耗442万钻；<br />秀场和派对的消耗77:23，其中派对厅消耗1699万，秀场消耗512万；<br /></span>设置消耗获得返钻券并未有效刺激春节期间的充值。初五设置迎五神获得勋章的玩法，门槛设置较高，并未有效刺激消耗。<br />2026年春节环比2025年春节，整体的消耗日均下降802万（-64.47），送礼人数下降423（-14.17%），arppu下降2446钻（-58.60）。<br />由于2025年春节的初四初五在月初，2026年春节和2025年春节同比整体的消耗、送礼人数走势前期基本一致，初四初五不太一致。<br />26年春节期间，返钻券设置充值档位降幅（-31.33%）高于25年春节期间的降幅（-14.75%）；26年春节各个层级的充值金额降幅均高于25年春节，其中25年春节S层级充值金额属于提升的趋势，26年属于下降的趋势；<br />26年春节覆盖的充值档位，下降幅度也均高于25年下降幅度。整体返钻券的使用比率在15%-27%，设置消耗获得返钻券并未有效刺激春节期间的充值。<br />初五上线迎接五神可以获得勋章的奖励（门槛设置25万钻），并未有效刺激消耗，仅1人获得勋章奖励，初五的消耗还有所下降。</p><table><tbody class=\"\"><tr class=\"\"><td>送礼场景</td><td>送礼钻石数</td><td>占比</td></tr><tr class=\"\"><td>派对</td><td>16,993,847&nbsp;</td><td>76.82%</td></tr><tr class=\"\"><td>秀场</td><td>5,129,152&nbsp;</td><td>23.18%</td></tr><tr class=\"\"><td>总计</td><td>22,122,999&nbsp;</td><td><br /></td></tr></tbody></table><p class=\"auto-cursor-target\"><br /></p><table><tbody class=\"\"><tr class=\"\"><td>用户消耗情况</td><td>初一</td><td>初二</td><td>初三</td><td>初四</td><td>初五</td><td><br /></td></tr><tr class=\"\"><td>2025<span>年春节</span></td><td>16,402,859&nbsp;</td><td>11,204,347&nbsp;</td><td>11,414,440&nbsp;</td><td>11,420,274&nbsp;</td><td>11,817,044&nbsp;</td><td>12451792.8</td></tr><tr class=\"\"><td>2026<span>年春节</span></td><td>6,350,182&nbsp;</td><td>4,223,011&nbsp;</td><td>4,011,196&nbsp;</td><td>4,040,786&nbsp;</td><td>3,497,824&nbsp;</td><td>4424599.8</td></tr></tbody></table><p class=\"auto-cursor-target\"><br /></p><p><ac:image ac:height=\"250\"><ri:attachment ri:filename=\"image-2026-3-3_11-44-5.png\" /></ac:image></p><p><br /></p><table><tbody class=\"\"><tr class=\"\"><td>用户送礼人数情况</td><td>初一</td><td>初二</td><td>初三</td><td>初四</td><td>初五</td></tr><tr class=\"\"><td>2025<span>年春节</span></td><td>3,718&nbsp;</td><td>2,901&nbsp;</td><td>2,759&nbsp;</td><td>2,806&nbsp;</td><td>2,729&nbsp;</td></tr><tr class=\"\"><td>2026<span>年春节</span></td><td>3,291&nbsp;</td><td>2,639&nbsp;</td><td>2,379&nbsp;</td><td>2,212&nbsp;</td><td>2,279&nbsp;</td></tr></tbody></table><p><ac:image ac:height=\"250\"><ri:attachment ri:filename=\"image-2026-3-3_11-44-43.png\" /></ac:image></p><table><tbody class=\"\"><tr class=\"\"><td>arppu</td><td>初一</td><td>初二</td><td>初三</td><td>初四</td><td>初五</td></tr><tr class=\"\"><td>2025<span>年春节</span></td><td>4,412&nbsp;</td><td>3,862&nbsp;</td><td>4,137&nbsp;</td><td>4,070&nbsp;</td><td>4,330&nbsp;</td></tr><tr class=\"\"><td>2026<span>年春节</span></td><td>1,930&nbsp;</td><td>1,600&nbsp;</td><td>1,686&nbsp;</td><td>1,827&nbsp;</td><td>1,535&nbsp;</td></tr></tbody></table><p><ac:image ac:height=\"250\"><ri:attachment ri:filename=\"image-2026-3-3_11-45-27.png\" /></ac:image></p><p><br /></p><table><tbody class=\"\"><tr class=\"\"><td><br /></td><td colspan=\"4\">2025年春节</td><td colspan=\"4\">2026年春节</td><td>年差值</td></tr><tr class=\"\"><td>用户层级</td><td>活动前一周</td><td>活动期间（初一-初十）</td><td>差值</td><td>环比</td><td>活动前一周</td><td>活动期间</td><td>差值</td><td>环比</td><td><br /></td></tr><tr class=\"\"><td>S</td><td>289,795&nbsp;</td><td>313,448&nbsp;</td><td>23,654&nbsp;</td><td>8.16%</td><td>184,536&nbsp;</td><td>126,536&nbsp;</td><td>-58,000&nbsp;</td><td>-31.43%</td><td>-39.59%</td></tr><tr class=\"\"><td>A</td><td>448,339&nbsp;</td><td>419,908&nbsp;</td><td>-28,431&nbsp;</td><td>-6.34%</td><td>247,617&nbsp;</td><td>207,851&nbsp;</td><td>-39,766&nbsp;</td><td>-16.06%</td><td>-9.72%</td></tr><tr class=\"\"><td>B</td><td>1,202,177&nbsp;</td><td>965,419&nbsp;</td><td>-236,757&nbsp;</td><td>-19.69%</td><td>845,573&nbsp;</td><td>572,706&nbsp;</td><td>-272,866&nbsp;</td><td>-32.27%</td><td>-12.58%</td></tr><tr class=\"\"><td>C</td><td>318,354&nbsp;</td><td>234,969&nbsp;</td><td>-83,385&nbsp;</td><td>-26.19%</td><td>228,034&nbsp;</td><td>153,135&nbsp;</td><td>-74,899&nbsp;</td><td>-32.85%</td><td>-6.65%</td></tr><tr class=\"\"><td>D</td><td>264,200&nbsp;</td><td>222,329&nbsp;</td><td>-41,872&nbsp;</td><td>-15.85%</td><td>241,610&nbsp;</td><td>141,876&nbsp;</td><td>-99,734&nbsp;</td><td>-41.28%</td><td>-25.43%</td></tr><tr class=\"\"><td>E</td><td>37,667&nbsp;</td><td>26,845&nbsp;</td><td>-10,822&nbsp;</td><td>-28.73%</td><td>27,924&nbsp;</td><td>16,913&nbsp;</td><td>-11,011&nbsp;</td><td>-39.43%</td><td>-10.70%</td></tr><tr class=\"\"><td>合计</td><td>289,795&nbsp;</td><td>313,448&nbsp;</td><td>23,654&nbsp;</td><td>8.16%</td><td>184,536&nbsp;</td><td>126,536&nbsp;</td><td>-58,000&nbsp;</td><td>-31.43%</td><td>-39.59%</td></tr></tbody></table><p class=\"auto-cursor-target\"><br /></p><table><tbody class=\"\"><tr class=\"\"><td><br /></td><td colspan=\"4\">2025年春节</td><td colspan=\"4\">2026年春节</td><td>年差值</td></tr><tr class=\"\"><td>充值档位</td><td>活动前一周</td><td>活动期间（初一-初十）</td><td>差值</td><td>环比</td><td>活动前一周</td><td>活动期间</td><td>差值</td><td>环比</td><td><br /></td></tr><tr class=\"\"><td>598</td><td>766.7&nbsp;</td><td>633.7&nbsp;</td><td>-133.0&nbsp;</td><td>-17.35%</td><td>573.3&nbsp;</td><td>401.6&nbsp;</td><td>-171.7&nbsp;</td><td>-29.95%</td><td>-12.60%</td></tr><tr class=\"\"><td>998</td><td>890.0&nbsp;</td><td>695.4&nbsp;</td><td>-194.6&nbsp;</td><td>-21.87%</td><td>741.3&nbsp;</td><td>498.7&nbsp;</td><td>-242.6&nbsp;</td><td>-32.72%</td><td>-10.86%</td></tr><tr class=\"\"><td>2998</td><td>255.6&nbsp;</td><td>224.9&nbsp;</td><td>-30.7&nbsp;</td><td>-12.00%</td><td>128.7&nbsp;</td><td>97.6&nbsp;</td><td>-31.1&nbsp;</td><td>-24.17%</td><td>-12.17%</td></tr><tr class=\"\"><td>5998</td><td>27.0&nbsp;</td><td>23.3&nbsp;</td><td>-3.7&nbsp;</td><td>-13.70%</td><td>24.0&nbsp;</td><td>15.6&nbsp;</td><td>-8.4&nbsp;</td><td>-35.00%</td><td>-21.30%</td></tr><tr class=\"\"><td>9998</td><td>20.9&nbsp;</td><td>20.6&nbsp;</td><td>-0.3&nbsp;</td><td>-1.23%</td><td>13.3&nbsp;</td><td>6.8&nbsp;</td><td>-6.5&nbsp;</td><td>-48.82%</td><td>-47.58%</td></tr><tr class=\"\"><td>29998</td><td>4.5&nbsp;</td><td>3.3&nbsp;</td><td>-1.2&nbsp;</td><td>-25.93%</td><td>1.8&nbsp;</td><td>1.1&nbsp;</td><td>-0.6&nbsp;</td><td>-35.71%</td><td>-9.79%</td></tr></tbody></table><p><br /></p><p><br /></p><p><br /></p><p><br /></p><p><br /></p><p><br /></p><p><br /></p><p><br /></p><p><br /></p><p><br /></p>",
+      "representation": "storage",
+      "_expandable": {
+        "content": "/rest/api/content/483794738"
+      }
+    },
+    "_expandable": {
+      "editor": "",
+      "view": "",
+      "export_view": "",
+      "styled_view": "",
+      "anonymous_export_view": ""
+    }
+  },
+  "extensions": {
+    "position": "none"
+  },
+  "_links": {
+    "webui": "/pages/viewpage.action?pageId=483794738",
+    "edit": "/pages/resumedraft.action?draftId=483794738&draftShareId=3e050ba0-4f34-4a61-9759-da1d846f5683",
+    "tinyui": "/x/Mh-WH",
+    "collection": "/rest/api/content",
+    "base": "https://wiki.inkept.cn",
+    "context": "",
+    "self": "https://wiki.inkept.cn/rest/api/content/483794738"
+  },
+  "_expandable": {
+    "container": "/rest/api/space/xueyuan",
+    "metadata": "",
+    "operations": "",
+    "children": "/rest/api/content/483794738/child",
+    "restrictions": "/rest/api/content/483794738/restriction/byOperation",
+    "history": "/rest/api/content/483794738/history",
+    "descendants": "/rest/api/content/483794738/descendant"
+  }
+}

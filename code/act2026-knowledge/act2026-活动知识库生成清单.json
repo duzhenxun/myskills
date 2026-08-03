@@ -1,0 +1,1228 @@
+[
+  {
+    "project": "act202601_game_bump",
+    "month": "act202601",
+    "path": "/Users/dds/go/src/git.inke.cn/opd/activitys/inke.activity.service/act/2026/act202601/act202601_game_bump",
+    "output": "/Users/dds/data/ai/work/code/act2026-knowledge/act202601_game_bump-活动知识库.md",
+    "files": 6,
+    "go_files": 6,
+    "module_names": [
+      "act202601_game_bump"
+    ],
+    "activity_types": [
+      "游戏玩法",
+      "榜单冲榜",
+      "任务/活跃",
+      "用户侧活动"
+    ]
+  },
+  {
+    "project": "act202601_game_golden_cudgel",
+    "month": "act202601",
+    "path": "/Users/dds/go/src/git.inke.cn/opd/activitys/inke.activity.service/act/2026/act202601/act202601_game_golden_cudgel",
+    "output": "/Users/dds/data/ai/work/code/act2026-knowledge/act202601_game_golden_cudgel-活动知识库.md",
+    "files": 10,
+    "go_files": 10,
+    "module_names": [
+      "act202601_game_golden_cudgel"
+    ],
+    "activity_types": [
+      "KA/SVIP 活动",
+      "游戏玩法",
+      "榜单冲榜",
+      "任务/活跃"
+    ]
+  },
+  {
+    "project": "act202601_game_meigui",
+    "month": "act202601",
+    "path": "/Users/dds/go/src/git.inke.cn/opd/activitys/inke.activity.service/act/2026/act202601/act202601_game_meigui",
+    "output": "/Users/dds/data/ai/work/code/act2026-knowledge/act202601_game_meigui-活动知识库.md",
+    "files": 7,
+    "go_files": 7,
+    "module_names": [
+      "act202601_game_meigui"
+    ],
+    "activity_types": [
+      "KA/SVIP 活动",
+      "游戏玩法",
+      "榜单冲榜",
+      "任务/活跃"
+    ]
+  },
+  {
+    "project": "act202601_game_pets_forage",
+    "month": "act202601",
+    "path": "/Users/dds/go/src/git.inke.cn/opd/activitys/inke.activity.service/act/2026/act202601/act202601_game_pets_forage",
+    "output": "/Users/dds/data/ai/work/code/act2026-knowledge/act202601_game_pets_forage-活动知识库.md",
+    "files": 6,
+    "go_files": 6,
+    "module_names": [
+      "act202601_game_pets_forage"
+    ],
+    "activity_types": [
+      "游戏玩法",
+      "榜单冲榜",
+      "任务/活跃",
+      "用户侧活动"
+    ]
+  },
+  {
+    "project": "act202601_game_xy_set_lucky",
+    "month": "act202601",
+    "path": "/Users/dds/go/src/git.inke.cn/opd/activitys/inke.activity.service/act/2026/act202601/act202601_game_xy_set_lucky",
+    "output": "/Users/dds/data/ai/work/code/act2026-knowledge/act202601_game_xy_set_lucky-活动知识库.md",
+    "files": 6,
+    "go_files": 6,
+    "module_names": [
+      "act202601_game_xy_set_lucky"
+    ],
+    "activity_types": [
+      "KA/SVIP 活动",
+      "游戏玩法",
+      "榜单冲榜",
+      "任务/活跃"
+    ]
+  },
+  {
+    "project": "act202601_good_luck",
+    "month": "act202601",
+    "path": "/Users/dds/go/src/git.inke.cn/opd/activitys/inke.activity.service/act/2026/act202601/act202601_good_luck",
+    "output": "/Users/dds/data/ai/work/code/act2026-knowledge/act202601_good_luck-活动知识库.md",
+    "files": 9,
+    "go_files": 9,
+    "module_names": [
+      "act202601_good_luck"
+    ],
+    "activity_types": [
+      "KA/SVIP 活动",
+      "榜单冲榜",
+      "任务/活跃",
+      "用户侧活动"
+    ]
+  },
+  {
+    "project": "act202601_huahuo_dahui",
+    "month": "act202601",
+    "path": "/Users/dds/go/src/git.inke.cn/opd/activitys/inke.activity.service/act/2026/act202601/act202601_huahuo_dahui",
+    "output": "/Users/dds/data/ai/work/code/act2026-knowledge/act202601_huahuo_dahui-活动知识库.md",
+    "files": 11,
+    "go_files": 11,
+    "module_names": [
+      "act202601_huahuo_dahui"
+    ],
+    "activity_types": [
+      "KA/SVIP 活动",
+      "榜单冲榜",
+      "任务/活跃",
+      "用户侧活动"
+    ]
+  },
+  {
+    "project": "act202601_icon",
+    "month": "act202601",
+    "path": "/Users/dds/go/src/git.inke.cn/opd/activitys/inke.activity.service/act/2026/act202601/act202601_icon",
+    "output": "/Users/dds/data/ai/work/code/act2026-knowledge/act202601_icon-活动知识库.md",
+    "files": 6,
+    "go_files": 6,
+    "module_names": [
+      "act202601_icon"
+    ],
+    "activity_types": [
+      "榜单冲榜",
+      "用户侧活动",
+      "图标/入口",
+      "奖励/抽奖"
+    ]
+  },
+  {
+    "project": "act202601_ka_hot_spring",
+    "month": "act202601",
+    "path": "/Users/dds/go/src/git.inke.cn/opd/activitys/inke.activity.service/act/2026/act202601/act202601_ka_hot_spring",
+    "output": "/Users/dds/data/ai/work/code/act2026-knowledge/act202601_ka_hot_spring-活动知识库.md",
+    "files": 9,
+    "go_files": 9,
+    "module_names": [
+      "act202601_ka_hot_spring"
+    ],
+    "activity_types": [
+      "KA/SVIP 活动",
+      "榜单冲榜",
+      "任务/活跃",
+      "用户侧活动"
+    ]
+  },
+  {
+    "project": "act202601_ka_super_bingxue",
+    "month": "act202601",
+    "path": "/Users/dds/go/src/git.inke.cn/opd/activitys/inke.activity.service/act/2026/act202601/act202601_ka_super_bingxue",
+    "output": "/Users/dds/data/ai/work/code/act2026-knowledge/act202601_ka_super_bingxue-活动知识库.md",
+    "files": 10,
+    "go_files": 9,
+    "module_names": [
+      "act202601_ka_super_bingxue"
+    ],
+    "activity_types": [
+      "KA/SVIP 活动",
+      "榜单冲榜",
+      "任务/活跃",
+      "用户侧活动"
+    ]
+  },
+  {
+    "project": "act202601_ka_super_flyer",
+    "month": "act202601",
+    "path": "/Users/dds/go/src/git.inke.cn/opd/activitys/inke.activity.service/act/2026/act202601/act202601_ka_super_flyer",
+    "output": "/Users/dds/data/ai/work/code/act2026-knowledge/act202601_ka_super_flyer-活动知识库.md",
+    "files": 10,
+    "go_files": 9,
+    "module_names": [
+      "act202601_ka_super_flyer"
+    ],
+    "activity_types": [
+      "KA/SVIP 活动",
+      "榜单冲榜",
+      "任务/活跃",
+      "用户侧活动"
+    ]
+  },
+  {
+    "project": "act202601_ka_super_nuandong",
+    "month": "act202601",
+    "path": "/Users/dds/go/src/git.inke.cn/opd/activitys/inke.activity.service/act/2026/act202601/act202601_ka_super_nuandong",
+    "output": "/Users/dds/data/ai/work/code/act2026-knowledge/act202601_ka_super_nuandong-活动知识库.md",
+    "files": 10,
+    "go_files": 9,
+    "module_names": [
+      "act202601_ka_super_nuandong"
+    ],
+    "activity_types": [
+      "KA/SVIP 活动",
+      "游戏玩法",
+      "榜单冲榜",
+      "任务/活跃"
+    ]
+  },
+  {
+    "project": "act202601_ka_svip_day",
+    "month": "act202601",
+    "path": "/Users/dds/go/src/git.inke.cn/opd/activitys/inke.activity.service/act/2026/act202601/act202601_ka_svip_day",
+    "output": "/Users/dds/data/ai/work/code/act2026-knowledge/act202601_ka_svip_day-活动知识库.md",
+    "files": 9,
+    "go_files": 9,
+    "module_names": [
+      "act202601_ka_svip_day"
+    ],
+    "activity_types": [
+      "KA/SVIP 活动",
+      "榜单冲榜",
+      "任务/活跃",
+      "用户侧活动"
+    ]
+  },
+  {
+    "project": "act202601_laba_congee",
+    "month": "act202601",
+    "path": "/Users/dds/go/src/git.inke.cn/opd/activitys/inke.activity.service/act/2026/act202601/act202601_laba_congee",
+    "output": "/Users/dds/data/ai/work/code/act2026-knowledge/act202601_laba_congee-活动知识库.md",
+    "files": 10,
+    "go_files": 10,
+    "module_names": [
+      "act202601_laba_congee"
+    ],
+    "activity_types": [
+      "KA/SVIP 活动",
+      "榜单冲榜",
+      "任务/活跃",
+      "节日/节点活动"
+    ]
+  },
+  {
+    "project": "act202601_linhaixuezong",
+    "month": "act202601",
+    "path": "/Users/dds/go/src/git.inke.cn/opd/activitys/inke.activity.service/act/2026/act202601/act202601_linhaixuezong",
+    "output": "/Users/dds/data/ai/work/code/act2026-knowledge/act202601_linhaixuezong-活动知识库.md",
+    "files": 10,
+    "go_files": 10,
+    "module_names": [
+      "act202601_linhaixuezong"
+    ],
+    "activity_types": [
+      "KA/SVIP 活动",
+      "榜单冲榜",
+      "任务/活跃",
+      "用户侧活动"
+    ]
+  },
+  {
+    "project": "act202601_wanted_notice",
+    "month": "act202601",
+    "path": "/Users/dds/go/src/git.inke.cn/opd/activitys/inke.activity.service/act/2026/act202601/act202601_wanted_notice",
+    "output": "/Users/dds/data/ai/work/code/act2026-knowledge/act202601_wanted_notice-活动知识库.md",
+    "files": 8,
+    "go_files": 8,
+    "module_names": [
+      "act202601_wanted_notice"
+    ],
+    "activity_types": [
+      "KA/SVIP 活动",
+      "榜单冲榜",
+      "任务/活跃",
+      "用户侧活动"
+    ]
+  },
+  {
+    "project": "act202602_chunjie",
+    "month": "act202602",
+    "path": "/Users/dds/go/src/git.inke.cn/opd/activitys/inke.activity.service/act/2026/act202602/act202602_chunjie",
+    "output": "/Users/dds/data/ai/work/code/act2026-knowledge/act202602_chunjie-活动知识库.md",
+    "files": 16,
+    "go_files": 16,
+    "module_names": [
+      "act202602_chunjie"
+    ],
+    "activity_types": [
+      "KA/SVIP 活动",
+      "榜单冲榜",
+      "任务/活跃",
+      "节日/节点活动"
+    ]
+  },
+  {
+    "project": "act202602_glorious_journey",
+    "month": "act202602",
+    "path": "/Users/dds/go/src/git.inke.cn/opd/activitys/inke.activity.service/act/2026/act202602/act202602_glorious_journey",
+    "output": "/Users/dds/data/ai/work/code/act2026-knowledge/act202602_glorious_journey-活动知识库.md",
+    "files": 8,
+    "go_files": 8,
+    "module_names": [
+      "act202602_glorious_journey"
+    ],
+    "activity_types": [
+      "KA/SVIP 活动",
+      "榜单冲榜",
+      "任务/活跃",
+      "节日/节点活动"
+    ]
+  },
+  {
+    "project": "act202602_golden_treasure",
+    "month": "act202602",
+    "path": "/Users/dds/go/src/git.inke.cn/opd/activitys/inke.activity.service/act/2026/act202602/act202602_golden_treasure",
+    "output": "/Users/dds/data/ai/work/code/act2026-knowledge/act202602_golden_treasure-活动知识库.md",
+    "files": 11,
+    "go_files": 11,
+    "module_names": [
+      "act202602_golden_treasure"
+    ],
+    "activity_types": [
+      "KA/SVIP 活动",
+      "榜单冲榜",
+      "任务/活跃",
+      "用户侧活动"
+    ]
+  },
+  {
+    "project": "act202602_ka_svip_day",
+    "month": "act202602",
+    "path": "/Users/dds/go/src/git.inke.cn/opd/activitys/inke.activity.service/act/2026/act202602/act202602_ka_svip_day",
+    "output": "/Users/dds/data/ai/work/code/act2026-knowledge/act202602_ka_svip_day-活动知识库.md",
+    "files": 10,
+    "go_files": 10,
+    "module_names": [
+      "act202602_ka_svip_day"
+    ],
+    "activity_types": [
+      "KA/SVIP 活动",
+      "榜单冲榜",
+      "任务/活跃",
+      "用户侧活动"
+    ]
+  },
+  {
+    "project": "act202602_ka_xinchun",
+    "month": "act202602",
+    "path": "/Users/dds/go/src/git.inke.cn/opd/activitys/inke.activity.service/act/2026/act202602/act202602_ka_xinchun",
+    "output": "/Users/dds/data/ai/work/code/act2026-knowledge/act202602_ka_xinchun-活动知识库.md",
+    "files": 10,
+    "go_files": 10,
+    "module_names": [
+      "act202602_ka_xinchun"
+    ],
+    "activity_types": [
+      "KA/SVIP 活动",
+      "榜单冲榜",
+      "任务/活跃",
+      "用户侧活动"
+    ]
+  },
+  {
+    "project": "act202602_lovers_date",
+    "month": "act202602",
+    "path": "/Users/dds/go/src/git.inke.cn/opd/activitys/inke.activity.service/act/2026/act202602/act202602_lovers_date",
+    "output": "/Users/dds/data/ai/work/code/act2026-knowledge/act202602_lovers_date-活动知识库.md",
+    "files": 11,
+    "go_files": 11,
+    "module_names": [
+      "act202602_lovers_date"
+    ],
+    "activity_types": [
+      "KA/SVIP 活动",
+      "榜单冲榜",
+      "任务/活跃",
+      "用户侧活动"
+    ]
+  },
+  {
+    "project": "act202602_spring_garden",
+    "month": "act202602",
+    "path": "/Users/dds/go/src/git.inke.cn/opd/activitys/inke.activity.service/act/2026/act202602/act202602_spring_garden",
+    "output": "/Users/dds/data/ai/work/code/act2026-knowledge/act202602_spring_garden-活动知识库.md",
+    "files": 8,
+    "go_files": 8,
+    "module_names": [
+      "act202602_spring_garden"
+    ],
+    "activity_types": [
+      "KA/SVIP 活动",
+      "榜单冲榜",
+      "任务/活跃",
+      "用户侧活动"
+    ]
+  },
+  {
+    "project": "act202602_spring_product_festival",
+    "month": "act202602",
+    "path": "/Users/dds/go/src/git.inke.cn/opd/activitys/inke.activity.service/act/2026/act202602/act202602_spring_product_festival",
+    "output": "/Users/dds/data/ai/work/code/act2026-knowledge/act202602_spring_product_festival-活动知识库.md",
+    "files": 11,
+    "go_files": 11,
+    "module_names": [
+      "act202602_spring_product_festival"
+    ],
+    "activity_types": [
+      "榜单冲榜",
+      "任务/活跃",
+      "用户侧活动",
+      "奖励/抽奖"
+    ]
+  },
+  {
+    "project": "act202603_all_star",
+    "month": "act202603",
+    "path": "/Users/dds/go/src/git.inke.cn/opd/activitys/inke.activity.service/act/2026/act202603/act202603_all_star",
+    "output": "/Users/dds/data/ai/work/code/act2026-knowledge/act202603_all_star-活动知识库.md",
+    "files": 12,
+    "go_files": 12,
+    "module_names": [
+      "act202603_all_star"
+    ],
+    "activity_types": [
+      "游戏玩法",
+      "榜单冲榜",
+      "任务/活跃",
+      "节日/节点活动"
+    ]
+  },
+  {
+    "project": "act202603_chunrifanhua",
+    "month": "act202603",
+    "path": "/Users/dds/go/src/git.inke.cn/opd/activitys/inke.activity.service/act/2026/act202603/act202603_chunrifanhua",
+    "output": "/Users/dds/data/ai/work/code/act2026-knowledge/act202603_chunrifanhua-活动知识库.md",
+    "files": 12,
+    "go_files": 11,
+    "module_names": [
+      "act202603_chunrifanhua"
+    ],
+    "activity_types": [
+      "KA/SVIP 活动",
+      "榜单冲榜",
+      "任务/活跃",
+      "用户侧活动"
+    ]
+  },
+  {
+    "project": "act202603_goddes_day",
+    "month": "act202603",
+    "path": "/Users/dds/go/src/git.inke.cn/opd/activitys/inke.activity.service/act/2026/act202603/act202603_goddes_day",
+    "output": "/Users/dds/data/ai/work/code/act2026-knowledge/act202603_goddes_day-活动知识库.md",
+    "files": 11,
+    "go_files": 10,
+    "module_names": [
+      "act202603_goddes_day"
+    ],
+    "activity_types": [
+      "KA/SVIP 活动",
+      "榜单冲榜",
+      "任务/活跃",
+      "用户侧活动"
+    ]
+  },
+  {
+    "project": "act202603_goddes_day_game",
+    "month": "act202603",
+    "path": "/Users/dds/go/src/git.inke.cn/opd/activitys/inke.activity.service/act/2026/act202603/act202603_goddes_day_game",
+    "output": "/Users/dds/data/ai/work/code/act2026-knowledge/act202603_goddes_day_game-活动知识库.md",
+    "files": 7,
+    "go_files": 7,
+    "module_names": [
+      "act202603_goddes_day_game"
+    ],
+    "activity_types": [
+      "KA/SVIP 活动",
+      "游戏玩法",
+      "榜单冲榜",
+      "任务/活跃"
+    ]
+  },
+  {
+    "project": "act202603_ka_fireworks_season",
+    "month": "act202603",
+    "path": "/Users/dds/go/src/git.inke.cn/opd/activitys/inke.activity.service/act/2026/act202603/act202603_ka_fireworks_season",
+    "output": "/Users/dds/data/ai/work/code/act2026-knowledge/act202603_ka_fireworks_season-活动知识库.md",
+    "files": 9,
+    "go_files": 9,
+    "module_names": [
+      "act202603_ka_fireworks_season"
+    ],
+    "activity_types": [
+      "KA/SVIP 活动",
+      "榜单冲榜",
+      "任务/活跃",
+      "用户侧活动"
+    ]
+  },
+  {
+    "project": "act202603_ka_space_travel",
+    "month": "act202603",
+    "path": "/Users/dds/go/src/git.inke.cn/opd/activitys/inke.activity.service/act/2026/act202603/act202603_ka_space_travel",
+    "output": "/Users/dds/data/ai/work/code/act2026-knowledge/act202603_ka_space_travel-活动知识库.md",
+    "files": 9,
+    "go_files": 9,
+    "module_names": [
+      "act202603_ka_space_travel"
+    ],
+    "activity_types": [
+      "KA/SVIP 活动",
+      "榜单冲榜",
+      "任务/活跃",
+      "用户侧活动"
+    ]
+  },
+  {
+    "project": "act202603_ka_super_spring",
+    "month": "act202603",
+    "path": "/Users/dds/go/src/git.inke.cn/opd/activitys/inke.activity.service/act/2026/act202603/act202603_ka_super_spring",
+    "output": "/Users/dds/data/ai/work/code/act2026-knowledge/act202603_ka_super_spring-活动知识库.md",
+    "files": 9,
+    "go_files": 9,
+    "module_names": [
+      "act202603_ka_super_spring"
+    ],
+    "activity_types": [
+      "KA/SVIP 活动",
+      "游戏玩法",
+      "榜单冲榜",
+      "任务/活跃"
+    ]
+  },
+  {
+    "project": "act202603_ka_svip_day",
+    "month": "act202603",
+    "path": "/Users/dds/go/src/git.inke.cn/opd/activitys/inke.activity.service/act/2026/act202603/act202603_ka_svip_day",
+    "output": "/Users/dds/data/ai/work/code/act2026-knowledge/act202603_ka_svip_day-活动知识库.md",
+    "files": 11,
+    "go_files": 10,
+    "module_names": [
+      "act202603_ka_svip_day"
+    ],
+    "activity_types": [
+      "KA/SVIP 活动",
+      "榜单冲榜",
+      "任务/活跃",
+      "用户侧活动"
+    ]
+  },
+  {
+    "project": "act202603_masked_ball",
+    "month": "act202603",
+    "path": "/Users/dds/go/src/git.inke.cn/opd/activitys/inke.activity.service/act/2026/act202603/act202603_masked_ball",
+    "output": "/Users/dds/data/ai/work/code/act2026-knowledge/act202603_masked_ball-活动知识库.md",
+    "files": 11,
+    "go_files": 11,
+    "module_names": [
+      "act202603_masked_ball"
+    ],
+    "activity_types": [
+      "KA/SVIP 活动",
+      "榜单冲榜",
+      "任务/活跃",
+      "用户侧活动"
+    ]
+  },
+  {
+    "project": "act202603_molishike",
+    "month": "act202603",
+    "path": "/Users/dds/go/src/git.inke.cn/opd/activitys/inke.activity.service/act/2026/act202603/act202603_molishike",
+    "output": "/Users/dds/data/ai/work/code/act2026-knowledge/act202603_molishike-活动知识库.md",
+    "files": 10,
+    "go_files": 10,
+    "module_names": [
+      "act202603_molishike"
+    ],
+    "activity_types": [
+      "KA/SVIP 活动",
+      "榜单冲榜",
+      "任务/活跃",
+      "用户侧活动"
+    ]
+  },
+  {
+    "project": "act202603_post_office",
+    "month": "act202603",
+    "path": "/Users/dds/go/src/git.inke.cn/opd/activitys/inke.activity.service/act/2026/act202603/act202603_post_office",
+    "output": "/Users/dds/data/ai/work/code/act2026-knowledge/act202603_post_office-活动知识库.md",
+    "files": 10,
+    "go_files": 10,
+    "module_names": [
+      "act202603_post_office"
+    ],
+    "activity_types": [
+      "KA/SVIP 活动",
+      "榜单冲榜",
+      "任务/活跃",
+      "用户侧活动"
+    ]
+  },
+  {
+    "project": "act202603_user_all_star",
+    "month": "act202603",
+    "path": "/Users/dds/go/src/git.inke.cn/opd/activitys/inke.activity.service/act/2026/act202603/act202603_user_all_star",
+    "output": "/Users/dds/data/ai/work/code/act2026-knowledge/act202603_user_all_star-活动知识库.md",
+    "files": 10,
+    "go_files": 10,
+    "module_names": [
+      "act202603_all_star",
+      "act202603_user_all_star"
+    ],
+    "activity_types": [
+      "KA/SVIP 活动",
+      "榜单冲榜",
+      "任务/活跃",
+      "用户侧活动"
+    ]
+  },
+  {
+    "project": "act202603_yuanxiao",
+    "month": "act202603",
+    "path": "/Users/dds/go/src/git.inke.cn/opd/activitys/inke.activity.service/act/2026/act202603/act202603_yuanxiao",
+    "output": "/Users/dds/data/ai/work/code/act2026-knowledge/act202603_yuanxiao-活动知识库.md",
+    "files": 6,
+    "go_files": 6,
+    "module_names": [
+      "act202603_yuanxiao"
+    ],
+    "activity_types": [
+      "KA/SVIP 活动",
+      "榜单冲榜",
+      "任务/活跃",
+      "节日/节点活动"
+    ]
+  },
+  {
+    "project": "act202604_51",
+    "month": "act202604",
+    "path": "/Users/dds/go/src/git.inke.cn/opd/activitys/inke.activity.service/act/2026/act202604/act202604_51",
+    "output": "/Users/dds/data/ai/work/code/act2026-knowledge/act202604_51-活动知识库.md",
+    "files": 13,
+    "go_files": 13,
+    "module_names": [
+      "act202604_51"
+    ],
+    "activity_types": [
+      "KA/SVIP 活动",
+      "游戏玩法",
+      "榜单冲榜",
+      "任务/活跃"
+    ]
+  },
+  {
+    "project": "act202604_bailong_yukong",
+    "month": "act202604",
+    "path": "/Users/dds/go/src/git.inke.cn/opd/activitys/inke.activity.service/act/2026/act202604/act202604_bailong_yukong",
+    "output": "/Users/dds/data/ai/work/code/act2026-knowledge/act202604_bailong_yukong-活动知识库.md",
+    "files": 10,
+    "go_files": 10,
+    "module_names": [
+      "act202604_bailong_yukong"
+    ],
+    "activity_types": [
+      "KA/SVIP 活动",
+      "游戏玩法",
+      "榜单冲榜",
+      "任务/活跃"
+    ]
+  },
+  {
+    "project": "act202604_game_meigui",
+    "month": "act202604",
+    "path": "/Users/dds/go/src/git.inke.cn/opd/activitys/inke.activity.service/act/2026/act202604/act202604_game_meigui",
+    "output": "/Users/dds/data/ai/work/code/act2026-knowledge/act202604_game_meigui-活动知识库.md",
+    "files": 7,
+    "go_files": 7,
+    "module_names": [
+      "act202604_game_meigui"
+    ],
+    "activity_types": [
+      "KA/SVIP 活动",
+      "游戏玩法",
+      "榜单冲榜",
+      "任务/活跃"
+    ]
+  },
+  {
+    "project": "act202604_gold_wilderness",
+    "month": "act202604",
+    "path": "/Users/dds/go/src/git.inke.cn/opd/activitys/inke.activity.service/act/2026/act202604/act202604_gold_wilderness",
+    "output": "/Users/dds/data/ai/work/code/act2026-knowledge/act202604_gold_wilderness-活动知识库.md",
+    "files": 12,
+    "go_files": 12,
+    "module_names": [
+      "act202604_gold_wilderness"
+    ],
+    "activity_types": [
+      "KA/SVIP 活动",
+      "榜单冲榜",
+      "任务/活跃",
+      "用户侧活动"
+    ]
+  },
+  {
+    "project": "act202604_ka_diving_diary",
+    "month": "act202604",
+    "path": "/Users/dds/go/src/git.inke.cn/opd/activitys/inke.activity.service/act/2026/act202604/act202604_ka_diving_diary",
+    "output": "/Users/dds/data/ai/work/code/act2026-knowledge/act202604_ka_diving_diary-活动知识库.md",
+    "files": 8,
+    "go_files": 8,
+    "module_names": [
+      "act202604_ka_diving_diary"
+    ],
+    "activity_types": [
+      "KA/SVIP 活动",
+      "榜单冲榜",
+      "任务/活跃",
+      "用户侧活动"
+    ]
+  },
+  {
+    "project": "act202604_ka_milky_way",
+    "month": "act202604",
+    "path": "/Users/dds/go/src/git.inke.cn/opd/activitys/inke.activity.service/act/2026/act202604/act202604_ka_milky_way",
+    "output": "/Users/dds/data/ai/work/code/act2026-knowledge/act202604_ka_milky_way-活动知识库.md",
+    "files": 9,
+    "go_files": 9,
+    "module_names": [
+      "act202604_ka_milky_way"
+    ],
+    "activity_types": [
+      "KA/SVIP 活动",
+      "榜单冲榜",
+      "任务/活跃",
+      "用户侧活动"
+    ]
+  },
+  {
+    "project": "act202604_ka_svip_day",
+    "month": "act202604",
+    "path": "/Users/dds/go/src/git.inke.cn/opd/activitys/inke.activity.service/act/2026/act202604/act202604_ka_svip_day",
+    "output": "/Users/dds/data/ai/work/code/act2026-knowledge/act202604_ka_svip_day-活动知识库.md",
+    "files": 9,
+    "go_files": 9,
+    "module_names": [
+      "act202604_ka_svip_day"
+    ],
+    "activity_types": [
+      "KA/SVIP 活动",
+      "榜单冲榜",
+      "任务/活跃",
+      "用户侧活动"
+    ]
+  },
+  {
+    "project": "act202604_ka_touhao_wanjia",
+    "month": "act202604",
+    "path": "/Users/dds/go/src/git.inke.cn/opd/activitys/inke.activity.service/act/2026/act202604/act202604_ka_touhao_wanjia",
+    "output": "/Users/dds/data/ai/work/code/act2026-knowledge/act202604_ka_touhao_wanjia-活动知识库.md",
+    "files": 10,
+    "go_files": 10,
+    "module_names": [
+      "act202604_ka_touhao_wanjia"
+    ],
+    "activity_types": [
+      "KA/SVIP 活动",
+      "榜单冲榜",
+      "任务/活跃",
+      "用户侧活动"
+    ]
+  },
+  {
+    "project": "act202604_liulihuanjing",
+    "month": "act202604",
+    "path": "/Users/dds/go/src/git.inke.cn/opd/activitys/inke.activity.service/act/2026/act202604/act202604_liulihuanjing",
+    "output": "/Users/dds/data/ai/work/code/act2026-knowledge/act202604_liulihuanjing-活动知识库.md",
+    "files": 11,
+    "go_files": 11,
+    "module_names": [
+      "act202604_liulihuanjing"
+    ],
+    "activity_types": [
+      "KA/SVIP 活动",
+      "游戏玩法",
+      "榜单冲榜",
+      "任务/活跃"
+    ]
+  },
+  {
+    "project": "act202604_wen_xiang",
+    "month": "act202604",
+    "path": "/Users/dds/go/src/git.inke.cn/opd/activitys/inke.activity.service/act/2026/act202604/act202604_wen_xiang",
+    "output": "/Users/dds/data/ai/work/code/act2026-knowledge/act202604_wen_xiang-活动知识库.md",
+    "files": 11,
+    "go_files": 11,
+    "module_names": [
+      "act202604_wen_xiang"
+    ],
+    "activity_types": [
+      "KA/SVIP 活动",
+      "游戏玩法",
+      "榜单冲榜",
+      "任务/活跃"
+    ]
+  },
+  {
+    "project": "act202604_wonderful_circus",
+    "month": "act202604",
+    "path": "/Users/dds/go/src/git.inke.cn/opd/activitys/inke.activity.service/act/2026/act202604/act202604_wonderful_circus",
+    "output": "/Users/dds/data/ai/work/code/act2026-knowledge/act202604_wonderful_circus-活动知识库.md",
+    "files": 8,
+    "go_files": 8,
+    "module_names": [
+      "act202604_wonderful_circus"
+    ],
+    "activity_types": [
+      "KA/SVIP 活动",
+      "榜单冲榜",
+      "任务/活跃",
+      "用户侧活动"
+    ]
+  },
+  {
+    "project": "act202604_wuyinxianzong",
+    "month": "act202604",
+    "path": "/Users/dds/go/src/git.inke.cn/opd/activitys/inke.activity.service/act/2026/act202604/act202604_wuyinxianzong",
+    "output": "/Users/dds/data/ai/work/code/act2026-knowledge/act202604_wuyinxianzong-活动知识库.md",
+    "files": 10,
+    "go_files": 10,
+    "module_names": [
+      "act202604_wuyinxianzong"
+    ],
+    "activity_types": [
+      "KA/SVIP 活动",
+      "榜单冲榜",
+      "任务/活跃",
+      "用户侧活动"
+    ]
+  },
+  {
+    "project": "act202604_xingji_zhanche",
+    "month": "act202604",
+    "path": "/Users/dds/go/src/git.inke.cn/opd/activitys/inke.activity.service/act/2026/act202604/act202604_xingji_zhanche",
+    "output": "/Users/dds/data/ai/work/code/act2026-knowledge/act202604_xingji_zhanche-活动知识库.md",
+    "files": 6,
+    "go_files": 6,
+    "module_names": [
+      "act202604_xingji_zhanche"
+    ],
+    "activity_types": [
+      "KA/SVIP 活动",
+      "游戏玩法",
+      "榜单冲榜",
+      "任务/活跃"
+    ]
+  },
+  {
+    "project": "act202604_xingqiu_dazhan",
+    "month": "act202604",
+    "path": "/Users/dds/go/src/git.inke.cn/opd/activitys/inke.activity.service/act/2026/act202604/act202604_xingqiu_dazhan",
+    "output": "/Users/dds/data/ai/work/code/act2026-knowledge/act202604_xingqiu_dazhan-活动知识库.md",
+    "files": 6,
+    "go_files": 6,
+    "module_names": [
+      "act202604_xingqiu_dazhan"
+    ],
+    "activity_types": [
+      "KA/SVIP 活动",
+      "游戏玩法",
+      "榜单冲榜",
+      "任务/活跃"
+    ]
+  },
+  {
+    "project": "act202604_zhenggudashi",
+    "month": "act202604",
+    "path": "/Users/dds/go/src/git.inke.cn/opd/activitys/inke.activity.service/act/2026/act202604/act202604_zhenggudashi",
+    "output": "/Users/dds/data/ai/work/code/act2026-knowledge/act202604_zhenggudashi-活动知识库.md",
+    "files": 11,
+    "go_files": 11,
+    "module_names": [
+      "act202604_zhenggudashi"
+    ],
+    "activity_types": [
+      "KA/SVIP 活动",
+      "榜单冲榜",
+      "任务/活跃",
+      "用户侧活动"
+    ]
+  },
+  {
+    "project": "act202605_fengkuang_zhoumo",
+    "month": "act202605",
+    "path": "/Users/dds/go/src/git.inke.cn/opd/activitys/inke.activity.service/act/2026/act202605/act202605_fengkuang_zhoumo",
+    "output": "/Users/dds/data/ai/work/code/act2026-knowledge/act202605_fengkuang_zhoumo-活动知识库.md",
+    "files": 9,
+    "go_files": 8,
+    "module_names": [
+      "act202605_fengkuang_zhoumo"
+    ],
+    "activity_types": [
+      "KA/SVIP 活动",
+      "游戏玩法",
+      "榜单冲榜",
+      "任务/活跃"
+    ]
+  },
+  {
+    "project": "act202605_game_zhimeng_jingyu",
+    "month": "act202605",
+    "path": "/Users/dds/go/src/git.inke.cn/opd/activitys/inke.activity.service/act/2026/act202605/act202605_game_zhimeng_jingyu",
+    "output": "/Users/dds/data/ai/work/code/act2026-knowledge/act202605_game_zhimeng_jingyu-活动知识库.md",
+    "files": 8,
+    "go_files": 8,
+    "module_names": [
+      "act202605_game_zhimeng_jingyu"
+    ],
+    "activity_types": [
+      "KA/SVIP 活动",
+      "游戏玩法",
+      "榜单冲榜",
+      "任务/活跃"
+    ]
+  },
+  {
+    "project": "act202605_gubao_tanmi",
+    "month": "act202605",
+    "path": "/Users/dds/go/src/git.inke.cn/opd/activitys/inke.activity.service/act/2026/act202605/act202605_gubao_tanmi",
+    "output": "/Users/dds/data/ai/work/code/act2026-knowledge/act202605_gubao_tanmi-活动知识库.md",
+    "files": 8,
+    "go_files": 8,
+    "module_names": [
+      "act202605_gubao_tanmi"
+    ],
+    "activity_types": [
+      "KA/SVIP 活动",
+      "榜单冲榜",
+      "任务/活跃",
+      "用户侧活动"
+    ]
+  },
+  {
+    "project": "act202605_inke_527",
+    "month": "act202605",
+    "path": "/Users/dds/go/src/git.inke.cn/opd/activitys/inke.activity.service/act/2026/act202605/act202605_inke_527",
+    "output": "/Users/dds/data/ai/work/code/act2026-knowledge/act202605_inke_527-活动知识库.md",
+    "files": 15,
+    "go_files": 15,
+    "module_names": [
+      "act202605_inke_527"
+    ],
+    "activity_types": [
+      "游戏玩法",
+      "榜单冲榜",
+      "任务/活跃",
+      "节日/节点活动"
+    ]
+  },
+  {
+    "project": "act202605_inke_user_527",
+    "month": "act202605",
+    "path": "/Users/dds/go/src/git.inke.cn/opd/activitys/inke.activity.service/act/2026/act202605/act202605_inke_user_527",
+    "output": "/Users/dds/data/ai/work/code/act2026-knowledge/act202605_inke_user_527-活动知识库.md",
+    "files": 12,
+    "go_files": 12,
+    "module_names": [
+      "act202605_inke_527",
+      "act202605_inke_user_527"
+    ],
+    "activity_types": [
+      "KA/SVIP 活动",
+      "榜单冲榜",
+      "任务/活跃",
+      "节日/节点活动"
+    ]
+  },
+  {
+    "project": "act202605_ka_fudai",
+    "month": "act202605",
+    "path": "/Users/dds/go/src/git.inke.cn/opd/activitys/inke.activity.service/act/2026/act202605/act202605_ka_fudai",
+    "output": "/Users/dds/data/ai/work/code/act2026-knowledge/act202605_ka_fudai-活动知识库.md",
+    "files": 7,
+    "go_files": 7,
+    "module_names": [
+      "act202605_ka_fudai"
+    ],
+    "activity_types": [
+      "KA/SVIP 活动",
+      "榜单冲榜",
+      "任务/活跃",
+      "用户侧活动"
+    ]
+  },
+  {
+    "project": "act202605_ka_svip_day",
+    "month": "act202605",
+    "path": "/Users/dds/go/src/git.inke.cn/opd/activitys/inke.activity.service/act/2026/act202605/act202605_ka_svip_day",
+    "output": "/Users/dds/data/ai/work/code/act2026-knowledge/act202605_ka_svip_day-活动知识库.md",
+    "files": 9,
+    "go_files": 9,
+    "module_names": [
+      "act202605_ka_svip_day"
+    ],
+    "activity_types": [
+      "KA/SVIP 活动",
+      "榜单冲榜",
+      "任务/活跃",
+      "用户侧活动"
+    ]
+  },
+  {
+    "project": "act202605_ka_wanxiang",
+    "month": "act202605",
+    "path": "/Users/dds/go/src/git.inke.cn/opd/activitys/inke.activity.service/act/2026/act202605/act202605_ka_wanxiang",
+    "output": "/Users/dds/data/ai/work/code/act2026-knowledge/act202605_ka_wanxiang-活动知识库.md",
+    "files": 7,
+    "go_files": 7,
+    "module_names": [
+      "act202605_ka_wanxiang"
+    ],
+    "activity_types": [
+      "KA/SVIP 活动",
+      "榜单冲榜",
+      "任务/活跃",
+      "用户侧活动"
+    ]
+  },
+  {
+    "project": "act202605_mihuan_senlin",
+    "month": "act202605",
+    "path": "/Users/dds/go/src/git.inke.cn/opd/activitys/inke.activity.service/act/2026/act202605/act202605_mihuan_senlin",
+    "output": "/Users/dds/data/ai/work/code/act2026-knowledge/act202605_mihuan_senlin-活动知识库.md",
+    "files": 12,
+    "go_files": 11,
+    "module_names": [
+      "act202605_mihuan_senlin"
+    ],
+    "activity_types": [
+      "KA/SVIP 活动",
+      "游戏玩法",
+      "榜单冲榜",
+      "任务/活跃"
+    ]
+  },
+  {
+    "project": "act202605_paiduibang",
+    "month": "act202605",
+    "path": "/Users/dds/go/src/git.inke.cn/opd/activitys/inke.activity.service/act/2026/act202605/act202605_paiduibang",
+    "output": "/Users/dds/data/ai/work/code/act2026-knowledge/act202605_paiduibang-活动知识库.md",
+    "files": 8,
+    "go_files": 8,
+    "module_names": [
+      "act202605_paiduibang"
+    ],
+    "activity_types": [
+      "榜单冲榜",
+      "任务/活跃",
+      "用户侧活动",
+      "图标/入口"
+    ]
+  },
+  {
+    "project": "act202605_pets_forage_527",
+    "month": "act202605",
+    "path": "/Users/dds/go/src/git.inke.cn/opd/activitys/inke.activity.service/act/2026/act202605/act202605_pets_forage_527",
+    "output": "/Users/dds/data/ai/work/code/act2026-knowledge/act202605_pets_forage_527-活动知识库.md",
+    "files": 6,
+    "go_files": 6,
+    "module_names": [
+      "act202605_pets_forage_527"
+    ],
+    "activity_types": [
+      "游戏玩法",
+      "榜单冲榜",
+      "任务/活跃",
+      "节日/节点活动"
+    ]
+  },
+  {
+    "project": "act202605_time_governs",
+    "month": "act202605",
+    "path": "/Users/dds/go/src/git.inke.cn/opd/activitys/inke.activity.service/act/2026/act202605/act202605_time_governs",
+    "output": "/Users/dds/data/ai/work/code/act2026-knowledge/act202605_time_governs-活动知识库.md",
+    "files": 9,
+    "go_files": 9,
+    "module_names": [
+      "act202605_time_governs"
+    ],
+    "activity_types": [
+      "KA/SVIP 活动",
+      "游戏玩法",
+      "榜单冲榜",
+      "任务/活跃"
+    ]
+  },
+  {
+    "project": "act202605_tongqu_shiguang",
+    "month": "act202605",
+    "path": "/Users/dds/go/src/git.inke.cn/opd/activitys/inke.activity.service/act/2026/act202605/act202605_tongqu_shiguang",
+    "output": "/Users/dds/data/ai/work/code/act2026-knowledge/act202605_tongqu_shiguang-活动知识库.md",
+    "files": 10,
+    "go_files": 10,
+    "module_names": [
+      "act202605_tongqu_shiguang"
+    ],
+    "activity_types": [
+      "KA/SVIP 活动",
+      "榜单冲榜",
+      "任务/活跃",
+      "用户侧活动"
+    ]
+  },
+  {
+    "project": "act202605_xintiaogongzhen",
+    "month": "act202605",
+    "path": "/Users/dds/go/src/git.inke.cn/opd/activitys/inke.activity.service/act/2026/act202605/act202605_xintiaogongzhen",
+    "output": "/Users/dds/data/ai/work/code/act2026-knowledge/act202605_xintiaogongzhen-活动知识库.md",
+    "files": 11,
+    "go_files": 10,
+    "module_names": [
+      "act202605_xintiaogongzhen"
+    ],
+    "activity_types": [
+      "KA/SVIP 活动",
+      "榜单冲榜",
+      "任务/活跃",
+      "节日/节点活动"
+    ]
+  },
+  {
+    "project": "act202606_618",
+    "month": "act202606",
+    "path": "/Users/dds/go/src/git.inke.cn/opd/activitys/inke.activity.service/act/2026/act202606/act202606_618",
+    "output": "/Users/dds/data/ai/work/code/act2026-knowledge/act202606_618-活动知识库.md",
+    "files": 11,
+    "go_files": 11,
+    "module_names": [
+      "act202606_618"
+    ],
+    "activity_types": [
+      "KA/SVIP 活动",
+      "榜单冲榜",
+      "任务/活跃",
+      "节日/节点活动"
+    ]
+  },
+  {
+    "project": "act202606_ka_duanwu_zhulang",
+    "month": "act202606",
+    "path": "/Users/dds/go/src/git.inke.cn/opd/activitys/inke.activity.service/act/2026/act202606/act202606_ka_duanwu_zhulang",
+    "output": "/Users/dds/data/ai/work/code/act2026-knowledge/act202606_ka_duanwu_zhulang-活动知识库.md",
+    "files": 9,
+    "go_files": 9,
+    "module_names": [
+      "act202606_ka_duanwu_zhulang"
+    ],
+    "activity_types": [
+      "KA/SVIP 活动",
+      "榜单冲榜",
+      "任务/活跃",
+      "节日/节点活动"
+    ]
+  },
+  {
+    "project": "act202606_ka_jinpai_sheshou",
+    "month": "act202606",
+    "path": "/Users/dds/go/src/git.inke.cn/opd/activitys/inke.activity.service/act/2026/act202606/act202606_ka_jinpai_sheshou",
+    "output": "/Users/dds/data/ai/work/code/act2026-knowledge/act202606_ka_jinpai_sheshou-活动知识库.md",
+    "files": 10,
+    "go_files": 9,
+    "module_names": [
+      "act202606_ka_jinpai_sheshou"
+    ],
+    "activity_types": [
+      "KA/SVIP 活动",
+      "榜单冲榜",
+      "任务/活跃",
+      "用户侧活动"
+    ]
+  },
+  {
+    "project": "act202606_ka_mountain_appointment",
+    "month": "act202606",
+    "path": "/Users/dds/go/src/git.inke.cn/opd/activitys/inke.activity.service/act/2026/act202606/act202606_ka_mountain_appointment",
+    "output": "/Users/dds/data/ai/work/code/act2026-knowledge/act202606_ka_mountain_appointment-活动知识库.md",
+    "files": 9,
+    "go_files": 9,
+    "module_names": [
+      "act202606_ka_mountain_appointment"
+    ],
+    "activity_types": [
+      "KA/SVIP 活动",
+      "榜单冲榜",
+      "任务/活跃",
+      "用户侧活动"
+    ]
+  },
+  {
+    "project": "act202606_ka_svip_day",
+    "month": "act202606",
+    "path": "/Users/dds/go/src/git.inke.cn/opd/activitys/inke.activity.service/act/2026/act202606/act202606_ka_svip_day",
+    "output": "/Users/dds/data/ai/work/code/act2026-knowledge/act202606_ka_svip_day-活动知识库.md",
+    "files": 11,
+    "go_files": 11,
+    "module_names": [
+      "act202606_ka_svip_day"
+    ],
+    "activity_types": [
+      "KA/SVIP 活动",
+      "榜单冲榜",
+      "任务/活跃",
+      "用户侧活动"
+    ]
+  },
+  {
+    "project": "act202606_ka_treasure_route",
+    "month": "act202606",
+    "path": "/Users/dds/go/src/git.inke.cn/opd/activitys/inke.activity.service/act/2026/act202606/act202606_ka_treasure_route",
+    "output": "/Users/dds/data/ai/work/code/act2026-knowledge/act202606_ka_treasure_route-活动知识库.md",
+    "files": 10,
+    "go_files": 10,
+    "module_names": [
+      "act202606_ka_treasure_route"
+    ],
+    "activity_types": [
+      "KA/SVIP 活动",
+      "榜单冲榜",
+      "任务/活跃",
+      "用户侧活动"
+    ]
+  }
+]

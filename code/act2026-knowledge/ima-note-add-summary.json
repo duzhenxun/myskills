@@ -1,0 +1,199 @@
+{
+  "file_upload_ok": 24,
+  "file_upload_fail": 48,
+  "note_add_ok": 1,
+  "note_add_fail": 47,
+  "note_ok_files": [
+    "act202603_all_star-活动知识库.md"
+  ],
+  "note_failed_files": [
+    {
+      "file": "act202603_chunrifanhua-活动知识库.md",
+      "error": "openapi/wiki/v1/add_knowledge: 请求超量，请明日再试"
+    },
+    {
+      "file": "act202603_goddes_day-活动知识库.md",
+      "error": "openapi/wiki/v1/add_knowledge: 请求超量，请明日再试"
+    },
+    {
+      "file": "act202603_goddes_day_game-活动知识库.md",
+      "error": "openapi/wiki/v1/add_knowledge: 请求超量，请明日再试"
+    },
+    {
+      "file": "act202603_ka_fireworks_season-活动知识库.md",
+      "error": "openapi/wiki/v1/add_knowledge: 请求超量，请明日再试"
+    },
+    {
+      "file": "act202603_ka_space_travel-活动知识库.md",
+      "error": "openapi/wiki/v1/add_knowledge: 请求超量，请明日再试"
+    },
+    {
+      "file": "act202603_ka_super_spring-活动知识库.md",
+      "error": "openapi/wiki/v1/add_knowledge: 请求超量，请明日再试"
+    },
+    {
+      "file": "act202603_ka_svip_day-活动知识库.md",
+      "error": "openapi/wiki/v1/add_knowledge: 请求超量，请明日再试"
+    },
+    {
+      "file": "act202603_masked_ball-活动知识库.md",
+      "error": "openapi/wiki/v1/add_knowledge: 请求超量，请明日再试"
+    },
+    {
+      "file": "act202603_molishike-活动知识库.md",
+      "error": "openapi/wiki/v1/add_knowledge: 请求超量，请明日再试"
+    },
+    {
+      "file": "act202603_post_office-活动知识库.md",
+      "error": "openapi/wiki/v1/add_knowledge: 请求超量，请明日再试"
+    },
+    {
+      "file": "act202603_user_all_star-活动知识库.md",
+      "error": "openapi/wiki/v1/add_knowledge: 请求超量，请明日再试"
+    },
+    {
+      "file": "act202603_yuanxiao-活动知识库.md",
+      "error": "openapi/wiki/v1/add_knowledge: 请求超量，请明日再试"
+    },
+    {
+      "file": "act202604_51-活动知识库.md",
+      "error": "openapi/wiki/v1/add_knowledge: 请求超量，请明日再试"
+    },
+    {
+      "file": "act202604_bailong_yukong-活动知识库.md",
+      "error": "openapi/wiki/v1/add_knowledge: 请求超量，请明日再试"
+    },
+    {
+      "file": "act202604_game_meigui-活动知识库.md",
+      "error": "openapi/wiki/v1/add_knowledge: 请求超量，请明日再试"
+    },
+    {
+      "file": "act202604_gold_wilderness-活动知识库.md",
+      "error": "openapi/wiki/v1/add_knowledge: 请求超量，请明日再试"
+    },
+    {
+      "file": "act202604_ka_diving_diary-活动知识库.md",
+      "error": "openapi/wiki/v1/add_knowledge: 请求超量，请明日再试"
+    },
+    {
+      "file": "act202604_ka_milky_way-活动知识库.md",
+      "error": "openapi/wiki/v1/add_knowledge: 请求超量，请明日再试"
+    },
+    {
+      "file": "act202604_ka_svip_day-活动知识库.md",
+      "error": "openapi/wiki/v1/add_knowledge: 请求超量，请明日再试"
+    },
+    {
+      "file": "act202604_ka_touhao_wanjia-活动知识库.md",
+      "error": "openapi/wiki/v1/add_knowledge: 请求超量，请明日再试"
+    },
+    {
+      "file": "act202604_liulihuanjing-活动知识库.md",
+      "error": "openapi/wiki/v1/add_knowledge: 请求超量，请明日再试"
+    },
+    {
+      "file": "act202604_wen_xiang-活动知识库.md",
+      "error": "openapi/wiki/v1/add_knowledge: 请求超量，请明日再试"
+    },
+    {
+      "file": "act202604_wonderful_circus-活动知识库.md",
+      "error": "openapi/wiki/v1/add_knowledge: 请求超量，请明日再试"
+    },
+    {
+      "file": "act202604_wuyinxianzong-活动知识库.md",
+      "error": "openapi/wiki/v1/add_knowledge: 请求超量，请明日再试"
+    },
+    {
+      "file": "act202604_xingji_zhanche-活动知识库.md",
+      "error": "openapi/wiki/v1/add_knowledge: 请求超量，请明日再试"
+    },
+    {
+      "file": "act202604_xingqiu_dazhan-活动知识库.md",
+      "error": "openapi/wiki/v1/add_knowledge: 请求超量，请明日再试"
+    },
+    {
+      "file": "act202604_zhenggudashi-活动知识库.md",
+      "error": "openapi/wiki/v1/add_knowledge: 请求超量，请明日再试"
+    },
+    {
+      "file": "act202605_fengkuang_zhoumo-活动知识库.md",
+      "error": "openapi/wiki/v1/add_knowledge: 请求超量，请明日再试"
+    },
+    {
+      "file": "act202605_game_zhimeng_jingyu-活动知识库.md",
+      "error": "openapi/wiki/v1/add_knowledge: 请求超量，请明日再试"
+    },
+    {
+      "file": "act202605_gubao_tanmi-活动知识库.md",
+      "error": "openapi/wiki/v1/add_knowledge: 请求超量，请明日再试"
+    },
+    {
+      "file": "act202605_inke_527-活动知识库.md",
+      "error": "openapi/wiki/v1/add_knowledge: 请求超量，请明日再试"
+    },
+    {
+      "file": "act202605_inke_user_527-活动知识库.md",
+      "error": "openapi/wiki/v1/add_knowledge: 请求超量，请明日再试"
+    },
+    {
+      "file": "act202605_ka_fudai-活动知识库.md",
+      "error": "openapi/wiki/v1/add_knowledge: 请求超量，请明日再试"
+    },
+    {
+      "file": "act202605_ka_svip_day-活动知识库.md",
+      "error": "openapi/wiki/v1/add_knowledge: 请求超量，请明日再试"
+    },
+    {
+      "file": "act202605_ka_wanxiang-活动知识库.md",
+      "error": "openapi/wiki/v1/add_knowledge: 请求超量，请明日再试"
+    },
+    {
+      "file": "act202605_mihuan_senlin-活动知识库.md",
+      "error": "openapi/wiki/v1/add_knowledge: 请求超量，请明日再试"
+    },
+    {
+      "file": "act202605_paiduibang-活动知识库.md",
+      "error": "openapi/wiki/v1/add_knowledge: 请求超量，请明日再试"
+    },
+    {
+      "file": "act202605_pets_forage_527-活动知识库.md",
+      "error": "openapi/wiki/v1/add_knowledge: 请求超量，请明日再试"
+    },
+    {
+      "file": "act202605_time_governs-活动知识库.md",
+      "error": "openapi/wiki/v1/add_knowledge: 请求超量，请明日再试"
+    },
+    {
+      "file": "act202605_tongqu_shiguang-活动知识库.md",
+      "error": "openapi/wiki/v1/add_knowledge: 请求超量，请明日再试"
+    },
+    {
+      "file": "act202605_xintiaogongzhen-活动知识库.md",
+      "error": "openapi/wiki/v1/add_knowledge: 请求超量，请明日再试"
+    },
+    {
+      "file": "act202606_618-活动知识库.md",
+      "error": "openapi/wiki/v1/add_knowledge: 请求超量，请明日再试"
+    },
+    {
+      "file": "act202606_ka_duanwu_zhulang-活动知识库.md",
+      "error": "openapi/wiki/v1/add_knowledge: 请求超量，请明日再试"
+    },
+    {
+      "file": "act202606_ka_jinpai_sheshou-活动知识库.md",
+      "error": "openapi/wiki/v1/add_knowledge: 请求超量，请明日再试"
+    },
+    {
+      "file": "act202606_ka_mountain_appointment-活动知识库.md",
+      "error": "openapi/wiki/v1/add_knowledge: 请求超量，请明日再试"
+    },
+    {
+      "file": "act202606_ka_svip_day-活动知识库.md",
+      "error": "openapi/wiki/v1/add_knowledge: 请求超量，请明日再试"
+    },
+    {
+      "file": "act202606_ka_treasure_route-活动知识库.md",
+      "error": "openapi/wiki/v1/add_knowledge: 请求超量，请明日再试"
+    }
+  ]
+}
