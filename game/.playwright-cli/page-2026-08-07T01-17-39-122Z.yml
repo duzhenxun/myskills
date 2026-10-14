@@ -1,0 +1,36 @@
+- main [ref=e2]:
+  - generic [ref=e3]:
+    - generic [ref=e4]:
+      - generic [ref=e5]: SX
+      - generic [ref=e6]:
+        - paragraph [ref=e7]: ARCADE GRID / 01
+        - heading "SNAKE X" [level=1] [ref=e8]
+    - button "切换声音" [ref=e9] [cursor=pointer]:
+      - generic [ref=e10]: ♫
+      - generic [ref=e11]: SOUND ON
+  - generic [ref=e12]:
+    - generic [ref=e13]:
+      - generic [ref=e14]: 分数
+      - strong [ref=e15]: 0 PTS
+    - generic [ref=e16]:
+      - generic [ref=e17]: 长度
+      - strong [ref=e18]: 3 BLOCKS
+    - generic [ref=e19]:
+      - generic [ref=e20]: 果实
+      - strong [ref=e21]: 0 EATEN
+    - generic [ref=e22]:
+      - generic [ref=e23]: 等级
+      - strong [ref=e24]: 1 LVL
+    - generic [ref=e25]:
+      - generic [ref=e26]: 最佳
+      - strong [ref=e27]: 0 PTS
+    - generic [ref=e30]: HUNTING
+  - generic [ref=e31]:
+    - generic [ref=e32]:
+      - generic [ref=e33]: SECTOR 01
+      - generic [ref=e34]: NEON GARDEN
+    - generic "霓虹贪吃蛇游戏" [ref=e36]
+  - generic [ref=e48]:
+    - generic [ref=e49]: LIVE GRID
+    - generic [ref=e51]: WATCH YOUR TAIL
+    - generic [ref=e52]: © 2024 SX SYSTEMS

@@ -1,5 +1,0 @@
-<!DOCTYPE html><html lang="zh-CN"><head><meta charset="UTF-8"><link rel="stylesheet" href="../shared/tokens.css"><title>排错与行动</title></head><body class="dark">
-<div class="mast"><div class="mark"><span class="dot"></span>FIELD CHECKLIST</div><div>MAKE IT BORING</div></div><div class="kicker">排错按层次，不要盲目重装</div><h2>先查命令，再查路由，最后查 Team 状态</h2>
-<div class="grid3"><div class="panel"><h3>1 · CLI 层</h3><ul><li><code>command -v</code> 是否存在</li><li>版本命令是否成功</li><li>单独登录是否有效</li><li>tmux 内 PATH 是否一致</li></ul></div><div class="panel"><h3>2 · 路由层</h3><ul><li><code>echo $OMX_TEAM_WORKER_CLI_MAP</code></li><li>Map 数量是否等于 worker 数</li><li>值是否为允许的四种之一</li><li>Gemini 命令必须是 <code>gemini</code></li></ul></div><div class="panel"><h3>3 · Runtime 层</h3><ul><li>是否在 Git 仓库</li><li>是否处于附着 tmux 会话</li><li><code>omx team status &lt;name&gt;</code></li><li>任务终态后再 shutdown</li></ul></div></div>
-<div class="big-command"><span style="color:#b9ff48">下一步</span>　先用 3 个最小只读任务做 smoke test，确认三条 worker 都能 ACK、完成并回传证据，再投入真实项目。</div>
-<div class="footer-note">配置越“永久”，越要跟随 OMX / CLI 版本做定期复核。</div><div class="page">10 / 10</div></body></html>

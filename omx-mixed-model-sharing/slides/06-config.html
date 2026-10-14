@@ -1,8 +1,0 @@
-<!DOCTYPE html><html lang="zh-CN"><head><meta charset="UTF-8"><link rel="stylesheet" href="../shared/tokens.css"><title>永久配置</title></head><body class="dark">
-<div class="mast"><div class="mark"><span class="dot"></span>STEP 3</div><div>PERSISTENT ROUTING</div></div><div class="kicker">把稳定契约写进 shell 环境</div><h2>最小永久配置：一条 CLI Map</h2>
-<div class="grid2"><div><div class="code-title">~/.zshrc</div><div class="terminal"><span class="comment"># 3 worker 时逐个分配</span>
-export OMX_TEAM_WORKER_CLI_MAP="codex,claude,gemini"
-
-<span class="comment"># 可选：启用运行时动态扩缩容</span>
-export OMX_TEAM_SCALING_ENABLED=1</div><div class="big-command"><span style="color:#b9ff48">$</span> source ~/.zshrc</div></div><div class="panel"><h3>Map 的长度规则</h3><ul><li>单个值：广播给所有 worker，例如 <code>claude</code></li><li>多个值：数量必须与 worker 数完全一致</li><li>5 worker 不能用 3 项 Map 自动循环，需写满 5 项</li><li>可用值：<code>auto | codex | claude | gemini</code></li></ul><div class="callout"><b>不要依赖：</b>未经当前版本验证的 `.omx-config.json` 自定义字段。</div></div></div><div class="page">06 / 10</div></body></html>
-

@@ -1,6 +1,0 @@
-<!DOCTYPE html><html lang="zh-CN"><head><meta charset="UTF-8"><link rel="stylesheet" href="../shared/tokens.css"><title>整体路径</title></head><body>
-<div class="mast"><div class="mark"><span class="dot"></span>OMX MIXED TEAM</div><div>SETUP MAP</div></div><div class="kicker">先建立正确心智模型</div>
-<h2>混合编队只需要打通四个环节</h2>
-<div class="flow"><div class="step"><div class="num">01</div><h3>安装 CLI</h3><p>codex / claude / gemini 都能从 shell 直接运行。</p></div><div class="arrow">→</div><div class="step"><div class="num">02</div><h3>分别登录</h3><p>每个 provider 独立持有自己的认证状态。</p></div><div class="arrow">→</div><div class="step"><div class="num">03</div><h3>配置路由</h3><p>用 CLI Map 指定每个 worker 由谁启动。</p></div><div class="arrow">→</div><div class="step"><div class="num">04</div><h3>进 tmux 启动</h3><p>Codex 负责 leader，worker 在独立 pane 中协作。</p></div></div>
-<div class="callout"><b>关键边界：</b> `N:executor` 选择的是 worker 角色提示，不是模型；模型/CLI 由环境变量和启动参数决定。</div><div class="page">02 / 10</div></body></html>
-

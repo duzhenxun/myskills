@@ -1,0 +1,46 @@
+- main [ref=e2]:
+  - generic [ref=e3]:
+    - generic [ref=e4]:
+      - generic [ref=e5]: NC
+      - generic [ref=e6]:
+        - paragraph [ref=e7]: ARCADE DRIVE / 01
+        - heading "NEON CIRCUIT" [level=1] [ref=e8]
+    - button "切换声音" [ref=e9] [cursor=pointer]:
+      - generic [ref=e10]: ♫
+      - generic [ref=e11]: SOUND ON
+  - generic [ref=e12]:
+    - generic [ref=e13]:
+      - generic [ref=e14]: 速度
+      - strong [ref=e15]: 0 KM/H
+    - generic [ref=e16]:
+      - generic [ref=e17]: 距离
+      - strong [ref=e18]: 0.0 KM
+    - generic [ref=e19]:
+      - generic [ref=e20]: 金币
+      - strong [ref=e21]: 0 COINS
+    - generic [ref=e22]:
+      - generic [ref=e23]: 火箭
+      - strong [ref=e24]: 0 AMMO
+    - generic [ref=e25]:
+      - generic [ref=e26]: 最佳
+      - strong [ref=e27]: 1.7 KM
+    - generic [ref=e30]: READY
+  - generic [ref=e31]:
+    - generic [ref=e32]:
+      - generic [ref=e33]: SECTOR 01
+      - generic [ref=e34]: NIGHT RUN
+    - generic [ref=e35]:
+      - generic "霓虹赛车游戏" [ref=e36]
+      - generic [ref=e37]:
+        - paragraph [ref=e38]: WELCOME TO THE GRID
+        - heading "准备出发" [level=2] [ref=e39]
+        - paragraph [ref=e40]: 左右移动躲开路障，尽可能跑得更远。
+        - button "开始比赛 →" [ref=e41] [cursor=pointer]
+        - generic [ref=e42]:
+          - generic [ref=e43]: ←
+          - generic [ref=e44]: →
+          - emphasis [ref=e45]: 或使用方向键
+  - generic [ref=e46]:
+    - generic [ref=e47]: LIVE TRACK
+    - generic [ref=e49]: KEEP YOUR LINE
+    - generic [ref=e50]: © 2024 NC SYSTEMS

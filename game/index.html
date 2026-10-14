@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>Fish X</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <main class="game-shell">
+      <header class="topbar">
+      <div class="brand"><span class="brand-mark">FX</span><div><p class="eyebrow">ARCADE AQUA / 01</p><h1>FISH X</h1></div></div>
+        <button class="sound-btn" id="soundBtn" aria-label="切换声音"><span>♫</span><span id="soundText">SOUND ON</span></button>
+      </header>
+      <section class="dashboard">
+        <div class="metric"><span>分数</span><strong><b id="speed">0</b><small> PTS</small></strong></div>
+        <div class="metric"><span>长度</span><strong><b id="distance">3</b><small> BLOCKS</small></strong></div>
+        <div class="metric coins-metric"><span>果实</span><strong><b id="coins">0</b><small> EATEN</small></strong></div>
+        <div class="metric"><span>等级</span><strong><b id="rockets">1</b><small> LVL</small></strong></div>
+        <div class="metric metric-best"><span>最佳</span><strong><b id="best">0</b><small> PTS</small></strong></div>
+        <div class="status-pill"><i></i><span id="status">READY</span></div>
+      </section>
+      <section class="track-wrap">
+        <div class="track-meta"><span>REEF 01</span><span id="lap">NEON LAGOON</span></div>
+        <div class="canvas-frame">
+          <canvas id="game" aria-label="霓虹贪吃蛇游戏"></canvas>
+          <div class="start-panel" id="startPanel">
+            <p class="panel-kicker">WELCOME TO THE LAGOON</p>
+            <h2>准备觅食</h2>
+            <p>吃掉小鱼和发光果实，长成这片水域的霸主。</p>
+            <button class="primary-btn" id="startBtn">开始游戏 <span>→</span></button>
+            <div class="keys"><span>↑</span><span>←</span><span>↓</span><span>→</span><em>方向键移动</em></div>
+          </div>
+          <div class="crash-panel hidden" id="crashPanel">
+            <p class="panel-kicker">GAME OVER</p><h2>撞到自己了！</h2><p>本局得分 <b id="finalDistance">0 PTS</b></p>
+            <button class="primary-btn" id="restartBtn">再来一局 <span>↻</span></button>
+          </div>
+        </div>
+      </section>
+      <footer class="bottombar"><span><i class="dot"></i> LIVE REEF</span><span>WATCH THE BIG FISH</span><span>© 2024 FX SYSTEMS</span></footer>
+    </main>
+    <div class="touch-controls" aria-label="触控方向键"><button data-dir="up">↑</button><button data-dir="left">←</button><button data-dir="down">↓</button><button data-dir="right">→</button></div>
+    <script src="game.js"></script>
+  </body>
+</html>
