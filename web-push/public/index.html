@@ -1,0 +1,371 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+<title>Web Push 注册演示</title>
+<link rel="manifest" href="/manifest.webmanifest" />
+<meta name="theme-color" content="#5a6af7" />
+<link rel="icon" href="/icons/favicon-64.png" />
+<link rel="apple-touch-icon" href="/icons/apple-touch-icon.png" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-title" content="WebPush" />
+<style>
+  :root {
+    --bg: #0b0e1c;
+    --panel: rgba(255, 255, 255, 0.045);
+    --panel-2: rgba(255, 255, 255, 0.07);
+    --line: rgba(255, 255, 255, 0.12);
+    --text: #e9ecf8;
+    --muted: #98a0c0;
+    --brand: #7c8cff;
+    --brand-2: #36d2c8;
+    --ok: #34d399;
+    --bad: #f87171;
+    --mono: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace;
+    --radius: 16px;
+  }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; padding: 0; }
+  body {
+    min-height: 100vh;
+    background:
+      radial-gradient(1100px 520px at 12% -8%, rgba(124, 140, 255, 0.28), transparent 60%),
+      radial-gradient(900px 480px at 92% 0%, rgba(54, 210, 200, 0.16), transparent 60%),
+      var(--bg);
+    color: var(--text);
+    font: 15px/1.6 -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+    padding: 24px 18px 70px;
+    -webkit-font-smoothing: antialiased;
+  }
+  .wrap { max-width: 880px; margin: 0 auto; }
+
+  header { display: flex; align-items: center; gap: 14px; margin-bottom: 18px; }
+  header img { width: 46px; height: 46px; border-radius: 12px; }
+  header h1 { margin: 0; font-size: 21px; letter-spacing: .2px; }
+  header p { margin: 2px 0 0; color: var(--muted); font-size: 13px; }
+
+  /* ---- Tab 栏 ---- */
+  .tabs {
+    display: flex; gap: 8px; flex-wrap: wrap;
+    background: var(--panel); border: 1px solid var(--line);
+    border-radius: 14px; padding: 6px; margin-bottom: 16px;
+    backdrop-filter: blur(6px);
+  }
+  .tab {
+    flex: 1 1 auto; position: relative;
+    display: inline-flex; align-items: center; justify-content: center; gap: 8px;
+    padding: 11px 16px; border: none; border-radius: 10px;
+    background: transparent; color: var(--muted);
+    font: 600 14.5px/1 inherit; cursor: pointer; white-space: nowrap;
+    transition: color .15s ease, background .15s ease;
+  }
+  .tab:hover { color: var(--text); background: var(--panel-2); }
+  .tab[aria-selected="true"] {
+    color: #0a1030;
+    background: linear-gradient(135deg, var(--brand) 0%, var(--brand-2) 130%);
+    box-shadow: 0 8px 22px -14px rgba(124, 140, 255, .95);
+  }
+  .tab .cnt {
+    min-width: 20px; padding: 1px 6px; border-radius: 999px;
+    font-size: 11.5px; font-weight: 700;
+    background: rgba(255, 255, 255, .12); color: inherit;
+  }
+  .tab[aria-selected="true"] .cnt { background: rgba(10, 16, 48, .22); }
+  .panel[hidden] { display: none; }
+
+  .card {
+    background: var(--panel);
+    border: 1px solid var(--line);
+    border-radius: var(--radius);
+    padding: 18px;
+    margin-bottom: 16px;
+    backdrop-filter: blur(6px);
+  }
+  .card h2 {
+    margin: 0 0 14px;
+    font-size: 14px;
+    text-transform: uppercase;
+    letter-spacing: .12em;
+    color: var(--muted);
+    font-weight: 600;
+  }
+
+  .status { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 10px; }
+  .status .item {
+    display: flex; justify-content: space-between; align-items: center; gap: 10px;
+    background: var(--panel-2); border: 1px solid var(--line);
+    border-radius: 12px; padding: 10px 12px; font-size: 13px;
+  }
+  .status .item span { color: var(--muted); }
+  .badge { font-size: 12px; font-weight: 600; padding: 2px 9px; border-radius: 999px; border: 1px solid transparent; }
+  .badge.ok { color: #062b1e; background: var(--ok); }
+  .badge.bad { color: #2b0a0a; background: var(--bad); }
+  .badge.idle { color: var(--muted); border-color: var(--line); background: transparent; }
+
+  .actions { display: flex; flex-wrap: wrap; gap: 10px; }
+  button {
+    font: inherit; font-weight: 600; cursor: pointer;
+    border-radius: 12px; padding: 11px 18px;
+    border: 1px solid var(--line); background: var(--panel-2); color: var(--text);
+    transition: transform .08s ease, filter .15s ease, opacity .15s ease;
+  }
+  button:hover:not(:disabled) { filter: brightness(1.18); }
+  button:active:not(:disabled) { transform: translateY(1px); }
+  button:disabled { opacity: .45; cursor: not-allowed; }
+  button.primary {
+    border: none;
+    background: linear-gradient(135deg, var(--brand) 0%, var(--brand-2) 130%);
+    color: #0a1030;
+    padding: 13px 26px;
+    font-size: 16px;
+    box-shadow: 0 10px 26px -12px rgba(124, 140, 255, .95);
+  }
+  button.ghost { background: transparent; }
+  button.danger { color: #ffd7d7; border-color: rgba(248, 113, 113, .45); }
+
+  label.field { display: block; margin-bottom: 6px; color: var(--muted); font-size: 12.5px; }
+  .keyrow { display: flex; gap: 8px; align-items: center; }
+  input[type=text] {
+    flex: 1; min-width: 0; font: 12.5px/1.5 var(--mono);
+    color: var(--text); background: rgba(0, 0, 0, .3);
+    border: 1px solid var(--line); border-radius: 10px; padding: 10px 12px;
+  }
+  input[type=text]:focus { outline: none; border-color: var(--brand); }
+
+  pre {
+    margin: 0; padding: 14px;
+    background: rgba(0, 0, 0, .35);
+    border: 1px solid var(--line); border-radius: 12px;
+    font: 12.5px/1.65 var(--mono);
+    white-space: pre-wrap; word-break: break-all;
+    max-height: 340px; overflow: auto; color: #d8e2ff;
+  }
+  .kv { display: grid; grid-template-columns: 84px 1fr; gap: 6px 10px; font: 12.5px/1.6 var(--mono); }
+  .kv b { color: var(--muted); font-weight: 500; }
+  .kv span { word-break: break-all; color: #cfe0ff; }
+
+  button.tiny { padding: 6px 11px; font-size: 12.5px; border-radius: 9px; }
+  .devhead {
+    display: flex; flex-wrap: wrap; gap: 10px; justify-content: space-between;
+    align-items: center; margin-bottom: 10px; font-size: 13.5px; color: var(--muted);
+  }
+  .devhead b { color: var(--text); }
+  .devlist { display: flex; flex-direction: column; gap: 8px; margin-bottom: 16px; }
+  .dev {
+    display: flex; flex-wrap: wrap; align-items: center; gap: 10px;
+    background: var(--panel-2); border: 1px solid var(--line);
+    border-radius: 12px; padding: 10px 12px; font-size: 13px;
+  }
+  .dev.on { border-color: rgba(124, 140, 255, .75); background: rgba(124, 140, 255, .12); }
+  .dev input[type=checkbox] { width: 17px; height: 17px; accent-color: var(--brand); cursor: pointer; }
+  .dev .meta { flex: 1; min-width: 180px; }
+  .dev .name { font-weight: 600; }
+  .dev .sub { color: var(--muted); font: 11.5px/1.5 var(--mono); word-break: break-all; }
+  .dev .acts { display: flex; gap: 6px; }
+  .empty { color: var(--muted); font-size: 13px; margin: 0; padding: 10px 2px; }
+  .grid2 { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+  textarea, select {
+    width: 100%; font: inherit; font-size: 14px; color: var(--text);
+    background: rgba(0, 0, 0, .3); border: 1px solid var(--line);
+    border-radius: 10px; padding: 10px 12px; resize: vertical;
+  }
+  textarea:focus, select:focus { outline: none; border-color: var(--brand); }
+  select { font-size: 13.5px; cursor: pointer; }
+  select option { background: #141834; color: var(--text); }
+  .row { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; margin-top: 12px; }
+  @media (max-width: 560px) { .grid2 { grid-template-columns: 1fr; } }
+  .hint { color: var(--muted); font-size: 12.5px; }
+  .warn {
+    display: none; align-items: flex-start; gap: 10px;
+    background: rgba(251, 191, 36, .12); border: 1px solid rgba(251, 191, 36, .4);
+    color: #ffe9b0; border-radius: 12px; padding: 12px 14px; margin-bottom: 16px; font-size: 13.5px;
+  }
+  ol.steps { margin: 0; padding-left: 20px; color: #cfd6ee; font-size: 13.5px; }
+  ol.steps li { margin-bottom: 5px; }
+  ol.steps code, p code, .hint code { font-family: var(--mono); font-size: 12.5px; background: rgba(255,255,255,.08); padding: 1px 6px; border-radius: 6px; }
+
+  .toast {
+    position: fixed; left: 50%; bottom: 26px; transform: translate(-50%, 24px);
+    background: #111634; border: 1px solid var(--line); color: var(--text);
+    padding: 11px 18px; border-radius: 12px; font-size: 13.5px;
+    opacity: 0; pointer-events: none; transition: opacity .2s, transform .2s;
+    box-shadow: 0 18px 40px -18px #000; max-width: min(92vw, 560px); z-index: 9;
+  }
+  .toast.show { opacity: 1; transform: translate(-50%, 0); }
+  .toast.ok { border-color: rgba(52, 211, 153, .6); }
+  .toast.bad { border-color: rgba(248, 113, 113, .65); }
+  .toast.warn { border-color: rgba(251, 191, 36, .65); }
+
+  @media (max-width: 520px) {
+    header h1 { font-size: 18px; }
+    button { padding: 10px 14px; }
+    button.primary { width: 100%; }
+    .tab { padding: 10px 8px; font-size: 13.5px; }
+    .tabs { gap: 4px; }
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <header>
+    <img src="/icons/icon-192.png" alt="logo" />
+    <div>
+      <h1>Web Push 演示</h1>
+      <p>① 注册订阅拿 subscription  ·  ② 选设备推送测试</p>
+    </div>
+  </header>
+
+  <nav class="tabs" role="tablist" aria-label="功能分区">
+    <button class="tab" role="tab" data-tab="register" id="tabBtnRegister" aria-controls="panel-register" aria-selected="true">① 注册订阅</button>
+    <button class="tab" role="tab" data-tab="push" id="tabBtnPush" aria-controls="panel-push" aria-selected="false">
+      ② 推送测试<span class="cnt" id="tabDevCount">0</span>
+    </button>
+    <button class="tab" role="tab" data-tab="help" id="tabBtnHelp" aria-controls="panel-help" aria-selected="false">说明</button>
+  </nav>
+
+  <div class="warn" id="insecureWarn">
+    ⚠️ <div>当前页面不是安全上下文。浏览器只允许在 <code>https</code> 或 <code>http://localhost</code> 下注册 Service Worker / 推送。手机访问请用 HTTPS（先执行 <code>npm run cert</code>，再 <code>HTTPS=1 npm start</code>）。</div>
+  </div>
+
+  <!-- ================= Tab 1: 注册订阅 ================= -->
+  <div class="panel" id="panel-register" role="tabpanel" aria-labelledby="tabBtnRegister">
+
+    <section class="card">
+      <h2>环境状态</h2>
+      <div class="status">
+        <div class="item"><span>浏览器支持</span><i class="badge idle" id="sSupport">检测中</i></div>
+        <div class="item"><span>通知权限</span><i class="badge idle" id="sPermission">检测中</i></div>
+        <div class="item"><span>Service Worker</span><i class="badge idle" id="sSw">检测中</i></div>
+        <div class="item"><span>订阅状态</span><i class="badge idle" id="sSub">检测中</i></div>
+      </div>
+    </section>
+
+    <section class="card">
+      <h2>注册推送</h2>
+      <div class="actions">
+        <button class="primary" id="btnSub">注册推送</button>
+        <button class="ghost" id="btnTest">本地通知测试</button>
+        <button class="ghost danger" id="btnUnsub" disabled>取消订阅</button>
+      </div>
+
+      <div style="margin-top:18px">
+        <label class="field" for="vapidInput">VAPID Public Key（applicationServerKey）</label>
+        <div class="keyrow">
+          <input type="text" id="vapidInput" spellcheck="false" />
+          <button class="ghost" id="btnResetKey">恢复默认</button>
+        </div>
+        <p class="hint" style="margin:8px 0 0">
+          默认已内置 <code>web-push generate-vapid-keys</code> 生成的公钥；私钥只在服务端使用，绝不要放进前端。
+        </p>
+      </div>
+    </section>
+
+    <section class="card">
+      <h2>Subscription 对象</h2>
+      <div class="kv" style="margin-bottom:12px">
+        <b>endpoint</b><span id="endpointText">—</span>
+        <b>p256dh</b><span id="p256dhText">—</span>
+        <b>auth</b><span id="authText">—</span>
+      </div>
+      <pre id="out">// 还没有 subscription，点击「注册推送」后这里会显示订阅对象</pre>
+      <div class="row">
+        <button id="btnCopy" disabled>复制 subscription JSON</button>
+        <button id="btnCopyRaw" disabled>复制 JSON.stringify(subscription)</button>
+        <button class="ghost" id="btnClear">清空显示</button>
+        <button class="ghost" id="btnServer">↻ 刷新设备列表</button>
+        <span class="hint" id="serverCount"></span>
+      </div>
+    </section>
+
+  </div>
+
+  <!-- ================= Tab 2: 推送测试 ================= -->
+  <div class="panel" id="panel-push" role="tabpanel" aria-labelledby="tabBtnPush" hidden>
+
+    <section class="card">
+      <h2>推送消息</h2>
+
+      <div class="devhead">
+        <span>目标设备 <b id="devCount">0</b> 台</span>
+        <div class="row" style="margin:0">
+          <button class="ghost tiny" id="btnAll">全选</button>
+          <button class="ghost tiny" id="btnNone">全不选</button>
+          <button class="ghost tiny" id="btnReload">↻ 刷新</button>
+          <button class="ghost tiny danger" id="btnClearDev">清空全部设备</button>
+        </div>
+      </div>
+      <div class="devlist" id="deviceList">
+        <p class="empty">暂无已注册设备，先去「① 注册订阅」页点击「注册推送」。</p>
+      </div>
+
+      <div class="grid2">
+        <div>
+          <label class="field" for="preset">内容模板</label>
+          <select id="preset"></select>
+        </div>
+        <div>
+          <label class="field" for="pushTitle">标题</label>
+          <input type="text" id="pushTitle" placeholder="通知标题" />
+        </div>
+      </div>
+
+      <div style="margin-top:12px">
+        <label class="field" for="pushBody">内容</label>
+        <textarea id="pushBody" rows="3" placeholder="通知内容"></textarea>
+      </div>
+
+      <div class="grid2" style="margin-top:12px">
+        <div>
+          <label class="field" for="pushUrl">点击通知跳转（可选）</label>
+          <input type="text" id="pushUrl" placeholder="/" />
+        </div>
+        <div>
+          <label class="field" for="pushTtl">TTL 秒（离线保留时长）</label>
+          <input type="text" id="pushTtl" placeholder="86400" />
+        </div>
+      </div>
+
+      <div class="row">
+        <button class="primary" id="btnSend">推送给选中设备</button>
+        <button id="btnSendAll">推送给所有设备</button>
+        <span class="hint" id="pushHint"></span>
+      </div>
+
+      <pre id="pushResult" style="margin-top:14px">// 发送结果会显示在这里</pre>
+    </section>
+
+    <section class="card">
+      <h2>最近收到的推送</h2>
+      <pre id="lastPush">// 服务端发 push 后，页面会在这里显示 payload（前提：页面处于打开状态）</pre>
+    </section>
+
+  </div>
+
+  <!-- ================= Tab 3: 说明 ================= -->
+  <div class="panel" id="panel-help" role="tabpanel" aria-labelledby="tabBtnHelp" hidden>
+
+    <section class="card">
+      <h2>使用说明</h2>
+      <ol class="steps">
+        <li>浏览器打开 <code id="urlHint">http://localhost:25259</code>，在「① 注册订阅」页点击 <b>注册推送</b>，弹窗中点击「允许」。</li>
+        <li>页面自动生成 <code>subscription</code> 并复制到剪贴板，同时 POST 到 <code>/api/subscribe</code> 落盘 <code>subscriptions.json</code>。</li>
+        <li>切到「② 推送测试」页，勾选目标设备 → 选内容模板 → 点发送；结果逐台显示 <code>✓ HTTP 201</code> 或失败原因。</li>
+        <li>手机上要用 HTTPS：<code>npm run cert</code> → <code>HTTPS=1 npm start</code> → 手机访问局域网地址（首次需信任自签证书）。</li>
+        <li>iOS 必须先把网页「添加到主屏幕」以 PWA 方式打开，才能拿到 Web Push 权限（iOS 16.4+）。</li>
+      </ol>
+      <p class="hint" style="margin-top:12px">
+        文字版全链路分析（注册/推送各调了哪些 API、真实请求头、CLI 用法）见仓库
+        <code>docs/web-push-api-analysis.md</code>。
+      </p>
+    </section>
+
+  </div>
+
+</div>
+
+<div class="toast" id="toast"></div>
+<script src="/app.js"></script>
+</body>
+</html>

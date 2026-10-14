@@ -1,0 +1,19 @@
+{
+  "name": "web-push-demo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Web Push 注册订阅 + 定向推送演示服务",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "cert": "mkdir -p certs && openssl req -x509 -newkey rsa:2048 -nodes -keyout certs/server.key -out certs/server.crt -days 3650 -subj '/CN=localhost' -addext 'subjectAltName=DNS:localhost,IP:127.0.0.1' && echo 'certs/server.crt + certs/server.key 已生成'",
+    "send": "node scripts/send.js",
+    "raw": "node scripts/raw-request.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "web-push": "^3.6.7"
+  }
+}

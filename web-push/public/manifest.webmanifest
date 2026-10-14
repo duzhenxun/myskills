@@ -1,0 +1,15 @@
+{
+  "name": "Web Push 注册演示",
+  "short_name": "WebPush",
+  "description": "Web Push 订阅注册与 subscription 导出演示",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0f1225",
+  "theme_color": "#5a6af7",
+  "icons": [
+    { "src": "/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

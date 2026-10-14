@@ -1,0 +1,13 @@
+# 依赖
+node_modules/
+
+# 运行时生成：设备订阅与推送结果（含端点/密钥，不要提交）
+subscriptions.json
+server.log
+
+# 本地自签证书
+certs/
+
+# 工具产物
+.DS_Store
+.playwright-cli/
