@@ -337,6 +337,8 @@ codex-deepseek-setup/
 ├── install.sh                 # 安装（幂等；不带参数 = 同一套引导问答）
 ├── uninstall.sh               # 卸载 / 回滚
 ├── README.md                  # 本文
+├── make-release.sh            # 只在本仓库：跑一下生成 dist/*.tgz + *.zip
+├── .gitignore                 # 只在本仓库：忽略 dist/
 └── files/
     ├── adapter.py             # 本地适配器（透传 + 落盘 + /__ui 实时网页）
     ├── captures.py            # 命令行日志查看器（表格 / --show / --grep / --errors）
@@ -345,6 +347,22 @@ codex-deepseek-setup/
     ├── models.json            # 模型目录（slug 会按 --model 改写）
     └── setup_config.py        # config.toml / 目录的文本级改写（保留注释与顺序）
 ```
+
+### 打个包发给别人
+
+```bash
+./make-release.sh                # -> dist/codex-deepseek-setup.tgz + .zip
+./make-release.sh --tgz-only     # 只要 tgz
+```
+
+只打上面那几个文件（`make-release.sh`、`dist/`、`.gitignore` 不进包）。脚本会做几件事：
+
+- 扫一遍待打包内容，**发现像 key 的字符串就拒绝出包**（`keys.json` / `settings.json` 是安装时才生成的，永远不该进包）；
+- 解包后重跑 `bash -n` + `py_compile` + 检查执行位，确认包是完整可跑的；
+- zip 用 python3 生成，保证中文文件名带 UTF-8 标志（macOS 自带的 Info-ZIP 3.0 不带，Windows 解出来会乱码）；
+- 打印 sha256 和文件清单。
+
+对方拿到后：`tar xzf codex-deepseek-setup.tgz && cd codex-deepseek-setup && open 一键安装.command`（Windows/微信/浏览器下载会加 quarantine，见第零节）。
 
 适配器可用的环境变量（一般不用动）：`CODEX_ADAPTER_PORT`、`CODEX_ADAPTER_UPSTREAM`、`CODEX_ADAPTER_MIN_MAX_OUTPUT_TOKENS`（默认 32768）、`CODEX_ADAPTER_TIMEOUT`（默认 900s）、`CODEX_ADAPTER_KEYS`、`CODEX_ADAPTER_LOG`、`CODEX_ADAPTER_SETTINGS`，以及上面那组 `CODEX_ADAPTER_CAPTURE*`。
 

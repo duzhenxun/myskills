@@ -1,0 +1,4 @@
+# Build outputs of make-release.sh. Delete this file if you would rather commit
+# the archives (they are small, ~60 KiB each).
+dist/
+.DS_Store
