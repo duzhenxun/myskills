@@ -1,0 +1,40 @@
+{
+  "name": "codex-deepseek-setup",
+  "version": "1.0.1",
+  "description": "把 Codex CLI 接到 DeepSeek 网关：本地适配器 + launchd/systemd 常驻服务 + 实时请求/回复网页，一条命令安装，一条命令还原。",
+  "bin": {
+    "codex-deepseek-setup": "bin/cli.mjs",
+    "codex-deepseek": "bin/cli.mjs"
+  },
+  "type": "module",
+  "files": [
+    "bin/",
+    "install.sh",
+    "uninstall.sh",
+    "files/adapter.py",
+    "files/captures.py",
+    "files/setup_config.py",
+    "files/models.json"
+  ],
+  "engines": {
+    "node": ">=16"
+  },
+  "os": [
+    "darwin",
+    "linux"
+  ],
+  "scripts": {
+    "test": "bash -n install.sh && bash -n uninstall.sh && node --check bin/cli.mjs"
+  },
+  "keywords": [
+    "codex",
+    "deepseek",
+    "openai",
+    "adapter",
+    "proxy",
+    "launchd",
+    "systemd",
+    "npx"
+  ],
+  "license": "UNLICENSED"
+}

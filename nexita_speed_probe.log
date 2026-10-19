@@ -1,0 +1,62 @@
+探测 28 个模型 (并发2, 重试2, 超时90s, prompt: 数到200, max_tokens=2048)
+----------------------------------------------------------------------------------------------------------------------
+  deepseek-v4-flash                        [deepseek] ttft正文= 6.70s 首token= 5.87s tok/s=177.44 总 9.44s 正文486tok 推理0tok 
+  deepseek-v4-flash-0731                   [deepseek] ttft正文= 6.41s 首token= 1.23s tok/s=299.08 总 9.89s 正文1042tok 推理0tok 
+  deepseek-v4-pro-0813                     [deepseek] ttft正文= 7.50s 首token= 1.38s tok/s=275.89 总11.03s 正文975tok 推理0tok 
+  deepseek-v4-pro                          [deepseek] ttft正文= 9.13s 首token= 1.17s tok/s=301.37 总12.79s 正文1103tok 推理0tok 
+  deepseek-v4.1-flash                      [deepseek] ttft正文= 3.48s 首token= 1.68s tok/s=951.2 总 4.48s 正文955tok 推理0tok 
+  deepseek/deepseek-flash                  [deepseek] ttft正文= 3.39s 首token= 1.88s tok/s=889.54 总 4.42s 正文910tok 推理0tok 
+  deepseek/deepseek-v4-flash-20260731      [deepseek] ttft正文= 6.08s 首token= 4.26s tok/s=126.76 总13.66s 正文961tok 推理0tok 
+  deepseek/deepseek-v4-pro-0813            [deepseek] ttft正文=27.20s 首token=22.59s tok/s=90.71 总39.94s 正文1156tok 推理0tok 
+  gpt-5.2                                  [codex   ] ERROR   HTTP 400: The 'gpt-5.2' model is not supported when using Codex with a (x2次)
+  gpt-5.2-2025-12-11                       [codex   ] ERROR   HTTP 400: The 'gpt-5.2' model is not supported when using Codex with a (x2次)
+  gpt-5.2-chat-latest                      [codex   ] ERROR   HTTP 400: The 'gpt-5.2' model is not supported when using Codex with a (x2次)
+  gpt-5.2-pro                              [codex   ] ERROR   HTTP 400: The 'gpt-5.2' model is not supported when using Codex with a (x2次)
+  gpt-5.2-pro-2025-12-11                   [codex   ] ERROR   HTTP 400: The 'gpt-5.2' model is not supported when using Codex with a (x2次)
+  gpt-5.3-codex-spark                      [codex   ] ERROR   HTTP 400: The 'gpt-5.3-codex-spark' model is not supported when using  (x2次)
+  gpt-5.4                                  [codex   ] ERROR   HTTP 429: All available accounts are currently rate-limited. Please re (x2次)
+  gpt-5.4-2026-03-05                       [codex   ] ERROR   HTTP 400: The 'gpt-5.4' model is not supported when using Codex with a (x2次)
+  gpt-5.4-mini                             [codex   ] ERROR   HTTP 429: All available accounts are currently rate-limited. Please re (x2次)
+  gpt-5.5                                  [codex   ] ERROR   HTTP 429: All available accounts are currently rate-limited. Please re (x2次)
+  deepseek/deepseek-v4.1-flash             [deepseek] TIMEOUT timeout > 90s: The read operation timed out (x2次)
+  gpt-5.6                                  [codex   ] ttft正文= 8.84s 首token= 8.84s tok/s=60.38 总15.54s 正文431tok 推理26tok (x2次)
+  gpt-5.6-luna                             [codex   ] EMPTY   no content tokens received (x2次)
+  gpt-5.6-sol                              [codex   ] EMPTY   no content tokens received (x2次)
+  gpt-5.6-terra                            [codex   ] ttft正文=11.84s 首token=11.84s tok/s=30.82 总24.98s 正文428tok 推理23tok 
+  gpt-6-astra                              [codex   ] EMPTY   no content tokens received (x2次)
+  gpt-6                                    [codex   ] EMPTY   no content tokens received (x2次)
+  gpt-6-luna                               [codex   ] EMPTY   no content tokens received (x2次)
+  gpt-6-sol                                [codex   ] ttft正文=20.62s 首token=20.62s tok/s=28.05 总35.06s 正文430tok 推理25tok 
+  gpt-6.1-sol                              [codex   ] ttft正文=23.62s 首token=23.62s tok/s=32.53 总36.07s 正文423tok 推理18tok (x2次)
+
+======================================================================================================================
+排行 (按正文生成速度 tok/s):
+   1. deepseek-v4.1-flash                      tok/s= 951.2 ttft正文=3.475s 总=4.479s
+   2. deepseek/deepseek-flash                  tok/s=889.54 ttft正文=3.392s 总=4.415s
+   3. deepseek-v4-pro                          tok/s=301.37 ttft正文=9.127s 总=12.787s
+   4. deepseek-v4-flash-0731                   tok/s=299.08 ttft正文=6.408s 总=9.893s
+   5. deepseek-v4-pro-0813                     tok/s=275.89 ttft正文=7.495s 总=11.029s
+   6. deepseek-v4-flash                        tok/s=177.44 ttft正文=6.704s 总=9.443s
+   7. deepseek/deepseek-v4-flash-20260731      tok/s=126.76 ttft正文=6.078s 总=13.659s
+   8. deepseek/deepseek-v4-pro-0813            tok/s= 90.71 ttft正文=27.196s 总=39.939s
+   9. gpt-5.6                                  tok/s= 60.38 ttft正文=8.836s 总=15.544s
+  10. gpt-6.1-sol                              tok/s= 32.53 ttft正文=23.619s 总=36.068s
+  11. gpt-5.6-terra                            tok/s= 30.82 ttft正文=11.843s 总=24.981s
+  12. gpt-6-sol                                tok/s= 28.05 ttft正文=20.618s 总=35.058s
+
+排行 (按首正文 token 延迟 TTFT):
+   1. deepseek/deepseek-flash                  ttft正文=3.392s tok/s=889.54 总=4.415s
+   2. deepseek-v4.1-flash                      ttft正文=3.475s tok/s=951.2 总=4.479s
+   3. deepseek/deepseek-v4-flash-20260731      ttft正文=6.078s tok/s=126.76 总=13.659s
+   4. deepseek-v4-flash-0731                   ttft正文=6.408s tok/s=299.08 总=9.893s
+   5. deepseek-v4-flash                        ttft正文=6.704s tok/s=177.44 总=9.443s
+   6. deepseek-v4-pro-0813                     ttft正文=7.495s tok/s=275.89 总=11.029s
+   7. gpt-5.6                                  ttft正文=8.836s tok/s=60.38 总=15.544s
+   8. deepseek-v4-pro                          ttft正文=9.127s tok/s=301.37 总=12.787s
+   9. gpt-5.6-terra                            ttft正文=11.843s tok/s=30.82 总=24.981s
+  10. gpt-6-sol                                ttft正文=20.618s tok/s=28.05 总=35.058s
+  11. gpt-6.1-sol                              ttft正文=23.619s tok/s=32.53 总=36.068s
+  12. deepseek/deepseek-v4-pro-0813            ttft正文=27.196s tok/s=90.71 总=39.939s
+
+汇总: OK 12 / TIMEOUT 1 / 失败 15 / 共 28
+报告已写入: /Users/dds/data/ai/work/nexita_speed_report.json
