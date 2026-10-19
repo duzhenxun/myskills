@@ -11,6 +11,9 @@ open 一键安装.command          # macOS；Linux 用 bash 一键安装.command
 ./install.sh --key sk-你的网关key
 ```
 
+已经有 Node 的同事可以直接 `npx codex-deepseek-setup`（见第十二节，同一个东西的 npm 通道），
+不用解压也不用管路径。
+
 装完重启一下 Codex 桌面端（如果开着），就能用了。想还原：双击 `一键卸载.command`。
 
 ---
@@ -338,7 +341,9 @@ codex-deepseek-setup/
 ├── uninstall.sh               # 卸载 / 回滚
 ├── README.md                  # 本文
 ├── make-release.sh            # 只在本仓库：跑一下生成 dist/*.tgz + *.zip
-├── .gitignore                 # 只在本仓库：忽略 dist/
+├── package.json               # npm 通道：bin / engines / files 白名单
+├── bin/cli.mjs                # npm 通道：npx 子命令薄壳（见第十二节）
+├── .gitignore                 # 只在本仓库：忽略 dist/、*.tgz、node_modules/
 └── files/
     ├── adapter.py             # 本地适配器（透传 + 落盘 + /__ui 实时网页）
     ├── captures.py            # 命令行日志查看器（表格 / --show / --grep / --errors）
@@ -362,6 +367,10 @@ codex-deepseek-setup/
 - zip 用 python3 生成，保证中文文件名带 UTF-8 标志（macOS 自带的 Info-ZIP 3.0 不带，Windows 解出来会乱码）；
 - 打印 sha256 和文件清单。
 
+注意它打的是**双击那条通道**（含 `一键*.command`），所以包里没有 `package.json` /
+`bin/`；npm 通道走 `npm publish`，但发布前 `make-release.sh` 会顺手用
+`npm pack --dry-run` 检查 `package.json` 的 `files` 白名单是否把运行时文件带全了。
+
 对方拿到后：`tar xzf codex-deepseek-setup.tgz && cd codex-deepseek-setup && open 一键安装.command`（Windows/微信/浏览器下载会加 quarantine，见第零节）。
 
 适配器可用的环境变量（一般不用动）：`CODEX_ADAPTER_PORT`、`CODEX_ADAPTER_UPSTREAM`、`CODEX_ADAPTER_MIN_MAX_OUTPUT_TOKENS`（默认 32768）、`CODEX_ADAPTER_TIMEOUT`（默认 900s）、`CODEX_ADAPTER_KEYS`、`CODEX_ADAPTER_LOG`、`CODEX_ADAPTER_SETTINGS`，以及上面那组 `CODEX_ADAPTER_CAPTURE*`。
@@ -371,3 +380,42 @@ codex-deepseek-setup/
 - 目录只有两个 deepseek 条目，因此模型选择器里只有它们；要加别的模型，改 `--model-alt` 或自己编辑 `~/.codex/models.json`。
 - 适配器是**本机 127.0.0.1** 服务，不对外暴露；key 只存在 `~/.codex/deepseek-adapter/keys.json`（600）和 `config.toml`（600）里。
 - Claude Code（原生 Anthropic 协议、自己传 `max_tokens`）不受影响，不用这个适配器。
+
+## 十二、用 npx 装（有 Node 的同事）
+
+同一个东西也做成了 npm 包，适合已经有 Node 的人——不解压、不管路径：
+
+```bash
+npx codex-deepseek-setup            # 装：问一个 key，其余回车
+npx codex-deepseek-setup status     # 目录 / 服务 / 进程 / 健康 / 端口 / key（打码）
+npx codex-deepseek-setup uninstall  # 停服务 + 还原 config.toml + 删适配器
+npx codex-deepseek-setup ui         # 打开实时请求·回复网页
+npx codex-deepseek-setup logs -n 50 # 浏览抓取到的请求
+```
+
+- `del` / `rm` / `remove` 都是 `uninstall` 的别名；加 `-y` / `--yes` 跳过确认。
+- `install` / `uninstall` 认的其它参数**原样转给底层脚本**，例如
+  `npx codex-deepseek-setup install --port 9000 --model deepseek-v4-pro --repoint-provider OpenAI`；
+  `npx codex-deepseek-setup install --help` 看全量参数。
+- **不会重复问 key**：检测到已装时默认沿用 `keys.json` 里的 key 重装/修复（回车即可），
+  并保留你之前 repoint 过的 provider。
+- 名字我查过了，`codex-deepseek-setup` 和 `codex-deepseek` 都没被占用（两个名字都能用）。发布：
+
+```bash
+npm login && npm publish                      # 公网 registry
+# 或先在本地验证（注意：npx 不认 tarball 路径，会把路径当命令执行，必须用 npm exec）
+npm pack
+npm exec --yes --package=./codex-deepseek-setup-1.0.0.tgz -- codex-deepseek-setup status
+```
+
+实现上是**薄壳**：`bin/cli.mjs` 只负责子命令分发、状态探查、已装检测，真正干活的仍然是
+`install.sh` / `uninstall.sh` / `files/*.py`（那部分已经对着 launchd、systemd 和网关验过）。
+两个和 npx 有关的点：
+
+- **npx 缓存被清掉不影响已装好的服务**：安装时就把适配器拷到 `~/.codex/deepseek-adapter/`，
+  launchd/systemd 只运行那份拷贝，npx 只是“把文件送过去”的通道。
+- **为什么没有改成全 Node**：现在 plist 里写的是 `/usr/bin/python3`（macOS 自带、路径稳定）。
+  换成 Node 就得写 `process.execPath`，而 nvm 装出来的 Node 路径带版本号
+  （`~/.nvm/versions/node/vXX/bin/node`），升级 Node 就失效，而 `/usr/bin/node` 这类
+  稳定路径在 macOS 上并不存在。另外 `files/adapter.py` 2030 行里含 SSE 透传、落盘和整个
+  `/__ui` 页面，重写风险远大于收益。

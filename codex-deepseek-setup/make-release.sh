@@ -145,6 +145,33 @@ print("    zip: %d entries, non-ASCII names UTF-8 flagged" % len(infos))
 PY
 fi
 
+# ------------------------------------------- npm channel must carry the runtime
+# The npm package is the other distribution channel (package.json `files`), and
+# a forgotten entry there fails only on a user's machine. npm pack --dry-run is
+# the accurate check, so run it against package.json.
+if command -v npm >/dev/null 2>&1 && command -v node >/dev/null 2>&1; then
+  ( cd "$VERIFY" && npm pack --dry-run --json "$SELF" ) > "$VERIFY/npm-pack.json" 2>/dev/null || true
+  if [ -s "$VERIFY/npm-pack.json" ]; then
+    node -e '
+      const fs = require("fs");
+      const data = JSON.parse(fs.readFileSync(process.argv[1], "utf8"));
+      const files = (((data || [])[0] || {}).files || []).map((f) => f.path);
+      const need = [
+        "bin/cli.mjs", "install.sh", "uninstall.sh", "files/adapter.py",
+        "files/captures.py", "files/models.json", "files/setup_config.py",
+      ];
+      const missing = need.filter((n) => !files.includes(n));
+      if (missing.length) {
+        console.error("!! npm package (package.json `files`) is missing: " + missing.join(", "));
+        process.exit(1);
+      }
+      console.log("    npm: " + files.length + " files, runtime complete");
+    ' "$VERIFY/npm-pack.json"
+  else
+    echo "    npm: skipped (npm pack produced no output)"
+  fi
+fi
+
 # ------------------------------------------------------------------- report
 sum() {
   if command -v shasum >/dev/null 2>&1; then shasum -a 256 "$1"
@@ -171,4 +198,8 @@ cat <<EOF
   the first double-click is blocked ("Apple 无法检查…"). Tell them to
   right-click the .command file -> 打开 -> 打开, or run once:
       xattr -dr com.apple.quarantine .
+
+  With Node available there is also the npm channel (published from
+  package.json, not from this tgz):
+      npx $NAME status
 EOF

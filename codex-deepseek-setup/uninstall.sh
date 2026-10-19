@@ -51,11 +51,19 @@ if [ "$KEEP_CONFIG" = "0" ]; then
   if [ -n "$BACKUP" ]; then
     cp "$BACKUP" "$CONFIG"
     echo "    config.toml restored from $(basename "$BACKUP")"
-  elif [ -f "$CONFIG" ]; then
+  fi
+
+  # Run the cleanup on whatever we ended up with, backup or not. A backup taken
+  # by a *re*-install already contains the adapter settings (install.sh backs up
+  # on every run), so restoring alone is not enough to make uninstall complete.
+  # This pass is idempotent and only removes our own artifacts.
+  if [ -f "$CONFIG" ]; then
     python3 - "$CONFIG" <<'PY'
 import re, sys
+
 path = sys.argv[1]
 lines = open(path, encoding="utf-8").read().split("\n")
+changed = False
 
 # 1. drop the managed block + the tagged-backup comment, restore disabled lines
 out, inside = [], False
@@ -63,6 +71,7 @@ for line in lines:
     s = line.strip()
     if s.startswith("# >>> codex-deepseek: managed block"):
         inside = True
+        changed = True
         continue
     if inside:
         if s.startswith("# <<< codex-deepseek: end managed block"):
@@ -70,13 +79,14 @@ for line in lines:
         continue
     if s.startswith("#[codex-deepseek:disabled] "):
         line = line.replace("#[codex-deepseek:disabled] ", "", 1)
+        changed = True
     if line.strip().startswith("# --- previous settings, tagged by install.sh"):
+        changed = True
         continue
     out.append(line)
 
-# 2. drop [model_providers.*] tables that point at the local adapter. Without a
-#    backup (config.toml did not exist before install) step 1 alone would leave
-#    them behind, including the copied bearer token.
+# 2. drop [model_providers.*] tables that point at the local adapter, so the
+#    copied bearer token does not survive an uninstall.
 LOOPBACK = re.compile(r"^\s*base_url\s*=\s*[\"']https?://(127\.0\.0\.1|localhost)(:\d+)?/?[\"']\s*$")
 kept, dropped, i = [], [], 0
 while i < len(out):
@@ -88,6 +98,7 @@ while i < len(out):
         table = out[i:j]
         if any(LOOPBACK.match(t) for t in table):
             dropped.append(m.group(1))
+            changed = True
             i = j
             while kept and not kept[-1].strip():
                 kept.pop()
@@ -100,12 +111,13 @@ while i < len(out):
     kept.append(out[i])
     i += 1
 
-body = "\n".join(kept).rstrip("\n")
-open(path, "w", encoding="utf-8").write(body + "\n" if body else "")
-msg = "    managed block removed from config.toml (no backup found)"
-if dropped:
-    msg += "; dropped provider(s): " + ", ".join(dropped)
-print(msg)
+if changed:
+    body = "\n".join(kept).rstrip("\n")
+    open(path, "w", encoding="utf-8").write(body + "\n" if body else "")
+    msg = "    config.toml cleaned of adapter settings"
+    if dropped:
+        msg += "; dropped provider(s): " + ", ".join(dropped)
+    print(msg)
 PY
   fi
 fi
